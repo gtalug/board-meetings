@@ -54,6 +54,11 @@ It's possible that we need to prevent Yahoo! subscribers from sending messages t
 
 *** Git Hosting
 
+- This isn't merely about hosting Git repos; it is about using those Git repos to store
+  - Web site(s) :: /e.g./ - the main front page of [[gtalug.org]]
+  - Board Notes :: /e.g./ - this very set of notes, which had been getting captured in a Trac repository
+  - Replacement of Wiki infrastructure :: This is rather more debatable (/e.g./ We should have a debate about this!!!), but this may be a better way of capturing material (even of somewhat adhoc nature) that we used to capture in a MediaWiki instance.
+
 - GitHub is okay for now but we need to move to a GTALUG owned host (hopefully when we get a new server).
 
 - Multiple people should be backing up all the major repos
@@ -62,7 +67,7 @@ It's possible that we need to prevent Yahoo! subscribers from sending messages t
 
 - Chris has some [[https://github.com/cbbrowne/slony-backups/tree/master/scripts][scripts he uses to manage Slony web site backups]] which actually does include encrypting (using GPG) some material (/e.g./ - lists of subscribers) that should be kept private.
 
-- Chris observes ... :: Managing this in a Git repo using the GitHub web interface is surprisingly usable.  This /is/ a good alternative to Trac
+- Chris observes ... :: Managing this in a Git repo using the GitHub web interface is surprisingly usable.  This /is/ a good alternative to Trac for capturing board meeting notes.
 
 **** gitolite
 
