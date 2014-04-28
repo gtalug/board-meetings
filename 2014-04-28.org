@@ -4,11 +4,9 @@
 
 - May ::  Movie Magic: The Art of Visual Effects with Ahmed Shehata 
 
-- June :: TBA?
+- June :: TBA
 
-- July :: TBA?
-
-- Idea from last month: talk on SystemD
+- July :: TBA
 
 ** Linux In The Park
 
@@ -25,8 +23,6 @@
 **** Main web site
 
 Seems to be working fine
-
-Open issues with the GTALUG web site: [[https://github.com/gtalug/website/issues?state=open][Open Issues with GTALUG.org]]
 
 **** Mediawiki
 
@@ -51,6 +47,32 @@ Need to understand what the status is of what is currently running, and where it
 It's possible that we need to prevent Yahoo! subscribers from sending messages to the list.
 [[http://emailskinny.com/2014/04/07/yahoo-mail-brings-the-pain-with-dmarc-policy-change/][Yahoo Mail Brings the Pain with DMARC Policy Change]]
 
+
+*** Git Host
+
+GitHub is okay for now but we need to move to a GTALUG owned host (hopefully when we get a new server).
+
+A couple of people should at least be backing up all the major repos.
+
+**** gitolite
+
+<http://gitolite.com/gitolite/>
+
+Nothing cool just access to Git repos though SSH and GitWeb.
+
+Easiest to maintaine (`apt-get install gitolite` and your done)
+
+Harder to use (to edit a Git repo it requires a SSH key)
+
+**** GitLab
+
+<https://www.gitlab.com/>
+
+Enterprisey (has LDAP and A.D. support)
+
+Easier to use (has a similar feature set to GitHub)
+
+Harder to maintaine (looks like best to run in a Docker instances and has way to many depedences)
 
 ** CAG Report
 
