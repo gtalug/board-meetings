@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<ol class="breadcrumb">
+	<li><a href="/">Home</a></li>
+	<li class="active">{{ page.title }}</li>
+</ol>
+
+<div class="post">
+	{{ content }}
+</div>
+
+<ul class="pager">
+	<li class="previous {% if page.previous == nil %}disabled{% endif %}">
+		<a href="{{ page.previous.url }}" title="{{ page.previous.title }}">
+			&larr; Older
+		</a>
+	</li>
+	
+	<li class="next {% if page.next == nil %}disabled{% endif %}">
+		<a href="{{ page.next.url }}" title="{{ page.next.title }}">
+			Newer &rarr;
+		</a>
+	</li>
+</ul>
