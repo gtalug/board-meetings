@@ -67,7 +67,7 @@ It's possible that we need to prevent Yahoo! subscribers from sending messages t
 
 - Chris has some [[https://github.com/cbbrowne/slony-backups/tree/master/scripts][scripts he uses to manage Slony web site backups]] which actually does include encrypting (using GPG) some material (/e.g./ - lists of subscribers) that should be kept private.
 
-- Chris observes ... :: Managing this in a Git repo using the GitHub web interface is surprisingly usable.  This /is/ a good alternative to Trac for capturing board meeting notes.
+- Chris observes ... :: Managing this in a Git repo using the GitHub web interface is surprisingly usable.  This /is/ a good alternative to Trac for capturing board meeting notes.  I'm using [[http://orgmode.org/][Org Mode]], which I really like to use with Emacs.  It plays perfectly well with GitHub, as there are [[http://orgmode.org/worg/org-tools/index.html][various tools to manipulate Org data]] including some Ruby-based stuff that is used by GitHub.
 
 **** gitolite
 
