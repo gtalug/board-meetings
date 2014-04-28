@@ -6,7 +6,13 @@
 
 - June :: TBA
 
-- July :: TBA
+- July :: Hopefully Drew and Scott on ~systemd~
+
+- Scott wants to step down from the coordinator position
+
+- Coordinator needs to be at meetings :: Good idea to solicit from the list
+
+- SystemD talk was solicited at the last meeting, to be done by Scott and Drew
 
 ** Ryerson Logistics
 
