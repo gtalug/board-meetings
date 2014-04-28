@@ -54,19 +54,21 @@ GitHub is okay for now but we need to move to a GTALUG owned host (hopefully whe
 
 A couple of people should at least be backing up all the major repos.
 
+For material that is intended to be public, such as web site, it should be fine to use GitHub; for private material, that is unsuitable.
+
 **** gitolite
 
-<http://gitolite.com/gitolite/>
+[[http://gitolite.com/gitolite/][gitolite]]
 
 Nothing cool just access to Git repos though SSH and GitWeb.
 
-Easiest to maintaine (~apt-get install gitolite~ and your done)
+Easiest to maintaine (~apt-get install gitolite~ and you're done)
 
 Harder to use (to edit a Git repo it requires a SSH key)
 
 **** GitLab
 
-<https://www.gitlab.com/>
+[[https://www.gitlab.com/]]
 
 Enterprisey (has LDAP and A.D. support)
 
@@ -80,4 +82,4 @@ Harder to maintaine (looks like best to run in a Docker instances and has way to
 
 Chris: _I don't quite recall what was the state of things last month._
 
-Myles: _I recall Bill saying that we just needed to submit the bylaws again (no changes nessaray)._
+Myles: _I recall Bill saying that we just needed to submit the bylaws again (no changes necessary)._
