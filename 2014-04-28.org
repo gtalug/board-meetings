@@ -24,6 +24,8 @@
 
 Seems to be working fine
 
+Open issues with the GTALUG web site: <https://github.com/gtalug/website/issues?state=open>.
+
 **** Mediawiki
 
 Offline.
