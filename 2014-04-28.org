@@ -8,6 +8,10 @@
 
 - July :: TBA
 
+** Ryerson Logistics
+
+The new room seems to be working fine thus far.
+
 ** Linux In The Park
 
    It is about time to start planning this.
