@@ -11,3 +11,29 @@
 ** Linux In The Park
 
    It is about time to start planning this.
+   
+   - When :: TBD
+   - Where :: The park off Dufferin from last year worked out fairly well
+   - Publicity :: Need to start publicity much earlier
+   
+** Systems
+
+*** Web Sites
+
+**** Main web site
+
+Seems to be working fine
+
+**** Mediawiki
+
+Offline.
+
+We were planning to put a ~wget~ of it into a git repo to at least have a static copy available.
+
+**** Trac
+
+Offline.
+
+That's where board meeting notes are, and, it being offline, we haven't got notes terribly readily available.
+
+A ~wget~ of it would be _super_ useful.
