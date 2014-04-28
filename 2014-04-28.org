@@ -48,33 +48,35 @@ It's possible that we need to prevent Yahoo! subscribers from sending messages t
 [[http://emailskinny.com/2014/04/07/yahoo-mail-brings-the-pain-with-dmarc-policy-change/][Yahoo Mail Brings the Pain with DMARC Policy Change]]
 
 
-*** Git Host
+*** Git Hosting
 
-GitHub is okay for now but we need to move to a GTALUG owned host (hopefully when we get a new server).
+- GitHub is okay for now but we need to move to a GTALUG owned host (hopefully when we get a new server).
 
-A couple of people should at least be backing up all the major repos.
+- A couple of people should at least be backing up all the major repos.
 
-For material that is intended to be public, such as web site, it should be fine to use GitHub; for private material, that is unsuitable.
+- For material that is intended to be public, such as web site, it should be fine to use GitHub; for private material, that is unsuitable.
+
+- Chris has some [[https://github.com/cbbrowne/slony-backups/tree/master/scripts][scripts he uses to manage Slony web site backups]] which actually does include encrypting (using GPG) some material (/e.g./ - lists of subscribers) that should be kept private.
 
 **** gitolite
 
 [[http://gitolite.com/gitolite/][gitolite]]
 
-Nothing cool just access to Git repos though SSH and GitWeb.
+- Nothing cool, just access to Git repos though SSH and GitWeb.
 
-Easiest to maintaine (~apt-get install gitolite~ and you're done)
+- Easiest to maintain  :: ~apt-get install gitolite~ and you're done
 
-Harder to use (to edit a Git repo it requires a SSH key)
+- Harder to use :: To edit a Git repo it requires a SSH key
 
 **** GitLab
 
 [[https://www.gitlab.com/]]
 
-Enterprisey (has LDAP and A.D. support)
+- Enterprisey :: LDAP and A.D. support
 
-Easier to use (has a similar feature set to GitHub)
+- Easier to use (vs ~gitolite~) :: has a similar feature set to GitHub
 
-Harder to maintaine (looks like best to run in a Docker instances and has way to many depedences)
+- Harder to maintain :: looks like best to run in a Docker instances and has way too many dependencies
 
 ** CAG Report
 
