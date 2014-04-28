@@ -12,9 +12,9 @@
 
    It is about time to start planning this.
    
-   - When :: TBD
+   - When :: TBD.  Perhaps mid-August.
    - Where :: The park off Dufferin from last year worked out fairly well
-   - Publicity :: Need to start publicity much earlier
+   - Publicity :: Need to start publicity much earlier than last year
    
 ** Systems
 
@@ -23,8 +23,6 @@
 **** Main web site
 
 Seems to be working fine
-
-Open issues with the GTALUG web site: <https://github.com/gtalug/website/issues?state=open>.
 
 **** Mediawiki
 
@@ -39,3 +37,19 @@ Offline.
 That's where board meeting notes are, and, it being offline, we haven't got notes terribly readily available.
 
 A ~wget~ of it would be _super_ useful.
+
+*** Mailing Lists
+
+Need to understand what the status is of what is currently running, and where it's running.
+
+**** Yahoo!
+
+It's possible that we need to prevent Yahoo! subscribers from sending messages to the list.
+[[http://emailskinny.com/2014/04/07/yahoo-mail-brings-the-pain-with-dmarc-policy-change/][Yahoo Mail Brings the Pain with DMARC Policy Change]]
+
+
+** CAG Report
+
+** Bylaw Revisions
+
+I don't quite recall what was the state of things last month.
