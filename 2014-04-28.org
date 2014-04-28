@@ -60,7 +60,7 @@ A couple of people should at least be backing up all the major repos.
 
 Nothing cool just access to Git repos though SSH and GitWeb.
 
-Easiest to maintaine (`apt-get install gitolite` and your done)
+Easiest to maintaine (~apt-get install gitolite~ and your done)
 
 Harder to use (to edit a Git repo it requires a SSH key)
 
@@ -78,4 +78,6 @@ Harder to maintaine (looks like best to run in a Docker instances and has way to
 
 ** Bylaw Revisions
 
-I don't quite recall what was the state of things last month.
+Chris: _I don't quite recall what was the state of things last month._
+
+Myles: _I recall Bill saying that we just needed to submit the bylaws again (no changes nessaray)._
