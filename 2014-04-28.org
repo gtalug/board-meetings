@@ -52,11 +52,13 @@ It's possible that we need to prevent Yahoo! subscribers from sending messages t
 
 - GitHub is okay for now but we need to move to a GTALUG owned host (hopefully when we get a new server).
 
-- A couple of people should at least be backing up all the major repos.
+- Multiple people should be backing up all the major repos
 
 - For material that is intended to be public, such as web site, it should be fine to use GitHub; for private material, that is unsuitable.
 
 - Chris has some [[https://github.com/cbbrowne/slony-backups/tree/master/scripts][scripts he uses to manage Slony web site backups]] which actually does include encrypting (using GPG) some material (/e.g./ - lists of subscribers) that should be kept private.
+
+- Chris observes ... :: Managing this in a Git repo using the GitHub web interface is surprisingly usable.  This /is/ a good alternative to Trac
 
 **** gitolite
 
