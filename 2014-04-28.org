@@ -132,9 +132,20 @@ It's possible that we need to prevent Yahoo! subscribers from sending messages t
   - Fits into Vint Cerf's request for people to do something about it
   - Some desire for CAG/POG talks
 - Trans Pacific agreement
+- Brazilian conference was interesting
+  - Internet governance
+  - Brazil trying to draft citizens' Internet bill of rights
+  - Bill passed last week
+  - Lot of stuff watered down
+- IGF statements
+  - Go do something useful.  Write policy.  Make policy.
+- Chinese govt representative
+  - Wanted businesses to be free of government coercion
 
 ** Bylaw Revisions
 
 Chris: _I don't quite recall what was the state of things last month._
 
 Myles: _I recall Bill saying that we just needed to submit the bylaws again (no changes necessary)._
+
+Defer to next month
