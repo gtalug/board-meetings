@@ -32,19 +32,30 @@ The new room seems to be working fine thus far.
    - Where :: The park off Dufferin from last year worked out fairly well
    - Publicity :: Need to start publicity much earlier than last year
    
+   Be it resolved that a committee, led by Bill Thanis, look at the logistics of this.
+   - Suggest earlyish August
+   - Suggest avoiding same day as Toronto Freenet
+   - Suggesting August 10th, good day to be distant from Taste of the Danforth
+   - Suggesting Dufferin park
+   
 ** Systems
 
 *** Web Sites
 
 **** Main web site
 
-Seems to be working fine
+- Seems to be working fine
+- Will be having a problem in a month or so :: Currently running on Scott's machine @ Interlink; out of the fire into the pan, not huge improvement
+- Scott's aiming to have his machine out by end of May
+- Myles will handle having a server in place to host the web site
 
 **** Mediawiki
 
 Offline.
 
 We were planning to put a ~wget~ of it into a git repo to at least have a static copy available.
+
+Scott to provide dump of home from Gold, Myles to get dump of wiki in HTML
 
 **** Trac
 
@@ -54,15 +65,18 @@ That's where board meeting notes are, and, it being offline, we haven't got note
 
 A ~wget~ of it would be _super_ useful.
 
+Same Gold dump has this; Myles to get dump of wiki in HTML form
+
 *** Mailing Lists
 
-Need to understand what the status is of what is currently running, and where it's running.
+Things are a bit comatose.  Gradual decline steadily since 2004.
+
+No action appropriate until we're on new hardware.
 
 **** Yahoo!
 
 It's possible that we need to prevent Yahoo! subscribers from sending messages to the list.
 [[http://emailskinny.com/2014/04/07/yahoo-mail-brings-the-pain-with-dmarc-policy-change/][Yahoo Mail Brings the Pain with DMARC Policy Change]]
-
 
 *** Git Hosting
 
