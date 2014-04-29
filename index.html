@@ -1,0 +1,18 @@
+---
+layout: default
+title: GTALUG Board
+---
+
+<div class="page-header">
+	<h1>Board Meetings</h1>
+	
+	<p class="lead">
+		Notes taken during the monthly GTALUG board meetings.</p>
+	</p>
+</div>
+
+<div class="list-group">
+{% for post in site.posts %}
+	<a href="{{ post.url }}" class="list-group-item">{{ post.date | date_to_string }}</a>
+{% endfor %}
+</div>
