@@ -115,7 +115,19 @@ It's possible that we need to prevent Yahoo! subscribers from sending messages t
 
 - Harder to maintain :: looks like best to run in a Docker instances and has way too many dependencies
 
+*** Hosting choices
+
+- Short term :: Myles hosting static content
+
+- Next tale :: Mailing lists still running with Drew at ~ss.org~ for a while yet
+
+- November :: Jamon can help as of fall some time, as we're setting up Mailman as new answer
+
+- Need to have pricing for our own virtual private hosting.  Hoping that it's in the $20/month range
+
 ** CAG Report
+
+
 
 ** Bylaw Revisions
 
