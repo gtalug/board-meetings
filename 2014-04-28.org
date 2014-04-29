@@ -123,11 +123,15 @@ It's possible that we need to prevent Yahoo! subscribers from sending messages t
 
 - November :: Jamon can help as of fall some time, as we're setting up Mailman as new answer
 
-- Need to have pricing for our own virtual private hosting.  Hoping that it's in the $20/month range
+- Need to have pricing for our own virtual private hosting.  Hoping that it's in the $20/month range.  Myles to provide information on some hosting options.
 
 ** CAG Report
 
-
+- DCB following IETF and ISOC lists
+  - Could do a decent talk on "You broke the IETF's email???"
+  - Fits into Vint Cerf's request for people to do something about it
+  - Some desire for CAG/POG talks
+- Trans Pacific agreement
 
 ** Bylaw Revisions
 
