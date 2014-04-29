@@ -12,7 +12,13 @@
 
 - Scott wants to step down from the coordinator position
 
-- Coordinator needs to be at meetings :: Good idea to solicit from the list
+- Coordinator needs to be at meetings :: Good idea to solicit from the list; Scott to do so
+
+- Myles planning to solicit some Python folk
+
+- Myles has an idea for later in the summer/fall
+
+- DCB has a somewhat nontechnical talk he's thinking about
 
 ** Ryerson Logistics
 
