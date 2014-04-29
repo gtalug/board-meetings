@@ -141,7 +141,10 @@ It's possible that we need to prevent Yahoo! subscribers from sending messages t
   - Go do something useful.  Write policy.  Make policy.
 - Chinese govt representative
   - Wanted businesses to be free of government coercion
-
+- ICANN Atlas summit in June
+  - Scott to be busy, in London UK
+  - Desirable for Scott to be at session on DNS flipping (as happened in Turkey recently)
+  
 ** Bylaw Revisions
 
 Chris: _I don't quite recall what was the state of things last month._
