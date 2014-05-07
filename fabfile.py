@@ -20,7 +20,6 @@ def run():
   """
   Run the development web server so you could view your changes.
   """
-
   jekyll('serve --watch')
 
 @task
@@ -49,6 +48,9 @@ def deploy():
 @task
 @hosts('panda')
 def update_nginx_config():
+  """
+  This will update the Nginx configuration file on the remote host.
+  """
   put(
     local_path = os.path.join(os.path.abspath('./_etc'), 'nginx.conf'),
     remote_path = '/etc/nginx/sites-available/org_gtalug_board',
@@ -60,12 +62,10 @@ def jekyll(directives=''):
   """
   A simple wrapper around the jekyll command.
   """
-
   local('jekyll %s' % directives)
 
 def clean():
   """
   This will clean the site directory.
   """
-
   local('rm -fr %s' % os.path.abspath(env.config['destination']))
