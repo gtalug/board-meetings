@@ -7,44 +7,6 @@ title: GTALUG Board
 	<h1>GTALUG Board</h1>
 </div>
 
-<h2>Board Members</h2>
-
-{% for member in site.data.members %}
-<h3>{{ member.name }}</h3>
-
-<dl>
-	<dt>Elected</dt>
-	<dd>{{ member.elected }}</dd>
-
-	{% if member.email %}
-	<dt>Email</dt>
-	<dd>{{ member.email }}</dd>
-	 {% endif %}
-
-	{% if member.homepage %}
-	<dt>Homepage</dt>
-	<dd><a href="{{ member.homepage }}" title="{{ member.name }}'s Homepage">{{ member.homepage }}</a></dd>
-	{% endif %}
-
-	{% if member.twitter %}
-	<dt>Twitter</dt>
-	<dd><a href="http://twitter.com/{{ member.twitter }}" title="{{ member.name }}'s Twitter Account">{{ member.twitter }}</a></dd>
-	{% endif %}
-
-	{% if member.github %}
-	<dt>GitHub</dt>
-	<dd><a href="http://github.com/{{ member.github }}" title="{{ member.name }}'s GitHub Account">{{ member.github }}</a></dd>
-	{% endif %}
-
-	{% if member.fingerprint %}
-	<dt>GPG Fingerprint</dt>
-	<dd>{{ member.fingerprint }}</dd>
-	 {% endif %}
-</dl>
-{% endfor %}
-
-<hr/>
-
 <h2>GTALUG Board Meetings</h2>
 
 <p class="lead">Notes taken during the monthly GTALUG board meetings.</p>
@@ -53,4 +15,46 @@ title: GTALUG Board
 {% for post in site.posts %}
 	<a href="{{ post.url }}" class="list-group-item">{{ post.date | date_to_string }}</a>
 {% endfor %}
+</div>
+
+<hr/>
+
+<h2>Board Members</h2>
+
+<div class="row">
+	{% for member in site.data.members %}
+	<div class="col-sm-6">
+		<h3>{{ member.name }}</h3>
+
+		<dl>
+			<dt>Elected</dt>
+			<dd>{{ member.elected }}</dd>
+
+			{% if member.email %}
+			<dt>Email</dt>
+			<dd>{{ member.email }}</dd>
+			 {% endif %}
+
+			{% if member.homepage %}
+			<dt>Homepage</dt>
+			<dd><a href="{{ member.homepage }}" title="{{ member.name }}'s Homepage">{{ member.homepage }}</a></dd>
+			{% endif %}
+
+			{% if member.twitter %}
+			<dt>Twitter</dt>
+			<dd><a href="http://twitter.com/{{ member.twitter }}" title="{{ member.name }}'s Twitter Account">{{ member.twitter }}</a></dd>
+			{% endif %}
+
+			{% if member.github %}
+			<dt>GitHub</dt>
+			<dd><a href="http://github.com/{{ member.github }}" title="{{ member.name }}'s GitHub Account">{{ member.github }}</a></dd>
+			{% endif %}
+
+			{% if member.fingerprint %}
+			<dt>GPG Fingerprint</dt>
+			<dd>{{ member.fingerprint }}</dd>
+			 {% endif %}
+		</dl>
+	</div>
+	{% endfor %}
 </div>
