@@ -3,7 +3,7 @@
 import os
 
 from fabric.contrib.project import rsync_project
-from fabric.api import env, puts, local, task, hosts, execute, runs_once
+from fabric.api import env, put, local, task, hosts, sudo
 
 import yaml
 
@@ -45,6 +45,16 @@ def deploy():
     delete = True,
     extra_opts = '--exclude=".DS_Store"',
   )
+
+@task
+@hosts('panda')
+def update_nginx_config():
+  put(
+    local_path = os.path.join(os.path.abspath('./_etc'), 'nginx.conf'),
+    remote_path = '/etc/nginx/sites-available/org_gtalug_board',
+    use_sudo = True
+  )
+  sudo('/etc/init.d/nginx restart')
 
 def jekyll(directives=''):
   """
