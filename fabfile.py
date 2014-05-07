@@ -1,0 +1,61 @@
+#!/usr/bin/env python
+
+import os
+
+from fabric.contrib.project import rsync_project
+from fabric.api import env, puts, local, task, hosts, execute, runs_once
+
+import yaml
+
+env.hosts = ['panda']
+env.remote_dir = '/srv/www/org_gtalug/board/html/'
+env.use_ssh_config = True
+
+with open('_config.yml') as f:
+  env.config = yaml.load(f)
+
+@task
+@hosts('localhost')
+def run():
+  """
+  Run the development web server so you could view your changes.
+  """
+
+  jekyll('serve --watch')
+
+@task
+@hosts('localhost')
+def build():
+  """
+  This will build the website.
+  """
+  clean()
+  jekyll('build')
+
+@task
+@hosts('panda')
+def deploy():
+  """
+  This will deploy the web site to the GTALUG web space.
+  """
+  build()
+  rsync_project(
+    local_dir = os.path.abspath(env.config['destination']),
+    remote_dir = env.remote_dir,
+    delete = True,
+    extra_opts = '--exclude=".DS_Store"',
+  )
+
+def jekyll(directives=''):
+  """
+  A simple wrapper around the jekyll command.
+  """
+
+  local('jekyll %s' % directives)
+
+def clean():
+  """
+  This will clean the site directory.
+  """
+
+  local('rm -fr %s' % os.path.abspath(env.config['destination']))

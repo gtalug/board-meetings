@@ -25,35 +25,35 @@ title: GTALUG Board
 	{% for member in site.data.members %}
 	<div class="col-sm-6">
 		<h3>{{ member.name }}</h3>
-
+		
 		<dl>
 			<dt>Elected</dt>
 			<dd>{{ member.elected }}</dd>
-
+			
 			{% if member.email %}
 			<dt>Email</dt>
 			<dd>{{ member.email }}</dd>
-			 {% endif %}
-
+			{% endif %}
+			
 			{% if member.homepage %}
 			<dt>Homepage</dt>
 			<dd><a href="{{ member.homepage }}" title="{{ member.name }}'s Homepage">{{ member.homepage }}</a></dd>
 			{% endif %}
-
+			
 			{% if member.twitter %}
 			<dt>Twitter</dt>
 			<dd><a href="http://twitter.com/{{ member.twitter }}" title="{{ member.name }}'s Twitter Account">{{ member.twitter }}</a></dd>
 			{% endif %}
-
+			
 			{% if member.github %}
 			<dt>GitHub</dt>
 			<dd><a href="http://github.com/{{ member.github }}" title="{{ member.name }}'s GitHub Account">{{ member.github }}</a></dd>
 			{% endif %}
-
+			
 			{% if member.fingerprint %}
 			<dt>GPG Fingerprint</dt>
 			<dd>{{ member.fingerprint }}</dd>
-			 {% endif %}
+			{% endif %}
 		</dl>
 	</div>
 	{% endfor %}

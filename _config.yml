@@ -1,4 +1,10 @@
 name: GTALUG Board
-markdown: redcarpet
-pygments: false
+
 permalink: /:year-:month-:day/:title.html
+
+source: .
+destination: ./_site
+
+highlighter: false
+
+exclude: ['fabfile.py', 'fabfile.pyc', 'Gemfile', 'README.md']
