@@ -20,7 +20,7 @@ TBD...
 - July :: Hopefully Drew and Scott on ~systemd~
 
 *** New slush items
-  - Adib Saikali :: OpenStack in July/August timeframe
+  - Adib Saikali :: OpenStack in July/August timeframe, thinking of something on automating Docker later adib@venturelynx.com
 
 *** Coordinator position
 
