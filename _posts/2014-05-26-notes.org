@@ -1,0 +1,163 @@
+---
+layout: post
+title: "26th May, 2014"
+published: false
+---
+
+* 26th May, 2014
+
+** Attendees
+
+TBD...
+- Scott Sullivan, Bill Thanis, Myles Braithwaithe, Christopher Browne, Ivan Avery Frey, David Collier Brown, Gordon Chillcott, Amos Weatherill
+
+** Upcoming Meetings
+
+- ??? ::  Movie Magic: The Art of Visual Effects with Ahmed Shehata 
+
+- June :: TBA
+
+- July :: Hopefully Drew and Scott on ~systemd~
+
+*** New slush items
+  - Adib Saikali :: OpenStack in July/August timeframe
+
+*** Coordinator position
+
+**** Old Discussion
+
+- Scott wants to step down from the coordinator position
+
+- Coordinator needs to be at meetings :: Good idea to solicit from the list; Scott to do so
+
+- Myles planning to solicit some Python folk
+
+- Myles has an idea for later in the summer/fall
+
+- DCB has a somewhat nontechnical talk he's thinking about
+
+** Ryerson Logistics
+
+The new room seems to be working fine thus far.
+
+** Linux In The Park
+
+*** April activity
+    - Empowered Bill to lead a committee to look at logistics
+    - Suggested around Aug 10th, Dufferin Park
+   
+** Systems
+*** DNS
+    - Registered gtalug.info for experimentation
+    - To do is to do something with gtalug.org, transfer to Gandi, determine zone
+
+*** Web Sites
+**** Main web site
+- Seems to be working fine
+- Will be having a problem in a few days or so :: Currently running on Scott's machine @ Interlink; out of the fire into the pan, not huge improvement
+- Scott's aiming to have his machine out by end of May
+- Myles will handle having a server in place to host the web site
+
+**** Mediawiki
+
+- Offline.
+
+- We were planning to put a ~wget~ of it into a git repo to at least have a static copy available.
+
+- Scott to provide dump of home from Gold, Myles to get dump of wiki in HTML
+
+**** Trac
+
+Offline.
+
+That's where board meeting notes are, and, it being offline, we haven't got notes terribly readily available.
+
+A ~wget~ of it would be _super_ useful.
+
+Same Gold dump has this; Myles to get dump of wiki in HTML form
+
+*** Mailing Lists
+
+Things are a bit comatose.  Gradual decline steadily since 2004.
+
+No action appropriate until we're on new hardware.
+
+**** Yahoo!
+
+It's possible that we need to prevent Yahoo! subscribers from sending messages to the list.
+[[http://emailskinny.com/2014/04/07/yahoo-mail-brings-the-pain-with-dmarc-policy-change/][Yahoo Mail Brings the Pain with DMARC Policy Change]]
+
+*** Git Hosting
+
+- This isn't merely about hosting Git repos; it is about using those Git repos to store
+  - Web site(s) :: /e.g./ - the main front page of [[gtalug.org]]
+  - Board Notes :: /e.g./ - this very set of notes, which had been getting captured in a Trac repository
+  - Replacement of Wiki infrastructure :: This is rather more debatable (/e.g./ We should have a debate about this!!!), but this may be a better way of capturing material (even of somewhat adhoc nature) that we used to capture in a MediaWiki instance.
+
+- GitHub is okay for now but we need to move to a GTALUG owned host (hopefully when we get a new server).
+
+- Multiple people should be backing up all the major repos
+
+- For material that is intended to be public, such as web site, it should be fine to use GitHub; for private material, that is unsuitable.
+
+- Chris has some [[https://github.com/cbbrowne/slony-backups/tree/master/scripts][scripts he uses to manage Slony web site backups]] which actually does include encrypting (using GPG) some material (/e.g./ - lists of subscribers) that should be kept private.
+
+- Chris observes ... :: Managing this in a Git repo using the GitHub web interface is surprisingly usable.  This /is/ a good alternative to Trac for capturing board meeting notes.  I'm using [[http://orgmode.org/][Org Mode]], which I really like to use with Emacs.  It plays perfectly well with GitHub, as there are [[http://orgmode.org/worg/org-tools/index.html][various tools to manipulate Org data]] including some Ruby-based stuff that is used by GitHub.
+
+**** gitolite
+
+[[http://gitolite.com/gitolite/][gitolite]]
+
+- Nothing cool, just access to Git repos though SSH and GitWeb.
+
+- Easiest to maintain  :: ~apt-get install gitolite~ and you're done
+
+- Harder to use :: To edit a Git repo it requires a SSH key
+
+**** GitLab
+
+[[https://www.gitlab.com/]]
+
+- Enterprisey :: LDAP and A.D. support
+
+- Easier to use (vs ~gitolite~) :: has a similar feature set to GitHub
+
+- Harder to maintain :: looks like best to run in a Docker instances and has way too many dependencies
+
+*** Hosting choices
+
+- Short term :: Myles hosting static content
+
+- Next tale :: Mailing lists still running with Drew at ~ss.org~ for a while yet
+
+- November :: Jamon can help as of fall some time, as we're setting up Mailman as new answer
+
+- Need to have pricing for our own virtual private hosting.  Hoping that it's in the $20/month range.  Myles to provide information on some hosting options.
+
+** CAG Report
+
+- DCB following IETF and ISOC lists
+  - Could do a decent talk on "You broke the IETF's email???"
+  - Fits into Vint Cerf's request for people to do something about it
+  - Some desire for CAG/POG talks
+- Trans Pacific agreement
+- Brazilian conference was interesting
+  - Internet governance
+  - Brazil trying to draft citizens' Internet bill of rights
+  - Bill passed last week
+  - Lot of stuff watered down
+- IGF statements
+  - Go do something useful.  Write policy.  Make policy.
+- Chinese govt representative
+  - Wanted businesses to be free of government coercion
+- ICANN Atlas summit in June
+  - Scott to be busy, in London UK
+  - Desirable for Scott to be at session on DNS flipping (as happened in Turkey recently)
+  
+** Bylaw Revisions
+
+Chris: _I don't quite recall what was the state of things last month._
+
+Myles: _I recall Bill saying that we just needed to submit the bylaws again (no changes necessary)._
+
+Defer to next month
