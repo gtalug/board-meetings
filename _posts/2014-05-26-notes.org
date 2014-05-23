@@ -59,12 +59,9 @@ The new room seems to be working fine thus far.
 - Myles will handle having a server in place to host the web site
 
 **** Mediawiki
-
-- Offline.
-
-- We were planning to put a ~wget~ of it into a git repo to at least have a static copy available.
-
-- Scott to provide dump of home from Gold, Myles to get dump of wiki in HTML
+     - Offline.
+     - We were planning to put a ~wget~ of it into a git repo to at least have a static copy available.
+     - Scott to provide dump of home from Gold, Myles to get dump of wiki in HTML
 
 **** Trac
 
@@ -84,8 +81,9 @@ No action appropriate until we're on new hardware.
 
 **** Yahoo!
 
-It's possible that we need to prevent Yahoo! subscribers from sending messages to the list.
-[[http://emailskinny.com/2014/04/07/yahoo-mail-brings-the-pain-with-dmarc-policy-change/][Yahoo Mail Brings the Pain with DMARC Policy Change]]
+It's possible that we need to prevent Yahoo! subscribers from sending
+messages to the list.  [[http://emailskinny.com/2014/04/07/yahoo-mail-brings-the-pain-with-dmarc-policy-change/][Yahoo Mail Brings the Pain with DMARC Policy
+Change]]
 
 *** Git Hosting
 
@@ -134,30 +132,9 @@ It's possible that we need to prevent Yahoo! subscribers from sending messages t
 
 - Need to have pricing for our own virtual private hosting.  Hoping that it's in the $20/month range.  Myles to provide information on some hosting options.
 
-** CAG Report
-
-- DCB following IETF and ISOC lists
-  - Could do a decent talk on "You broke the IETF's email???"
-  - Fits into Vint Cerf's request for people to do something about it
-  - Some desire for CAG/POG talks
-- Trans Pacific agreement
-- Brazilian conference was interesting
-  - Internet governance
-  - Brazil trying to draft citizens' Internet bill of rights
-  - Bill passed last week
-  - Lot of stuff watered down
-- IGF statements
-  - Go do something useful.  Write policy.  Make policy.
-- Chinese govt representative
-  - Wanted businesses to be free of government coercion
-- ICANN Atlas summit in June
-  - Scott to be busy, in London UK
-  - Desirable for Scott to be at session on DNS flipping (as happened in Turkey recently)
-  
 ** Bylaw Revisions
-
-Chris: _I don't quite recall what was the state of things last month._
-
-Myles: _I recall Bill saying that we just needed to submit the bylaws again (no changes necessary)._
-
-Defer to next month
+   - Deferred from last month
+   - Chris saw things on this at PGCon
+     - See PGCAC notes, maybe
+     - Heard that orgs that use lawyers have /lower/ success rate on
+       filings than those /doing it themselves/.
