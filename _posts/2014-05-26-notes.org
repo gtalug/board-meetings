@@ -49,6 +49,8 @@ The new room seems to be working fine thus far.
 ** Systems
 *** DNS
     - Registered gtalug.info for experimentation
+      - Currently pointed to same targets so that it looks just like gtalug.org
+      - Chris wants to encourage making sure that gtalug.info is consistently "somewhat broken" so we can keep it available for experimentation, so people don't trust it to be too terribly authoritative
     - To do is to do something with gtalug.org, transfer to Gandi, determine zone
 
 *** Web Sites
