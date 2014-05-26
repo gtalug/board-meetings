@@ -9,7 +9,7 @@ published: false
 ** Attendees
 
 TBD...
-- Scott Sullivan, Bill Thanis, Myles Braithwaithe, Christopher Browne, Ivan Avery Frey, David Collier Brown, Gordon Chillcott, Amos Weatherill
+- Scott Sullivan, Bill Thanis, Myles Braithwaite, Christopher Browne, Ivan Avery Frey, David Collier Brown, Gordon Chillcott, Amos Weatherill
 
 ** Upcoming Meetings
 
