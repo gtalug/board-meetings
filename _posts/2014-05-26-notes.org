@@ -7,22 +7,22 @@ published: false
 * 26th May, 2014
 
 ** Attendees
-- Scott Sullivan, Bill Thanis,  David Collier Brown, Christopher Browne, Gordon Chillcott, Myles Braithwaithe, Amos Weatherill, Ivan Avery Frey, 
+- Scott Sullivan, Bill Thanis,  David Collier Brown, Christopher Browne, Gordon Chillcott, Myles Braithwaithe, Amos Weatherill, Ivan Avery Frey
 
 ** Upcoming Meetings
 
-- June :: TBA
+- June :: Database Double Feature...
 
-- July ::  Movie Magic: The Art of Visual Effects with Ahmed Shehata
+- July :: Movie Magic: The Art of Visual Effects with Ahmed Shehata
 
-- August :: 
+- August :: OpenStack (Adib Saikali)
 
 - September :: Hopefully Drew and Scott on ~systemd~
 
 *** New slush items
 
   - Adib Saikali :: OpenStack in July/August timeframe, thinking of something on automating Docker later adib@venturelynx.com
-
+		  
 *** Coordinator position
 
 **** Old Discussion
