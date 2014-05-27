@@ -39,7 +39,7 @@ def deploy():
   """
   build()
   rsync_project(
-    local_dir = os.path.abspath(env.config['destination']),
+    local_dir = os.path.abspath(env.config['destination']) + "/",
     remote_dir = env.remote_dir,
     delete = True,
     extra_opts = '--exclude=".DS_Store"',
