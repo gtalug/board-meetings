@@ -45,7 +45,20 @@ published: false
       - Suggesting July 26th
       - No need for permit under 25 people
 	- Needs insurance
+	- Scott looking into this with a colleague that deals with somewhat analagous things for photo shoots
+      - Need to start publicity that's of the nature /stick a pin in your calendar/ for July 26th
    
+** Alternative Hosting of next Exec meeting
+   - Scott will be in London next month June 20-26
+   - Need alternative location and Chair
+   - Suggestion - sort to a meeting at Bill's BBQ the next day
+** Bylaw Revisions
+   - Deferred from last month
+   - Chris saw things on this at PGCon
+     - See PGCAC notes, maybe
+     - Heard that orgs that use lawyers have /lower/ success rate on
+       filings than those /doing it themselves/.
+
 ** Systems
 *** DNS
     - Registered gtalug.info for experimentation
@@ -134,13 +147,6 @@ Change]]
 
 - Need to have pricing for our own virtual private hosting.  Hoping that it's in the $20/month range.  Myles to provide information on some hosting options.
 
-
-** Bylaw Revisions
-   - Deferred from last month
-   - Chris saw things on this at PGCon
-     - See PGCAC notes, maybe
-     - Heard that orgs that use lawyers have /lower/ success rate on
-       filings than those /doing it themselves/.
 
 ** CAG/ICANN
 
