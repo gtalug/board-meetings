@@ -19,6 +19,13 @@ published: false
 
 - September :: Hopefully Drew and Scott on ~systemd~
 
+- October :: AGM
+
+- November :: Myles on Crypto?
+
+- December :: 
+
+
 *** New slush items
 
   - Adib Saikali :: OpenStack in July/August timeframe, thinking of something on automating Docker later adib@venturelynx.com
