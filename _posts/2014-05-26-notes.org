@@ -25,34 +25,26 @@ published: false
 
 - December :: 
 
-
 *** New slush items
-
   - Adib Saikali :: OpenStack in July/August timeframe, thinking of something on automating Docker later adib@venturelynx.com
+  - Marcel Gagne :: Cooking with Linux writer
 		  
 *** Coordinator position
-
-**** Old Discussion
-
-- Scott wants to step down from the coordinator position
-
-- Coordinator needs to be at meetings :: Good idea to solicit from the list; Scott to do so
-
-- Myles planning to solicit some Python folk
-
-- Myles has an idea for later in the summer/fall
-
-- DCB has a somewhat nontechnical talk he's thinking about
+    - Not vastly much movement...
+    - But if it keeps to the "dull roar" of coordinating speakers that are chosen already, all's well...
 
 ** Ryerson Logistics
 
-The new room seems to be working fine thus far.
+   The new room seems to be working fine thus far.
 
 ** Linux In The Park
 
-*** April activity
-    - Empowered Bill to lead a committee to look at logistics
     - Suggested around Aug 10th, Dufferin Park
+      - Further thought is that Aug 10th has a lot going on
+      - Civic Holiday is no good
+      - Suggesting July 26th
+      - No need for permit under 25 people
+	- Needs insurance
    
 ** Systems
 *** DNS
