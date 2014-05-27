@@ -58,6 +58,7 @@ published: false
      - See PGCAC notes, maybe
      - Heard that orgs that use lawyers have /lower/ success rate on
        filings than those /doing it themselves/.
+   - Need to scan the amendments in the binder - ~Scott~
 
 ** Systems
 *** DNS
@@ -149,7 +150,10 @@ Change]]
 
 
 ** CAG/ICANN
-
-   - Thank you
-
-   - Yes
+   - Ongoing Adobe Connect saga has completed
+     - Complaint from many is that it doesn't play well on Linux with Mozilla-based browsers
+     - Solution is Google Chrome (not Chromium)
+   - Email recently
+     - Transposition of Stewardship Function from NTIA (US government agency)
+     - ICANN asked to oversee planning of the shift
+     - Goal to make IANA more international
