@@ -17,9 +17,9 @@ published: false
 
 - August :: OpenStack (Adib Saikali)
 
-- September :: Hopefully Drew and Scott on ~systemd~
+- September :: Tentatively Drew and Scott on ~systemd~
 
-- October :: AGM
+- October :: AGM, reports
 
 - November :: Myles on Crypto?
 
