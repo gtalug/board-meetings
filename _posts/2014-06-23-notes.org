@@ -1,0 +1,145 @@
+---
+layout: post
+title: "23rd June, 2014"
+published: false
+---
+
+* 23rd June, 2014
+** Special Location
+   Our thanks to Starbucks Davisville...
+** Attendees
+- Bill Thanis,  David Collier Brown, Christopher Browne, Gordon Chillcott, Myles Braithwaithe, Amos Weatherill, Ivan Avery Frey
+
+*** Absent
+- Scott Sullivan, 
+
+** Upcoming Meetings
+
+- July :: Movie Magic: The Art of Visual Effects with Ahmed Shehata
+
+- August :: OpenStack (Adib Saikali)
+
+- September :: Tentatively Drew and Scott on ~systemd~
+
+- October :: AGM, reports
+
+- November :: Myles on Crypto?
+
+
+*** New slush items
+  - Adib Saikali :: OpenStack in July/August timeframe, thinking of something on automating Docker later adib@venturelynx.com
+  - Marcel Gagne :: Cooking with Linux writer
+  - CouchDB New Stuff :: Myles
+		  
+** Linux In The Park
+
+    - Suggested around Aug 10th, Dufferin Park
+      - Further thought is that Aug 10th has a lot going on
+      - Civic Holiday is no good
+      - Suggesting July 26th
+      - No need for permit under 25 people
+	- Needs insurance
+	- Scott looking into this with a colleague that deals with somewhat analagous things for photo shoots
+      - Need to start publicity that's of the nature /stick a pin in your calendar/ for July 26th
+   
+** Bylaw Revisions
+   - Deferred from last month
+   - Chris saw things on this at PGCon
+     - See PGCAC notes, maybe
+     - Heard that orgs that use lawyers have /lower/ success rate on
+       filings than those /doing it themselves/.
+   - Need to scan the amendments in the binder - ~Scott~
+** CAG/ICANN
+   - ICANN presently in London, England
+** Systems
+
+*** Web Sites
+**** Main web site
+- Seems to be working fine
+- Will be having a problem in a few days or so :: Currently running on Scott's machine @ Interlink; out of the fire into the pan, not huge improvement
+- Scott's aiming to have his machine out by end of May
+- Myles will handle having a server in place to host the web site
+
+**** Mediawiki
+     - Offline.
+     - We were planning to put a ~wget~ of it into a git repo to at least have a static copy available.
+     - Scott to provide dump of home from Gold, Myles to get dump of wiki in HTML
+     - Myles has it; still needs to install and get the dump
+
+**** Trac
+
+ - Offline.
+
+   That's where board meeting notes are, and, it being offline, we
+   haven't got notes terribly readily available.
+
+   A ~wget~ of it would be _super_ useful.
+
+   Same Gold dump has this; Myles to get dump of wiki in HTML form
+
+*** Mailing Lists
+
+Things are a bit comatose.  Gradual decline steadily since 2004.
+
+No action appropriate until we're on new hardware.
+
+**** Yahoo!
+
+It's possible that we need to prevent Yahoo! subscribers from sending
+messages to the list.  [[http://emailskinny.com/2014/04/07/yahoo-mail-brings-the-pain-with-dmarc-policy-change/][Yahoo Mail Brings the Pain with DMARC Policy
+Change]]
+
+*** Git Hosting
+
+- This isn't merely about hosting Git repos; it is about using those Git repos to store
+  - Web site(s) :: /e.g./ - the main front page of [[gtalug.org]]
+  - Board Notes :: /e.g./ - this very set of notes, which had been getting captured in a Trac repository
+  - Replacement of Wiki infrastructure :: This is rather more debatable (/e.g./ We should have a debate about this!!!), but this may be a better way of capturing material (even of somewhat adhoc nature) that we used to capture in a MediaWiki instance.
+
+- GitHub is okay for now but we need to move to a GTALUG owned host (hopefully when we get a new server).
+
+- Multiple people should be backing up all the major repos
+
+- For material that is intended to be public, such as web site, it should be fine to use GitHub; for private material, that is unsuitable.
+
+- Chris has some [[https://github.com/cbbrowne/slony-backups/tree/master/scripts][scripts he uses to manage Slony web site backups]] which actually does include encrypting (using GPG) some material (/e.g./ - lists of subscribers) that should be kept private.
+
+- Chris observes ... :: Managing this in a Git repo using the GitHub web interface is surprisingly usable.  This /is/ a good alternative to Trac for capturing board meeting notes.  I'm using [[http://orgmode.org/][Org Mode]], which I really like to use with Emacs.  It plays perfectly well with GitHub, as there are [[http://orgmode.org/worg/org-tools/index.html][various tools to manipulate Org data]] including some Ruby-based stuff that is used by GitHub.
+
+*** Hosting choices
+
+- Short term :: Myles hosting static content
+
+- Next tale :: Mailing lists still running with Drew at ~ss.org~ for a while yet
+
+- November :: Jamon can help as of fall some time, as we're setting up Mailman as new answer, also Alex Volkov(sp?)
+
+- Need to have pricing for our own virtual private hosting.  Hoping that it's in the $20/month range.  Myles to provide information on some hosting options.
+  - Gandi has a $7/month plan for VPS that should work out
+
+**** Action Plans
+     - Myles :: Install mediawiki, run wget, throw at git
+     - Drew :: provide Trac dump
+     - Myles :: install Trac dump, run wget, throw at git
+     - Mailing Lists :: some volunteers to help, no effort ready yet
+       - Concern :: Backing up subscriber list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
