@@ -48,10 +48,20 @@ published: false
      - Heard that orgs that use lawyers have /lower/ success rate on
        filings than those /doing it themselves/.
    - Need to scan the amendments in the binder - ~Scott~
+
 ** CAG/ICANN
    - ICANN presently in London, England
+   - The board would like for Scott to bring back a report/debrief for CAG and/or Board for next month
+     - Nice idea is to debrief CAG and figure out what is worth bringing to Board
+     - This would be really good material for presenting at the AGM in the fall
+     - It points out that we're doing things
+     - Nice if there's even some visibility to ICANN of the resulting material
+   - IANA thing that Bill volunteered for will start in July
+     
 ** Systems
     Stable-ish for the moment
+    
+    1GB/traffic per month per Myles
     
 **** Action Plans
      - Myles :: Install mediawiki, run wget, throw at git
