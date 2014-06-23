@@ -63,14 +63,21 @@ published: false
     
     1GB/traffic per month per Myles
     
-**** Action Plans
+*** Mailing lists
+  - Some issues with email getting out
+    - Some issues on board list
+    - Bill hasn't noticed mail from Board list since May, except for something on June 11th
+    - Gord having some issues sending and receiving
+    - We should do a bit of positive feedback testing
+  - KW/LUG had discussion on anti-spam legislation
+    - On question of what to be careful about
+    - We need to be clearer about declaring this stuff
+    
+*** Action Plans
      - Myles :: Install mediawiki, run wget, throw at git
      - Drew :: provide Trac dump
      - Myles :: install Trac dump, run wget, throw at git
-     - Mailing Lists :: some volunteers to help, no effort ready yet
-       - Concern :: Backing up subscriber list
-
-
+     - Mailing Lists  
 
 
 
