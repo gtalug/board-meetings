@@ -7,11 +7,12 @@ published: false
 * 23rd June, 2014
 ** Special Location
    Our thanks to Starbucks Davisville...
+
 ** Attendees
-- Bill Thanis,  Christopher Browne, Myles Braithwaithe, Ivan Avery Frey, Mike Kalles
+- Bill Thanis,  Christopher Browne, Myles Braithwaithe, Ivan Avery Frey, Mike Kalles, Amos Weatherill
 
 *** Absent
-- Scott Sullivan, David Collier Brown, Gordon Chillcott, Amos Weatherill,  
+- Scott Sullivan, David Collier Brown, Gordon Chillcott,   
 
 ** Upcoming Meetings
 
@@ -58,7 +59,7 @@ published: false
         - Tasty beverages that are non-alcoholic - /not a licensed event!!!!/
         - Food stuffs that you'd like to share and enjoy
         - Tarp/blanket
-        - If you have allergy concerns, please bring your own food
+        - If you have allergy concerns, it may be safest to bring your own food
         - Sunscreen, hats, things to help survive the warmth of the Canadian Wilderness
       - Announcement :: Myles will do this pretty pronto
       
