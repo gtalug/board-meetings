@@ -25,7 +25,6 @@ published: false
 
 - November :: Myles on Crypto?
 
-
 *** New slush items
   - Adib Saikali :: OpenStack in July/August timeframe, thinking of something on automating Docker later adib@venturelynx.com
   - Marcel Gagne :: Cooking with Linux writer
