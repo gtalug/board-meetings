@@ -8,7 +8,7 @@ published: false
 ** Special Location
    Our thanks to Starbucks Davisville...
 ** Attendees
-- Bill Thanis,  Christopher Browne, Myles Braithwaithe, Ivan Avery Frey
+- Bill Thanis,  Christopher Browne, Myles Braithwaithe, Ivan Avery Frey, Mike Kalles
 
 *** Absent
 - Scott Sullivan, David Collier Brown, Gordon Chillcott, Amos Weatherill,  
@@ -32,14 +32,38 @@ published: false
 		  
 ** Linux In The Park
 
-    - Suggested around Aug 10th, Dufferin Park
-      - Further thought is that Aug 10th has a lot going on
-      - Civic Holiday is no good
-      - Suggesting July 26th
-      - No need for permit under 25 people
-	- Needs insurance
-	- Scott looking into this with a colleague that deals with somewhat analagous things for photo shoots
+  - Suggesting July 26th
+    - No need for permit under 25 people
+       - Needs insurance
+       - Scott looking into this with a colleague that deals with somewhat analagous things for photo shoots
       - Need to start publicity that's of the nature /stick a pin in your calendar/ for July 26th
+    - Timing: 2014-07-26 2pm to 7pm
+    - Rain date is 07/27
+    - Logistics
+      - Want propane BBQ - Drew?
+      - Bill may bring one
+      - Things to bring
+        - Chris :: samosas and roti
+        - Bill :: souvlaki
+        - Myles :: Hummus
+        - Mike :: Perhaps veggies, perhaps fruit?
+        - Someone should bring...
+          - Plates
+          - Cutlery
+          - Serviettes
+          - Cups
+          - Garbage bags
+      - Things to suggest to GTALUG folk
+        - Chairs
+        - Tasty beverages that are non-alcoholic - /not a licensed event!!!!/
+        - Food stuffs that you'd like to share and enjoy
+        - Tarp/blanket
+        - If you have allergy concerns, please bring your own food
+        - Sunscreen, hats, things to help survive the warmth of the Canadian Wilderness
+      - Announcement :: Myles will do this pretty pronto
+      
+** Proxy
+   Ivan is planning to be away for much of the rest of the term; intends to have Mike Kalles be his proxy for this time.
    
 ** Bylaw Revisions
    - Deferred from last month
@@ -77,7 +101,7 @@ published: false
      - Myles :: Install mediawiki, run wget, throw at git
      - Drew :: provide Trac dump
      - Myles :: install Trac dump, run wget, throw at git
-     - Mailing Lists  
+     - Mailing Lists
 
 
 
