@@ -61,7 +61,7 @@ published: false
         - Tarp/blanket
         - If you have allergy concerns, it may be safest to bring your own food
         - Sunscreen, hats, things to help survive the warmth of the Canadian Wilderness
-      - Announcement :: Myles will do this pretty pronto
+      - Announcement :: Myles will do this pretty pronto, forward to board first, so we can see if there's more to be added to it...
       
 ** Proxy
    Ivan is planning to be away for much of the rest of the term; intends to have Mike Kalles be his proxy for this time.
