@@ -53,7 +53,8 @@ published: false
           - Cutlery
           - Serviettes
           - Cups
-          - Garbage bags
+          - Garbage bags :: Chris
+          - Any items not claimed, Chris will grab
       - Things to suggest to GTALUG folk
         - Chairs
         - Tasty beverages that are non-alcoholic - /not a licensed event!!!!/
