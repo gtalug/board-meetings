@@ -62,6 +62,7 @@ published: false
         - Tarp/blanket
         - If you have allergy concerns, it may be safest to bring your own food
         - Sunscreen, hats, things to help survive the warmth of the Canadian Wilderness
+        - Code of Conduct :-)
       - Announcement :: Myles will do this pretty pronto, forward to board first, so we can see if there's more to be added to it...
       
 ** Proxy
