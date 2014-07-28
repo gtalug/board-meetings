@@ -62,7 +62,7 @@ Starbucks at Davisville (second floor).
 - Adib Saikali :: OpenStack
 - Adib Saikali :: Automating Docker
 - Marcel Gagne :: Cooking with Linux
-- Myles Braithwatie :: Crypto
+- Myles Braithwaite :: Crypto
 
 ** Linux in the Park
 
