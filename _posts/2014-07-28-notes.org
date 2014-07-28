@@ -17,12 +17,12 @@ Starbucks at Davisville (second floor).
 - Myles Braithwaite
 - Scott Sullivan
 - Gordon Chillcott
+- Bill Thanis
+- Mike Kalles
 
 *** Absent
 
-- Bill Thanis
 - Ivan Avery Frey
-- Mike Kalles
 - Amos Weatherill
 - David Collier Brown
 
@@ -38,6 +38,8 @@ Starbucks at Davisville (second floor).
 - July :: Movie Magic: The Art of Visual with Ahmed Shehata
 
 **** Succeses
+- Good turnout - around 26
+- Quite a lot of newcomers
 
 **** Failures
 
@@ -84,11 +86,13 @@ Starbucks at Davisville (second floor).
 
 ** Board/Executive Members aren't reading meeting notes
 
+- Not strictly an item, perhaps a comment
+
 ** Code of Conduct
 
 - Remind GTALUGers that they are encouraged to provide feedback on the Code of Conduct.
 
-** Fixing CAG & ICANN
+** CAG & ICANN
 
 - Too much meta nonsenses.
 
