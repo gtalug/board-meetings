@@ -40,8 +40,20 @@ Starbucks at Davisville (second floor).
 **** Succeses
 - Good turnout - around 26
 - Quite a lot of newcomers
+  - None came due to usual channels (mailing list)
+  - Some from Google search
+  - Couple of AutoDesk folk
 
 **** Failures
+
+- Projector issue :: Needed to reboot PC with adaptor connected
+  - Projector was a bit late
+  - Nice to try to get a test before 7:30
+  - Needed to shut it off and turn it on *IT Crowd*
+- Speaker surprised that he didn't have audio
+  - Should have a page on what we tend to provide for speakers
+  - Probably the web page can be found via archive.org
+
 
 *** Upcoming
 
@@ -84,7 +96,7 @@ Starbucks at Davisville (second floor).
 - Contacting the top contributers (people who produce content) to the mailing list and ask them to help test.
 - If testing goes according to plan ask everyone to resubscribe.
 
-** Board/Executive Members aren't reading meeting notes
+** Board/Executive Members aren't reading meeting note
 
 - Not strictly an item, perhaps a comment
 
@@ -101,4 +113,8 @@ Starbucks at Davisville (second floor).
 - Move to an open volunteer based system.
 
 ** Action Items
+
+- Myles :: Retrieve web page from wiki on this
+  - Add in that some members tend to have mobile hotspots so Internet is pretty accessible
+
 
