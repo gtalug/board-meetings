@@ -1,0 +1,90 @@
+---
+layout: post
+title: "28th July, 2014"
+published: false
+---
+
+* 28th July, 2014
+
+** Location
+
+Starbucks at Davisville (second floor).
+
+** Attendees
+
+*** Absent
+
+- Bill Thanis
+- Christopher Browne
+- Myles Braithwaite
+- Ivan Avery Frey
+- Mike Kalles
+- Amos Weatherill
+- Scott Sullivan
+- David Collier Brown
+- Gordon Chillcott
+
+** Meetings
+
+*** Last Month
+
+- July :: Movie Magic: The Art of Visual with Ahmed Shehata
+
+**** Succeses
+
+**** Failures
+
+*** Upcoming
+
+- August :: TBA
+
+- September :: TBA
+
+- October :: AGM, reports
+
+- November :: Myles on CouchDB
+
+*** Tentative/Unconformed Talks
+
+- Steptember :: ~systemd~ with Drew S. and Scott S.
+
+- October :: Short Talks
+
+**** No Dates
+
+- Adib Saikali :: OpenStack
+- Adib Saikali :: Automating Docker
+- Marcel Gagne :: Cooking with Linux
+- Myles Braithwatie :: Crypto
+
+** Linux in the Park
+
+*** Successes
+
+*** Failures
+
+** Mailing List
+
+- Drew S. said at _Linux in the Park_ that the server hosting the mailing list will be dieing soon.
+
+*** Myles' Plan
+
+- Rent the cheapest VPS at Linode ($10 a month). Which will be called penguine.
+- Setup mailman on penguine.
+- The President to send out an email explaining what is going on.
+- Contacting the top contributers (people who produce content) to the mailing list and ask them to help test.
+- If testing goes according to plan ask everyone to resubscribe.
+
+** Board/Executive Members aren't reading meeting notes
+
+
+** Fixing CAG & ICANN
+
+- To much meta nonsences.
+
+** Restructing GTALUG Board/Executive
+
+- Move to an open voulenter based system.
+
+** Action Items
+
