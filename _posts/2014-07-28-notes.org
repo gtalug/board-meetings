@@ -51,7 +51,7 @@ Starbucks at Davisville (second floor).
 
 *** Tentative/Unconformed Talks
 
-- Steptember :: ~systemd~ with Drew S. and Scott S.
+- September :: ~systemd~ with Drew S. and Scott S.
 
 - October :: Short Talks
 
@@ -70,7 +70,7 @@ Starbucks at Davisville (second floor).
 
 ** Mailing List
 
-- Drew S. said at _Linux in the Park_ that the server hosting the mailing list will be dieing soon.
+- Drew S. said at _Linux in the Park_ that the server hosting the mailing list will be dying soon.
 
 *** Myles' Plan
 
@@ -84,15 +84,15 @@ Starbucks at Davisville (second floor).
 
 ** Code of Conduct
 
-- Remind GTALUGers that they are encouraged to provided feedback on the Code of Conduct.
+- Remind GTALUGers that they are encouraged to provide feedback on the Code of Conduct.
 
 ** Fixing CAG & ICANN
 
-- To much meta nonsences.
+- Too much meta nonsenses.
 
-** Restructing GTALUG Board/Executive
+** Restructuring GTALUG Board/Executive
 
-- Move to an open voulenter based system.
+- Move to an open volunteer based system.
 
 ** Action Items
 
