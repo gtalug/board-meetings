@@ -12,17 +12,19 @@ Starbucks at Davisville (second floor).
 
 ** Attendees
 
+*** Most Likely Present
+- Christopher Browne
+- Myles Braithwaite
+- Scott Sullivan
+- Gordon Chillcott
+
 *** Absent
 
 - Bill Thanis
-- Christopher Browne
-- Myles Braithwaite
 - Ivan Avery Frey
 - Mike Kalles
 - Amos Weatherill
-- Scott Sullivan
 - David Collier Brown
-- Gordon Chillcott
 
 ** Reminders
 
