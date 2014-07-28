@@ -51,7 +51,7 @@ Starbucks at Davisville (second floor).
 
 - November :: Myles on CouchDB
 
-*** Tentative/Unconformed Talks
+*** Tentative/Unconfirmed Talks
 
 - September :: ~systemd~ with Drew S. and Scott S.
 
