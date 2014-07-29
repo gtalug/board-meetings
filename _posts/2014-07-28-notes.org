@@ -19,11 +19,11 @@ Starbucks at Davisville (second floor).
 - Gordon Chillcott
 - Bill Thanis
 - Mike Kalles
+- Amos Weatherill
 
 *** Absent
 
 - Ivan Avery Frey
-- Amos Weatherill
 - David Collier Brown
 
 ** Reminders
@@ -79,13 +79,21 @@ Starbucks at Davisville (second floor).
 - Adib Saikali :: Automating Docker
 - Myles Braithwaite :: Crypto
 - Dave Tilbrook :: Software Engineering
-- 
 
 ** Linux in the Park
 
 *** Successes
+- People showed up
+- Location was fine
+- Timing was fine
+  - Distant enough from holidays
+  - Not competing with Ex and such 
 
 *** Failures
+- Would have liked a few more bodies
+- Send out the announcement even earlier next year
+- Need a bit more organized inventory
+  - Bill considering a shared spreadsheet
 
 ** Mailing List
 
@@ -93,15 +101,20 @@ Starbucks at Davisville (second floor).
 
 *** Myles' Plan
 
-- Rent the cheapest VPS at Linode ($10 a month). Which will be called penguine.
-- Setup mailman on penguine.
+- Rent the cheapest VPS at Linode ($10 a month). Which will be called ~penguine~.
+- Setup mailman on ~penguine~.
 - The President to send out an email explaining what is going on.
-- Contacting the top contributers (people who produce content) to the mailing list and ask them to help test.
+- Contacting the top contributors (people who produce content) to the mailing list and ask them to help test.
 - If testing goes according to plan ask everyone to resubscribe.
 
-** Board/Executive Members aren't reading meeting note
+- Voted...  Passed unanimously...
+- Myles to set up VPS
+- Chris to help set up backups
 
-- Not strictly an item, perhaps a comment
+** Board/Executive Members aren't reading meeting notes
+
+- Some objected that they did
+- Some apparently aren't reading the mailing list terribly faithfully
 
 ** Code of Conduct
 
@@ -123,6 +136,7 @@ Starbucks at Davisville (second floor).
 - Bill, Scott :: Pester Drew about ~systemd~ talk for September
 - Myles :: Look into crypto talks for October
 - Scott :: Ask Adib to suggest a date for OpenStack talk
-
-
+- Scott :: Warn people that mailing list might die somewhat randomly; look at gtalug.org if it seems dead for pointer
+- Myles :: Set up Linode VPS, mailman
+- Chris :: Backup strategies; copy to Git, encrypt if needed
 
