@@ -115,10 +115,13 @@ Starbucks at Davisville (second floor).
 
 - Some objected that they did
 - Some apparently aren't reading the mailing list terribly faithfully
+- Everyone email Scott with his address
 
 ** Code of Conduct
 
 - Remind GTALUGers that they are encouraged to provide feedback on the Code of Conduct.
+- Mike has some amendments to suggest
+- We had several behavioural complaints
 
 ** CAG & ICANN
 
@@ -139,4 +142,6 @@ Starbucks at Davisville (second floor).
 - Scott :: Warn people that mailing list might die somewhat randomly; look at gtalug.org if it seems dead for pointer
 - Myles :: Set up Linode VPS, mailman
 - Chris :: Backup strategies; copy to Git, encrypt if needed
+- All :: Email Scott with your preferred address for Board email
+- Scott :: Check it into the Board Git site in YAML file (ask Myles if you're not sure where)
 
