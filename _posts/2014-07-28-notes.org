@@ -58,13 +58,14 @@ Starbucks at Davisville (second floor).
 
 *** Upcoming
 
-- August :: Myles, on CouchDB, Scott Sullivan on Boink
+- August :: Myles, on CouchDB, Scott Sullivan on Boinc
 
 - September :: TBA
 
 - October :: AGM, reports
+  - Myles would like a series of short targeted crypto talks
 
-- November :: Myles on CouchDB
+- November :: Crypto, if not in October
 
 *** Tentative/Unconfirmed Talks
 
@@ -76,8 +77,9 @@ Starbucks at Davisville (second floor).
 
 - Adib Saikali :: OpenStack
 - Adib Saikali :: Automating Docker
-- Marcel Gagne :: Cooking with Linux
 - Myles Braithwaite :: Crypto
+- Dave Tilbrook :: Software Engineering
+- 
 
 ** Linux in the Park
 
@@ -119,7 +121,8 @@ Starbucks at Davisville (second floor).
   - Add in that some members tend to have mobile hotspots so Internet is pretty accessible
 - Chris :: Look into miking speakers
 - Bill, Scott :: Pester Drew about ~systemd~ talk for September
-
+- Myles :: Look into crypto talks for October
+- Scott :: Ask Adib to suggest a date for OpenStack talk
 
 
 
