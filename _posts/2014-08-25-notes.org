@@ -1,0 +1,126 @@
+---
+layout: post
+title: "25th August, 2014"
+published: false
+---
+
+* 25th August, 2014
+
+** Location
+
+Starbucks at Davisville (second floor).
+
+** Attendees
+
+*** Most Likely Present
+- Christopher Browne
+- Myles Braithwaite
+- Scott Sullivan
+- Gordon Chillcott
+- Bill Thanis
+- Mike Kalles
+- Amos Weatherill
+
+*** Most Likely Absent
+
+- Ivan Avery Frey
+- David Collier Brown
+
+*** Reminders
+
+- Ivan is away in Italy for a number of months and has given Mike his proxy.
+- Colin only showed up for one board meeting and has given Myles his proxy.
+
+** Meetings
+
+*** Action Items From Last Month
+- Myles :: To retrieve old wiki web page on meeting logistics, add to web site with addition on mobile hotspots
+- Chris :: To check on miking speakers
+- Bill, Scott :: Pestering Drew on ~systemd~ talk
+- Myles :: Looking into crypto for october
+- Scott :: Looking for date from Adib on OpenStack
+
+*** Last Month
+
+- August :: ???
+
+**** Successes
+
+**** Failures
+
+*** Upcoming
+
+- August :: Myles, on CouchDB, Scott Sullivan on Boinc
+
+- September :: TBA
+
+- October :: AGM, reports
+  - Myles would like a series of short targeted crypto talks
+
+- November :: Crypto, if not in October
+
+*** Tentative/Unconfirmed Talks
+
+- September :: ~systemd~ with Drew Sullivan
+
+- October :: Short Talks
+
+**** No Dates
+
+- Adib Saikali :: OpenStack
+- Adib Saikali :: Automating Docker
+- Myles Braithwaite :: Crypto
+- Dave Tilbrook :: Software Engineering
+
+** Mailing List
+
+*** Action Items From Last Month
+
+- Scott :: Warn people that mailing list might die somewhat randomly; look at gtalug.org if it seems dead for pointer
+- Myles :: Set up Linode VPS, mailman
+- Chris :: Backup strategies; copy to Git, encrypt if needed
+  - [[https://github.com/cbbrowne/slony-backups/blob/master/scripts/Slony-Archive-Mail.sh][Script to archive Mailman archives]]
+  - [[https://github.com/cbbrowne/slony-backups/blob/master/scripts/Slony-Archive-Mail-Subscribers.sh][Sample Script to encrypt email address list]]
+  - Chris has a script he regularly uses called ~gitcfroot~ that pulls
+    a variety of things into a git repo for backup, specifically:
+    - CFEngine Scripts
+    - BIND files
+    - DHCP files
+    - The approach is easily extensible to more; the /real issue/ will
+      be to identify what we want backed up
+      - Each service we add should indicate something to be backed up
+    - The big *problem area* is of when to worry about there being
+      material that should be encrypted before backup so that it is
+      not seen by the wrong prying eyes
+
+*** Myles' Plan
+
+- Rent the cheapest VPS at Linode ($10 a month). Which will be called ~penguine~.
+- Setup mailman on ~penguine~.
+- The President to send out an email explaining what is going on.
+- Contacting the top contributors (people who produce content) to the mailing list and ask them to help test.
+- If testing goes according to plan ask everyone to resubscribe.
+
+** Board/Executive Members aren't reading meeting notes
+
+*** Action Items From Last Month
+- Everyone email Scott with their address
+- Scott :: Check it into the Board Git site in YAML file, please provide (here!) the URL where we can access it.
+
+** Code of Conduct
+*** Action Items From Last Month
+- Mike has some amendments to suggest
+
+** CAG & ICANN
+*** Action Items From Last Month
+- ICANN :: Report next month
+- CAG :: Report next month
+
+
+** CAG
+
+** ICANN
+
+** Action Items
+
+

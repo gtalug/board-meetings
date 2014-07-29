@@ -12,7 +12,7 @@ Starbucks at Davisville (second floor).
 
 ** Attendees
 
-*** Most Likely Present
+*** Present
 - Christopher Browne
 - Myles Braithwaite
 - Scott Sullivan
@@ -26,7 +26,7 @@ Starbucks at Davisville (second floor).
 - Ivan Avery Frey
 - David Collier Brown
 
-** Reminders
+*** Reminders
 
 - Ivan is away in Italy for a number of months and has given Mike his proxy.
 - Colin only showed up for one board meeting and has given Myles his proxy.
@@ -37,7 +37,7 @@ Starbucks at Davisville (second floor).
 
 - July :: Movie Magic: The Art of Visual with Ahmed Shehata
 
-**** Succeses
+**** Successes
 - Good turnout - around 26
 - Quite a lot of newcomers
   - None came due to usual channels (mailing list)
@@ -115,7 +115,7 @@ Starbucks at Davisville (second floor).
 
 - Some objected that they did
 - Some apparently aren't reading the mailing list terribly faithfully
-- Everyone email Scott with his address
+- Everyone email Scott with their address
 
 ** Code of Conduct
 
