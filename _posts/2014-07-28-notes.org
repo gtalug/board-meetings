@@ -154,4 +154,5 @@ Starbucks at Davisville (second floor).
 - Chris :: Backup strategies; copy to Git, encrypt if needed
 - All :: Email Scott with your preferred address for Board email
 - Scott :: Check it into the Board Git site in YAML file (ask Myles if you're not sure where)
-
+- ICANN :: Report next month
+- CAG :: Report next month
