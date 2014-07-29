@@ -56,10 +56,9 @@ Starbucks at Davisville (second floor).
   - Look into whether we can get a cheap lapel mike and point it to bluetooth speaker or similar
 - No podium; it looked a bit odd with speaker seated
 
-
 *** Upcoming
 
-- August :: TBA
+- August :: Myles, on CouchDB, Scott Sullivan on Boink
 
 - September :: TBA
 
@@ -69,7 +68,7 @@ Starbucks at Davisville (second floor).
 
 *** Tentative/Unconfirmed Talks
 
-- September :: ~systemd~ with Drew S. and Scott S.
+- September :: ~systemd~ with Drew Sullivan
 
 - October :: Short Talks
 
@@ -119,4 +118,8 @@ Starbucks at Davisville (second floor).
 - Myles :: Retrieve web page from wiki on this
   - Add in that some members tend to have mobile hotspots so Internet is pretty accessible
 - Chris :: Look into miking speakers
+- Bill, Scott :: Pester Drew about ~systemd~ talk for September
+
+
+
 
