@@ -129,10 +129,17 @@ Starbucks at Davisville (second floor).
 - Don't need to have minutae of interactions
 - Report should go to Board
 - Need a lead/deputy in CAG to present to Board
+- Step back...   The reason for POG/CAG was to reduce the amount of political yammering at GTALUG board meetings
+  - Sometimes letters to politicians
+  - Sometimes proposing wordings for bills and such
+  - Shift to Internet Governance via ICANN
+- Myles wants a project plan in October
 
 ** Restructuring GTALUG Board/Executive
 
-- Move to an open volunteer based system.
+- Myles proposed a move to an open volunteer based system.
+- Become an open source project
+- Remove the "private" notion
 
 ** Action Items
 
