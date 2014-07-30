@@ -88,6 +88,7 @@ Starbucks at Davisville (second floor).
 - Scott :: Warn people that mailing list might die somewhat randomly; look at gtalug.org if it seems dead for pointer
 - Myles :: Set up Linode VPS, mailman
 - Chris :: Backup strategies; copy to Git, encrypt if needed
+  - [[https://joeyh.name/code/etckeeper/][etckeeper]] :: Sets up ~/etc~ as a Git (or whatever) repo, hooking into apt/yum so that changes are automatically committed during package install runs.  Lets us track all changes in ~/etc~, as well as seeing when upgrades to packages have been done.  
   - [[https://github.com/cbbrowne/slony-backups/blob/master/scripts/Slony-Archive-Mail.sh][Script to archive Mailman archives]]
   - [[https://github.com/cbbrowne/slony-backups/blob/master/scripts/Slony-Archive-Mail-Subscribers.sh][Sample Script to encrypt email address list]]
   - Chris has a script he regularly uses called ~gitcfroot~ that pulls
