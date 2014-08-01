@@ -34,8 +34,8 @@ Starbucks at Davisville (second floor).
 ** Meetings
 
 *** Action Items From Last Month
-- Myles :: To retrieve old wiki web page on meeting logistics, add to web site with addition on mobile hotspots
-- Chris :: To check on miking speakers
+- TODO Myles :: To retrieve old wiki web page on meeting logistics, add to web site with addition on mobile hotspots
+- TODO Chris :: To check on miking speakers
   - Some searching done...
     - We could get a PA system; probably costs around $200 for
       something we'd want to use, which is pretty expensive for
@@ -45,9 +45,9 @@ Starbucks at Davisville (second floor).
       to phone/tablet pointing to Bluetooth speaker.  Not sure that'll
       actually work out well; I expect it to be pretty laggy.
     - Not sure this is worth doing.
-- Bill, Scott :: Pestering Drew on ~systemd~ talk
-- Myles :: Looking into crypto for october
-- Scott :: Looking for date from Adib on OpenStack
+- TODO Bill, Scott :: Pestering Drew on ~systemd~ talk
+- TODO Myles :: Looking into crypto for october
+- TODO Scott :: Looking for date from Adib on OpenStack
 
 *** Last Month
 
@@ -85,9 +85,9 @@ Starbucks at Davisville (second floor).
 
 *** Action Items From Last Month
 
-- Scott :: Warn people that mailing list might die somewhat randomly; look at gtalug.org if it seems dead for pointer
-- Myles :: Set up Linode VPS, mailman
-- Chris :: Backup strategies; copy to Git, encrypt if needed
+- TODO Scott :: Warn people that mailing list might die somewhat randomly; look at gtalug.org if it seems dead for pointer
+- TODO Myles :: Set up Linode VPS, mailman
+- TODO Chris :: Backup strategies; copy to Git, encrypt if needed
   - [[https://joeyh.name/code/etckeeper/][etckeeper]] :: Sets up ~/etc~ as a Git (or whatever) repo, hooking into apt/yum so that changes are automatically committed during package install runs.  Lets us track all changes in ~/etc~, as well as seeing when upgrades to packages have been done.  
   - [[https://github.com/cbbrowne/slony-backups/blob/master/scripts/Slony-Archive-Mail.sh][Script to archive Mailman archives]]
   - [[https://github.com/cbbrowne/slony-backups/blob/master/scripts/Slony-Archive-Mail-Subscribers.sh][Sample Script to encrypt email address list]]
@@ -114,12 +114,12 @@ Starbucks at Davisville (second floor).
 ** Board/Executive Members aren't reading meeting notes
 
 *** Action Items From Last Month
-- Everyone email Scott with their address
-- Scott :: Check it into the Board Git site in YAML file, please provide (here!) the URL where we can access it.
+- TODO Everyone email Scott with their address
+- TODO Scott :: Check it into the Board Git site in YAML file, please provide (here!) the URL where we can access it.
 
 ** Code of Conduct
 *** Action Items From Last Month
-- Mike has some amendments to suggest
+- TODO Mike :: has some amendments to suggest
 
 ** CAG & ICANN
 *** Action Items From Last Month
