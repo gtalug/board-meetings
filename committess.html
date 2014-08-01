@@ -1,0 +1,48 @@
+---
+layout: default
+title: GTALUG Committees
+---
+
+<div class="page-header">
+	<h1>GTALUG Committees</h1>
+</div>
+
+<div class="row">
+	{% for committee in site.data.committees %}
+	<div class="col-md-6">
+		<div class="panel panel-info">
+			<div class="panel-heading">
+				<h3 class="panel-title">{{ committee.title }}</h3>
+			</div>
+			
+			<div class="panel-body">
+				<p>{{ committee.description }}</p>
+			</div>
+			
+			<table class="table table-condensed">
+				<tbody>
+					<tr>
+						<th>Leader</th>
+						<td>{{ committee.leader }}</td>
+					</tr>
+					<tr>
+						<th>Deputy</th>
+						<td>{{ committee.deputy }}</td>
+					</tr>
+					<tr>
+						<th>Link</th>
+						<td><a href="{{ committee.link }}">{{ committee.link }}</a></td>
+					</tr>
+				</tbody>
+			</table>
+			
+			<ul class="list-group">
+				<li class="list-group-item"><strong>Members</strong></li>
+				{% for member in committee.members %}
+				<li class="list-group-item">{{ member }}</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+	{% endfor %}
+</div>

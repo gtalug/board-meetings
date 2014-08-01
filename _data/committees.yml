@@ -1,5 +1,6 @@
-- title: "NARALO (North American Regional At-Large Organization) - ICANN"
-  description: ""
+- title: "NARALO - ICANN"
+  description: "North American Regional At-Large Organization"
+  link: "https://community.icann.org/pages/viewpage.action?pageId=11141800"
   leader: TODO
   deputy: TODO
   members:
@@ -7,8 +8,9 @@
   - Bill Thanis
   - TODO
 
-- title: "CAG (Community Advocacy Group) - GTALUG"
-  description: ""
+- title: "CAG - GTALUG"
+  description: "Community Advocacy Group"
+  link: "http://outreach.gtalug.org/"
   leader: TODO
   deputy: TODO
   members:
