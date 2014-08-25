@@ -13,10 +13,12 @@
   twitter: mylesb
   github: myles
   fingerprint: 45A5 ED20 B8E8 06FD 8CF8  ED1E 6A4C E837 5A2F E7BF
+  proxy_for: Colin TODO
 
-- name: Ivan TODO
+- name: Mike Kalles
   elected: "2012-2014"
-  email: ivan@example.org
+  email: mike@example.org
+  proxy_for: Ivan Avery Frey
 
 - name: Empty Seat
   elected: "2013-2015"

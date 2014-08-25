@@ -1,0 +1,47 @@
+---
+layout: default
+title: GTALUG Board Members
+---
+
+<div class="page-header">
+	<h1>GTALUG Board Members</h1>
+	<p class="lead">People who are elected by the GTALUG Members to server on the GTALUG Board. <!-- TODO This is stupidly written. --></p>
+</div>
+
+<div class="row">
+	{% for member in site.data.members %}
+	<div class="col-md-6">
+		<div class="panel panel-info">
+			<div class="panel-heading">
+				<h3 class="panel-title">{{ member.name }}</h3>
+			</div>
+			<table class="table table-condensed">
+				<tbody>
+					<tr>
+						<th>Elected</th>
+						<td>{{ member.elected }}</td>
+					</tr>
+					{% if member.email %}
+					<tr>
+						<th>Email</th>
+						<td>{{ member.email }}</td>
+					</tr>
+					{% endif %}
+					{% if member.homepage %}
+					<tr>
+						<th>Homeapge</th>
+						<td><a href="{{ member.homepage }}">{{ member.homepage }}</a></td>
+					{% endif %}
+					{% if member.twitter or member.github %}
+					<tr>
+						<th>Social</th>
+						<td>{% if member.twitter %}<a href="https://www.twitter.com/{{ member.twitter }}">Twitter</a>{% endif %} {% if memebr.github %}<a href="https://github.com/{{ member.github }}">GitHub</a>{% endif %}</td>
+					</tr>
+					{% endif %}
+				</tbody>
+			</table>
+			<div class="panel-footer"></div>
+		</div>
+	</div>
+	{% endfor %}
+</div>
