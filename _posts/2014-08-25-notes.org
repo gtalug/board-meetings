@@ -14,8 +14,8 @@ Starbucks at Davisville (second floor).
 
 *** Most Likely Present
 - Christopher Browne
-- Myles Braithwaite
 - Scott Sullivan
+- David Collier Brown
 - Gordon Chillcott
 - Bill Thanis
 - Mike Kalles
@@ -23,8 +23,8 @@ Starbucks at Davisville (second floor).
 
 *** Most Likely Absent
 
+- Myles Braithwaite
 - Ivan Avery Frey
-- David Collier Brown
 
 *** Reminders
 
@@ -51,15 +51,13 @@ Starbucks at Davisville (second floor).
 
 *** Last Month
 
-- August :: ???
+- August :: Bosh
 
 **** Successes
 
 **** Failures
 
 *** Upcoming
-
-- August :: Myles, on CouchDB, Scott Sullivan on Boinc
 
 - September :: TBA
 
@@ -69,6 +67,8 @@ Starbucks at Davisville (second floor).
 - November :: Crypto, if not in October
 
 *** Tentative/Unconfirmed Talks
+
+- Mix :: Myles, on CouchDB, Scott Sullivan on Boinc
 
 - September :: ~systemd~ with Drew Sullivan
 
@@ -80,6 +80,7 @@ Starbucks at Davisville (second floor).
 - Adib Saikali :: Automating Docker
 - Myles Braithwaite :: Crypto
 - Dave Tilbrook :: Software Engineering
+- Byron Sonne :: Suggested by DCB
 
 ** Mailing List
 
@@ -88,6 +89,7 @@ Starbucks at Davisville (second floor).
 - TODO Scott :: Warn people that mailing list might die somewhat randomly; look at gtalug.org if it seems dead for pointer
 - TODO Myles :: Set up Linode VPS, mailman
 - TODO Chris :: Backup strategies; copy to Git, encrypt if needed
+  - Numerous components being backed up
   - [[https://joeyh.name/code/etckeeper/][etckeeper]] :: Sets up ~/etc~ as a Git (or whatever) repo, hooking into apt/yum so that changes are automatically committed during package install runs.  Lets us track all changes in ~/etc~, as well as seeing when upgrades to packages have been done.  
   - [[https://github.com/cbbrowne/slony-backups/blob/master/scripts/Slony-Archive-Mail.sh][Script to archive Mailman archives]]
   - [[https://github.com/cbbrowne/slony-backups/blob/master/scripts/Slony-Archive-Mail-Subscribers.sh][Sample Script to encrypt email address list]]
@@ -125,7 +127,6 @@ Starbucks at Davisville (second floor).
 *** Action Items From Last Month
 - ICANN :: Report next month
 - CAG :: Report next month
-
 
 ** CAG
 
