@@ -7,8 +7,8 @@ from fabric.api import env, put, local, task, hosts, sudo
 
 import yaml
 
-env.hosts = ['panda']
-env.remote_dir = '/srv/www/org_gtalug/board/html/'
+env.hosts = ['penguin.gtalug.org']
+env.remote_dir = '/srv/www/org_gtalug_board/html/'
 env.use_ssh_config = True
 
 with open('_config.yml') as f:
@@ -32,7 +32,7 @@ def build():
   jekyll('build')
 
 @task
-@hosts('panda')
+@hosts('penguin.gtalug.org')
 def deploy():
   """
   This will deploy the web site to the GTALUG web space.
@@ -46,7 +46,7 @@ def deploy():
   )
 
 @task
-@hosts('panda')
+@hosts('penguin.gtalug.org')
 def update_nginx_config():
   """
   This will update the Nginx configuration file on the remote host.
