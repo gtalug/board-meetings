@@ -68,20 +68,18 @@ Starbucks at Davisville (second floor).
 - September :: Myles on CouchDB, Scott on boinc, Alex on ZopeDB
 
 - September 20 :: Software Freedom Day
-  - Should we try something?
+  - Should we try something?  Next year!
 
 - October :: AGM, reports
   - Myles would like a series of short targeted crypto talks
 
 - November :: Crypto, if not in October
 
-- December :: Drew on SystemD, or someone on it?
+- December :: Drew on SystemD, or someone, Giles?
 
 *** Tentative/Unconfirmed Talks
 
 - Mix :: Myles, on CouchDB, Scott Sullivan on Boinc
-
-- September :: ~systemd~ with Drew Sullivan
 
 - October :: Short Talks
 
@@ -91,7 +89,8 @@ Starbucks at Davisville (second floor).
 - Adib Saikali :: Automating Docker
 - Myles Braithwaite :: Crypto
 - Dave Tilbrook :: Software Engineering
-- Byron Sonne :: Suggested by DCB
+- Byron Sonne :: On CitizenLab?
+- Giles :: Anything interesting?
 
 ** Mailing List
 
@@ -157,5 +156,13 @@ Starbucks at Davisville (second floor).
   - 3 positions, 1 that's just 1 year
 - TODO Mike :: Make a wee map of the floor plan
 - TODO Chris :: Backup the mailman templates
-
-
+- TODO Bill :: Pester Drew on SystemD, we'll start looking for alternative for this next month
+- TODO Mike :: GPG key
+- TODO Scott :: Mail series for sunsetting TLUG list
+  - One message indicating the plan
+  - A weekly message until Sept 30 indicating "7 less days"
+  - A final message entitled "GTALUG Mailing List Has Moved"
+- TODO Scott :: Subscribe GMANE to new list
+- TODO Alex :: Set up Mailman archive of the old list
+  - Need mailing list (Myles)
+  - May need Alex to help get more data
