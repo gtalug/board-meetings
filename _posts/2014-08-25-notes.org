@@ -67,10 +67,15 @@ Starbucks at Davisville (second floor).
 
 - September :: Myles on CouchDB, Scott on boinc, Alex on ZopeDB
 
+- September 20 :: Software Freedom Day
+  - Should we try something?
+
 - October :: AGM, reports
   - Myles would like a series of short targeted crypto talks
 
 - November :: Crypto, if not in October
+
+- December :: Drew on SystemD, or someone on it?
 
 *** Tentative/Unconfirmed Talks
 
@@ -151,3 +156,6 @@ Starbucks at Davisville (second floor).
 - TODO Myles :: Announce election
   - 3 positions, 1 that's just 1 year
 - TODO Mike :: Make a wee map of the floor plan
+- TODO Chris :: Backup the mailman templates
+
+
