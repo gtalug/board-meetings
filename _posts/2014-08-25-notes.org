@@ -132,6 +132,17 @@ Starbucks at Davisville (second floor).
   - Need returning officer
   - Need to announce election
 
+** Meetup.com
+
+  - Discussion around Adib's offer to share his Meetup.com account
+    - Mike raised, Meetup.com has a group ownership concept and Adib's too new
+  - Alex supports the idea.  This was also supported by Renata early in the year, and Mike too.  All are willing to fund the experiment.
+  - Last thought was to give it a try for a year and see what happens.
+  - at $70/year, if we get 3.5 new members/year it will pay for itself.
+  - Myles raised that it is another place to have to update the meeting information
+  - Chris raised that this is not a good time given the mailing list changes, consider October
+  - TODO Mike :: Add to October Agenda
+
 ** Action Items
 
 - TODO Myles :: Document the Operations mailing list
