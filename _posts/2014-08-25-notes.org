@@ -12,8 +12,9 @@ Starbucks at Davisville (second floor).
 
 ** Attendees
 
-*** Most Likely Present
+*** Present
 - Christopher Browne
+- Myles Braithwaite
 - Scott Sullivan
 - Gordon Chillcott
 - Bill Thanis
@@ -21,11 +22,11 @@ Starbucks at Davisville (second floor).
 - Myles Braithwaite
 - Alex Volkov
 
-*** Most Likely Absent
+*** Absent
 
-- Ivan Avery Frey
 - Amos Weatherill
 - David Collier Brown
+- Ivan Avery Frey
 
 *** Reminders
 
@@ -36,6 +37,7 @@ Starbucks at Davisville (second floor).
 
 *** Action Items From Last Month
 - TODO Myles :: To retrieve old wiki web page on meeting logistics, add to web site with addition on mobile hotspots
+  - Couldn't find it; will try rewriting the page
 - TODO Chris :: To check on miking speakers
   - Some searching done...
     - We could get a PA system; probably costs around $200 for
@@ -46,6 +48,7 @@ Starbucks at Davisville (second floor).
       to phone/tablet pointing to Bluetooth speaker.  Not sure that'll
       actually work out well; I expect it to be pretty laggy.
     - Not sure this is worth doing.
+  - Someone at Hacklab working on portable podcast rig
 - TODO Bill, Scott :: Pestering Drew on ~systemd~ talk
 - TODO Myles :: Looking into crypto for october
 - TODO Scott :: Looking for date from Adib on OpenStack
@@ -55,23 +58,30 @@ Starbucks at Davisville (second floor).
 - August :: Bosh
 
 **** Successes
+- A number of new and unfamiliar faces
+- Count was 28
 
 **** Failures
+- Someone got lost looking for the room
+  - Someone should draw a bit of a map indicating location
 
 *** Upcoming
 
-- September :: TBA
+- September :: Myles on CouchDB, Scott on boinc, Alex on ZopeDB
+
+- September 20 :: Software Freedom Day
+  - Should we try something?  Next year!
 
 - October :: AGM, reports
   - Myles would like a series of short targeted crypto talks
 
 - November :: Crypto, if not in October
 
+- December :: Drew on SystemD, or someone, Giles?
+
 *** Tentative/Unconfirmed Talks
 
 - Mix :: Myles, on CouchDB, Scott Sullivan on Boinc
-
-- September :: ~systemd~ with Drew Sullivan
 
 - October :: Short Talks
 
@@ -81,30 +91,16 @@ Starbucks at Davisville (second floor).
 - Adib Saikali :: Automating Docker
 - Myles Braithwaite :: Crypto
 - Dave Tilbrook :: Software Engineering
-- Byron Sonne :: Suggested by DCB
+- Byron Sonne :: On CitizenLab?
+- Giles :: Anything interesting?
 
 ** Mailing List
 
 *** Action Items From Last Month
 
 - TODO Scott :: Warn people that mailing list might die somewhat randomly; look at gtalug.org if it seems dead for pointer
-- TODO Myles :: Set up Linode VPS, mailman
-- TODO Chris :: Backup strategies; copy to Git, encrypt if needed
-  - Numerous components being backed up
-  - [[https://joeyh.name/code/etckeeper/][etckeeper]] :: Sets up ~/etc~ as a Git (or whatever) repo, hooking into apt/yum so that changes are automatically committed during package install runs.  Lets us track all changes in ~/etc~, as well as seeing when upgrades to packages have been done.  
-  - [[https://github.com/cbbrowne/slony-backups/blob/master/scripts/Slony-Archive-Mail.sh][Script to archive Mailman archives]]
-  - [[https://github.com/cbbrowne/slony-backups/blob/master/scripts/Slony-Archive-Mail-Subscribers.sh][Sample Script to encrypt email address list]]
-  - Chris has a script he regularly uses called ~gitcfroot~ that pulls
-    a variety of things into a git repo for backup, specifically:
-    - CFEngine Scripts
-    - BIND files
-    - DHCP files
-    - The approach is easily extensible to more; the /real issue/ will
-      be to identify what we want backed up
-      - Each service we add should indicate something to be backed up
-    - The big *problem area* is of when to worry about there being
-      material that should be encrypted before backup so that it is
-      not seen by the wrong prying eyes
+- Done (for now) Myles :: Set up Linode VPS, mailman
+- Done (for now) Chris :: Backup strategies; copy to Git, encrypt if needed
 
 *** Myles' Plan
 
@@ -117,7 +113,7 @@ Starbucks at Davisville (second floor).
 ** Board/Executive Members aren't reading meeting notes
 
 *** Action Items From Last Month
-- TODO Everyone email Scott with their address
+- TODO Everyone :: email Scott with their address
 - TODO Scott :: Check it into the Board Git site in YAML file, please provide (here!) the URL where we can access it.
 
 ** Code of Conduct
@@ -126,13 +122,60 @@ Starbucks at Davisville (second floor).
 
 ** CAG & ICANN
 *** Action Items From Last Month
-- ICANN :: Report next month
-- CAG :: Report next month
+- ICANN :: No Meeting, No Report
+- CAG :: No Meeting, No Report
 
 ** CAG
 
 ** ICANN
 
+** Next Election
+
+  - Need returning officer
+  - Need to announce election
+
+** Meetup.com
+
+  - Discussion around Adib's offer to share his Meetup.com account
+    - Mike raised, Meetup.com has a group ownership concept and Adib's too new
+  - Alex supports the idea.  This was also supported by Renata early in the year, and Mike too.  All are willing to fund the experiment.
+  - Last thought was to give it a try for a year and see what happens.
+  - at $70/year, if we get 3.5 new members/year it will pay for itself.
+  - Myles raised that it is another place to have to update the meeting information
+  - Chris raised that this is not a good time given the mailing list changes, consider October
+  - TODO Mike :: Add to October Agenda
+
 ** Action Items
 
-
+- TODO Myles :: Document the Operations mailing list
+  - Operations should be open for interested people to request subscription
+  - Intended for people participating in operating GTALUG
+- TODO Myles :: Document the Board mailing list even though the subscriber list is miniscule
+  - Invitation only list for active board members
+- All :: Email Scott with your preferred address for Board email
+- TODO Scott :: Check it into the Board Git site in YAML file, please provide (here!) the URL where we can access it.
+- TODO Chris :: Cheque for Myles at next meeting
+- Myles :: Set up email addresses
+  - Scott wants one - scott@gtalug.org
+  - Chris :: already there as chris@gtalug.org
+  - Should we install IMAPD?
+  - Set up shell account for Scott
+- Any? :: Should someone be monitoring root email
+- TODO Mike :: Ping DCB about whazzup for CAG/ICANN
+- TODO Gord :: Ping Evan to talk at AGM about ICANN
+- TODO Mike :: Talk on Code of Conduct for AGM
+- TODO Chris :: Ask Bill if he's interested in being returning officer
+- TODO Myles :: Announce election
+  - 3 positions, 1 that's just 1 year
+- TODO Mike :: Make a wee map of the floor plan
+- TODO Chris :: Backup the mailman templates
+- TODO Bill :: Pester Drew on SystemD, we'll start looking for alternative for this next month
+- TODO Mike :: GPG key
+- TODO Scott :: Mail series for sunsetting TLUG list
+  - One message indicating the plan
+  - A weekly message until Sept 30 indicating "7 less days"
+  - A final message entitled "GTALUG Mailing List Has Moved"
+- TODO Scott :: Subscribe GMANE to new list
+- TODO Alex :: Set up Mailman archive of the old list
+  - Need mailing list (Myles)
+  - May need Alex to help get more data
