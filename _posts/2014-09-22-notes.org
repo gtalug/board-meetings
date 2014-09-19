@@ -1,0 +1,113 @@
+---
+layout: post
+title: "22nd September, 2014"
+published: true
+---
+
+* 22nd September, 2014
+
+** Location
+
+Starbucks at Davisville (second floor).
+
+** Attendees
+
+*** Most Likely Present
+- Christopher Browne
+- Scott Sullivan
+- David Collier Brown
+- Gordon Chillcott
+- Bill Thanis
+- Mike Kalles
+- Amos Weatherill
+
+*** Most Likely Absent
+
+- Myles Braithwaite
+- Ivan Avery Frey
+
+*** Reminders
+
+- Ivan is away in Italy for a number of months and has given Mike his proxy.
+- Colin only showed up for one board meeting and has given Myles his proxy.
+
+** Meetings
+
+*** Action Items From Last Month
+
+*** Last Month
+
+- August :: Bosh
+
+**** Successes
+
+**** Failures
+
+
+- Mix :: Myles, on CouchDB, Scott Sullivan on Boinc, Alex Volkov on ZopeDB
+
+*** Upcoming
+
+- October :: AGM, reports
+  - Myles would like a series of short targeted crypto talks
+  - Reports
+    - Chris suggests the following slots as being generally a good
+      idea; no particular order necessarily implied, but they surely
+      should be ordered...
+    - Finances :: Chris
+    - ICANN :: Gord
+    - CAG :: Mike
+    - ICANN - Extended :: Evan
+    - Prez Report :: Scott
+    - Systems/Operations :: Myles
+    - Board Member Stump Time :: This probably needs to be first...
+    - Election Results :: Bill
+
+- November :: Crypto, if not in October
+
+*** Tentative/Unconfirmed Talks
+
+- September :: ~systemd~ with Drew Sullivan
+
+- October :: Short Talks
+
+**** No Dates
+
+- Adib Saikali :: OpenStack
+- Adib Saikali :: Automating Docker
+- Myles Braithwaite :: Crypto
+- Dave Tilbrook :: Software Engineering
+- Byron Sonne :: Suggested by DCB
+
+** AGM Material
+
+** Mailing List
+
+*** Action Items From Last Month
+
+- TODO Scott :: Warn people that mailing list might die somewhat randomly; look at gtalug.org if it seems dead for pointer
+      
+*** Myles' Plan
+
+** Board/Executive Members aren't reading meeting notes
+
+*** Action Items From Last Month
+- TODO Everyone email Scott with their address
+- TODO Scott :: Check it into the Board Git site in YAML file, please provide (here!) the URL where we can access it.
+
+** Code of Conduct
+*** Action Items From Last Month
+- TODO Mike :: has some amendments to suggest
+
+** CAG & ICANN
+*** Action Items From Last Month
+- ICANN :: Report next month
+- CAG :: Report next month
+
+** CAG
+
+** ICANN
+
+** Action Items
+
+
