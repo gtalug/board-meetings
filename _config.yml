@@ -1,5 +1,5 @@
-name: GTALUG Board
-
+name: 'GTALUG Board'
+baseurl: 'http://board.gtalug.org'
 permalink: /:year-:month-:day/:title.html
 
 source: .
@@ -8,3 +8,10 @@ destination: ./_site
 highlighter: false
 
 exclude: ['fabfile.py', 'fabfile.pyc', 'Gemfile', 'README.md']
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://board.gtalug.org/'
+  relativeLinks: 'http://board.gtalug.org/links.jsonp'
+  media: media
+
