@@ -15,6 +15,7 @@ Starbucks at Davisville (second floor).
 *** Most Likely Present
 - Christopher Browne
 - Scott Sullivan
+- Myles Braithwaite
 - David Collier Brown
 - Gordon Chillcott
 - Bill Thanis
@@ -23,28 +24,29 @@ Starbucks at Davisville (second floor).
 
 *** Most Likely Absent
 
-- Myles Braithwaite
 - Ivan Avery Frey
 
 *** Reminders
 
-- Ivan is away in Italy for a number of months and has given Mike his proxy.
-- Colin only showed up for one board meeting and has given Myles his proxy.
+ - Ivan is away in Italy for a number of months and has given Mike his proxy.
+ - Colin only showed up for one board meeting and has given Myles his proxy.
 
 ** Meetings
+ - TODO Mike :: Make a wee map of the floor plan
+ - New TODO :: Discuss projector
+   - Rental of Drew's projector has term complete
+   - It seems likely we may end that; Drew has paid for the projector, so is pleased with things
+   - We frequently find we need extra cabling; may want to buy some cables and carrying case
 
 *** Action Items From Last Month
 
 *** Last Month
 
-- August :: Bosh
+- September :: Myles on CouchDB, Scott on boinc, Alex on ZopeDB
 
 **** Successes
 
 **** Failures
-
-
-- Mix :: Myles, on CouchDB, Scott Sullivan on Boinc, Alex Volkov on ZopeDB
 
 *** Upcoming
 
@@ -67,10 +69,6 @@ Starbucks at Davisville (second floor).
 
 *** Tentative/Unconfirmed Talks
 
-- September :: ~systemd~ with Drew Sullivan
-
-- October :: Short Talks
-
 **** No Dates
 
 - Adib Saikali :: OpenStack
@@ -78,6 +76,7 @@ Starbucks at Davisville (second floor).
 - Myles Braithwaite :: Crypto
 - Dave Tilbrook :: Software Engineering
 - Byron Sonne :: Suggested by DCB
+- Drew Sullivan :: ~systemd~
 
 ** AGM Material
 
@@ -85,9 +84,27 @@ Starbucks at Davisville (second floor).
 
 *** Action Items From Last Month
 
+- TODO Scott :: Mail series for sunsetting TLUG list
+  - One message indicating the plan
+  - A weekly message until Sept 30 indicating "7 less days"
+  - A final message entitled "GTALUG Mailing List Has Moved"
+- TODO Myles :: Document the Operations mailing list
+  - Operations should be open for interested people to request subscription
+  - Intended for people participating in operating GTALUG
+- TODO Myles :: Document the Board mailing list even though the subscriber list is miniscule
+  - Invitation only list for active board members
 - TODO Scott :: Warn people that mailing list might die somewhat randomly; look at gtalug.org if it seems dead for pointer
-      
-*** Myles' Plan
+- Myles :: Set up email addresses
+  - Scott wants one - scott@gtalug.org
+  - Chris :: already there as chris@gtalug.org
+  - Should we install IMAPD?
+  - Set up shell account for Scott
+- TODO Scott :: Subscribe GMANE to new list
+- TODO Alex :: Set up Mailman archive of the old list
+  - Need mailing list (Myles)
+  - May need Alex to help get more data
+  - Reasonable for this to wait until old list is dead
+- Any? :: Should someone be monitoring root email
 
 ** Board/Executive Members aren't reading meeting notes
 
