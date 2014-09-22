@@ -18,10 +18,9 @@ Starbucks at Davisville (second floor).
 - Scott Sullivan
 - Amos Weatherill
 - David Collier Brown
-
 - Myles Braithwaite
-- Gordon Chillcott
 - Mike Kalles
+- Gordon Chillcott
 
 *** Absent
 
@@ -35,13 +34,16 @@ Starbucks at Davisville (second floor).
 ** Meetings
  - TODO Mike :: Make a wee map of the floor plan
    - Got a somewhat ugly one
+   - Doesn't seem to be a good diagram available from Ryerson
+   - Mike will see about a Mark II version
  - New TODO :: Discuss projector
    - Rental of Drew's projector has term complete
    - It seems likely we may end that; Drew has paid for the projector, so is pleased with things
    - We frequently find we need extra cabling; may want to buy some cables and carrying case
+   - Need HDMI cable
 
 *** Action Items From Last Month
-
+    
 *** Last Month
 
 - September :: Myles on CouchDB, Scott on boinc, Alex on ZopeDB
@@ -109,9 +111,9 @@ Starbucks at Davisville (second floor).
 - Any? :: Should someone be monitoring root email
 
 *** Code of Conduct
+   - What are we going to do if someone breaks the Code of Conduct on the Mailing List?
 
 *** Moderators
-
 
 ** Board Election
  - Need to publicize board election...
@@ -125,18 +127,16 @@ Starbucks at Davisville (second floor).
 ** Board/Executive Members aren't reading meeting notes
 
 *** Action Items From Last Month
-- TODO Everyone email Scott with their address
+- TODO Everyone :: email Scott with their address
 - TODO Scott :: Check it into the Board Git site in YAML file, please provide (here!) the URL where we can access it.
 
 ** Code of Conduct
-
-- Mailing List
-   - What are we going to do if someone breaks the Code of Conduct on the Mailing List?
 
 *** Action Items From Last Month
 - TODO Mike :: has some amendments to suggest
 
 ** CAG & ICANN
+- No meetings ergo no reports
 *** Action Items From Last Month
 - ICANN :: Report next month
 - CAG :: Report next month
