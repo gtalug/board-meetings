@@ -84,7 +84,7 @@ Starbucks at Davisville (second floor).
 
 *** Action Items From Last Month
 
-- TODO Scott :: Mail series for sunsetting TLUG list
+- TODO Myles :: Mail series for sunsetting TLUG list
   - One message indicating the plan
   - A weekly message until Sept 30 indicating "7 less days"
   - A final message entitled "GTALUG Mailing List Has Moved"
@@ -93,7 +93,7 @@ Starbucks at Davisville (second floor).
   - Intended for people participating in operating GTALUG
 - TODO Myles :: Document the Board mailing list even though the subscriber list is miniscule
   - Invitation only list for active board members
-- TODO Scott :: Warn people that mailing list might die somewhat randomly; look at gtalug.org if it seems dead for pointer
+- TODO Myles :: Warn people that mailing list might die somewhat randomly; look at gtalug.org if it seems dead for pointer
 - Myles :: Set up email addresses
   - Scott wants one - scott@gtalug.org
   - Chris :: already there as chris@gtalug.org
@@ -122,6 +122,10 @@ Starbucks at Davisville (second floor).
 - TODO Scott :: Check it into the Board Git site in YAML file, please provide (here!) the URL where we can access it.
 
 ** Code of Conduct
+
+- Mailing List
+   - What are we going to do if someone breaks the Code of Conduct on the Mailing List?
+
 *** Action Items From Last Month
 - TODO Mike :: has some amendments to suggest
 
