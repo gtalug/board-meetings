@@ -12,17 +12,18 @@ Starbucks at Davisville (second floor).
 
 ** Attendees
 
-*** Most Likely Present
+*** Present
 - Christopher Browne
-- Scott Sullivan
-- Myles Braithwaite
-- David Collier Brown
-- Gordon Chillcott
 - Bill Thanis
-- Mike Kalles
+- Scott Sullivan
 - Amos Weatherill
+- David Collier Brown
 
-*** Most Likely Absent
+- Myles Braithwaite
+- Gordon Chillcott
+- Mike Kalles
+
+*** Absent
 
 - Ivan Avery Frey
 
@@ -33,6 +34,7 @@ Starbucks at Davisville (second floor).
 
 ** Meetings
  - TODO Mike :: Make a wee map of the floor plan
+   - Got a somewhat ugly one
  - New TODO :: Discuss projector
    - Rental of Drew's projector has term complete
    - It seems likely we may end that; Drew has paid for the projector, so is pleased with things
