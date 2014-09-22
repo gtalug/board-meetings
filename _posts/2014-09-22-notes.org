@@ -106,6 +106,15 @@ Starbucks at Davisville (second floor).
   - Reasonable for this to wait until old list is dead
 - Any? :: Should someone be monitoring root email
 
+** Board Election
+ - Need to publicize board election...
+ - A perceived complexity is there being 2x2 year slots and 1x1 year
+   slot
+ - There does not seem to be any reason we couldn't switch that 1 slot to be filled now.
+   - Bylaws do not declare any particular arrangement, not even that there be 5 board members
+   - It would surely be simpler to have an election with 3 identical seats
+ - Bill Thanis :: Returning Officer
+
 ** Board/Executive Members aren't reading meeting notes
 
 *** Action Items From Last Month
