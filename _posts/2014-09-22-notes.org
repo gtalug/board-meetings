@@ -41,6 +41,9 @@ Starbucks at Davisville (second floor).
    - It seems likely we may end that; Drew has paid for the projector, so is pleased with things
    - We frequently find we need extra cabling; may want to buy some cables and carrying case
    - Need HDMI cable
+   - Budget $20 for a bag for cabling
+     - Deemed discretionary spending
+     - Reimburse for HDMI cable
 
 *** Action Items From Last Month
     
@@ -50,11 +53,23 @@ Starbucks at Davisville (second floor).
 
 **** Successes
 
+  - Bill would kinda like to get an expanded talk on ZopeDB
+  - Not terribly many speaker interruptions
+
 **** Failures
+
+  - The pieces were a bit too long; each could have used more than 30 minutes
+  - Perhaps we should do 4 talks, which ensures people are well aware that their time is limited
+  - Nice to have a timer for speakers
+  - Someone responsible for timing
+  - Write a policy
+    - Mike has volunteered to draft something
+      - Bring airhorn!!!
+  - Could we use a moderator?
 
 *** Upcoming
 
-- October :: AGM, reports
+  - October :: AGM, reports
   - Myles would like a series of short targeted crypto talks
   - Reports
     - Chris suggests the following slots as being generally a good
@@ -147,4 +162,10 @@ Starbucks at Davisville (second floor).
 
 ** Action Items
 
+  - Scott :: Arrange bag for cabling
+  - Chris :: Budget for bag, HDMI adaptor
+  - Mike :: Policy on timing for meetings
+  - Bill Thanis :: Get drive with Mediawiki mounted
+    - Also SQLite database to send to Myles
+      ~/var/lib/trac/gtalug.db~
 
