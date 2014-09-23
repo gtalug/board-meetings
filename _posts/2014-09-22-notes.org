@@ -65,26 +65,30 @@ Starbucks at Davisville (second floor).
   - Write a policy
     - Mike has volunteered to draft something
       - Bring airhorn!!!
+      - Need a speaker description/introduction
   - Could we use a moderator?
 
 *** Upcoming
 
   - October :: AGM, reports
-  - Myles would like a series of short targeted crypto talks
-  - Reports
-    - Chris suggests the following slots as being generally a good
+    - Reports :: Chris suggests the following slots as being generally a good
       idea; no particular order necessarily implied, but they surely
       should be ordered...
-    - Finances :: Chris
-    - ICANN :: Gord
-    - CAG :: Mike
-    - ICANN - Extended :: Evan
-    - Prez Report :: Scott
-    - Systems/Operations :: Myles
-    - Board Member Stump Time :: This probably needs to be first...
-    - Election Results :: Bill
+      - Prez Report :: Scott
+      - Board Member Stump Time :: Bill...
+        - Speak to expectations
+        - Actual problem :: Need quorum
+        - Need ballots
+      - Finances :: Chris
+      - CAG :: Mike - reboot?
+      - ICANN :: Gord
+      - Code of Conduct :: Mike
+      - Systems/Operations :: Myles
+      - ICANN - Extended :: Evan
+      - Election Results :: Bill
 
-- November :: Crypto, if not in October
+  - November :: Crypto, if not in October
+  - Myles would like a series of short targeted crypto talks
 
 *** Tentative/Unconfirmed Talks
 
@@ -96,7 +100,7 @@ Starbucks at Davisville (second floor).
 - Dave Tilbrook :: Software Engineering
 - Byron Sonne :: Suggested by DCB
 - Drew Sullivan :: ~systemd~
-
+		   
 ** AGM Material
 
 ** Mailing List
@@ -112,13 +116,16 @@ Starbucks at Davisville (second floor).
   - Intended for people participating in operating GTALUG
 - TODO Myles :: Document the Board mailing list even though the subscriber list is miniscule
   - Invitation only list for active board members
+  - Done
 - TODO Myles :: Warn people that mailing list might die somewhat randomly; look at gtalug.org if it seems dead for pointer
 - Myles :: Set up email addresses
   - Scott wants one - scott@gtalug.org
   - Chris :: already there as chris@gtalug.org
   - Should we install IMAPD?
   - Set up shell account for Scott
+    - Scott should try to log in
 - TODO Scott :: Subscribe GMANE to new list
+  - Myles contacted them...
 - TODO Alex :: Set up Mailman archive of the old list
   - Need mailing list (Myles)
   - May need Alex to help get more data
@@ -126,9 +133,21 @@ Starbucks at Davisville (second floor).
 - Any? :: Should someone be monitoring root email
 
 *** Code of Conduct
-   - What are we going to do if someone breaks the Code of Conduct on the Mailing List?
+  - What are we going to do if someone breaks the Code of Conduct on the Mailing List?
+  - How do we handle people that do so?
+    - When in error, seek to teach people to improve
+    - Three strikes and you're out
+    - We had a case where someone said something inapropos
+      - We went to them privately
+      - They stopped
+      - Public complaint that the matter hadn't been SEEN to be addressed
 
 *** Moderators
+  - Moderator overseeing things
+  - When things are done, cc the Board
+  - Archives of such need to be private
+  - Responsibility currently lies at board
+  - Myles suggests Hugh as a candidate to be moderator 
 
 ** Board Election
  - Need to publicize board election...
@@ -137,6 +156,10 @@ Starbucks at Davisville (second floor).
  - There does not seem to be any reason we couldn't switch that 1 slot to be filled now.
    - Bylaws do not declare any particular arrangement, not even that there be 5 board members
    - It would surely be simpler to have an election with 3 identical seats
+ - Vote
+   - On 2x2 + 1x1 :: 2
+   - On 3x2 :: 2
+   - President broke tie by declaring for 3x2
  - Bill Thanis :: Returning Officer
 
 ** Board/Executive Members aren't reading meeting notes
@@ -168,4 +191,10 @@ Starbucks at Davisville (second floor).
   - Bill Thanis :: Get drive with Mediawiki mounted
     - Also SQLite database to send to Myles
       ~/var/lib/trac/gtalug.db~
+  - Scott :: Follow up with Evan on ICANN material at AGM
+  - Bill :: Preparing ballots
+  - Scott :: Get Drew to bounce mail back with "head to the new list" messages
+  - Myles :: Notice about board elections, verify with Bill, nice to put it on the web site too
+  - Alex :: Archiving old list
+  - Scott :: Kill off board list @ tlug.ss.org
 
