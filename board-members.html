@@ -35,7 +35,10 @@ title: GTALUG Board Members
 					{% if member.twitter or member.github %}
 					<tr>
 						<th>Social</th>
-						<td>{% if member.twitter %}<a href="https://www.twitter.com/{{ member.twitter }}">Twitter</a>{% endif %} {% if memebr.github %}<a href="https://github.com/{{ member.github }}">GitHub</a>{% endif %}</td>
+						<td>
+							{% if member.twitter %}<a href="https://www.twitter.com/{{ member.twitter }}">Twitter</a>{% endif %}
+							{% if memebr.github %}<a href="https://github.com/{{ member.github }}">GitHub</a>{% endif %}
+						</td>
 					</tr>
 					{% endif %}
 				</tbody>
