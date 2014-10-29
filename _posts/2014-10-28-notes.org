@@ -106,17 +106,18 @@ conflicting with the Municipal election on 2014-10-27.
 
 *** Action Items From Last Month
 
-- Myles :: Set up email addresses
-  - Scott wants one - scott@gtalug.org
-  - Chris :: already there as chris@gtalug.org
-  - Should we install IMAPD?
-  - Set up shell account for Scott
-    - Scott should try to log in
-- TODO Alex :: Set up Mailman archive of the old list
-  - Need mailing list (Myles)
-  - May need Alex to help get more data
-  - Reasonable for this to wait until old list is dead
 - Any? :: Should someone be monitoring root email
+
+*** Moderators
+  Carrying material from September
+  - Moderator overseeing things
+    - Only Myles at this point
+    - Alex thought he volunteered
+    - Also Bill thought he volunteered
+  - When things are done, cc the Board
+  - Archives of such need to be private
+  - Responsibility currently lies at board
+  - Myles suggests Hugh as a candidate to be moderator 
 
 *** Code of Conduct
   Carrying over material from last month in case there needs to be further discussion
@@ -129,15 +130,6 @@ conflicting with the Municipal election on 2014-10-27.
       - They stopped
       - Public complaint that the matter hadn't been SEEN to be addressed
 
-*** Moderators
-  Carrying material from September
-  - Moderator overseeing things
-  - When things are done, cc the Board
-  - Archives of such need to be private
-  - Responsibility currently lies at board
-  - Myles suggests Hugh as a candidate to be moderator 
-
-
 ** CAG & ICANN
 - No meetings ergo no reports
 *** Action Items From Last Month
@@ -145,16 +137,22 @@ conflicting with the Municipal election on 2014-10-27.
 - CAG :: Report next month
 
 ** CAG
+  - Of cards handed out, no interest received in involvement
+  - Reached out to MARS, they offered cafeteria as possible meeting location
+    - Seems very nice
 
 ** ICANN
+  - Things proceeding with IANA transition
+  - Many directions, so not too coherent
 
 ** Projects for a bit later
   - Get LITP a bit earlier
   - Christmas party
 
-
 ** Meetup.com
   - Now is time to talk about it
+    - Mike comment...  Does anyone already have an account lending
+      itself to do it more cheaply?
 
 ** Action Items
   - To discuss Speaker Coordinator next month
@@ -170,3 +168,6 @@ conflicting with the Municipal election on 2014-10-27.
   - TODO Bill :: Discuss Christmas party on Ops list
   - TODO Myles :: Ask if anyone has thoughts on SystemD
   - TODO Chris :: Solicit Dave Tilbrook
+  - TODO Myles :: See about making Alex/Bill moderators for mailing list
+  - TODO Mike :: Initiate discussion of application of code of conduct to mailing lists
+  - TODO Mike :: Bring up Meetup discussion amongst Operations
