@@ -23,41 +23,61 @@ conflicting with the Municipal election on 2014-10-27.
 - Bill Thanis
 - Scott Sullivan
 - Amos Weatherill
-- David Collier Brown
 - Myles Braithwaite
 - Mike Kalles
 - Gordon Chillcott
-
-*** Absent
 - Ivan Avery Frey
 
+*** Absent
+- David Collier Brown
 
+** Board Election
+ - We have had an election
+   - Outgoing slate was...
+     - Colin Capruscu
+     - Ivan Avery Frey
+     - William Park
+   - Incoming slate...
+     - Myles Braithwaite
+     - Mike Kalles
+     - Alex Volkov
+   - All are in good standing
+     - Paid up members
+     - Not bankrupted
+ - Official thanks to outgoing board members
+ - Report
+   - Nomination went ok
+   - Someone emailed that they wanted to run, but didn't come
+   - Procedure went fine
+   - Nobody offered to help count; nice to have a second
+   - Reasonably close race, but final vote that came in did not change results
+ - Neato idea about using GPG keys to sign everything
+   - It'll never work!!!
+   - It's totally awesome!
+   - Scott declares it off topic!!!
+ - Need to elect officers for new year
+   - President :: by acclaimation, Scott Sullivan
+   - Chairman of Board :: by acclaimaation, Mike Kalles
+   - Secretary/Treasurer :: by acclaimation, Chris Browne
+ - Additional positions
+   - Speaker coordinator - push to next meeting
+   - Charged CAG with finding a leader and vice-leader
+   - PR was planned last year, Myles declared to be in charge
+     - Myles should look into Meetup.com stuff in this regard
+   - Infrastructure :: let's talk about this on operations mailing list
+     - Formalize a bit what Drew has been up to for the lo many years
 *** Reminders
 
 ** Meetings
- - TODO Mike :: Make a wee map of the floor plan
-   - Got a somewhat ugly one
-   - Doesn't seem to be a good diagram available from Ryerson
-   - Mike will see about a Mark II version
  - TODO :: Discuss projector
-   - Rental of Drew's projector has term complete
-   - It seems likely we may end that; Drew has paid for the projector, so is pleased with things
    - We frequently find we need extra cabling; may want to buy some cables and carrying case
    - Need HDMI cable
    - Budget $20 for a bag for cabling
      - Deemed discretionary spending
      - Reimburse for HDMI cable
+   - Scott made a list of things for the "cable kit"
 
 *** Action Items From Last Month
-  - Scott :: Arrange bag for cabling
-  - Chris :: Budget for bag, HDMI adaptor
-    - Report has suggested ~$40 for a bag
-  - Mike :: Policy on timing for meetings
-  - Bill Thanis :: Get drive with Mediawiki mounted
-    - Also SQLite database to send to Myles
-      ~/var/lib/trac/gtalug.db~
-  - Scott :: Get Drew to bounce mail back with "head to the new list" messages
-  - Alex :: Archiving old list
   - Scott :: Kill off board list @ tlug.ss.org
     
 *** Last Month
@@ -70,20 +90,17 @@ conflicting with the Municipal election on 2014-10-27.
 **** Failures
 
 *** Upcoming
-
-  - November :: Crypto?
-    - Myles would like a series of short targeted crypto talks
+  - November :: Crypto
+    - Bob Jonkmano on Tor
+  - December :: Mike Hoy - Mozilla community manager, on FSOSS material on social engineering, building community on purpose, bugzilla, getting contributors
+  - January :: SystemD      
 
 *** Tentative/Unconfirmed Talks
-
 **** No Dates
 
 - Adib Saikali :: OpenStack
 - Adib Saikali :: Automating Docker
-- Myles Braithwaite :: Crypto
 - Dave Tilbrook :: Software Engineering
-- Byron Sonne :: Suggested by DCB
-- Drew Sullivan :: ~systemd~
 		   
 ** Mailing List
 
@@ -120,11 +137,6 @@ conflicting with the Municipal election on 2014-10-27.
   - Responsibility currently lies at board
   - Myles suggests Hugh as a candidate to be moderator 
 
-** Board Election
- - We have had an election
- - Need to elect officers for new year
- - Need to minute who all won
- - Official thanks to outgoing board members
 
 ** CAG & ICANN
 - No meetings ergo no reports
@@ -136,5 +148,25 @@ conflicting with the Municipal election on 2014-10-27.
 
 ** ICANN
 
-** Action Items
+** Projects for a bit later
+  - Get LITP a bit earlier
+  - Christmas party
 
+
+** Meetup.com
+  - Now is time to talk about it
+
+** Action Items
+  - To discuss Speaker Coordinator next month
+  - TODO Mike :: Send Myles the floor plan image
+  - TODO Scott :: Send out specs on what is needed for cable bag so discussion can continue
+    - Please forward questions to GTALUG general list to encourage broader involvement
+  - TODO Mike :: Policy on timing for meetings
+  - TODO Bill Thanis :: Get drive with Mediawiki mounted
+    - Also SQLite database to send to Myles
+      ~/var/lib/trac/gtalug.db~
+  - TODO Alex :: Archiving old list
+    - Let's discuss that on the ops list
+  - TODO Bill :: Discuss Christmas party on Ops list
+  - TODO Myles :: Ask if anyone has thoughts on SystemD
+  - TODO Chris :: Solicit Dave Tilbrook
