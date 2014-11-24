@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Meeting Notes"
+published: true
+---
+
+* <day> <month>, <year>
+
+** Location
+
+Starbucks at Davisville (second floor).
+
+** Attendees
+
+*** Present
+
+*** Absent
+
+** Items
+
+*** Item
+
+**** Action Items
