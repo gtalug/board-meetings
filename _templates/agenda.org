@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+* <day> <month>, <year>
+
+** Location
+
+Starbucks at Davisville (second floor)
+ 
+* Agenda
+
+** Action Items from Last Month
