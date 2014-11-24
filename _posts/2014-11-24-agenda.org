@@ -1,0 +1,41 @@
+---
+layout: post
+title: "24th November, 2014"
+published: false
+---
+* 28th October, 2014
+
+** Location
+
+Starbucks at Davisville (second floor)
+ 
+* Agenda
+ - Upcoming Meetings
+ - Speaker Coordinator - deferred from last month
+ - PR committee on meetup.com
+ - Mailing lists
+   - Are old lists really dead?
+   - Archiving of old list(s)
+   - Moderation
+ - Christmas party
+
+** Action Items from Last Month
+  - To discuss Speaker Coordinator next month
+  - TODO Mike :: Send Myles the floor plan image
+  - TODO Scott :: Send out specs on what is needed for cable bag so discussion can continue
+    - Please forward questions to GTALUG general list to encourage broader involvement
+  - TODO Mike :: Policy on timing for meetings
+  - TODO Bill Thanis :: Get drive with Mediawiki mounted
+    - Also SQLite database to send to Myles
+      ~/var/lib/trac/gtalug.db~
+  - TODO Alex :: Archiving old list
+    - Let's discuss that on the ops list
+  - TODO Bill :: Discuss Christmas party on Ops list
+  - TODO Myles :: Ask if anyone has thoughts on SystemD
+  - TODO Chris :: Solicit Dave Tilbrook
+  - TODO Myles :: See about making Alex/Bill moderators for mailing list
+  - TODO Mike :: Initiate discussion of application of code of conduct to mailing lists
+  - TODO Mike :: Bring up Meetup discussion amongst Operations
+
+
+
