@@ -22,7 +22,7 @@ prose:
           value: "post"
       - name: "title"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Select Title"
           placeholder: "Agenda/Meeting Notes"
           options:
