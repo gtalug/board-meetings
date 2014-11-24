@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "28th July, 2014"
-published: false
+published: true
 ---
 
 * 28th July, 2014
