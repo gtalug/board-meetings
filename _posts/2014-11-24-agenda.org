@@ -17,6 +17,10 @@ Starbucks at Davisville (second floor)
    - Are old lists really dead?
    - Archiving of old list(s)
    - Moderation
+ - Server Administration
+   - Need another person moditoring ~root~.
+   - Test backups.
+   - Need to make sure Myles isn't the only one who knows how things work.
  - Christmas party
 
 ** Action Items from Last Month
@@ -36,6 +40,6 @@ Starbucks at Davisville (second floor)
   - TODO Myles :: See about making Alex/Bill moderators for mailing list
   - TODO Mike :: Initiate discussion of application of code of conduct to mailing lists
   - TODO Mike :: Bring up Meetup discussion amongst Operations
-
+  - TODO Myles :: Meeting Signage
 
 
