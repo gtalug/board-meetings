@@ -4,13 +4,19 @@ layout: default
 
 <ol class="breadcrumb">
 	<li><a href="/">Home</a></li>
-	<li><a href="#">{{ page.date | date_to_long_string }}</a></li>
+	<li><a href="/{{ page.date | date: "%F" }}/">{{ page.date | date_to_long_string }}</a></li>
 	<li class="active">{{ page.title }}</li>
 </ol>
 
-<div class="post">
-	{{ content }}
-</div>
+<article class="post">
+	<header class="page-header">
+		<h1>{{ page.title }} <span class="text-muted">{{ page.date | date_to_long_string }}</span></h1>
+	</header>
+	
+	<section>
+		{{ content }}
+	</section>
+</article>
 
 <ul class="pager">
 	<li class="previous {% if page.previous == nil %}disabled{% endif %}">

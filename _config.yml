@@ -1,5 +1,5 @@
 name: 'GTALUG Board'
-baseurl: 'http://board.gtalug.org'
+site_url: 'http://board.gtalug.org'
 permalink: /:year-:month-:day/:title.html
 
 source: .
