@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "24th November, 2014"
+title: "Agenda"
 published: true
 ---
 * 24th November, 2014
