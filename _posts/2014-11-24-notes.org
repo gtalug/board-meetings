@@ -20,13 +20,13 @@ Starbucks at Davisville (second floor).
 - Christopher Browne
 - Scott Sullivan
 - Myles Braithwaite
+- Mike Kalles
+- Amos Weatherill
 
 *** Absent
 - Bill Thanis
-- Amos Weatherill
 - Ivan Avery Frey
 - Gordon Chillcott
-- Mike Kalles
 
 ** Board Election
  - Additional positions
@@ -55,7 +55,6 @@ Starbucks at Davisville (second floor).
 - November :: Crypto and such
 
 **** Successes
-
 
 **** Failures
 
@@ -111,19 +110,28 @@ Starbucks at Davisville (second floor).
       itself to do it more cheaply?
 
 ** Action Items
-  - To discuss Speaker Coordinator next month
-  - TODO Mike :: Send Myles the floor plan image
+  - TODO Mike :: Sent Myles the floor plan image
+     - To be published somewhere
   - TODO Scott :: Send out specs on what is needed for cable bag so discussion can continue
     - Please forward questions to GTALUG general list to encourage broader involvement
+    - Looking for bag suitable size...
   - TODO Mike :: Policy on timing for meetings
+    - Mike has a preliminary draft
+    - Myles suggests putting onto Etherpad for shared discussion
   - TODO Bill Thanis :: Get drive with Mediawiki mounted
     - Also SQLite database to send to Myles
       ~/var/lib/trac/gtalug.db~
+    - To remind both Bill and Scott
   - TODO Alex :: Archiving old list
     - Let's discuss that on the ops list
+    - Still to do:
+      - Put onto Penguin
+      - Run backup
   - TODO Bill :: Discuss Christmas party on Ops list
+    - Not complete, but discussed
   - TODO Myles :: Ask if anyone has thoughts on SystemD
   - TODO Chris :: Solicit Dave Tilbrook
-  - TODO Myles :: See about making Alex/Bill moderators for mailing list
+    - Had dinner, but didn't discuss this...
   - TODO Mike :: Initiate discussion of application of code of conduct to mailing lists
-  - TODO Mike :: Bring up Meetup discussion amongst Operations
+    - Makes sense to discuss this on the general list
+  - TODO Scott :: Digitize all of the GTALUG legal documents

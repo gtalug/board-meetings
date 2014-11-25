@@ -17,6 +17,7 @@ Starbucks at Davisville (second floor)
    - Are old lists really dead?
    - Archiving of old list(s)
    - Moderation
+   - Some issues signing up
  - Server Administration
    - Need another person moditoring ~root~.
    - Test backups.
