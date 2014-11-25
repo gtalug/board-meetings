@@ -1,0 +1,129 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 24th November, 2014
+
+** Location
+
+Starbucks at Davisville (second floor).
+
+** Attendees
+
+*** Present
+
+(speculatively)
+
+- David Collier Brown
+- Christopher Browne
+- Scott Sullivan
+- Myles Braithwaite
+
+*** Absent
+- Bill Thanis
+- Amos Weatherill
+- Ivan Avery Frey
+- Gordon Chillcott
+- Mike Kalles
+
+** Board Election
+ - Additional positions
+   - Speaker coordinator - push to next meeting
+   - Charged CAG with finding a leader and vice-leader
+   - PR was planned last year, Myles declared to be in charge
+     - Myles should look into Meetup.com stuff in this regard
+   - Infrastructure :: let's talk about this on operations mailing list
+     - Formalize a bit what Drew has been up to for the lo many years
+*** Reminders
+
+** Meetings
+ - TODO :: Discuss projector
+   - We frequently find we need extra cabling; may want to buy some cables and carrying case
+   - Need HDMI cable
+   - Budget $20 for a bag for cabling
+     - Deemed discretionary spending
+     - Reimburse for HDMI cable
+   - Scott made a list of things for the "cable kit"
+
+*** Action Items From Last Month
+  - Scott :: Kill off board list @ tlug.ss.org
+    
+*** Last Month
+
+- November :: Crypto and such
+
+**** Successes
+
+
+**** Failures
+
+*** Upcoming
+  - December :: Mike Hoy - Mozilla community manager, on FSOSS material on social engineering, building community on purpose, bugzilla, getting contributors
+  - January :: SystemD      
+
+*** Tentative/Unconfirmed Talks
+**** No Dates
+
+- Adib Saikali :: OpenStack
+- Adib Saikali :: Automating Docker
+- Dave Tilbrook :: Software Engineering
+		   
+** Mailing List
+
+*** Action Items From Last Month
+
+- Any? :: Should someone be monitoring root email
+
+*** Moderators
+  Carrying material from September
+  - Moderator overseeing things
+    - Only Myles at this point
+    - Alex thought he volunteered
+    - Also Bill thought he volunteered
+  - When things are done, cc the Board
+  - Archives of such need to be private
+  - Responsibility currently lies at board
+  - Myles suggests Hugh as a candidate to be moderator 
+
+*** Code of Conduct
+  Carrying over material from last month in case there needs to be further discussion
+  - What are we going to do if someone breaks the Code of Conduct on the Mailing List?
+  - How do we handle people that do so?
+    - When in error, seek to teach people to improve
+    - Three strikes and you're out
+    - We had a case where someone said something inapropos
+      - We went to them privately
+      - They stopped
+      - Public complaint that the matter hadn't been SEEN to be addressed
+
+** CAG & ICANN
+- Got report on ICANN
+
+** Projects for a bit later
+  - Get LITP a bit earlier
+  - Christmas party
+
+** Meetup.com
+  - Now is time to talk about it
+    - Mike comment...  Does anyone already have an account lending
+      itself to do it more cheaply?
+
+** Action Items
+  - To discuss Speaker Coordinator next month
+  - TODO Mike :: Send Myles the floor plan image
+  - TODO Scott :: Send out specs on what is needed for cable bag so discussion can continue
+    - Please forward questions to GTALUG general list to encourage broader involvement
+  - TODO Mike :: Policy on timing for meetings
+  - TODO Bill Thanis :: Get drive with Mediawiki mounted
+    - Also SQLite database to send to Myles
+      ~/var/lib/trac/gtalug.db~
+  - TODO Alex :: Archiving old list
+    - Let's discuss that on the ops list
+  - TODO Bill :: Discuss Christmas party on Ops list
+  - TODO Myles :: Ask if anyone has thoughts on SystemD
+  - TODO Chris :: Solicit Dave Tilbrook
+  - TODO Myles :: See about making Alex/Bill moderators for mailing list
+  - TODO Mike :: Initiate discussion of application of code of conduct to mailing lists
+  - TODO Mike :: Bring up Meetup discussion amongst Operations
