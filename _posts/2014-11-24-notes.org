@@ -30,12 +30,19 @@ Starbucks at Davisville (second floor).
 
 ** Board Election
  - Additional positions
-   - Speaker coordinator - push to next meeting
-   - Charged CAG with finding a leader and vice-leader
+   - Speaker coordinator
+     - Scott wishes to do it
+     - Need to firm up procedures
+       - Need to collect speaker bios
+       - Need to put talk description into place in Git repo to be published
+       - Timing of things
+   - Charged CAG with finding a leader and deputy
+     - Still a future thing
    - PR was planned last year, Myles declared to be in charge
      - Myles should look into Meetup.com stuff in this regard
    - Infrastructure :: let's talk about this on operations mailing list
      - Formalize a bit what Drew has been up to for the lo many years
+
 *** Reminders
 
 ** Meetings
@@ -59,8 +66,10 @@ Starbucks at Davisville (second floor).
 **** Failures
 
 *** Upcoming
-  - December :: Mike Hoy - Mozilla community manager, on FSOSS material on social engineering, building community on purpose, bugzilla, getting contributors
-  - January :: SystemD      
+  - December :: Make alternatives - Myles, DCB
+  - January :: Mike Hoy - Mozilla community manager, on FSOSS material on social engineering, building community on purpose, bugzilla, getting contributors
+  - February :: SystemD
+  - March/April :: Personal Productivity Tools
 
 *** Tentative/Unconfirmed Talks
 **** No Dates
@@ -68,6 +77,8 @@ Starbucks at Davisville (second floor).
 - Adib Saikali :: OpenStack
 - Adib Saikali :: Automating Docker
 - Dave Tilbrook :: Software Engineering
+- Personal Productivity Tools :: Panel
+  - Call for presenters
 		   
 ** Mailing List
 
@@ -135,3 +146,6 @@ Starbucks at Davisville (second floor).
   - TODO Mike :: Initiate discussion of application of code of conduct to mailing lists
     - Makes sense to discuss this on the general list
   - TODO Scott :: Digitize all of the GTALUG legal documents
+  - TODO Scott :: Call for speakers on SystemD
+  - TODO Scott :: Call for speakers on personal productivity tools
+  - TODO Alex :: Contact Chris Tyler on RPi talk

@@ -26,9 +26,12 @@ Starbucks at Davisville (second floor)
 
 ** Action Items from Last Month
   - To discuss Speaker Coordinator next month
-  - TODO Mike :: Send Myles the floor plan image
+    - On agenda
+  - TODO Mike :: Send Myles the floor plan imagep
+    - Myles has it
   - TODO Scott :: Send out specs on what is needed for cable bag so discussion can continue
     - Please forward questions to GTALUG general list to encourage broader involvement
+    - Maintained
   - TODO Mike :: Policy on timing for meetings
   - TODO Bill Thanis :: Get drive with Mediawiki mounted
     - Also SQLite database to send to Myles
