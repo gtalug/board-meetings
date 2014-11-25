@@ -92,7 +92,12 @@ Starbucks at Davisville (second floor).
 		   
 ** Mailing List
  - Some users having difficulties
-   - Some email clients were popping up web browser painfully wrongly 
+   - Some email clients were popping up web browser painfully wrongly
+ - Old lists ARE really dead
+ - Archiving has been discussed
+   - Alex to set up a list called "TLUG-Archive"
+   - Archive old mail there
+   - Tell Chris so he runs the backup on it   
 
 *** Action Items From Last Month
 
@@ -132,6 +137,12 @@ Starbucks at Davisville (second floor).
     - Mike comment...  Does anyone already have an account lending
       itself to do it more cheaply?
 
+
+* System Backups
+  - Need inventory
+  - Need architecture document
+    - Needs to be instructional to those not necessarily familiar with the specific software
+
 ** Action Items
   - TODO Mike :: Sent Myles the floor plan image
      - To be published somewhere
@@ -146,10 +157,9 @@ Starbucks at Davisville (second floor).
       ~/var/lib/trac/gtalug.db~
     - To remind both Bill and Scott
   - TODO Alex :: Archiving old list
-    - Let's discuss that on the ops list
     - Still to do:
-      - Put onto Penguin
-      - Run backup
+      - Alex :: Put onto Penguin
+      - Chris :: Run backup
   - TODO Bill :: Discuss Christmas party on Ops list
     - Not complete, but discussed
   - TODO Myles :: Ask if anyone has thoughts on SystemD
@@ -161,3 +171,8 @@ Starbucks at Davisville (second floor).
   - TODO Scott :: Call for speakers on SystemD
   - TODO Scott :: Call for speakers on personal productivity tools
   - TODO Alex :: Contact Chris Tyler on RPi talk
+  - TODO Chris :: Scripts for backups
+    - List all the packages installed (dpkg -l)
+  - TODO Myles :: Architecture/inventory of software customized on penguin
+    - List of all git repos that we are actively maintaining
+  - TODO Chris :: Architecture of things backed up
