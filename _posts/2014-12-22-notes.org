@@ -1,0 +1,112 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 22th December, 2014
+
+** Location
+
+IRC - #GTALUG on ircs://irc.oftc.net:6697 
+
+** Attendees
+
+*** Present
+
+(speculatively)
+
+- David Collier Brown
+- Christopher Browne
+- Scott Sullivan
+- Myles Braithwaite
+- Mike Kalles
+- Amos Weatherill
+
+*** Absent
+- Bill Thanis
+- Ivan Avery Frey
+- Gordon Chillcott
+
+*** Reminders
+
+** Meetings
+
+*** Action Items From Last Month
+  - TODO Mike :: Sent Myles the floor plan image
+     - To be published somewhere
+  - TODO Scott :: Send out specs on what is needed for cable bag so discussion can continue
+    - Please forward questions to GTALUG general list to encourage broader involvement
+    - Looking for bag suitable size...
+  - TODO Mike :: Policy on timing for meetings
+    - Mike has a preliminary draft
+    - Myles suggests putting onto Etherpad for shared discussion
+  - TODO Bill Thanis :: Get drive with Mediawiki mounted
+    - Also SQLite database to send to Myles
+      ~/var/lib/trac/gtalug.db~
+    - To remind both Bill and Scott
+  - TODO Alex :: Archiving old list
+    - Let's discuss that on the ops list
+    - Still to do:
+      - Put onto Penguin
+      - Run backup
+  - TODO Bill :: Discuss Christmas party on Ops list
+    - Not complete, but discussed
+  - TODO Myles :: Ask if anyone has thoughts on SystemD
+  - TODO Chris :: Solicit Dave Tilbrook
+    - Had dinner, but didn't discuss this...
+  - TODO Mike :: Initiate discussion of application of code of conduct to mailing lists
+    - Makes sense to discuss this on the general list
+  - TODO Scott :: Digitize all of the GTALUG legal documents
+    
+*** Last Month
+- December :: Maven and open discussions
+
+**** Successes
+
+**** Failures
+
+*** Upcoming
+  - January :: Mike Hoye - Mozilla community manager, on FSOSS material on social engineering, building community on purpose, bugzilla, getting contributors
+
+*** Tentative/Unconfirmed Talks
+**** No Dates
+
+- Adib Saikali :: OpenStack
+- Adib Saikali :: Automating Docker
+- Dave Tilbrook :: Software Engineering
+		   
+** Mailing List
+
+*** Action Items From Last Month
+
+- Any? :: Should someone be monitoring root email
+- New :: Should we be blocking HTML-based email?
+
+*** Moderators
+  Carrying material from September
+  - Moderator overseeing things
+    - Only Myles at this point
+    - Alex thought he volunteered
+    - Also Bill thought he volunteered
+  - When things are done, cc the Board
+  - Archives of such need to be private
+  - Responsibility currently lies at board
+  - Myles suggests Hugh as a candidate to be moderator 
+
+*** Code of Conduct
+
+** CAG & ICANN
+- No report on ICANN
+
+** Projects for a bit later
+  - Get LITP a bit earlier
+
+** Action Items
+* Why gtalug.info?
+
+  Set up by Chris... We knew we were planning to do some "surgery" on gtalug.org, and wanted to have a sort of "scratch domain" to use to get a dry run that looked realistic.  (Notably, we wanted to shift registrars, and there's enough in the process that there was a certain amount of risk of outage that we wanted to avoid...)
+
+  Hence, I registered gtalug.info, and we made sure it was there and in good order before repeating processes on gtalug.org.
+
+  If there is a desire to mess around with a domain, gtalug.info is perfectly good for that purpose.  We've had it resolving similarly to gtalug.org, but that shouldn't be depended on, and there's merit to having it attached to something that looks all "under-construction-y" so people don't trust it to be front-line ops.
