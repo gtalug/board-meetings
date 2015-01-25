@@ -11,4 +11,20 @@ Starbucks at Davisville (second floor)
  
 * Agenda
 
+** Upcoming Meetings
+** Speaker Coordinator
+** PR committee on meetup.com
+** Mailing lists
+*** Archiving of old list(s) - still somewhat in progress
+*** Moderation
+*** Policy concerning blocking HTML postings?
+** Server Administration
+*** Need another person monitoring root.
+*** Test backups.
+*** Need to make sure Myles isn’t the only one who knows how things work.
+** Domains
+*** `gtalug.info`
+**** Why?
+**** Continuing what for?
+
 ** Action Items from Last Month
