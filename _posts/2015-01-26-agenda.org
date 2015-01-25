@@ -28,3 +28,22 @@ Starbucks at Davisville (second floor)
   - Why is `gtalug.info` showing up in Google search results.
 
 ** Action Items from Last Month
+
+  - TODO Myles :: Publish floor plan image somewhere
+  - TODO Scott :: Send out specs on what is needed for cable bag so discussion can continue
+    - Please forward questions to GTALUG general list to encourage broader involvement
+    - Looking for bag suitable size...
+  - TODO Mike :: Policy on timing for meetings
+    - Mike has a preliminary draft
+    - Myles suggests putting onto Etherpad for shared discussion
+  - TODO Bill Thanis :: Get drive with Mediawiki mounted
+    - Also SQLite database to send to Myles
+      ~/var/lib/trac/gtalug.db~
+    - To remind both Bill and Scott
+  - TODO Alex :: Archiving old list
+  - TODO Myles :: Ask if anyone has thoughts on SystemD
+  - TODO Chris :: Solicit Dave Tilbrook
+    - Not possible 'til January
+  - TODO Mike :: Initiate discussion of application of code of conduct to mailing lists
+    - Makes sense to discuss this on the general list
+  - TODO Scott :: Digitize all of the GTALUG legal documents
