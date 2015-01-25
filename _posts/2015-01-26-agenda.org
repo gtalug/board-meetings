@@ -47,3 +47,4 @@ Starbucks at Davisville (second floor)
   - TODO Mike :: Initiate discussion of application of code of conduct to mailing lists
     - Makes sense to discuss this on the general list
   - TODO Scott :: Digitize all of the GTALUG legal documents
+  - TODO Alex & Amos :: Test backups.
