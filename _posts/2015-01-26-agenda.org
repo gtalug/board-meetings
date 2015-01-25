@@ -11,9 +11,12 @@ Starbucks at Davisville (second floor)
  
 * Agenda
 
-** Upcoming Meetings
-** Speaker Coordinator
-** PR committee on meetup.com
+- Upcoming Meetings
+- Speaker Coordinator
+- Getting a more diverse audience at GTALUG meetings
+- Getting more people to come out to GTALUG meetings
+  - Stoping the 
+  - Promting GTALUG on `MeetUp.com`
 ** Mailing lists
 *** Archiving of old list(s) - still somewhat in progress
 *** Moderation
