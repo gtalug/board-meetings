@@ -15,19 +15,16 @@ Starbucks at Davisville (second floor)
 - Speaker Coordinator
 - Getting a more diverse audience at GTALUG meetings
 - Getting more people to come out to GTALUG meetings
-  - Stoping the 
+  - Stoping the echo chamber effect from harming GTALUG.
   - Promting GTALUG on `MeetUp.com`
-** Mailing lists
-*** Archiving of old list(s) - still somewhat in progress
-*** Moderation
-*** Policy concerning blocking HTML postings?
-** Server Administration
-*** Need another person monitoring root.
-*** Test backups.
-*** Need to make sure Myles isn’t the only one who knows how things work.
-** Domains
-*** `gtalug.info`
-**** Why?
-**** Continuing what for?
+- Mailing lists
+  - Moderation
+  - Blocking people from posting HTML to the mailing list.
+  - How should voting on the mailing list be handled?
+    - Is the current process adequate?
+- SysAdmin
+  - Test backups.
+- Web Site
+  - Why is `gtalug.info` showing up in Google search results.
 
 ** Action Items from Last Month
