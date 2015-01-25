@@ -13,10 +13,10 @@ Starbucks at Davisville (second floor)
 
 - Upcoming Meetings
 - Speaker Coordinator
-- Getting a more diverse audience at GTALUG meetings
-- Getting more people to come out to GTALUG meetings
+- Getting a more diverse audience at GTALUG meetings.
+- Getting more people to come out to GTALUG meetings.
   - Stoping the echo chamber effect from harming GTALUG.
-  - Promting GTALUG on `MeetUp.com`
+  - Promting GTALUG on ~MeetUp.com~
 - Mailing lists
   - Moderation
   - Blocking people from posting HTML to the mailing list.
@@ -25,7 +25,7 @@ Starbucks at Davisville (second floor)
 - SysAdmin
   - Test backups.
 - Web Site
-  - Why is `gtalug.info` showing up in Google search results.
+  - Why is ~gtalug.info~ showing up in Google search results.
 
 ** Action Items from Last Month
 
