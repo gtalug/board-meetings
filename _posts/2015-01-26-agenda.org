@@ -15,8 +15,8 @@ Starbucks at Davisville (second floor)
 - Speaker Coordinator
 - Getting a more diverse audience at GTALUG meetings.
 - Getting more people to come out to GTALUG meetings.
-  - Stoping the echo chamber effect from harming GTALUG.
-  - Promting GTALUG on ~MeetUp.com~
+  - Stopping the echo chamber effect from harming GTALUG.
+  - Promoting GTALUG on ~MeetUp.com~
 - Mailing lists
   - Moderation
   - Blocking people from posting HTML to the mailing list.
