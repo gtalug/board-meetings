@@ -1,0 +1,55 @@
+---
+layout: post
+title: "Agenda"
+published: false
+---
+* 22th December, 2014
+
+** Location
+
+- On IRC
+- on #GTALUG on ircs://irc.oftc.net:6697 
+ 
+* Agenda
+ - Upcoming Meetings
+ - Speaker Coordinator - deferred from last month
+ - PR committee on meetup.com
+ - Mailing lists
+   - Archiving of old list(s) - still somewhat in progress
+   - Moderation
+   - Policy concerning blocking HTML postings?
+ - Server Administration
+   - Need another person monitoring ~root~.
+   - Test backups.
+   - Need to make sure Myles isn't the only one who knows how things work.
+ - Domains
+   - gtalug.info
+     - Why?
+     - Continuing what for?
+
+** Action Items from Last Month
+  - To discuss Speaker Coordinator next month
+  - TODO Myles :: Publish floor plan image somewhere
+  - TODO Scott :: Send out specs on what is needed for cable bag so discussion can continue
+    - Please forward questions to GTALUG general list to encourage broader involvement
+    - Looking for bag suitable size...
+  - TODO Mike :: Policy on timing for meetings
+    - Mike has a preliminary draft
+    - Myles suggests putting onto Etherpad for shared discussion
+  - TODO Bill Thanis :: Get drive with Mediawiki mounted
+    - Also SQLite database to send to Myles
+      ~/var/lib/trac/gtalug.db~
+    - To remind both Bill and Scott
+  - TODO Alex :: Archiving old list
+    - Let's discuss that on the ops list
+    - Still to do:
+      - Put onto Penguin
+      - Run backup
+  - TODO Myles :: Ask if anyone has thoughts on SystemD
+  - TODO Chris :: Solicit Dave Tilbrook
+    - Not possible 'til January
+  - TODO Myles :: See about making Alex/Bill moderators for mailing list
+  - TODO Mike :: Initiate discussion of application of code of conduct to mailing lists
+    - Makes sense to discuss this on the general list
+  - TODO Mike :: Bring up Meetup discussion amongst Operations
+  - TODO Scott :: Digitize all of the GTALUG legal documents
