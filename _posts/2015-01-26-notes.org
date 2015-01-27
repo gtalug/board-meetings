@@ -16,8 +16,6 @@ Starbucks, Yonge and Davisville
 
 *** Present
 
-(speculatively)
-
 - Christopher Browne
 - Scott Sullivan
 - Amos Weatherill
@@ -25,12 +23,11 @@ Starbucks, Yonge and Davisville
 - David Collier Brown
 - Gordon Chillcott
 - Alex Volkov
-
 - Myles Braithwaite
-- Ivan Avery Frey
 
 *** Absent
 - Mike Kalles
+- Ivan Avery Frey
 
 *** Reminders
 
@@ -174,7 +171,7 @@ Starbucks, Yonge and Davisville
   - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
   - TODO Myles :: Wants an extra adaptor for VGA
   - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
-  - TODO Alex :: Archiving old list
+  - TODO Alex :: Archiving old list - now found at [http://gtalug.org/pipermail/legacy/]
   - TODO Myles :: Ask if anyone has thoughts on SystemD
     - Aim at panel for April
   - TODO Chris :: Solicit Dave Tilbrook
