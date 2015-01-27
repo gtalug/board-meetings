@@ -1,0 +1,188 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 26th January, 2015
+
+** Location
+
+Starbucks, Yonge and Davisville
+
+- Matter to discuss :: Start time?
+
+** Attendees
+
+*** Present
+
+(speculatively)
+
+- Christopher Browne
+- Scott Sullivan
+- Amos Weatherill
+- Bill Thanis
+- David Collier Brown
+- Gordon Chillcott
+- Alex Volkov
+
+- Myles Braithwaite
+- Ivan Avery Frey
+
+*** Absent
+- Mike Kalles
+
+*** Reminders
+
+
+** Meetings
+
+*** Action Items From Last Month
+  - TODO Mike :: Sent Myles the floor plan image
+     - To be published somewhere
+  - TODO Scott :: Send out specs on what is needed for cable bag so discussion can continue
+    - Please forward questions to GTALUG general list to encourage broader involvement
+    - Looking for bag suitable size...
+  - TODO Mike :: Policy on timing for meetings
+    - Mike has a preliminary draft
+    - Myles suggests putting onto Etherpad for shared discussion
+  - TODO Bill Thanis :: Get drive with Mediawiki mounted
+    - Also SQLite database to send to Myles
+      ~/var/lib/trac/gtalug.db~
+    - To remind both Bill and Scott
+  - TODO Alex :: Archiving old list
+    - Let's discuss that on the ops list
+    - Still to do:
+      - Put onto Penguin
+      - Run backup
+  - TODO Bill :: Discuss Christmas party on Ops list
+    - Not complete, but discussed
+  - TODO Myles :: Ask if anyone has thoughts on SystemD
+  - TODO Chris :: Solicit Dave Tilbrook
+    - Had dinner, but didn't discuss this...
+  - TODO Mike :: Initiate discussion of application of code of conduct to mailing lists
+    - Makes sense to discuss this on the general list
+  - TODO Scott :: Digitize all of the GTALUG legal documents
+    
+*** Last Month
+- January :: Mike Hoye - Mozilla community manager, on FSOSS material on social engineering, building community on purpose, bugzilla, getting contributors
+
+**** Successes
+- Broadly enjoyed
+- He thought it went well
+
+**** Failures
+- Needed a bit more moderation, a bit too many questions
+     
+*** Upcoming
+
+- February :: Looking at Q&A
+- March :: Sergio - LibrePlanet, GDB, something...
+
+*** Tentative/Unconfirmed Talks
+**** No Dates
+
+- Evan Liebowitz :: ICANN and/or ISOC Canada
+- Adib Saikali :: OpenStack
+- Adib Saikali :: Automating Docker
+- Dave Tilbrook :: Software Engineering
+- Bill Thanis :: Aim at panel for April, or March, maybe?
+- Panel on Productivity Software :: ToDo.sh, TaskWarrior
+- Chris Tyler, Open Source Lab :: Some project will be out of NDA in July, worth soliciting
+- Gord :: Marketing Peoples' Selves
+
+*** Roles at GTALUG
+ - Need a set of "buck stops here" roles
+   - System Administration :: Myles with Mike Kalles as fallback
+   - Speaker Coordination :: Scott
+   - CAG :: Chair is Mike Kalles
+   - Legalities :: Scott, Chris
+   - Engagement with Ryerson :: Gord and DCB
+     - At adminstration level
+       - Perfect subject to discuss is how to document accessibility
+     - At student body level
+       - We'd be seen as useful if we can help with careers
+
+** Attendances and Diversity
+  - Interesting discussion to this end at the previous meeting
+  - When meetings have attracted diverse crowds, that has resulted
+    from curiously diverse topics
+    - Notable example was the talk on computer graphics
+    - Specific topic that was somewhat outside our domain
+  - We /do/ have the Code of Conduct that was prominent at Hoye's talk
+
+** Mailing List
+
+*** Action Items From Last Month
+
+  - New :: Should we be blocking HTML-based email?
+  - We can, in principle
+  - Many modern mail clients send both HTML and plain text
+    - If we block HTML, that injures those clients
+  - Risk of us blocking people we shouldn't
+  - Philosophical matter...  Don't want to answer it just now.
+  - Membership straw poll generally agreed that HTML now "is what it is"
+    - Why this argument in 2014?
+
+*** Moderators
+  - Moderator overseeing things
+    - Only Myles at this point
+    - Alex thought he volunteered
+    - Bill is moderating somewhat
+  - Apparently things are done...
+
+** CAG & ICANN
+- Report came in...  Thank you, Gord!!!
+- Suggestion that the report be sent in PDF
+- A Question...
+  - There is an ambition by Certain Folk to have a North American General Assembly some time in the next year
+  - To get all of the organizations like us in NARALO together to chat on outreach
+  - Are we interested in participating in this meeting?
+  - Gord suggests "yes", on a moderate level of interest
+  - Want to have non-GTALUG material removed from GTALUG page at ICANN
+  - If they're going to pay for people to go to Montreal or such, then fine...
+
+** Projects for a bit later
+  - Get LITP a bit earlier, probably April as when to start thinking
+
+** Test Backups
+  - Point Alex at the backups Git repo, which provides a fair bit of
+    census info as to what stuff we have running
+
+** Why gtalug.info?
+
+  Set up by Chris... We knew we were planning to do some "surgery" on
+  gtalug.org, and wanted to have a sort of "scratch domain" to use to
+  get a dry run that looked realistic.  (Notably, we wanted to shift
+  registrars, and there's enough in the process that there was a
+  certain amount of risk of outage that we wanted to avoid...)
+
+  Hence, I registered gtalug.info, and we made sure it was there and
+  in good order before repeating processes on gtalug.org.
+
+  If there is a desire to mess around with a domain, gtalug.info is
+  perfectly good for that purpose.  We've had it resolving similarly
+  to gtalug.org, but that shouldn't be depended on, and there's merit
+  to having it attached to something that looks all
+  "under-construction-y" so people don't trust it to be front-line
+  ops.
+
+** Action Items
+  - Next Meeting - Feb 23rd 7:30pm, MARS Food Court
+  - TODO Myles :: Publish floor plan image somewhere
+    - Need to design it still
+  - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
+  - TODO Myles :: Wants an extra adaptor for VGA
+  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
+  - TODO Alex :: Archiving old list
+  - TODO Myles :: Ask if anyone has thoughts on SystemD
+    - Aim at panel for April
+  - TODO Chris :: Solicit Dave Tilbrook
+    - Not possible 'til January
+  - TODO Scott :: Digitize all of the GTALUG legal documents
+  - TODO Alex & Amos :: Test backups.
+  - TODO Scott :: Contact Sergio (GDB/LibrePlanet Ontario) for March meeting
+  - TODO Myles :: Contact Adib, suggesting Openstack/Docker for later
+  - TODO DCB :: Contact Ryerson to see if the Feb date is plausible at Ryerson
+  - TODO DCB and/or Gord :: Engaging with Ryerson
+  - TODO All :: Figure an idea as to increasing attendance

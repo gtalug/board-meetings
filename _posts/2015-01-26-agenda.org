@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+* 26th January, 2015
+
+** Location
+
+Starbucks at Davisville (second floor)
+ 
+* Agenda
+
+- Upcoming Meetings
+- Speaker Coordinator
+- Getting a more diverse audience at GTALUG meetings.
+- Getting more people to come out to GTALUG meetings.
+  - Stopping the echo chamber effect from harming GTALUG.
+    - Notion that we are just agreeing with ourselves
+  - Promoting GTALUG on ~MeetUp.com~
+- Mailing lists
+  - Moderation
+  - Blocking people from posting HTML to the mailing list.
+  - How should straw polls on the mailing list be handled?
+    - Is the current process adequate?
+- SysAdmin
+  - Test backups
+- Web Site
+  - Why is ~gtalug.info~ showing up in Google search results.
+- Touch on where and when this meeting happens next
+- Question from ICANN via Gord
+
+** Action Items from Last Month
+  - TODO Mike :: Policy on timing for meetings
+    - Mike has a preliminary draft
+    - Myles suggests putting onto Etherpad for shared discussion
+  - TODO Bill Thanis :: Get drive with Mediawiki mounted
+    - Also SQLite database to send to Myles
+      ~/var/lib/trac/gtalug.db~
+    - To remind both Bill and Scott
+  - TODO Alex :: Archiving old list
+  - TODO Myles :: Ask if anyone has thoughts on SystemD
+  - TODO Chris :: Solicit Dave Tilbrook
+    - Not possible 'til January
+  - TODO Mike :: Initiate discussion of application of code of conduct to mailing lists
+    - Makes sense to discuss this on the general list
+  - TODO Scott :: Digitize all of the GTALUG legal documents
+  - TODO Alex & Amos :: Test backups.

@@ -1,5 +1,5 @@
 name: 'GTALUG Board'
-baseurl: 'http://board.gtalug.org'
+site_url: 'http://board.gtalug.org'
 permalink: /:year-:month-:day/:title.html
 
 source: .
@@ -14,4 +14,19 @@ prose:
   siteurl: 'http://board.gtalug.org/'
   relativeLinks: 'http://board.gtalug.org/links.jsonp'
   media: media
-
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "select"
+          label: "Select Title"
+          placeholder: "Agenda/Meeting Notes"
+          options:
+            - name: "Agenda"
+              value: "Agenda"
+            - name: "Meeting Notes"
+              value: "Meeting Notes"

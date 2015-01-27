@@ -4,14 +4,11 @@ title: "Notes"
 published: true
 ---
 
-* 28th October, 2014
+* 24th November, 2014
 
 ** Location
 
 Starbucks at Davisville (second floor).
-
-Note the unusual date, a Tuesday, as consequence of seeking to avoid
-conflicting with the Municipal election on 2014-10-27.
 
 ** Attendees
 
@@ -19,53 +16,43 @@ conflicting with the Municipal election on 2014-10-27.
 
 (speculatively)
 
+- David Collier Brown
 - Christopher Browne
-- Bill Thanis
 - Scott Sullivan
-- Amos Weatherill
 - Myles Braithwaite
 - Mike Kalles
-- Gordon Chillcott
-- Ivan Avery Frey
+- Amos Weatherill
 
 *** Absent
-- David Collier Brown
+- Bill Thanis
+- Ivan Avery Frey
+- Gordon Chillcott
 
 ** Board Election
- - We have had an election
-   - Outgoing slate was...
-     - Colin Capruscu
-     - Ivan Avery Frey
-     - William Park
-   - Incoming slate...
-     - Myles Braithwaite
-     - Mike Kalles
-     - Alex Volkov
-   - All are in good standing
-     - Paid up members
-     - Not bankrupted
- - Official thanks to outgoing board members
- - Report
-   - Nomination went ok
-   - Someone emailed that they wanted to run, but didn't come
-   - Procedure went fine
-   - Nobody offered to help count; nice to have a second
-   - Reasonably close race, but final vote that came in did not change results
- - Neato idea about using GPG keys to sign everything
-   - It'll never work!!!
-   - It's totally awesome!
-   - Scott declares it off topic!!!
- - Need to elect officers for new year
-   - President :: by acclaimation, Scott Sullivan
-   - Chairman of Board :: by acclaimaation, Mike Kalles
-   - Secretary/Treasurer :: by acclaimation, Chris Browne
  - Additional positions
-   - Speaker coordinator - push to next meeting
-   - Charged CAG with finding a leader and vice-leader
+   - Speaker coordinator
+     - Scott wishes to do it
+     - Need to firm up procedures
+       - Need to collect speaker bios
+       - Need to put talk description into place in Git repo to be published
+       - Timing of things
+   - Charged CAG with finding a leader and deputy
+     - Still a future thing
    - PR was planned last year, Myles declared to be in charge
      - Myles should look into Meetup.com stuff in this regard
    - Infrastructure :: let's talk about this on operations mailing list
      - Formalize a bit what Drew has been up to for the lo many years
+
+** PR meetup.com
+ - meetup.com has just gotten way too expensive
+ - Alternatives?
+   - We have mailing lists to known people
+   - Trouble of places being a bit of an echo chamber
+     - G+
+     - Facebook
+     - Twitter
+   - Let's have Myles go back to PR group and brainstorm on the matter
+
 *** Reminders
 
 ** Meetings
@@ -82,18 +69,17 @@ conflicting with the Municipal election on 2014-10-27.
     
 *** Last Month
 
-- October :: AGM
+- November :: Crypto and such
 
 **** Successes
-
 
 **** Failures
 
 *** Upcoming
-  - November :: Crypto
-    - Bob Jonkmano on Tor
-  - December :: Mike Hoy - Mozilla community manager, on FSOSS material on social engineering, building community on purpose, bugzilla, getting contributors
-  - January :: SystemD      
+  - December :: Make alternatives - Myles, DCB
+  - January :: Mike Hoy - Mozilla community manager, on FSOSS material on social engineering, building community on purpose, bugzilla, getting contributors
+  - February :: SystemD
+  - March/April :: Personal Productivity Tools
 
 *** Tentative/Unconfirmed Talks
 **** No Dates
@@ -101,8 +87,17 @@ conflicting with the Municipal election on 2014-10-27.
 - Adib Saikali :: OpenStack
 - Adib Saikali :: Automating Docker
 - Dave Tilbrook :: Software Engineering
+- Personal Productivity Tools :: Panel
+  - Call for presenters
 		   
 ** Mailing List
+ - Some users having difficulties
+   - Some email clients were popping up web browser painfully wrongly
+ - Old lists ARE really dead
+ - Archiving has been discussed
+   - Alex to set up a list called "TLUG-Archive"
+   - Archive old mail there
+   - Tell Chris so he runs the backup on it   
 
 *** Action Items From Last Month
 
@@ -131,19 +126,7 @@ conflicting with the Municipal election on 2014-10-27.
       - Public complaint that the matter hadn't been SEEN to be addressed
 
 ** CAG & ICANN
-- No meetings ergo no reports
-*** Action Items From Last Month
-- ICANN :: Report next month
-- CAG :: Report next month
-
-** CAG
-  - Of cards handed out, no interest received in involvement
-  - Reached out to MARS, they offered cafeteria as possible meeting location
-    - Seems very nice
-
-** ICANN
-  - Things proceeding with IANA transition
-  - Many directions, so not too coherent
+- Got report on ICANN
 
 ** Projects for a bit later
   - Get LITP a bit earlier
@@ -154,20 +137,42 @@ conflicting with the Municipal election on 2014-10-27.
     - Mike comment...  Does anyone already have an account lending
       itself to do it more cheaply?
 
+
+* System Backups
+  - Need inventory
+  - Need architecture document
+    - Needs to be instructional to those not necessarily familiar with the specific software
+
 ** Action Items
-  - To discuss Speaker Coordinator next month
-  - TODO Mike :: Send Myles the floor plan image
+  - TODO Mike :: Sent Myles the floor plan image
+     - To be published somewhere
   - TODO Scott :: Send out specs on what is needed for cable bag so discussion can continue
     - Please forward questions to GTALUG general list to encourage broader involvement
+    - Looking for bag suitable size...
   - TODO Mike :: Policy on timing for meetings
+    - Mike has a preliminary draft
+    - Myles suggests putting onto Etherpad for shared discussion
   - TODO Bill Thanis :: Get drive with Mediawiki mounted
     - Also SQLite database to send to Myles
       ~/var/lib/trac/gtalug.db~
+    - To remind both Bill and Scott
   - TODO Alex :: Archiving old list
-    - Let's discuss that on the ops list
+    - Still to do:
+      - Alex :: Put onto Penguin
+      - Chris :: Run backup
   - TODO Bill :: Discuss Christmas party on Ops list
+    - Not complete, but discussed
   - TODO Myles :: Ask if anyone has thoughts on SystemD
   - TODO Chris :: Solicit Dave Tilbrook
-  - TODO Myles :: See about making Alex/Bill moderators for mailing list
+    - Had dinner, but didn't discuss this...
   - TODO Mike :: Initiate discussion of application of code of conduct to mailing lists
-  - TODO Mike :: Bring up Meetup discussion amongst Operations
+    - Makes sense to discuss this on the general list
+  - TODO Scott :: Digitize all of the GTALUG legal documents
+  - TODO Scott :: Call for speakers on SystemD
+  - TODO Scott :: Call for speakers on personal productivity tools
+  - TODO Alex :: Contact Chris Tyler on RPi talk
+  - TODO Chris :: Scripts for backups
+    - List all the packages installed (dpkg -l)
+  - TODO Myles :: Architecture/inventory of software customized on penguin
+    - List of all git repos that we are actively maintaining
+  - TODO Chris :: Architecture of things backed up
