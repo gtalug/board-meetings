@@ -11,7 +11,7 @@ published: true
  - 101 College Street, Toronto, ON M5G 1L7
  - <https://goo.gl/maps/LK1NM> or <http://osm.org/go/ZX6ByorJK?way=22475825>
  
-* Agenda
+** Agenda
 
 - Upcoming Meetings
 - Speaker Coordinator
