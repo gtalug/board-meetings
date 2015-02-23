@@ -16,12 +16,18 @@ published: true
 - Upcoming Meetings
 - Speaker Coordinator
 - Touch on where and when this meeting happens next
+  - How do we like MaRS
 - Moderation of mailing list
 - FSOSS / OpenHatch at U(T) on Feb 28th
+  - [[https://openhatch.org/wiki/Open_Source_Comes_to_Campus/Curriculum][OpenHatch Curriculum]]
   - Looking for mentors
   - Instruction on community norms, issue trackers, IRC, Git
   - Career Panel
   - Contributions workshop
+- Engagement with Ryerson
+  - Things tabled from last time
+- Ping LITP, action starts in April
+- Attendance Maintenance
 
 ** Action Items from Last Month
   - Next Meeting - Feb 23rd 7:30pm, MARS Food Court
@@ -35,6 +41,12 @@ published: true
     - Aim at panel for April
   - TODO Chris :: Solicit Dave Tilbrook
     - Not possible 'til January
+    - Eek, didn't.
+    - Extra idea: Check to see if Sacha Chua would be interested in presenting on, well, anything.
+      - She has been doing some Google Hangouts-based meetups on customizing Emacs
+      - More on Org Mode?
+      - Emacs Lisp?
+      - Note that she's on the committee for [[http://www.european-lisp-symposium.org/content-gabriel-full.html][European Lisp Symposium 2015]]
   - TODO Scott :: Digitize all of the GTALUG legal documents
   - TODO Alex & Amos :: Test backups.
   - TODO Scott :: Contact Sergio (GDB/LibrePlanet Ontario) for March meeting

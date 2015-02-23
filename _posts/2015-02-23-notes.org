@@ -1,0 +1,135 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 23rd February, 2015
+
+** Location
+
+ - *MaRS Discovery District* - Food Court
+ - 101 College Street, Toronto, ON M5G 1L7
+ - <https://goo.gl/maps/LK1NM> or <http://osm.org/go/ZX6ByorJK?way=22475825>
+
+ - Matter to discuss :: Start time?
+
+** Attendees
+
+*** Present
+
+- Christopher Browne
+- Scott Sullivan
+- Amos Weatherill
+- Bill Thanis
+- David Collier Brown
+- Gordon Chillcott
+- Alex Volkov
+- Myles Braithwaite
+- Mike Kalles
+- Ivan Avery Frey
+
+*** Absent
+
+*** Reminders
+
+
+** Meetings
+
+*** Action Items From Last Month
+  - Next Meeting - Feb 23rd 7:30pm, MARS Food Court
+  - TODO Myles :: Publish floor plan image somewhere
+    - Need to design it still
+  - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
+  - TODO Myles :: Wants an extra adaptor for VGA
+  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
+  - TODO Alex :: Archiving old list - now found at [http://gtalug.org/pipermail/legacy/]
+  - TODO Myles :: Ask if anyone has thoughts on SystemD
+    - Aim at panel for April
+  - TODO Chris :: Solicit Dave Tilbrook
+    - Not possible 'til January
+    - Eek, didn't.
+    - Extra idea: Check to see if Sacha Chua would be interested in presenting on, well, anything.
+      - She has been doing some Google Hangouts-based meetups on customizing Emacs
+      - More on Org Mode?
+      - Emacs Lisp?
+      - Note that she's on the committee for [[http://www.european-lisp-symposium.org/content-gabriel-full.html][European Lisp Symposium 2015]]
+  - TODO Scott :: Digitize all of the GTALUG legal documents
+  - TODO Alex & Amos :: Test backups.
+  - TODO Scott :: Contact Sergio (GDB/LibrePlanet Ontario) for March meeting
+  - TODO Myles :: Contact Adib, suggesting Openstack/Docker for later
+  - TODO DCB :: Contact Ryerson to see if the Feb date is plausible at Ryerson
+  - TODO DCB and/or Gord :: Engaging with Ryerson
+  - TODO All :: Figure an idea as to increasing attendance
+    
+*** Last Month
+- February :: Q&A
+
+**** Successes
+
+**** Failures
+     
+*** Upcoming
+
+- March :: Sergio - LibrePlanet, GDB, something...
+
+*** Tentative/Unconfirmed Talks
+**** No Dates
+
+- Evan Liebowitz :: ICANN and/or ISOC Canada
+- Adib Saikali :: OpenStack
+- Adib Saikali :: Automating Docker
+- Dave Tilbrook :: Software Engineering
+- Sacha Chua :: Emacs, Lisp, Org Mode, Organizing, ...
+- Bill Thanis :: Aim at panel for April, or March, maybe?
+- Panel on Productivity Software :: ToDo.sh, TaskWarrior
+- Chris Tyler, Open Source Lab :: Some project will be out of NDA in July, worth soliciting
+- Gord :: Marketing Peoples' Selves
+
+*** Roles at GTALUG
+
+** Attendances and Diversity
+
+** Mailing List
+
+*** Action Items From Last Month
+
+*** Moderators
+
+** CAG & ICANN
+
+** Projects for a bit later
+  - Get LITP a bit earlier, probably April as when to start thinking
+
+** Test Backups
+  - Point Alex at the backups Git repo, which provides a fair bit of
+    census info as to what stuff we have running
+
+** Why gtalug.info?
+
+
+** Action Items
+  - Next Meeting - March 24th 7:30pm, MaRS Food Court?
+  - TODO Myles :: Publish floor plan image somewhere
+    - Need to design it still
+  - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
+  - TODO Myles :: Wants an extra adaptor for VGA
+  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
+  - TODO Alex :: Archiving old list - now found at [http://gtalug.org/pipermail/legacy/]
+  - TODO Myles :: Ask if anyone has thoughts on SystemD
+    - Aim at panel for April
+  - TODO Chris :: Solicit Dave Tilbrook
+    - Not possible 'til January
+    - Eek, didn't.
+    - Extra idea: Check to see if Sacha Chua would be interested in presenting on, well, anything.
+      - She has been doing some Google Hangouts-based meetups on customizing Emacs
+      - More on Org Mode?
+      - Emacs Lisp?
+      - Note that she's on the committee for [[http://www.european-lisp-symposium.org/content-gabriel-full.html][European Lisp Symposium 2015]]
+  - TODO Scott :: Digitize all of the GTALUG legal documents
+  - TODO Alex & Amos :: Test backups.
+  - TODO Scott :: Contact Sergio (GDB/LibrePlanet Ontario) for March meeting
+  - TODO Myles :: Contact Adib, suggesting Openstack/Docker for later
+  - TODO DCB :: Contact Ryerson to see if the Feb date is plausible at Ryerson
+  - TODO DCB and/or Gord :: Engaging with Ryerson
+  - TODO All :: Figure an idea as to increasing attendance
