@@ -14,6 +14,7 @@ MaRS
 - Upcoming Meetings
 - Speaker Coordinator
 - Touch on where and when this meeting happens next
+- Moderation of mailing list
 
 ** Action Items from Last Month
   - Next Meeting - Feb 23rd 7:30pm, MARS Food Court
