@@ -15,6 +15,11 @@ MaRS
 - Speaker Coordinator
 - Touch on where and when this meeting happens next
 - Moderation of mailing list
+- FSOSS / OpenHatch at U(T) on Feb 28th
+  - Looking for mentors
+  - Instruction on community norms, issue trackers, IRC, Git
+  - Career Panel
+  - Contributions workshop
 
 ** Action Items from Last Month
   - Next Meeting - Feb 23rd 7:30pm, MARS Food Court
