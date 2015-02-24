@@ -3,6 +3,7 @@ layout: post
 title: "Agenda"
 published: true
 ---
+
 * 23 February, 2015
 
 ** Location
@@ -26,6 +27,7 @@ published: true
   - Contributions workshop
 - Engagement with Ryerson
   - Things tabled from last time
+  - Do they have a better map/floor plan
 - Ping LITP, action starts in April
 - Attendance Maintenance
 
