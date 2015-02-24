@@ -58,16 +58,17 @@ published: true
      
 *** Upcoming
 
-- March :: Productivity
+- March 10 :: Productivity
   - Chris :: Todo.sh
-  - Scott :: Todo app
+  - Scott :: Todo.sh app
   - Myles :: JRNL
   - Alex :: OwnCloud
-- April :: Sergio - LibrePlanet, GDB, something...
+- April 14 :: ????
 
 *** Tentative/Unconfirmed Talks
 **** No Dates
 
+- Sergio - LibrePlanet, GDB, something...
 - Evan Liebowitz :: ICANN and/or ISOC Canada
 - Adib Saikali :: OpenStack
 - Adib Saikali :: Automating Docker
@@ -77,7 +78,10 @@ published: true
 - Panel on Productivity Software :: ToDo.sh, TaskWarrior
 - Chris Tyler, Open Source Lab :: Some project will be out of NDA in July, worth soliciting
 - Gord :: Marketing Peoples' Selves
-
+- Richard Weait :: Open Street Map
+- William Murrithy (sp?) :: SAMBA
+- Myles :: Stylesheets (summer)
+	  
 *** Roles at GTALUG
 
 ** Attendances and Diversity
@@ -95,7 +99,7 @@ published: true
 
 
 ** Action Items
-  - Next Meeting - March 24th 7:30pm, MaRS Food Court?
+  - Next Meeting - March 24th 7:30pm, Hacklab
   - TODO Myles :: Publish floor plan image somewhere
     - Need to design it still
     - Engage with Ryerson
