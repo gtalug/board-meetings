@@ -82,11 +82,14 @@ published: true
 - William Murrithy (sp?) :: SAMBA
 - Myles :: Stylesheets (summer)
 	  
-*** Roles at GTALUG
-
 ** Attendances and Diversity
 
+- Tabled discussion for another meeting.  (Chris was feeling not too
+  well, and was actually quite /not well/.)
+
 ** CAG & ICANN
+
+- Report came in afterwards; added to repo
 
 ** Projects for a bit later
   - Get LITP a bit earlier, probably April as when to start thinking
@@ -94,9 +97,6 @@ published: true
 ** Test Backups
   - Point Alex at the backups Git repo, which provides a fair bit of
     census info as to what stuff we have running
-
-** Why gtalug.info?
-
 
 ** Action Items
   - Next Meeting - March 24th 7:30pm, Hacklab
