@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 23rd March, 2015
+
+** Location
+
+- *Hacklab*
+ - <insert address>
+ - <insert link to map>
+ 
+** Agenda
+
+- Upcoming Meetings
+- Speaker Coordinator
+- Touch on where and when this meeting happens next
+  - How do we like Hacklab
+- Moderation of mailing list
+- Engagement with Ryerson
+  - Things tabled from last time
+  - Do they have a better map/floor plan
+- Ping LITP, action starts in April
+- Attendance Maintenance
+- Infustructor
+  - SSL Certificate
+    - Should we move DNS to CloudFare and get a free SSL certificate?
+    - StarSSL give out free annual SSL certificates.
+
+** Action Items from Last Month
+  - Next Meeting - Feb 23rd 7:30pm, MARS Food Court
+  - TODO Myles :: Publish floor plan image somewhere
+    - Need to design it still
+  - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
+  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
+  - TODO Alex :: Archiving old list - now found at [http://gtalug.org/pipermail/legacy/]
+  - TODO Chris :: Solicit Dave Tilbrook
+    - Not possible 'til January
+    - Eek, didn't.
+    - Extra idea: Check to see if Sacha Chua would be interested in presenting on, well, anything.
+      - She has been doing some Google Hangouts-based meetups on customizing Emacs
+      - More on Org Mode?
+      - Emacs Lisp?
+      - Note that she's on the committee for [[http://www.european-lisp-symposium.org/content-gabriel-full.html][European Lisp Symposium 2015]]
+      - TODO Scott :: Digitize all of the GTALUG legal documents
+  - TODO Alex & Amos :: Test backups.
+  - TODO Scott :: Contact Sergio (GDB/LibrePlanet Ontario) for March meeting
+  - TODO Myles :: Contact Adib, suggesting Openstack/Docker for later
+  - TODO DCB :: Contact Ryerson to see if the Feb date is plausible at Ryerson
+  - TODO DCB and/or Gord :: Engaging with Ryerson
+  - TODO All :: Figure an idea as to increasing attendance
