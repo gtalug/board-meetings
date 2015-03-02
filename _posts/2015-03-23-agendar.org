@@ -9,8 +9,8 @@ published: true
 ** Location
 
 - *Hacklab*
- - <insert address>
- - <insert link to map>
+ - 1266 Queen St W, Toronto, ON M6K 1L3
+ - <https://goo.gl/maps/OKcij>
  
 ** Agenda
 
