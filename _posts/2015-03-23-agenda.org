@@ -24,8 +24,7 @@ published: true
   - Do they have a better map/floor plan
 - Ping LITP, action starts in April
 - Attendance Maintenance
-- Infustructor
-  - SSL Certificate
+- Infrastructure
     - Should we move DNS to CloudFare and get a free SSL certificate?
     - StarSSL give out free annual SSL certificates.
 
@@ -36,15 +35,9 @@ published: true
   - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
   - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
   - TODO Alex :: Archiving old list - now found at [http://gtalug.org/pipermail/legacy/]
-  - TODO Chris :: Solicit Dave Tilbrook
-    - Not possible 'til January
-    - Eek, didn't.
-    - Extra idea: Check to see if Sacha Chua would be interested in presenting on, well, anything.
-      - She has been doing some Google Hangouts-based meetups on customizing Emacs
-      - More on Org Mode?
-      - Emacs Lisp?
-      - Note that she's on the committee for [[http://www.european-lisp-symposium.org/content-gabriel-full.html][European Lisp Symposium 2015]]
-      - TODO Scott :: Digitize all of the GTALUG legal documents
+  - TODO Chris :: Solicit Sacha Chua
+      - Have contacted her, no response just yet, but no indicator
+  - TODO Scott :: Digitize all of the GTALUG legal documents
   - TODO Alex & Amos :: Test backups.
   - TODO Scott :: Contact Sergio (GDB/LibrePlanet Ontario) for March meeting
   - TODO Myles :: Contact Adib, suggesting Openstack/Docker for later
