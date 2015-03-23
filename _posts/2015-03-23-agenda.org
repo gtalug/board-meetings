@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agenda"
-published: true
+published: false
 ---
 
 * 23rd March, 2015
@@ -19,6 +19,7 @@ published: true
 - Touch on where and when this meeting happens next
   - How do we like Hacklab
 - Moderation of mailing list
+  - Are we surviving the rambling OK?
 - Engagement with Ryerson
   - Things tabled from last time
   - Do they have a better map/floor plan
