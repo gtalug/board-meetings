@@ -1,0 +1,86 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 23rd March, 2015
+
+** Location
+
+ - *MaRS Discovery District* - Food Court
+ - 101 College Street, Toronto, ON M5G 1L7
+ - <https://goo.gl/maps/LK1NM> or <http://osm.org/go/ZX6ByorJK?way=22475825>
+
+ - Matter to discuss :: Start time?
+
+** Attendees
+
+*** Present
+
+- Christopher Browne
+- Mike Kalles
+- Alex Volkov
+- Myles Braithwaite
+- Scott Sullivan
+
+*** Absent
+
+- Ivan Avery Frey
+- David Collier Brown
+- Amos Weatherill
+- Bill Thanis
+- Gordon Chillcott
+
+*** Reminders
+
+** Mailing List
+
+- Rambling continuing somewhat, but a dull-ish roar?
+    
+** Meetings
+
+*** Last Month
+- March :: Various on productivity tools
+
+**** Successes
+
+**** Failures
+     
+*** Upcoming
+
+- April 14 :: ????
+
+*** Tentative/Unconfirmed Talks
+**** No Dates
+
+- Sergio - LibrePlanet, GDB, something...
+- Evan Liebowitz :: ICANN and/or ISOC Canada
+- Adib Saikali :: OpenStack
+- Adib Saikali :: Automating Docker
+- Dave Tilbrook :: Software Engineering
+- Sacha Chua :: Emacs, Lisp, Org Mode, Organizing, ...
+  - Chris is exploring this
+- Bill Thanis :: Aim at panel for April, or March, maybe?
+- Chris Tyler, Open Source Lab :: Some project will be out of NDA in July, worth soliciting
+- Gord :: Marketing Peoples' Selves
+- Richard Weait :: Open Street Map
+- William Murrithy (sp?) :: SAMBA
+- Myles :: Stylesheets (summer)
+	  
+** Attendances and Diversity
+
+
+** CAG & ICANN
+
+- Report?  May come in from Gord separately
+
+** Projects for a bit later
+  - Get LITP a bit earlier, probably April as when to start thinking
+
+** Test Backups
+  - Point Alex at the backups Git repo, which provides a fair bit of
+    census info as to what stuff we have running
+
+** Action Items
+  - Next Meeting - April 28th 7:30pm, where? Hacklab?
