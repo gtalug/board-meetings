@@ -36,7 +36,7 @@ published: true
   - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
   - TODO Alex :: Archiving old list - now found at [http://gtalug.org/pipermail/legacy/]
   - TODO Chris :: Solicit Sacha Chua
-      - Have contacted her, no response just yet, but no indicator
+      - Have contacted her, to get together for Emacs chat on Friday (March 27th)
   - TODO Scott :: Digitize all of the GTALUG legal documents
   - TODO Alex & Amos :: Test backups.
   - TODO Scott :: Contact Sergio (GDB/LibrePlanet Ontario) for March meeting
