@@ -97,15 +97,22 @@ published: false
     - Still a bit rambly, but we can live with it...
     	  
 ** Attendances and Diversity
-- Myles would like to run surveys on what people like about GTALUG
-- Is there an open source survey platform?  That isn't too rocket-sciencey?
+ - Myles would like to run surveys on what people like about GTALUG
+ - Is there an open source survey platform?  That isn't too rocket-sciencey?
+ - Ask in Q&A session
 
 ** Infrastructure
-- Someone disliked entering password for Mailman on a non-HTTPS connection
-- Do we care about a non-signed SSL?
-- Cloudflare might be a solution, but wants all DNS to pass thru them, not acceptable
-- StartSSL gives out a free SSL cert, but apparently the process is a bit convoluted, and only for personal use
-- Mozilla LetsEncrypt.org, intended to be free, open, in relevant ways, later in 2015
+ - Someone disliked entering password for Mailman on a non-HTTPS connection
+ - Do we care about a non-signed SSL?
+ - Cloudflare might be a solution, but wants all DNS to pass thru them, not acceptable
+ - StartSSL gives out a free SSL cert, but apparently the process is a bit convoluted
+ - Mozilla LetsEncrypt.org, intended to be free, open, in relevant ways, later in 2015
+
+*** Need for a "chat" service
+ - Want to have ability to chat
+ - And some people want to be on other than Google
+   - IRC channel somewhere
+ - The *REAL* solution is to have a cron job that sends out warning a week before the Ops meeting about the upcoming meeting
 
 ** CAG & ICANN
 
