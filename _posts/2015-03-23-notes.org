@@ -60,7 +60,11 @@ published: false
 *** Upcoming
 
 - April 14 :: Myles on LessCSS, Q&A
-- May 2015 :: Richard Weait - Open Street Map
+- May 2015 :: Stewart - Open Street Map
+- June :: Consider Timekeeping?
+
+*** Dinner?
+- Take issue back to mailing list, most likely Love at First Bite
 
 *** Tentative/Unconfirmed Talks
 **** No Dates
@@ -104,6 +108,8 @@ published: false
 
 ** Action Items
   - Next Meeting - April 28th 7:30pm, where? Hacklab?
+    - Hacklab seems fine
+    - If we stay at Hacklab, should formalize some kind of contribution to Hacklab
   - TODO :: Next month Alex wants us to discuss getting an auditorium or such
   - TODO :: Next month discuss engagement with Ryerson
     - Includes getting floor plan
