@@ -27,13 +27,13 @@ published: false
 
 ** Action Items from Last Month
   - Next meeting at Hacklab.to
-  - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
-  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
   - TODO Chris :: Solicit Sacha Chua
       - Have contacted her, to get together for Emacs chat on Friday (March 27th)
+  - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
+  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
   - TODO Scott :: Digitize all of the GTALUG legal documents
+  - TODO Scott :: Contact Sergio (GDB/LibrePlanet Ontario) for April? meeting
   - TODO Alex & Amos :: Test backups.
-  - TODO Scott :: Contact Sergio (GDB/LibrePlanet Ontario) for March meeting
   - TODO Myles :: Contact Adib, suggesting Openstack/Docker for later
   - TODO DCB :: Contact Ryerson to see if the Feb date is plausible at Ryerson
   - TODO DCB and/or Gord :: Engaging with Ryerson

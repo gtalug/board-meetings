@@ -46,6 +46,16 @@ published: false
 **** Successes
 
 **** Failures
+
+*** Engagement with Ryerson
+- Planning meeting took place
+  - Scott, DCB, Gord
+  - Going to propose a panel talk on getting hired that should be
+    interesting to attract Ryerson students
+  - Myles isn't sure this will necessarily be hugely interesting to
+    students; there are already a lot of job fairs
+  - Discussion to continue
+  - Nice to have this as a report to the board much like CAG/ICANN
      
 *** Upcoming
 
@@ -58,6 +68,7 @@ published: false
 - Evan Liebowitz :: ICANN and/or ISOC Canada
 - Adib Saikali :: OpenStack
 - Adib Saikali :: Automating Docker
+  - Myles contacted Adib; he suggested getting back in a few months
 - Dave Tilbrook :: Software Engineering
 - Sacha Chua :: Emacs, Lisp, Org Mode, Organizing, ...
   - Chris is exploring this
@@ -67,6 +78,7 @@ published: false
 - Richard Weait :: Open Street Map
 - William Murrithy (sp?) :: SAMBA
 - Myles :: Stylesheets (summer)
+- Sergio (GDB/LibrePlanet Ontario) 
 	  
 ** Attendances and Diversity
 
@@ -88,8 +100,9 @@ published: false
   - TODO :: Next month discuss engagement with Ryerson
     - Includes getting floor plan
   - TODO :: Next month begin LITP planning
-  - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
-  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
+  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data, put this in the carry bag?
+  - TODO Scott :: Digitize all of the GTALUG legal documents
   - TODO Alex :: Link main site to Archives of mailing list
     - Maybe ask Drew Sullivan about earlier mail archives
   - TODO Chris :: Sacha Chua for talk, perhaps
+  - TODO Alex & Amos :: Test backups.
