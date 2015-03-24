@@ -116,7 +116,21 @@ published: false
 
 ** CAG & ICANN
 
-- Report?  May come in from Gord separately
+ - Report?  May come in from Gord separately
+
+** Code of Conduct
+ - We passed the Code in about February 2014
+ - Perhaps tell members that the code is now a year down the road?
+ - Some concerns have been raised
+   - Minimal impact on organization
+     - Member thought we had headed back to where we were
+     - Supposedly returned to sexually charged matters?
+     - Little agreement on that
+   - Argument that the code is discriminatory
+     - That code prevents some from expressing themselves freely
+     - Strawman arguments abound...
+   - How meetings are being chaired
+     -
 
 ** Projects for a bit later
   - Get LITP a bit earlier, probably April as when to start thinking
