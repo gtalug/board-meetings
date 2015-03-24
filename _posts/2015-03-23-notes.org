@@ -60,6 +60,9 @@ published: false
 *** Upcoming
 
 - April 14 :: Myles on LessCSS, Q&A
+  - Questions WE want asked...
+    - Is there a decent OSS survey and/or voting platform?
+    - Who knows NTP and similar and dissimilar things?
 - May 2015 :: Stewart - Open Street Map
 - June :: Consider Timekeeping?
 
@@ -94,6 +97,15 @@ published: false
     - Still a bit rambly, but we can live with it...
     	  
 ** Attendances and Diversity
+- Myles would like to run surveys on what people like about GTALUG
+- Is there an open source survey platform?  That isn't too rocket-sciencey?
+
+** Infrastructure
+- Someone disliked entering password for Mailman on a non-HTTPS connection
+- Do we care about a non-signed SSL?
+- Cloudflare might be a solution, but wants all DNS to pass thru them, not acceptable
+- StartSSL gives out a free SSL cert, but apparently the process is a bit convoluted, and only for personal use
+- Mozilla LetsEncrypt.org, intended to be free, open, in relevant ways, later in 2015
 
 ** CAG & ICANN
 
@@ -125,3 +137,5 @@ published: false
     - ptp, what's up with NTP, other NTP implementations
     - Hardware implementations - GPS
     - What to do about VMs?
+  - TODO Myles :: Will make sure some questions get asked on GTALUG behalf at Q&A
+  - TODO ??? :: When Mozilla LetsEncrypt.org appears, we may want to set up SSL cert for our web site
