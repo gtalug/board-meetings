@@ -23,14 +23,12 @@ published: false
 - Infrastructure
   - Should we move DNS to CloudFare and get a free SSL certificate?
   - StarSSL give out free annual SSL certificates.
+- Code of Conduct
 
 ** Action Items from Last Month
   - Next meeting at Hacklab.to
-  - TODO Myles :: Publish floor plan image somewhere
-    - Need to design it still
   - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
   - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
-  - TODO Alex :: Archiving old list - now found at [http://gtalug.org/pipermail/legacy/]
   - TODO Chris :: Solicit Sacha Chua
       - Have contacted her, to get together for Emacs chat on Friday (March 27th)
   - TODO Scott :: Digitize all of the GTALUG legal documents

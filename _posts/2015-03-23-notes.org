@@ -86,4 +86,10 @@ published: false
   - Next Meeting - April 28th 7:30pm, where? Hacklab?
   - TODO :: Next month Alex wants us to discuss getting an auditorium or such
   - TODO :: Next month discuss engagement with Ryerson
+    - Includes getting floor plan
   - TODO :: Next month begin LITP planning
+  - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
+  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
+  - TODO Alex :: Link main site to Archives of mailing list
+    - Maybe ask Drew Sullivan about earlier mail archives
+  - TODO Chris :: Sacha Chua for talk, perhaps
