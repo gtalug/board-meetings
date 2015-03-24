@@ -118,3 +118,4 @@ published: false
   - TODO Myles :: Time Keeping Panel
     - ptp, what's up with NTP, other NTP implementations
     - Hardware implementations - GPS
+    - What to do about VMs?
