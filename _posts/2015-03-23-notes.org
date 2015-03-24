@@ -59,7 +59,8 @@ published: false
      
 *** Upcoming
 
-- April 14 :: ????
+- April 14 :: Myles on LessCSS, Q&A
+- May 2015 :: Richard Weait - Open Street Map
 
 *** Tentative/Unconfirmed Talks
 **** No Dates
@@ -75,7 +76,6 @@ published: false
 - Bill Thanis :: Aim at panel for April, or March, maybe?
 - Chris Tyler, Open Source Lab :: Some project will be out of NDA in July, worth soliciting
 - Gord :: Marketing Peoples' Selves
-- Richard Weait :: Open Street Map
 - William Murrithy (sp?) :: SAMBA
 - Myles :: Stylesheets (summer)
 - Sergio (GDB/LibrePlanet Ontario) 
