@@ -21,8 +21,10 @@ published: false
   - Are we surviving the rambling OK?
 - Attendance Maintenance
 - Infrastructure
-  - Should we move DNS to CloudFare and get a free SSL certificate?
-  - StarSSL give out free annual SSL certificates.
+  - SSL Cert.
+   - Should we move DNS to CloudFare and get a free SSL certificate?
+   - StarSSL give out free annual SSL certificates.
+  - XMPP Conference Server
 - Code of Conduct
 
 ** Action Items from Last Month
