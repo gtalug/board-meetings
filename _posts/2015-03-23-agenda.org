@@ -15,19 +15,14 @@ published: false
 ** Agenda
 
 - Upcoming Meetings
-- Speaker Coordinator
 - Touch on where and when this meeting happens next
   - How do we like Hacklab
 - Moderation of mailing list
   - Are we surviving the rambling OK?
-- Engagement with Ryerson
-  - Things tabled from last time
-  - Do they have a better map/floor plan
-- Ping LITP, action starts in April
 - Attendance Maintenance
 - Infrastructure
-    - Should we move DNS to CloudFare and get a free SSL certificate?
-    - StarSSL give out free annual SSL certificates.
+  - Should we move DNS to CloudFare and get a free SSL certificate?
+  - StarSSL give out free annual SSL certificates.
 
 ** Action Items from Last Month
   - Next meeting at Hacklab.to

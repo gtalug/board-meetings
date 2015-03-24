@@ -84,3 +84,6 @@ published: false
 
 ** Action Items
   - Next Meeting - April 28th 7:30pm, where? Hacklab?
+  - TODO :: Next month Alex wants us to discuss getting an auditorium or such
+  - TODO :: Next month discuss engagement with Ryerson
+  - TODO :: Next month begin LITP planning
