@@ -22,7 +22,8 @@ published: false
 - Attendance Maintenance
 - Infrastructure
   - Should we move DNS to CloudFare and get a free SSL certificate?
-  - StarSSL give out free annual SSL certificates.
+  - StarSSL give out free annual SSL certificates
+  - XMPP Conference server
 - Code of Conduct
 
 ** Action Items from Last Month
@@ -35,6 +36,5 @@ published: false
   - TODO Scott :: Contact Sergio (GDB/LibrePlanet Ontario) for April? meeting
   - TODO Alex & Amos :: Test backups.
   - TODO Myles :: Contact Adib, suggesting Openstack/Docker for later
-  - TODO DCB :: Contact Ryerson to see if the Feb date is plausible at Ryerson
   - TODO DCB and/or Gord :: Engaging with Ryerson
   - TODO All :: Figure an idea as to increasing attendance

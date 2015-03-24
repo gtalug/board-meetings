@@ -79,9 +79,17 @@ published: false
 - William Murrithy (sp?) :: SAMBA
 - Myles :: Stylesheets (summer)
 - Sergio (GDB/LibrePlanet Ontario) 
-	  
-** Attendances and Diversity
+- NTP :: Several people desired it
+- Building Block Funding
 
+** Mailing list
+  - Issue with rambling
+  - Engagement seemed to work
+    - DCB had weighed in, emailing the individual
+    - We moderated the individual for a while, where someone had to approve posts
+    - Still a bit rambly, but we can live with it...
+    	  
+** Attendances and Diversity
 
 ** CAG & ICANN
 
@@ -106,3 +114,7 @@ published: false
     - Maybe ask Drew Sullivan about earlier mail archives
   - TODO Chris :: Sacha Chua for talk, perhaps
   - TODO Alex & Amos :: Test backups.
+  - TODO Myles :: Check linode; do we want to renew contract?  Worry in a few months, current expires in August, so start worrying in June
+  - TODO Myles :: Time Keeping Panel
+    - ptp, what's up with NTP, other NTP implementations
+    - Hardware implementations - GPS
