@@ -130,7 +130,7 @@ published: false
      - That code prevents some from expressing themselves freely
      - Strawman arguments abound...
    - How meetings are being chaired
-     -
+     - Claim that some of the moderation is pretty pointed
 
 ** Projects for a bit later
   - Get LITP a bit earlier, probably April as when to start thinking
