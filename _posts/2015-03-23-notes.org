@@ -8,11 +8,9 @@ published: true
 
 ** Location
 
- - *MaRS Discovery District* - Food Court
- - 101 College Street, Toronto, ON M5G 1L7
- - <https://goo.gl/maps/LK1NM> or <http://osm.org/go/ZX6ByorJK?way=22475825>
-
- - Matter to discuss :: Start time?
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
 
 ** Attendees
 
@@ -37,7 +35,7 @@ published: true
 ** Mailing List
 
 - Rambling continuing somewhat, but a dull-ish roar?
-    
+
 ** Meetings
 
 *** Last Month
@@ -56,7 +54,7 @@ published: true
     students; there are already a lot of job fairs
   - Discussion to continue
   - Nice to have this as a report to the board much like CAG/ICANN
-     
+
 *** Upcoming
 
 - April 14 :: Myles on LessCSS, Q&A
@@ -85,7 +83,7 @@ published: true
 - Gord :: Marketing Peoples' Selves
 - William Murrithy (sp?) :: SAMBA
 - Myles :: Stylesheets (summer)
-- Sergio (GDB/LibrePlanet Ontario) 
+- Sergio (GDB/LibrePlanet Ontario)
 - NTP :: Several people desired it
 - Building Block Funding
 
@@ -95,7 +93,7 @@ published: true
     - DCB had weighed in, emailing the individual
     - We moderated the individual for a while, where someone had to approve posts
     - Still a bit rambly, but we can live with it...
-    	  
+
 ** Attendances and Diversity
  - Myles would like to run surveys on what people like about GTALUG
  - Is there an open source survey platform?  That isn't too rocket-sciencey?

@@ -10,9 +10,9 @@ published: true
 
 ** Location
 
- - *MaRS Discovery District* - Food Court
- - 101 College Street, Toronto, ON M5G 1L7
- - <https://goo.gl/maps/LK1NM> or <http://osm.org/go/ZX6ByorJK?way=22475825>
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
 
 ** Attendees
 
