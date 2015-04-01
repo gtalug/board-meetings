@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Meeting Notes"
+published: true
+---
+
+* 27th April, 2015 at 7:30pm
+
+** Location
+
+** Location
+
+ - *MaRS Discovery District* - Food Court
+ - 101 College Street, Toronto, ON M5G 1L7
+ - <https://goo.gl/maps/LK1NM> or <http://osm.org/go/ZX6ByorJK?way=22475825>
+
+** Attendees
+
+*** Present
+
+*** Absent
+
+- Christopher Browne
+- Mike Kalles
+- Alex Volkov
+- Myles Braithwaite
+- Scott Sullivan
+- Ivan Avery Frey
+- David Collier Brown
+- Amos Weatherill
+- Bill Thanis
+- Gordon Chillcott
+
+** Items
+
+*** Item
+
+**** Action Items
