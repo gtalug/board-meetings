@@ -31,6 +31,28 @@ published: true
 
 ** Items
 
-*** Item
+*** Last Month
 
-**** Action Items
+- April 2015 :: LessCSS and Q&A
+
+**** Success
+
+**** Failures
+
+*** Upcoming Meetings
+
+- May 2015 :: OpenStreetMap.org with Stewart Russell.
+- June 2015 :: Need to find a speaker.
+- July 2015 :: Need to find a speaker.
+- August 2015 :: Need to find a speaker.
+- September 2015 :: Need to find a speaker.
+
+**** Dinner?
+
+*** Code of Conduct
+
+*** Engagement with Ryerson
+
+*** Linux in the Park 2015
+
+*** Action Items
