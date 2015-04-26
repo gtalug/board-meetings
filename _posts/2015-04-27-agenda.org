@@ -8,31 +8,31 @@ published: true
 
 ** Location
 
-** Location
-
  - *Hacklab*
   - 1266 Queen St W, Toronto, ON M6K 1L3
   - <https://goo.gl/maps/OKcij>
 
-** Attendees
+** Agenda
 
-*** Present
+- Upcoming Meetings
+- Touch on where and when this meeting happens next
+  - How do we like Hacklab
+- Attendance Maintenance
+- Infrastructure
+  - How is testing the backups going.
+  - Getting evote installed <https://github.com/mdipierro/evote>.
+  - Setting up Chef/Puppet/Ansible of the current server.
+  - Backup testing.
+- Engagment with Ryerson
+  - Getting an auditorium instead of a lab. 
+- Code of Conduct
+  - Mailing List
+    - Moderator
 
-*** Absent
-
-- Christopher Browne
-- Mike Kalles
-- Alex Volkov
-- Myles Braithwaite
-- Scott Sullivan
-- Ivan Avery Frey
-- David Collier Brown
-- Amos Weatherill
-- Bill Thanis
-- Gordon Chillcott
-
-** Items
-
-*** Item
-
-**** Action Items
+** Action Items from Last Month
+  - TODO Chris :: Solicit Sacha Chua
+  - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
+  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
+  - TODO Scott :: Digitize all of the GTALUG legal documents
+  - TODO Scott :: Contact Sergio (GDB/LibrePlanet Ontario) for April? meeting
+  - TODO All :: Figure an idea as to increasing attendance
