@@ -31,9 +31,23 @@ published: true
     - Moderator
 
 ** Action Items from Last Month
-  - TODO Chris :: Solicit Sacha Chua
-  - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
-  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
+  - Next Meeting - April 28th 7:30pm, where? Hacklab?
+    - Hacklab seems fine
+    - If we stay at Hacklab, should formalize some kind of contribution to Hacklab
+  - TODO :: Next month Alex wants us to discuss getting an auditorium or such
+  - TODO :: Next month discuss engagement with Ryerson
+    - Includes getting floor plan
+  - TODO :: Next month begin LITP planning
+  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data, put this in the carry bag?
   - TODO Scott :: Digitize all of the GTALUG legal documents
-  - TODO Scott :: Contact Sergio (GDB/LibrePlanet Ontario) for April? meeting
-  - TODO All :: Figure an idea as to increasing attendance
+  - TODO Alex :: Link main site to Archives of mailing list
+    - Maybe ask Drew Sullivan about earlier mail archives
+  - TODO Chris :: Sacha Chua for talk, perhaps
+  - TODO Alex & Amos :: Test backups.
+  - TODO Myles :: Check linode; do we want to renew contract?  Worry in a few months, current expires in August, so start worrying in June
+  - TODO Myles :: Time Keeping Panel
+    - ptp, what's up with NTP, other NTP implementations
+    - Hardware implementations - GPS
+    - What to do about VMs?
+  - TODO Myles :: Will make sure some questions get asked on GTALUG behalf at Q&A
+  - TODO ??? :: When Mozilla LetsEncrypt.org appears, we may want to set up SSL cert for our web site
