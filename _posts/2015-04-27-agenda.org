@@ -25,6 +25,7 @@ published: true
   - Backup testing.
 - Engagment with Ryerson
   - Getting an auditorium instead of a lab. 
+- Linux in the Park 2015
 - Code of Conduct
   - Mailing List
     - Moderator
