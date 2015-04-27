@@ -15,19 +15,19 @@ published: false
 ** Attendees
 
 *** Present
-
-*** Absent
-
 - Christopher Browne
-- Mike Kalles
 - Alex Volkov
 - Myles Braithwaite
 - Scott Sullivan
+- Bill Thanis
+- Gordon Chillcott
+
+*** Absent
+
+- Mike Kalles
 - Ivan Avery Frey
 - David Collier Brown
 - Amos Weatherill
-- Bill Thanis
-- Gordon Chillcott
 
 ** Items
 
