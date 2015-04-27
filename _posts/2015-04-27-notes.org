@@ -42,29 +42,28 @@ published: false
 *** Infrastructure
 
 **** How is testing the backups going.
+  Some ongoing discussions taking place
 
-**** Getting evote installed <https://github.com/mdipierro/evote>.
+**** Getting evote installed
+  [[https://github.com/mdipierro/evote][Evote]]
 
-**** Setting up Chef/Puppet/Ansible of the current server.
+**** Setting up Chef/Puppet/Ansible on the current server.
+  Do we want this?
 
-**** Backup testing.
+**** Backup testing
 
-*** Engagment with Ryerson
+*** Engagement with Ryerson
 
 **** Getting an auditorium instead of a lab. 
 
 *** Linux in the Park 2015
+
+  - About now is the time to figure out when we'd like to do it
 
 *** Code of Conduct
 
 **** Mailing List
 
 ***** Moderator
-
+      
 ** Action Items
-  - TODO Chris :: Solicit Sacha Chua
-  - TODO Scott :: Send out request for lightweight bag suitable to hold a 12-15 inch laptop
-  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data
-  - TODO Scott :: Digitize all of the GTALUG legal documents
-  - TODO Scott :: Contact Sergio (GDB/LibrePlanet Ontario) for April? meeting
-  - TODO All :: Figure an idea as to increasing attendance
