@@ -35,8 +35,9 @@ published: false
 
 *** Touch on where and when this meeting happens next
 
-**** How do we like Hacklab
-
+  Hacklab seems fine...  May 25th.
+  Some parking at the back, behind a Hacklab member.
+  
 *** ICANN
 
 Got a report - [[../uploads/2015-04-27/20150427.pdf][ICANN Report 2015-04-27]]
