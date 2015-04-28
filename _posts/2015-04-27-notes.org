@@ -50,15 +50,26 @@ Got a report - [[../uploads/2015-04-27/20150427.pdf][ICANN Report 2015-04-27]]
 
 **** How is testing the backups going.
   Some ongoing discussions taking place
-  Alex is not getting the subscriber list piece working
+  Alex is not getting the subscriber list piece working, that's all that isn't working
+  Chris needs to further document it better
   
 **** Getting evote installed
   [[https://github.com/mdipierro/evote][Evote]]
+  Myles has looked at it, referenced from Mike Fletcher
+  - Used for board votes
+  - Had to check with lawyers that it's legally valid
+  - Anyone can set up a vote after having been set up to be able to vote
+  - Invite only
+  - Sadly no survey features, which is kind of the most attractive thing
+  - Myles will set up a dinner survey using it
+  - Myles has responsibility for setting it up, making sure that it's able to be readily backed up and restored
 
-**** Setting up Chef/Puppet/Ansible on the current server.
+**** Setting up Chef/Puppet/Ansible/Salt on the current server.
   Do we want this?
-
-**** Backup testing
+   - Maybe wanna set up Chef/Puppet/Ansible to set up our services
+   - Straw poll shows nobody is particularly intimate with any of these
+   - There's some learning curve
+   - Argue for "no" for now
 
 *** Engagement with Ryerson
 
