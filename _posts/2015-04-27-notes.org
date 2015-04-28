@@ -90,6 +90,7 @@ Got a report - [[../uploads/2015-04-27/20150427.pdf][ICANN Report 2015-04-27]]
 *** Code of Conduct
  - Haven't mentioned on the mailing list that CoC applies
  - Should notify on that
+ - No rush; do this when Mike has an update ready to CoC
 
 ** Action Items
 
