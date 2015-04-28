@@ -72,19 +72,25 @@ Got a report - [[../uploads/2015-04-27/20150427.pdf][ICANN Report 2015-04-27]]
    - Argue for "no" for now
 
 *** Engagement with Ryerson
-
-**** Getting an auditorium instead of a lab. 
+- Get an ongoing dialog going
+- Getting an auditorium instead of a lab.
+- Gord got things started, will hopefully pursue DCB and chat with Ryerson folk in another couple weeks
 
 *** Linux in the Park 2015
-
   - About now is the time to figure out when we'd like to do it
-
+  - Idea of heading to the Island?
+    - Sadly, logistics are worse, no parking
+    - Likely logistics are even worse due to PanAm games goings on
+  - Should try to avoid PanAm games timing - July 10-26
+  - Also try to avoid ParaPan games Aug 7-15
+  - Dufferin Park may be fine during that timeframe
+  - Suggested: July 18, July 25th, Aug 1 (which is in the long weekend), Aug 8
+  - Logistics of things to bring, we already have material to copy from last year
+  
 *** Code of Conduct
+ - Haven't mentioned on the mailing list that CoC applies
+ - Should notify on that
 
-**** Mailing List
-
-***** Moderator
-      
 ** Action Items
 
   - TODO - Myles - contact David about timekeeping, is that better for June or July or what?  DCB had some contact at York on this.   Look for someone that knows about how to handle NTP in VM context
@@ -97,5 +103,5 @@ Got a report - [[../uploads/2015-04-27/20150427.pdf][ICANN Report 2015-04-27]]
   - TODO - Alex - send Chris his GPG key
   - TODO - Chris - Send Alex, GPG-encrypted, the set of admin passwords for Mailman accounts
   - TODO - Chris - revise Mailman subscriber backup to document things a bit better
-  
+  - TODO - Myles - set up discussion on timing
   
