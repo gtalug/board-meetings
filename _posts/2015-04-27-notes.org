@@ -32,7 +32,9 @@ published: false
 ** Items
 
 *** Upcoming Meetings
-
+ - May :: Open Street Map, Stewart Russell
+ - June :: Timekeeping?
+ 
 *** Touch on where and when this meeting happens next
 
   Hacklab seems fine...  May 25th.
@@ -48,7 +50,8 @@ Got a report - [[../uploads/2015-04-27/20150427.pdf][ICANN Report 2015-04-27]]
 
 **** How is testing the backups going.
   Some ongoing discussions taking place
-
+  Alex is not getting the subscriber list piece working
+  
 **** Getting evote installed
   [[https://github.com/mdipierro/evote][Evote]]
 
@@ -72,3 +75,16 @@ Got a report - [[../uploads/2015-04-27/20150427.pdf][ICANN Report 2015-04-27]]
 ***** Moderator
       
 ** Action Items
+
+  - TODO - Myles - contact David about timekeeping, is that better for June or July or what?  DCB had some contact at York on this.   Look for someone that knows about how to handle NTP in VM context
+  - TODO - Alex - Talk with Chris Tyler, Open Source Labs, hoping for August or so
+  - TODO - Myles - pester Adib about virtualization talks in June or so...
+  - TODO - Gord - start poking at a "Marketing Ourselves" talk
+  - TODO - Myles - pester William Murrithy about SAMBA talk
+  - TODO - Bill - solicit a date for CAG to meet, looking like 1st Tuesday may be a preferred time
+    - Want something more central than Hacklab
+  - TODO - Alex - send Chris his GPG key
+  - TODO - Chris - Send Alex, GPG-encrypted, the set of admin passwords for Mailman accounts
+  - TODO - Chris - revise Mailman subscriber backup to document things a bit better
+  
+  
