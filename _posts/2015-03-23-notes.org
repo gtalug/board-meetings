@@ -133,6 +133,7 @@ published: false
      - Claim that some of the moderation is pretty pointed
      - Board thinks that seems OK thus far
      - Can we have a co-moderator?  That might improve biases
+
 ** Projects for a bit later
   - Get LITP a bit earlier, probably April as when to start thinking
 
