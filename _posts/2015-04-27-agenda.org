@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 27th April, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Upcoming Meetings
+- Touch on where and when this meeting happens next
+  - How do we like Hacklab?
+- Attendance Maintenance
+- Infrastructure
+  - How is testing the backups going.
+  - Getting evote installed <https://github.com/mdipierro/evote>.
+  - Setting up Chef/Puppet/Ansible of the current server.
+  - Backup testing.
+- Engagment with Ryerson
+  - Getting an auditorium instead of a lab. 
+- Linux in the Park 2015
+- Code of Conduct
+  - Mailing List
+    - Moderator
+
+** Action Items from Last Month
+  - Next Meeting - April 28th 7:30pm, where? Hacklab?
+    - Hacklab seems fine
+    - If we stay at Hacklab, should formalize some kind of contribution to Hacklab
+  - TODO :: Next month Alex wants us to discuss getting an auditorium or such
+  - TODO :: Next month discuss engagement with Ryerson
+    - Includes getting floor plan
+  - TODO :: Next month begin LITP planning
+  - TODO Scott :: Scott needs to get drive to Bill with Mediawiki data, put this in the carry bag?
+  - TODO Scott :: Digitize all of the GTALUG legal documents
+  - TODO Alex :: Link main site to Archives of mailing list
+    - Maybe ask Drew Sullivan about earlier mail archives
+  - TODO Chris :: Sacha Chua for talk, perhaps
+  - TODO Alex & Amos :: Test backups.
+  - TODO Myles :: Check linode; do we want to renew contract?  Worry in a few months, current expires in August, so start worrying in June
+  - TODO Myles :: Time Keeping Panel
+    - ptp, what's up with NTP, other NTP implementations
+    - Hardware implementations - GPS
+    - What to do about VMs?
+  - TODO Myles :: Will make sure some questions get asked on GTALUG behalf at Q&A
+  - TODO ??? :: When Mozilla LetsEncrypt.org appears, we may want to set up SSL cert for our web site

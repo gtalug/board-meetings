@@ -1,0 +1,108 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 27th April, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+*** Present
+- Christopher Browne
+- Alex Volkov
+- Myles Braithwaite
+- Scott Sullivan
+- Bill Thanis
+- Gordon Chillcott
+
+*** Absent
+
+- Mike Kalles
+- Ivan Avery Frey
+- David Collier Brown
+- Amos Weatherill
+
+** Items
+
+*** Upcoming Meetings
+ - May :: Open Street Map, Stewart Russell
+ - June :: Timekeeping?
+ 
+*** Touch on where and when this meeting happens next
+
+  Hacklab seems fine...  May 25th.
+  Some parking at the back, behind a Hacklab member.
+  
+*** ICANN
+
+Got a report - [[../uploads/2015-04-27/20150427.pdf][ICANN Report 2015-04-27]]
+
+*** Attendance Maintenance
+
+*** Infrastructure
+
+**** How is testing the backups going.
+  Some ongoing discussions taking place
+  Alex is not getting the subscriber list piece working, that's all that isn't working
+  Chris needs to further document it better
+  
+**** Getting evote installed
+  [[https://github.com/mdipierro/evote][Evote]]
+  Myles has looked at it, referenced from Mike Fletcher
+  - Used for board votes
+  - Had to check with lawyers that it's legally valid
+  - Anyone can set up a vote after having been set up to be able to vote
+  - Invite only
+  - Sadly no survey features, which is kind of the most attractive thing
+  - Myles will set up a dinner survey using it
+  - Myles has responsibility for setting it up, making sure that it's able to be readily backed up and restored
+
+**** Setting up Chef/Puppet/Ansible/Salt on the current server.
+  Do we want this?
+   - Maybe wanna set up Chef/Puppet/Ansible to set up our services
+   - Straw poll shows nobody is particularly intimate with any of these
+   - There's some learning curve
+   - Argue for "no" for now
+
+*** Engagement with Ryerson
+- Get an ongoing dialog going
+- Getting an auditorium instead of a lab.
+- Gord got things started, will hopefully pursue DCB and chat with Ryerson folk in another couple weeks
+
+*** Linux in the Park 2015
+  - About now is the time to figure out when we'd like to do it
+  - Idea of heading to the Island?
+    - Sadly, logistics are worse, no parking
+    - Likely logistics are even worse due to PanAm games goings on
+  - Should try to avoid PanAm games timing - July 10-26
+  - Also try to avoid ParaPan games Aug 7-15
+  - Dufferin Park may be fine during that timeframe
+  - Suggested: July 18, July 25th, Aug 1 (which is in the long weekend), Aug 8
+  - Logistics of things to bring, we already have material to copy from last year
+  
+*** Code of Conduct
+ - Haven't mentioned on the mailing list that CoC applies
+ - Should notify on that
+ - No rush; do this when Mike has an update ready to CoC
+
+** Action Items
+
+  - TODO - Myles - contact David about timekeeping, is that better for June or July or what?  DCB had some contact at York on this.   Look for someone that knows about how to handle NTP in VM context
+  - TODO - Alex - Talk with Chris Tyler, Open Source Labs, hoping for August or so
+  - TODO - Myles - pester Adib about virtualization talks in June or so...
+  - TODO - Gord - start poking at a "Marketing Ourselves" talk
+  - TODO - Myles - pester William Murrithy about SAMBA talk
+  - TODO - Bill - solicit a date for CAG to meet, looking like 1st Tuesday may be a preferred time
+    - Want something more central than Hacklab
+  - TODO - Alex - send Chris his GPG key
+  - TODO - Chris - Send Alex, GPG-encrypted, the set of admin passwords for Mailman accounts
+  - TODO - Chris - revise Mailman subscriber backup to document things a bit better
+  - TODO - Myles - set up discussion on timing
+  
