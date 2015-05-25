@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 25th May, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Upcoming Meetings
+- Touch on where and when this meeting happens next
+  - How do we like Hacklab?
+- Attendance Maintenance
+- Infrastructure
+  - How is testing the backups going.
+- Engagment with Ryerson
+  - Getting an auditorium instead of a lab. 
+- Linux in the Park 2015
+- Code of Conduct
+  - Mailing List
+    - Moderator
+
+** Action Items from Last Month
+  - TODO - Myles - contact David about timekeeping, is that better for June or July or what?  DCB had some contact at York on this.   Look for someone that knows about how to handle NTP in VM context
+  - TODO - Alex - Talk with Chris Tyler, Open Source Labs, hoping for August or so
+  - TODO - Myles - pester Adib about virtualization talks in June or so...
+  - TODO - Gord - start poking at a "Marketing Ourselves" talk
+  - TODO - Myles - pester William Murrithy about SAMBA talk
+  - TODO - Bill - solicit a date for CAG to meet, looking like 1st Tuesday may be a preferred time
+    - Want something more central than Hacklab
+  - TODO - Alex - send Chris his GPG key
+  - TODO - Chris - Send Alex, GPG-encrypted, the set of admin passwords for Mailman accounts
+  - TODO - Chris - revise Mailman subscriber backup to document things a bit better
+  - TODO - Myles - set up discussion on timing

@@ -1,0 +1,84 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 27th April, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+*** Present
+- Christopher Browne
+- Alex Volkov
+- Myles Braithwaite
+- Scott Sullivan
+- Bill Thanis
+- Gordon Chillcott
+
+*** Absent
+
+- Mike Kalles
+- Ivan Avery Frey
+- David Collier Brown
+- Amos Weatherill
+
+** Items
+
+*** Upcoming Meetings
+ - June :: Timekeeping?
+ 
+*** Touch on where and when this meeting happens next
+
+  Hacklab seems fine...  June 29th?
+  Some parking at the back, behind a Hacklab member.
+  
+*** ICANN
+
+
+*** Attendance Maintenance
+
+*** Infrastructure
+
+**** How is testing the backups going.
+  
+**** Getting evote installed
+  [[https://github.com/mdipierro/evote][Evote]]
+  Myles has looked at it, referenced from Mike Fletcher
+  - Used for board votes
+  - Had to check with lawyers that it's legally valid
+  - Anyone can set up a vote after having been set up to be able to vote
+  - Invite only
+  - Sadly no survey features, which is kind of the most attractive thing
+  - Myles will set up a dinner survey using it
+  - Myles has responsibility for setting it up, making sure that it's able to be readily backed up and restored
+
+*** Engagement with Ryerson
+- Get an ongoing dialog going
+- Getting an auditorium instead of a lab.
+- Gord got things started, will hopefully pursue DCB and chat with Ryerson folk in another couple weeks
+
+*** Linux in the Park 2015
+  - About now is the time to figure out when we'd like to do it
+  - Idea of heading to the Island?
+    - Sadly, logistics are worse, no parking
+    - Likely logistics are even worse due to PanAm games goings on
+  - Should try to avoid PanAm games timing - July 10-26
+  - Also try to avoid ParaPan games Aug 7-15
+  - Dufferin Park may be fine during that timeframe
+  - Suggested: July 18, July 25th, Aug 1 (which is in the long weekend), Aug 8
+  - Logistics of things to bring, we already have material to copy from last year
+  
+*** Code of Conduct
+ - Haven't mentioned on the mailing list that CoC applies
+ - Should notify on that
+ - No rush; do this when Mike has an update ready to CoC
+
+** Action Items
+
