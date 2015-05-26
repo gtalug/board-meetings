@@ -16,7 +16,6 @@ published: true
 
 - Upcoming Meetings
 - Touch on where and when this meeting happens next
-  - How do we like Hacklab?
 - Attendance Maintenance
 - Infrastructure
   - How is testing the backups going.

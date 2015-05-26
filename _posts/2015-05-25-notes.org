@@ -32,15 +32,31 @@ published: false
 ** Items
 
 *** Upcoming Meetings
- - June :: Timekeeping?
+ - June :: Q&A
+   - And have a GPG key signing
+   - People liking tmux?  Anyone can compare it in detailed way with Screen?
+ - July :: Need topic !!!
+
+**** Ideas
+ - Idea that came up: tmux versus screen
+ - SystemD 
+   - KWLUG had a talk not long ago, perhaps could draw someone in
+   - Special Code of Conduct for such a talk
+     - /No explaining from the crowd/
+     - The speaker was there to explain
+ - PyLadies :: Developers in newsrooms
+ - CHIP guy on $9 computer
+ - Municipal Data
  
 *** Touch on where and when this meeting happens next
 
-  Hacklab seems fine...  June 29th?
+  Hacklab seems fine...  June 22nd
   Some parking at the back, behind a Hacklab member.
   
 *** ICANN
 
+ - No meeting this month
+ - Some goings-on, GTALUG voted for some people
 
 *** Attendance Maintenance
 
@@ -60,32 +76,22 @@ published: false
   - Myles has responsibility for setting it up, making sure that it's able to be readily backed up and restored
 
 *** Engagement with Ryerson
-- Get an ongoing dialog going
-- Getting an auditorium instead of a lab.
-- Gord got things started, will hopefully pursue DCB and chat with Ryerson folk in another couple weeks
 
-*** Linux in the Park 2015
-  - About now is the time to figure out when we'd like to do it
-  - Idea of heading to the Island?
-    - Sadly, logistics are worse, no parking
-    - Likely logistics are even worse due to PanAm games goings on
-  - Should try to avoid PanAm games timing - July 10-26
-  - Also try to avoid ParaPan games Aug 7-15
-  - Dufferin Park may be fine during that timeframe
-  - Suggested: July 18, July 25th, Aug 1 (which is in the long weekend), Aug 8
-  - Logistics of things to bring, we already have material to copy from last year
-  
-*** Code of Conduct
- - Haven't mentioned on the mailing list that CoC applies
- - Should notify on that
- - No rush; do this when Mike has an update ready to CoC
+*** Touch on where and when this meeting happens next
 
+  Hacklab seems fine...  June 22nd
+  Some parking at the back, behind a Hacklab member.
+
+-=--:**--F1  2015-05-25-notes.org   18% L47   Git:master  (Org) 8:20PM 3.42 -------------------------------------------------------
+*** Infrastructure...
+*** Engagement with Ryerson...
+*** Linux in the Park 2015...
+*** Code of Conduct...
 ** Action Items
-  - TODO - Myles - contact David about timekeeping, is that better for June or July or what?  DCB had some contact at York on this.   Look for someone that knows about how to handle NTP in VM context
+  - TODO - Myles - contact David about timekeeping, is that better for June or July or what?  DCB had some contact at York on this$
   - TODO - Alex - Talk with Chris Tyler, Open Source Labs, hoping for August or so
   - TODO - Gord - start poking at a "Marketing Ourselves" talk
     - It'll be a wee while
     - People should pester Gord on this
   - TODO - Chris - pester William Murrithy about SAMBA talk
-
-
+  - TODO - Myles - PyLadies on newsroom devs
