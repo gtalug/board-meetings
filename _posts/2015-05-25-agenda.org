@@ -20,7 +20,7 @@ published: true
 - Attendance Maintenance
 - Infrastructure
   - How is testing the backups going.
-- Engagment with Ryerson
+- Engagement with Ryerson
   - Getting an auditorium instead of a lab. 
 - Linux in the Park 2015
 - Code of Conduct
@@ -29,13 +29,24 @@ published: true
 
 ** Action Items from Last Month
   - TODO - Myles - contact David about timekeeping, is that better for June or July or what?  DCB had some contact at York on this.   Look for someone that knows about how to handle NTP in VM context
+    - Nothing rolling...
   - TODO - Alex - Talk with Chris Tyler, Open Source Labs, hoping for August or so
+    - Nothing rolling...
   - TODO - Myles - pester Adib about virtualization talks in June or so...
+    - Shouldn't pester more just now
   - TODO - Gord - start poking at a "Marketing Ourselves" talk
+    - Under way
   - TODO - Myles - pester William Murrithy about SAMBA talk
+    - Didn't have email
   - TODO - Bill - solicit a date for CAG to meet, looking like 1st Tuesday may be a preferred time
     - Want something more central than Hacklab
+    - Did meet!
   - TODO - Alex - send Chris his GPG key
+    - Yep, happened
   - TODO - Chris - Send Alex, GPG-encrypted, the set of admin passwords for Mailman accounts
+    - Chris sent stuff; Alex has them
   - TODO - Chris - revise Mailman subscriber backup to document things a bit better
+    - Done
   - TODO - Myles - set up discussion on timing
+    - NTP et al
+    - Has progressed somewhat

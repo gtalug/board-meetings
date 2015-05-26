@@ -19,11 +19,11 @@ published: false
 - Alex Volkov
 - Myles Braithwaite
 - Scott Sullivan
-- Bill Thanis
 - Gordon Chillcott
 
 *** Absent
 
+- Bill Thanis
 - Mike Kalles
 - Ivan Avery Frey
 - David Collier Brown
@@ -81,4 +81,11 @@ published: false
  - No rush; do this when Mike has an update ready to CoC
 
 ** Action Items
+  - TODO - Myles - contact David about timekeeping, is that better for June or July or what?  DCB had some contact at York on this.   Look for someone that knows about how to handle NTP in VM context
+  - TODO - Alex - Talk with Chris Tyler, Open Source Labs, hoping for August or so
+  - TODO - Gord - start poking at a "Marketing Ourselves" talk
+    - It'll be a wee while
+    - People should pester Gord on this
+  - TODO - Chris - pester William Murrithy about SAMBA talk
+
 
