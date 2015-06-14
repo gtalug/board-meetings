@@ -1,0 +1,62 @@
+---
+layout: post
+title: "Agenda"
+published: false
+---
+
+* 22th June, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Upcoming Meetings
+- Touch on where and when this meeting happens next
+- Attendance Maintenance
+- Infrastructure
+  - How is testing the backups going.
+- Engagement with Ryerson
+  - Getting an auditorium instead of a lab. 
+- Linux in the Park 2015
+- Code of Conduct
+      
+** Action Items from Last Month
+  - TODO - Myles - contact David about timekeeping, is that better for June or July or what?  DCB had some contact at York on this.   Look for someone that knows about how to handle NTP in VM context
+    - Nothing rolling...
+  - TODO - Alex - Talk with Chris Tyler, Open Source Labs, hoping for August or so
+    - Nothing rolling...
+  - TODO - Myles - pester Adib about virtualization talks in June or so...
+    - Shouldn't pester more just now
+  - TODO - Gord - start poking at a "Marketing Ourselves" talk
+    - Under way
+  - TODO - Myles - pester William Murrithy about SAMBA talk
+    - Didn't have email
+  - TODO - Bill - solicit a date for CAG to meet, looking like 1st Tuesday may be a preferred time
+    - Want something more central than Hacklab
+    - Did meet!
+  - TODO - Alex - send Chris his GPG key
+    - Yep, happened
+  - TODO - Chris - Send Alex, GPG-encrypted, the set of admin passwords for Mailman accounts
+    - Chris sent stuff; Alex has them
+  - TODO - Chris - revise Mailman subscriber backup to document things a bit better
+    - Done
+  - TODO - Myles - set up discussion on timing
+    - NTP et al
+    - Has progressed somewhat
+  - TODO - Myles - contact David about timekeeping, is that better for June or July or what?  DCB had some contact at York on this$
+  - TODO - Alex - Talk with Chris Tyler, Open Source Labs, hoping for August or so
+  - TODO - Gord - start poking at a "Marketing Ourselves" talk
+    - It'll be a wee while
+    - People should pester Gord on this
+  - DONE - Chris - pester William Murrithy about SAMBA talk
+    - Scheduled, yep!
+  - TODO - Myles - PyLadies on newsroom devs
+  - TODO - Scott - Prep announcement for LITP
+  - TODO - Chris - follow up on bylaw revisions
+  - TODO - Chris - Check on preferred official address, Bill or Me
+    - Have started discussion (2015-06-13)
+  - DONE - Alex - set up private Git repo for EtcKeeper
