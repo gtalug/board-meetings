@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Agenda"
-published: false
+published: true
 ---
 
-* 22th June, 2015 at 7:30pm
+* 29th June, 2015 at 7:30pm
 
 ** Location
 
