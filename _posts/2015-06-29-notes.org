@@ -1,0 +1,110 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 29th June, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+*** Present
+- Christopher Browne
+- Alex Volkov
+- Myles Braithwaite
+- Scott Sullivan
+- Gordon Chillcott
+- Bill Thanis
+- Mike Kallies
+
+*** Absent
+
+- David Collier Brown
+- Amos Weatherill
+
+** Items
+
+*** Upcoming Meetings
+ - July :: Puppet
+ - August :: SAMBA
+ - September ?
+
+**** Ideas
+ - Idea that came up: tmux versus screen
+ - SystemD 
+   - KWLUG had a talk not long ago, perhaps could draw someone in
+   - Special Code of Conduct for such a talk
+     - /No explaining from the crowd/
+     - The speaker was there to explain
+   - Was a short talk at KWLUG, on how to replace cron jobs using SystemD
+ - PyLadies :: Developers in newsrooms
+ - CHIP guy on $9 computer
+   - Myles has pursued this; might look to engage with Ryerson at some other time
+ - Municipal Data
+ - Entrepreneurship panel
+   - Mike Hoye
+   - 360, Blaze
+   - Madison Kelly
+ 
+*** Touch on where and when this meeting happens next
+
+  Hacklab seems fine...  June 22nd
+  Some parking at the back, behind a Hacklab member.
+  
+*** ICANN
+
+ - 
+
+*** Infrastructure
+
+**** How is testing the backups going.
+- Some of the services are working
+- More to do
+- Alex hopes to have most of it ready next month
+  
+**** Getting evote installed
+  [[https://github.com/mdipierro/evote][Evote]]
+  Myles has looked at it, referenced from Mike Fletcher
+  - Problem with it is that anyone that is authorized to use it can send out any vote
+  - Myles would like to use this for official votes
+  - Chris thinks we should use it for non-critical things (e.g. - dinner votes) first
+
+*** Touch on where and when this meeting happens next
+
+  Hacklab seems fine...  June 22nd
+  Some parking at the back, behind a Hacklab member.
+
+*** Linux in the Park 2015...
+ - It's happening
+ - Bunch of people interested in coming
+ - Trello-based menu of preparations
+ - At Dufferin Grove, July 25th
+
+*** Code of Conduct
+ - Mike has made some changes to the code
+ - Myles encouraging him to commit them to main repo
+ - Minor changes
+   - Revised accessibility a bit
+   - Better language on what is and is not allowed
+   - Make it clearer that this is not about "zero tolerance"
+
+** Action Items
+  - TODO - Myles - contact David about timekeeping, is that better for June or July or what?  DCB had some contact at York on this$
+  - TODO - Alex - Talk with Chris Tyler, Open Source Labs, hoping for August or so
+  - TODO - Gord - start poking at a "Marketing Ourselves" talk
+    - It'll be a wee while
+    - People should pester Gord on this
+  - TODO - Chris - pester William Murrithy about SAMBA talk
+  - TODO - Myles - PyLadies on newsroom devs
+  - TODO - Scott - Prep announcement for LITP
+  - TODO - Chris - follow up on bylaw revisions
+  - TODO - Chris - Check on preferred official address, Bill or Me
+  - TODO - Alex - set up private Git repo for EtcKeeper
+    - Ask various folk for ssh keys so that they can pull that data
+      - Alex, Myles, Chris

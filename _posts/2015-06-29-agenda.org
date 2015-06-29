@@ -34,7 +34,7 @@ published: true
   - TODO - Gord - start poking at a "Marketing Ourselves" talk
     - Under way
   - TODO - Myles - pester William Murrithy about SAMBA talk
-    - Didn't have email
+    - Got a date
   - TODO - Bill - solicit a date for CAG to meet, looking like 1st Tuesday may be a preferred time
     - Want something more central than Hacklab
     - Did meet!
@@ -47,15 +47,10 @@ published: true
   - TODO - Myles - set up discussion on timing
     - NTP et al
     - Has progressed somewhat
-  - TODO - Myles - contact David about timekeeping, is that better for June or July or what?  DCB had some contact at York on this$
-  - TODO - Alex - Talk with Chris Tyler, Open Source Labs, hoping for August or so
-  - TODO - Gord - start poking at a "Marketing Ourselves" talk
-    - It'll be a wee while
-    - People should pester Gord on this
-  - DONE - Chris - pester William Murrithy about SAMBA talk
-    - Scheduled, yep!
   - TODO - Myles - PyLadies on newsroom devs
+    - Talked, they're interested in "later"
   - TODO - Scott - Prep announcement for LITP
+    - We've announced
   - TODO - Chris - follow up on bylaw revisions
   - TODO - Chris - Check on preferred official address, Bill or Me
     - Have started discussion (2015-06-13)
