@@ -59,52 +59,54 @@ published: false
   
 *** ICANN
 
- - 
+ - Gord had a report (added in)
+ - Someone recommended using TOR to connect to ICANN; Gord suggesting this isn't the best idea
+ - Keep Puerto Rico in mind for next year
+
+*** Engagement with Ryerson
+
+ - Gord & DCB to meet on Thursday (July 2)
+ - Maybe availability of other rooms at other times
 
 *** Infrastructure
 
-**** How is testing the backups going.
-- Some of the services are working
-- More to do
-- Alex hopes to have most of it ready next month
-  
-**** Getting evote installed
-  [[https://github.com/mdipierro/evote][Evote]]
-  Myles has looked at it, referenced from Mike Fletcher
-  - Problem with it is that anyone that is authorized to use it can send out any vote
-  - Myles would like to use this for official votes
-  - Chris thinks we should use it for non-critical things (e.g. - dinner votes) first
+**** How is testing the backups going
+- Alex almost has restore working; ask again next month
+- Alex keen on cloud at cost, should look at sale prices in a few months
 
+**** MediaWiki
+- Bill has gotten some stuff up
+- Myles would like to get database up and running
+- Can mount it, can't launch it as a VM
+- Went thru RHAT pvm translation to make kvm target
+  
 *** Touch on where and when this meeting happens next
 
-  Hacklab seems fine...  June 22nd
+  Hacklab seems fine...  July 27th, 7:30pm
   Some parking at the back, behind a Hacklab member.
 
-*** Linux in the Park 2015...
+*** Linux in the Park 2015
  - It's happening
  - Bunch of people interested in coming
  - Trello-based menu of preparations
  - At Dufferin Grove, July 25th
+ - Bill to watch out for BBQ in case Drew isn't bringing it
 
 *** Code of Conduct
  - Mike has made some changes to the code
- - Myles encouraging him to commit them to main repo
+ - Myles encouraging him to commit them to main repo, which has been done
  - Minor changes
    - Revised accessibility a bit
    - Better language on what is and is not allowed
    - Make it clearer that this is not about "zero tolerance"
+ - Myles' issue...
+   - How does it address interpersonal relationships?
+     - Someone feels slighted by others.
+   - If the problem related to club-related matters, we need to be able to have a conversation.
+   - The code is oriented to handling one person wronging another, and addressing that.
+   - It is not well oriented to matters that aren't clearly something of one person disliking another.
+   - We should try at meetings to spread out (as leaders) and not go to the same area of the room consistently
 
 ** Action Items
-  - TODO - Myles - contact David about timekeeping, is that better for June or July or what?  DCB had some contact at York on this$
-  - TODO - Alex - Talk with Chris Tyler, Open Source Labs, hoping for August or so
-  - TODO - Gord - start poking at a "Marketing Ourselves" talk
-    - It'll be a wee while
-    - People should pester Gord on this
-  - TODO - Chris - pester William Murrithy about SAMBA talk
-  - TODO - Myles - PyLadies on newsroom devs
-  - TODO - Scott - Prep announcement for LITP
-  - TODO - Chris - follow up on bylaw revisions
-  - TODO - Chris - Check on preferred official address, Bill or Me
-  - TODO - Alex - set up private Git repo for EtcKeeper
-    - Ask various folk for ssh keys so that they can pull that data
-      - Alex, Myles, Chris
+  - TODO - Bill, to get Mike ssh access to the mediawiki (& stuff) volume
+  - TODO - Bill, to see if Drew's coming to LITP with BBQ
