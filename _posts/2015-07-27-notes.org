@@ -1,0 +1,96 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 29th June, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+*** Present
+- Christopher Browne
+- Alex Volkov
+- Myles Braithwaite
+- Scott Sullivan
+- Gordon Chillcott
+- Bill Thanis
+- Mike Kallies
+
+*** Absent
+
+- David Collier Brown
+- Amos Weatherill
+
+** Items
+
+*** Upcoming Meetings
+ - August :: SAMBA
+ - September ?
+ - October :: AGM
+
+**** Ideas
+ - Idea that came up: tmux versus screen
+ - SystemD 
+   - KWLUG had a talk not long ago, perhaps could draw someone in
+   - Special Code of Conduct for such a talk
+     - /No explaining from the crowd/
+     - The speaker was there to explain
+   - Was a short talk at KWLUG, on how to replace cron jobs using SystemD
+ - PyLadies :: Developers in newsrooms
+ - CHIP guy on $9 computer
+   - Myles has pursued this; might look to engage with Ryerson at some other time
+ - Municipal Data
+ - Entrepreneurship panel
+   - Mike Hoye
+   - 360, Blaze
+   - Madison Kelly
+ 
+*** Touch on where and when this meeting happens next
+
+  Hacklab seems fine...  August 24?  Or 31?
+  
+*** ICANN
+
+ - Gord promised a report (will see...)
+
+*** Engagement with Ryerson
+
+ - Gord & DCB to meet on Thursday (July 2)
+ - Maybe availability of other rooms at other times
+
+*** Infrastructure
+
+**** How is testing the backups going
+- Alex almost has restore working; ask again next month
+- Alex keen on cloud at cost, should look at sale prices in a few months
+
+**** MediaWiki
+- Bill has gotten some stuff up
+- Myles would like to get database up and running
+- Can mount it, can't launch it as a VM
+- Went thru RHAT pvm translation to make kvm target
+  
+*** Touch on where and when this meeting happens next
+
+  Hacklab seems fine...  July 27th, 7:30pm
+  Some parking at the back, behind a Hacklab member.
+
+*** Linux in the Park 2015
+ - It happened
+ - Decent dose of people
+ - Trello-based menu of preparations
+   - Some slight controversy on this; some people weren't keen on running the "join Trello" gauntlet to add items in
+ - At Dufferin Grove, July 25th
+ - Bill to watch out for BBQ in case Drew isn't bringing it
+
+*** Code of Conduct
+   - We should try at meetings to spread out (as leaders) and not go to the same area of the room consistently
+
+** Action Items

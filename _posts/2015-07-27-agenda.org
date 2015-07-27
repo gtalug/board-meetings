@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 27th July, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Upcoming Meetings
+- Touch on where and when this meeting happens next
+- Attendance Maintenance
+- Infrastructure
+  - How is testing the backups going.
+- Engagement with Ryerson
+  - Getting an auditorium instead of a lab. 
+- Linux in the Park 2015
+- Code of Conduct
+      
+** Action Items from Last Month
+  - TODO - Bill, to get Mike ssh access to the mediawiki (& stuff) volume
+  - DONE - Bill, to see if Drew's coming to LITP with BBQ
