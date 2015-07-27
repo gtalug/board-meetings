@@ -110,3 +110,4 @@ published: false
 ** Action Items
   - TODO - Bill, to get Mike ssh access to the mediawiki (& stuff) volume
   - TODO - Bill, to see if Drew's coming to LITP with BBQ
+  - TODO - All, to pick seats in meeting more at random
