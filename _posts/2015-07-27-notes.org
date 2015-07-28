@@ -19,25 +19,26 @@ published: false
 - Alex Volkov
 - Myles Braithwaite
 - Scott Sullivan
-- Gordon Chillcott
-- Bill Thanis
-- Mike Kallies
 
 *** Absent
 
+- Gordon Chillcott
+- Bill Thanis
+- Mike Kallies
 - David Collier Brown
 - Amos Weatherill
 
 ** Items
 
 *** Upcoming Meetings
- - August :: SAMBA
- - September ?
+ - August :: SAMBA - William
+ - September :: 
  - October :: AGM
 
 **** Ideas
  - Idea that came up: tmux versus screen
- - SystemD 
+ - Alex to poke RPi guy
+ - SystemD
    - KWLUG had a talk not long ago, perhaps could draw someone in
    - Special Code of Conduct for such a talk
      - /No explaining from the crowd/
@@ -54,7 +55,10 @@ published: false
  
 *** Touch on where and when this meeting happens next
 
-  Hacklab seems fine...  August 24?  Or 31?
+- Hacklab seems fine... 
+- August 24th
+- Noticed that attendance is a bit sketchy
+- Should we consider some place somehow more central?
   
 *** ICANN
 
@@ -94,3 +98,6 @@ published: false
    - We should try at meetings to spread out (as leaders) and not go to the same area of the room consistently
 
 ** Action Items
+- TODO - Chris :: Ask on Ops list if there is a more preferred location for Ops meetings as attendance has been a bit sketchy
+- TODO - Myles :: To contact guy on Open Municipal Data
+- TODO - Scott :: Talk with Giles Orr about a talk, perhaps "State of the Window Manager 2015"
