@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes"
-published: false
+published: true
 ---
 
 * 27th July, 2015 at 7:30pm
