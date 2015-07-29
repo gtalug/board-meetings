@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Notes"
-published: false
+published: true
 ---
 
-* 29th June, 2015 at 7:30pm
+* 27th July, 2015 at 7:30pm
 
 ** Location
 
@@ -19,25 +19,26 @@ published: false
 - Alex Volkov
 - Myles Braithwaite
 - Scott Sullivan
-- Gordon Chillcott
-- Bill Thanis
-- Mike Kallies
 
 *** Absent
 
+- Gordon Chillcott
+- Bill Thanis
+- Mike Kallies
 - David Collier Brown
 - Amos Weatherill
 
 ** Items
 
 *** Upcoming Meetings
- - August :: SAMBA
- - September ?
+ - August :: SAMBA - William
+ - September :: Q&A session
  - October :: AGM
 
 **** Ideas
  - Idea that came up: tmux versus screen
- - SystemD 
+ - Alex to poke RPi guy
+ - SystemD
    - KWLUG had a talk not long ago, perhaps could draw someone in
    - Special Code of Conduct for such a talk
      - /No explaining from the crowd/
@@ -54,7 +55,10 @@ published: false
  
 *** Touch on where and when this meeting happens next
 
-  Hacklab seems fine...  August 24?  Or 31?
+- Hacklab seems fine... 
+- August 24th
+- Noticed that attendance is a bit sketchy
+- Should we consider some place somehow more central?
   
 *** ICANN
 
@@ -66,9 +70,14 @@ published: false
  - Maybe availability of other rooms at other times
 
 *** Infrastructure
+**** Maps - New things
+ - Map now does not zoom when you mess with mouse scroll wheel
+ - Map looks like engineering drawings
+ - Myles shifting to use Jekyll
 
 **** How is testing the backups going
 - Alex almost has restore working; ask again next month
+- About 95% done
 - Alex keen on cloud at cost, should look at sale prices in a few months
 
 **** MediaWiki
@@ -76,7 +85,12 @@ published: false
 - Myles would like to get database up and running
 - Can mount it, can't launch it as a VM
 - Went thru RHAT pvm translation to make kvm target
-  
+
+**** Wiki question  
+ - Vote taken...
+   - Be it resolved that we never use Plone as a wiki
+     - Vote taken:  3 for, 1 against
+
 *** Touch on where and when this meeting happens next
 
   Hacklab seems fine...  July 27th, 7:30pm
@@ -87,10 +101,18 @@ published: false
  - Decent dose of people
  - Trello-based menu of preparations
    - Some slight controversy on this; some people weren't keen on running the "join Trello" gauntlet to add items in
+   - Boy, it would be nice to have a wiki around for this...
  - At Dufferin Grove, July 25th
  - Bill to watch out for BBQ in case Drew isn't bringing it
 
 *** Code of Conduct
+   - No new news, have pretty well saturated membership with mention of where to find out about it
    - We should try at meetings to spread out (as leaders) and not go to the same area of the room consistently
 
 ** Action Items
+- TODO - Chris :: Ask on Ops list if there is a more preferred location for Ops meetings as attendance has been a bit sketchy
+- TODO - Myles :: To contact guy on Open Municipal Data
+- TODO - Scott :: Talk with Giles Orr about a talk, perhaps "State of the Window Manager 2015"
+  - Myles suggests Giles on Ansible?
+- TODO - Alex :: More attempts to restore from backup
+- TODO - Myles :: I2P conference speakers, darknetj?
