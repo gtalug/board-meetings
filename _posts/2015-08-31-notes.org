@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 31st August, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+*** Indeterminate
+- Christopher Browne
+- Alex Volkov
+- Myles Braithwaite
+- Scott Sullivan
+- Gordon Chillcott
+- Bill Thanis
+- Mike Kallies
+- David Collier Brown
+- Amos Weatherill
+
+*** Present
+   
+
+*** Absent
+
+
+** Items
+
+*** Upcoming Meetings
+ - September :: SAMBA - William
+ - October :: AGM
+
+**** Ideas
+ - Idea that came up: tmux versus screen
+ - Alex to poke RPi guy
+ - SystemD
+   - KWLUG had a talk not long ago, perhaps could draw someone in
+   - Special Code of Conduct for such a talk
+     - /No explaining from the crowd/
+     - The speaker was there to explain
+   - Was a short talk at KWLUG, on how to replace cron jobs using SystemD
+ - PyLadies :: Developers in newsrooms
+ - CHIP guy on $9 computer
+   - Myles has pursued this; might look to engage with Ryerson at some other time
+ - Municipal Data
+ - Entrepreneurship panel
+   - Mike Hoye
+   - 360, Blaze
+   - Madison Kelly
+ 
+*** Touch on where and when this meeting happens next
+
+- Hacklab seems fine... 
+- September 28th?
+  
+*** ICANN
+
+ - Gord promised a report (will see...)
+
+*** Engagement with Ryerson
+*** Infrastructure
+**** MediaWiki
+- Bill has gotten some stuff up
+- Myles would like to get database up and running
+- Can mount it, can't launch it as a VM
+- Went thru RHAT pvm translation to make kvm target
+** Action Items

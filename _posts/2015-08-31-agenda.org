@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Agenda"
+published: false
+---
+
+* 31st August, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Upcoming Meetings
+- Touch on where and when this meeting happens next
+- Attendance Maintenance
+- Infrastructure
+  - How is testing the backups going.
+- Engagement with Ryerson
+  - Getting an auditorium instead of a lab. 
+- AGM
+      
+** Action Items from Last Month
+- DONE - Chris :: Ask on Ops list if there is a more preferred location for Ops meetings as attendance has been a bit sketchy
+- TODO - Myles :: To contact guy on Open Municipal Data
+- TODO - Scott :: Talk with Giles Orr about a talk, perhaps "State of the Window Manager 2015"
+  - Myles suggests Giles on Ansible?
+- TODO - Alex :: More attempts to restore from backup
+- TODO - Myles :: I2P conference speakers, darknetj?
