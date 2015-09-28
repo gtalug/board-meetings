@@ -24,6 +24,7 @@ published: false
 - AGM
       
 ** Action Items from Last Month
+- TODO - Myles :: To contact guy on Open Municipal Data
 - TODO - Scott :: Talk with Giles Orr about a talk, perhaps "State of the Window Manager 2015"
   - Myles suggests Giles on Ansible?
 - TODO - Alex :: More attempts to restore from backup
