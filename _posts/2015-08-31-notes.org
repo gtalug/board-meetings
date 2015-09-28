@@ -14,28 +14,29 @@ published: false
 
 ** Attendees
 
-*** Indeterminate
+*** Present
+   
 - Christopher Browne
 - Alex Volkov
-- Myles Braithwaite
 - Scott Sullivan
 - Gordon Chillcott
 - Bill Thanis
-- Mike Kallies
-- David Collier Brown
-- Amos Weatherill
-
-*** Present
-   
 
 *** Absent
 
+- Myles Braithwaite
+- Mike Kallies
+
+*** Indeterminate
+- David Collier Brown
+- Amos Weatherill
 
 ** Items
 
 *** Upcoming Meetings
  - September :: SAMBA - William
  - October :: AGM
+ - November :: VMFarms guy on DevOps
 
 **** Ideas
  - Idea that came up: tmux versus screen
@@ -49,11 +50,32 @@ published: false
  - PyLadies :: Developers in newsrooms
  - CHIP guy on $9 computer
    - Myles has pursued this; might look to engage with Ryerson at some other time
- - Municipal Data
+ - Municipal Data :: Myles to pursue this
  - Entrepreneurship panel
    - Mike Hoye
    - 360, Blaze
    - Madison Kelly
+
+*** AGM Preparations
+- Chris to bring membership materials
+  - cards
+  - Stamps
+  - forms
+- Returning officer :: Bill
+  - Bill's tasks to bring forms
+- Outgoing board members
+  - Chris Browne
+  - Scott Sullivan
+- Announcements needed
+  - Should send monthly announcements in September to encourage people to run
+- Email address for candidacy
+  - Send over to Bill; see TODO item
+- Official presentations
+  - Finances :: Chris
+  - ICANN :: Gord, Scott
+  - Systems :: Alex
+  - Election :: Bill
+  - Overall Things Done :: Scott
  
 *** Touch on where and when this meeting happens next
 
@@ -62,7 +84,8 @@ published: false
   
 *** ICANN
 
- - Gord promised a report (will see...)
+ - Gord plans to provide a report in early September
+ - Somewhat disturbing things have been happening; he needs to figure out what is worth saying about them
 
 *** Engagement with Ryerson
 *** Infrastructure
@@ -72,3 +95,16 @@ published: false
 - Can mount it, can't launch it as a VM
 - Went thru RHAT pvm translation to make kvm target
 ** Action Items
+- TODO - Myles :: To contact guy on Open Municipal Data
+- TODO - Scott :: Talk with Giles Orr about a talk, perhaps "State of the Window Manager 2015"
+  - Myles suggests Giles on Ansible?
+- TODO - Alex :: More attempts to restore from backup
+- TODO - Myles :: I2P conference speakers, darknetj?
+- TODO - Chris :: Check on backup
+- TODO - Chris :: To prep membership forms, bring membership material
+- TODO - Bill :: Send weekly email in September about upcoming board election
+- TODO - Bill :: Voting forms
+- TODO - Alex :: Set up email alias to send email for candidacy@gtalug.org over to Bill at qwerty172@gmail.com
+
+
+

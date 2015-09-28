@@ -18,7 +18,7 @@ published: false
 - Touch on where and when this meeting happens next
 - Attendance Maintenance
 - Infrastructure
-  - How is testing the backups going.
+  - Backups not running in 21 days
 - Engagement with Ryerson
   - Getting an auditorium instead of a lab. 
 - AGM

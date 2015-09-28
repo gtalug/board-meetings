@@ -4,7 +4,7 @@ title: "Agenda"
 published: false
 ---
 
-* 31st August, 2015 at 7:30pm
+* 28th September, 2015 at 7:30pm
 
 ** Location
 
@@ -24,3 +24,11 @@ published: false
 - AGM
       
 ** Action Items from Last Month
+- TODO - Scott :: Talk with Giles Orr about a talk, perhaps "State of the Window Manager 2015"
+  - Myles suggests Giles on Ansible?
+- TODO - Alex :: More attempts to restore from backup
+- TODO - Chris :: Check on backup
+- TODO - Chris :: To prep membership forms, bring membership material
+- TODO - Bill :: Send weekly email in September about upcoming board election
+- TODO - Bill :: Voting forms
+- TODO - Alex :: Set up email alias to send email for candidacy@gtalug.org over to Bill at qwerty172@gmail.com
