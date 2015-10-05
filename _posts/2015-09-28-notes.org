@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 28th September, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+*** Present
+
+- Myles Braithwaite
+- Scott Sullivan
+
+*** Absent
+
+- Christopher Browne
+- Alex Volkov
+- David Collier Brown
+- Amos Weatherill
+- Gordon Chillcott
+- Bill Thanis
+- Mike Kallies
+
+** Items
