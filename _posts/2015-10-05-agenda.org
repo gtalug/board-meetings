@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agenda"
-published: false
+published: true
 ---
 
 * 5th October, 2015 at 7:30pm
