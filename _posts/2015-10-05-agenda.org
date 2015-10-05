@@ -4,7 +4,7 @@ title: "Agenda"
 published: true
 ---
 
-* 31st August, 2015 at 7:30pm
+* 5th October, 2015 at 7:30pm
 
 ** Location
 
@@ -18,11 +18,13 @@ published: true
 - Touch on where and when this meeting happens next
 - Attendance Maintenance
 - Infrastructure
+  - How is testing the backups going.
 - Engagement with Ryerson
   - Getting an auditorium instead of a lab. 
 - AGM
       
 ** Action Items from Last Month
+- TODO - Myles :: To contact guy on Open Municipal Data
 - TODO - Scott :: Talk with Giles Orr about a talk, perhaps "State of the Window Manager 2015"
   - Myles suggests Giles on Ansible?
 - TODO - Alex :: More attempts to restore from backup
