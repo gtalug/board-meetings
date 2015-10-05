@@ -2,12 +2,22 @@ name: 'GTALUG Board'
 site_url: 'http://board.gtalug.org'
 permalink: /:year-:month-:day/:title.html
 
-source: .
+source: ./
 destination: ./_site
 
 highlighter: false
 
-exclude: ['fabfile.py', 'fabfile.pyc', 'Gemfile', 'README.md']
+exclude: ['fabfile.py', 'fabfile.pyc', 'Gemfile', 'README.md', 'vendor']
+
+gems:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - day
+  layout: 'archive'
+  permalinks:
+    day: '/:year-:month-:day/'
 
 prose:
   rooturl: '_posts'

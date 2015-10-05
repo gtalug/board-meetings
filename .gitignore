@@ -3,3 +3,6 @@ _site
 #*#.org
 
 *.pyc
+
+/.bundle/
+/vendor/bundle/
