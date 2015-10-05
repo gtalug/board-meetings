@@ -4,7 +4,7 @@ title: "Notes"
 published: false
 ---
 
-* 31st August, 2015 at 7:30pm
+* 5th October, 2015 at 7:30pm
 
 ** Location
 
@@ -21,15 +21,15 @@ published: false
 - Scott Sullivan
 - David Collier Brown
 - Amos Weatherill
+- Gordon Chillcott
+- Bill Thanis
+- Mike Kallies
 
 *** Present
    
 
 *** Absent
 
-- Gordon Chillcott
-- Bill Thanis
-- Mike Kallies
 
 ** Items
 
