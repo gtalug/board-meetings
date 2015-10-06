@@ -15,11 +15,6 @@ published: true
 ** Attendees
 
 *** Indeterminate
-- Scott Sullivan
-- David Collier Brown
-- Amos Weatherill
-- Bill Thanis
-- Mike Kallies
 
 *** Present
    
@@ -29,14 +24,31 @@ published: true
 - Gordon Chillcott
 
 *** Absent
-
+- Scott Sullivan
+- David Collier Brown
+- Amos Weatherill
+- Bill Thanis
+- Mike Kallies
 
 ** Items
 
-*** Upcoming Meetings
- - October :: AGM
- - November :: TBD
+*** Next board meeting
 
+- Hacklab seems fine... 
+- October 26
+- we seem to be having trouble having a goodly number of board/exec there
+  
+*** Upcoming Meetings
+ - October :: AGM, ARM-64
+ - November :: Announce new executive
+   - Bit of report on things for the past year
+   - nothing worth mentioning yet
+ - December :: vmFarms?  Earthquakes and NTP?
+ - Speaker coordination
+   - should be about contacting speakers
+   - directions
+   - parking, dining, logistics
+   - someone to contact regarding help
 **** Ideas
  - Idea that came up: tmux versus screen
  - Alex to poke RPi guy
@@ -55,20 +67,37 @@ published: true
    - 360, Blaze
    - Madison Kelly
  
-*** Touch on where and when this meeting happens next
-
-- Hacklab seems fine... 
-- October 26th?  Or 19th?
-  
 *** ICANN
-
  - Gord provided report
-
 *** Engagement with Ryerson
+ - Gord needs to free up some time
+ - Myles would like to know who we contact about rooms
 *** Infrastructure
+**** Backups
+ - Survey engine uses MySQL, also GNU Social
+ - ought to have a backup of that
+ - Alex would like to have a "deploy" user, good idea
+
 **** MediaWiki
 - Bill has gotten some stuff up
 - Myles would like to get database up and running
 - Can mount it, can't launch it as a VM
 - Went thru RHAT pvm translation to make kvm target
+*** AGM
+ - Chris to talk financey
+ - Scott to talk presidential
 ** Action Items
+ - TODO - Bill :: Electoral stuff
+   - Forms
+   - Be broadly ready
+ - TODO - After AGM
+   - Let's do a survey as to what is preferred timing for board meeting, with new executive
+   - Is there an issue that board meeting has gotten less social?
+   - We aren't good about publicizing where and when the meeting is
+   - Meeting is no longer at someone's house, hence is a bit more inherently open to public
+   - Maybe we should be sending invitations to the "regular" list?
+   - Possibly we could use the room at Ryerson on a different Tuesday
+ - TODO - Myles :: AWOL speaker
+ - TODO - Gord :: Provide Ryerson contact info
+ - TODO - Myles :: backup handling for MySQL
+   - propose a way of having several copies distributed of MySQL data
