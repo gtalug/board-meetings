@@ -8,28 +8,30 @@ published: true
 
 ** Location
 
- - *Hacklab*
-  - 1266 Queen St W, Toronto, ON M6K 1L3
-  - <https://goo.gl/maps/OKcij>
+ - Starbucks
+  - Davisville and Yonge
+  - because Hacklab had a board meeting
 
 ** Agenda
 
 - Upcoming Meetings
-- Touch on where and when this meeting happens next
-- Attendance Maintenance
+- Where and when this meeting happens next
 - Infrastructure
-  - How is testing the backups going.
+  - getting back mediawiki
+  - backups
 - Engagement with Ryerson
-  - Getting an auditorium instead of a lab. 
+  - Still future
 - AGM
+- Bylaws
       
 ** Action Items from Last Month
-- TODO - Myles :: To contact guy on Open Municipal Data
+- DONE - Myles :: To contact guy on Open Municipal Data
+  - Has contacted him, apparently a loose thread
 - TODO - Scott :: Talk with Giles Orr about a talk, perhaps "State of the Window Manager 2015"
   - Myles suggests Giles on Ansible?
 - TODO - Alex :: More attempts to restore from backup
 - TODO - Chris :: Check on backup
-- TODO - Chris :: To prep membership forms, bring membership material
+- DONE - Chris :: To prep membership forms, bring membership material
 - TODO - Bill :: Send weekly email in September about upcoming board election
 - TODO - Bill :: Voting forms
-- TODO - Alex :: Set up email alias to send email for candidacy@gtalug.org over to Bill at qwerty172@gmail.com
+- DONE - Alex :: Set up email alias to send email for candidacy@gtalug.org over to Bill at qwerty172@gmail.com
