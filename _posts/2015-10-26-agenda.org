@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 26th October, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Upcoming Meetings
+- Where and when this meeting happens next
+- Infrastructure
+  - getting back mediawiki
+  - backups
+- Engagement with Ryerson
+  - Still future
+- AGM
+- Bylaws
+
+** Action Items from Last Month
+- TODO - Scott :: Talk with Giles Orr about a talk, perhaps "State of the Window Manager 2015"
+  - Myles suggests Giles on Ansible?
+- TODO - Alex :: More attempts to restore from backup
+- TODO - Chris :: Check on backup
