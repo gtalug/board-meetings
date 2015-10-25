@@ -7,6 +7,7 @@ from fabric.api import env, put, local, task, hosts, sudo
 
 import yaml
 
+env.user = 'deploy'
 env.hosts = ['penguin.gtalug.org']
 env.remote_dir = '/srv/www/org_gtalug_board/html/'
 env.use_ssh_config = True
