@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 26th October, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+*** Indeterminate
+
+- Christopher Browne
+- Alex Volkov
+- Myles Braithwaite
+- Gordon Chillcott
+- Scott Sullivan
+- David Collier Brown
+- Amos Weatherill
+- Bill Thanis
+- Mike Kallies
+- Stewart Russell
+
+*** Present
+   
+*** Absent
+
+** Items
+
+*** Next board meeting
+
+ - Let's do a survey as to what is preferred timing for board meeting, with new executive
+ - Is there an issue that board meeting has gotten less social?  Hence less desirable to attend?
+ - We aren't good about publicizing where and when the meeting is
+ - Meeting is no longer at someone's house, hence is a bit more inherently open to public
+ - Maybe we should be sending invitations to the "regular" list?
+ - Possibly we could use the room at Ryerson on a different Tuesday
+  
+*** Upcoming Meetings
+ - November :: Announce new executive
+   - Bit of report on things for the past year
+ - December :: vmFarms?  Earthquakes and NTP?
+ - Speaker coordination
+   - should be about contacting speakers
+   - directions
+   - parking, dining, logistics
+   - someone to contact regarding help
+**** Ideas
+ - Idea that came up: tmux versus screen
+ - Alex to poke RPi guy
+ - SystemD
+   - KWLUG had a talk not long ago, perhaps could draw someone in
+   - Special Code of Conduct for such a talk
+     - /No explaining from the crowd/
+     - The speaker was there to explain
+   - Was a short talk at KWLUG, on how to replace cron jobs using SystemD
+ - PyLadies :: Developers in newsrooms
+ - CHIP guy on $9 computer
+   - Myles has pursued this; might look to engage with Ryerson at some other time
+ - Municipal Data
+ - Entrepreneurship panel
+   - Mike Hoye
+   - 360, Blaze
+   - Madison Kelly
+ 
+*** ICANN
+ - Gord provided report
+*** Engagement with Ryerson
+ - Gord needs to free up some time
+ - Myles would like to know who we contact about rooms
+*** Infrastructure
+**** Backups
+ - Survey engine uses MySQL, also GNU Social
+ - ought to have a backup of that
+ - Alex would like to have a "deploy" user, good idea
+
+**** MediaWiki
+  - Bill has gotten some stuff up
+  - Myles would like to get database up and running
+  - Can mount it, can't launch it as a VM
+  - Went thru RHAT pvm translation to make kvm target
+**** TRAC
+  - Myles has tooling to pull stuff out of TRAC if it ever comes up again
+** Action Items
