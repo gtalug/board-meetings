@@ -16,12 +16,14 @@ published: true
 
 - Upcoming Meetings
 - Where and when this meeting happens next
+  - Should revalidate this, as we have some new attendees
 - Infrastructure
   - getting back mediawiki
-  - backups
+  - backups of MySQL data
 - Engagement with Ryerson
   - Still future
-- AGM
+- AGM followup
+  - Appointments of officers
 - Bylaws
 
 ** Action Items from Last Month
