@@ -90,7 +90,7 @@ published: true
  - Myles would like to know who we contact about rooms
 *** Infrastructure
 **** Backups
- - Survey engine uses MySQL, also GNU Social
+ - Survey engine uses MySQL, also GNU Social https://github.com/gtalug/infrastructure/issues/41
  - ought to have a backup of that
  - Alex would like to have a "deploy" user, good idea
 
