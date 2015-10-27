@@ -142,4 +142,6 @@ published: true
   - Scott TODO :: Bring disk with MediaWiki instance
   - Gord TODO :: Talk with Ryerson, problem with schedule there that they think we meet on Wednesdays
     - Look into accessibility information
+  - Hector TODO :: May have a contact at Ryerson that could help
   - Motion TODO :: Deferred Chair of Board vote to November
+  - Chris TODO :: Bug bank
