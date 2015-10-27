@@ -144,4 +144,4 @@ published: true
     - Look into accessibility information
   - Hector TODO :: May have a contact at Ryerson that could help
   - Motion TODO :: Deferred Chair of Board vote to November
-  - Chris TODO :: Bug bank
+  - Chris TODO :: Bug bank about address
