@@ -18,7 +18,7 @@ published: true
 
 
 *** Present
-
+   
 - Christopher Browne
 - Alex Volkov (board member)
 - Myles Braithwaite  (board member)
@@ -44,7 +44,7 @@ published: true
  - Maybe we should be sending invitations to the "regular" list?
  - Possibly we could use the room at Ryerson on a different Tuesday, or use it for something else
  - Here seems to be fine
-
+  
 *** Upcoming Meetings
  - November :: Announce new executive
    - Bit of report on things for the past year
@@ -63,6 +63,7 @@ published: true
 
 **** Ideas
  - Idea that came up: tmux versus screen
+ - Alex to poke RPi guy
  - SystemD
    - KWLUG had a talk not long ago, perhaps could draw someone in
    - Special Code of Conduct for such a talk
@@ -80,7 +81,7 @@ published: true
 
 *** New MP of relevance
  - Gord and Scott to draft a congratulatory letter
-
+ 
 *** ICANN
  - Gord provided report
 *** Engagement with Ryerson
@@ -103,17 +104,41 @@ published: true
   - Myles has tooling to pull stuff out of TRAC if it ever comes up again
 *** AGM Followup
   - President :: Has been Scott Sullivan
-    - 
+    - Moved to be Scott
+    - Unanimously voted
   - Chair of Board :: Has been Mike Kalles
-    -
+    - Defer vote until next month
+    - Unanimously voted
   - Secretary :: Has been Chris
     - Moved to be Chris...
     - Unanimously voted
   - Treasurer :: Has been Chris
     - Moved to be Chris...
     - Unanimously voted
+  - Speaker Coordinator
+    - Day of talk contact has been Myles
+    - Need to improve docs to help would-be speakers
+    - Scott to volunteer
+  - PR Coordinator
+    - Should define a bit more clearly
+      - Control of announce, promotions has been Myles
+      - Still Myles
+  - Community Coordinators
+    - People who take care of mailing list moderation, meeting moderation
+    - Mailing list moderation
+      - First mailing list message is moderated in order to keep out spam
+      - Myles, Bill Thanis, Alex Volkov
+      - Current seems to be working
+    - Meeting moderators
+      - Myles, Bill
+      - Observes the crowd, ensure that people are raising hands, are not being missed, that folks are not monopolizing
+      - Current seems to be working
+  - System Coordinators
+    - Myles, Alex, bit o Chris
+    - Should structure work via GitHub Issues
 
 ** Action Items
   - Gord, Scott TODO :: Congratulatory letter to SPI MP
   - Scott TODO :: Bring disk with MediaWiki instance
   - Gord TODO :: Talk with Ryerson, problem with schedule there that they think we meet on Wednesdays
+  - Motion TODO :: Deferred Chair of Board vote to November
