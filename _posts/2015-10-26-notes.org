@@ -16,21 +16,23 @@ published: true
 
 *** Indeterminate
 
+
+*** Present
+   
 - Christopher Browne
 - Alex Volkov
 - Myles Braithwaite
 - Gordon Chillcott
 - Scott Sullivan
-- David Collier Brown
-- Amos Weatherill
 - Bill Thanis
-- Mike Kallies
 - Stewart Russell
+- Hector Carvagill
 
-*** Present
-   
 *** Absent
 
+- David Collier Brown
+- Amos Weatherill
+- Mike Kallies
 ** Items
 
 *** Next board meeting
@@ -40,17 +42,25 @@ published: true
  - We aren't good about publicizing where and when the meeting is
  - Meeting is no longer at someone's house, hence is a bit more inherently open to public
  - Maybe we should be sending invitations to the "regular" list?
- - Possibly we could use the room at Ryerson on a different Tuesday
+ - Possibly we could use the room at Ryerson on a different Tuesday, or use it for something else
+ - Here seems to be fine
   
 *** Upcoming Meetings
  - November :: Announce new executive
    - Bit of report on things for the past year
+   - Doing some lightning talks
  - December :: vmFarms?  Earthquakes and NTP?
+ - January :: Giles Orr
  - Speaker coordination
    - should be about contacting speakers
    - directions
    - parking, dining, logistics
    - someone to contact regarding help
+   - Addresses
+     - email address speaker-coordinator@gtalug.org
+     - email address speakers@gtalug.org
+     - Currently forwarding to Myles
+
 **** Ideas
  - Idea that came up: tmux versus screen
  - Alex to poke RPi guy
@@ -68,10 +78,14 @@ published: true
    - Mike Hoye
    - 360, Blaze
    - Madison Kelly
+
+*** New MP of relevance
+ - Gord and Scott to draft a congratulatory letter
  
 *** ICANN
  - Gord provided report
 *** Engagement with Ryerson
+ - Apparently we have gotten rescheduled to Wednesdays...
  - Gord needs to free up some time
  - Myles would like to know who we contact about rooms
 *** Infrastructure
@@ -85,6 +99,10 @@ published: true
   - Myles would like to get database up and running
   - Can mount it, can't launch it as a VM
   - Went thru RHAT pvm translation to make kvm target
+  - Want Scott to bring a disk
 **** TRAC
   - Myles has tooling to pull stuff out of TRAC if it ever comes up again
 ** Action Items
+  - Gord, Scott TODO :: Congratulatory letter to SPI MP
+  - Scott TODO :: Bring disk with MediaWiki instance
+  - Gord TODO :: Talk with Ryerson, problem with schedule there that they think we meet on Wednesdays
