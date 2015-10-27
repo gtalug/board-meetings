@@ -20,12 +20,12 @@ published: true
 *** Present
    
 - Christopher Browne
-- Alex Volkov
-- Myles Braithwaite
+- Alex Volkov (board member)
+- Myles Braithwaite  (board member)
 - Gordon Chillcott
-- Scott Sullivan
+- Scott Sullivan (board member)
 - Bill Thanis
-- Stewart Russell
+- Stewart Russell (board member)
 - Hector Carvagill
 
 *** Absent
@@ -102,6 +102,18 @@ published: true
   - Want Scott to bring a disk
 **** TRAC
   - Myles has tooling to pull stuff out of TRAC if it ever comes up again
+*** AGM Followup
+  - President :: Has been Scott Sullivan
+    - 
+  - Chair of Board :: Has been Mike Kalles
+    -
+  - Secretary :: Has been Chris
+    - Moved to be Chris...
+    - Unanimously voted
+  - Treasurer :: Has been Chris
+    - Moved to be Chris...
+    - Unanimously voted
+
 ** Action Items
   - Gord, Scott TODO :: Congratulatory letter to SPI MP
   - Scott TODO :: Bring disk with MediaWiki instance
