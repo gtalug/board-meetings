@@ -18,7 +18,7 @@ published: true
 
 
 *** Present
-   
+
 - Christopher Browne
 - Alex Volkov (board member)
 - Myles Braithwaite  (board member)
@@ -44,7 +44,7 @@ published: true
  - Maybe we should be sending invitations to the "regular" list?
  - Possibly we could use the room at Ryerson on a different Tuesday, or use it for something else
  - Here seems to be fine
-  
+
 *** Upcoming Meetings
  - November :: Announce new executive
    - Bit of report on things for the past year
@@ -63,7 +63,6 @@ published: true
 
 **** Ideas
  - Idea that came up: tmux versus screen
- - Alex to poke RPi guy
  - SystemD
    - KWLUG had a talk not long ago, perhaps could draw someone in
    - Special Code of Conduct for such a talk
@@ -81,7 +80,7 @@ published: true
 
 *** New MP of relevance
  - Gord and Scott to draft a congratulatory letter
- 
+
 *** ICANN
  - Gord provided report
 *** Engagement with Ryerson
