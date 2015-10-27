@@ -141,4 +141,5 @@ published: true
   - Gord, Scott TODO :: Congratulatory letter to SPI MP
   - Scott TODO :: Bring disk with MediaWiki instance
   - Gord TODO :: Talk with Ryerson, problem with schedule there that they think we meet on Wednesdays
+    - Look into accessibility information
   - Motion TODO :: Deferred Chair of Board vote to November
