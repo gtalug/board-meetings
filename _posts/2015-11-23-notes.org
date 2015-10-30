@@ -1,0 +1,97 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 23rd November, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+*** Indeterminate
+
+
+- Christopher Browne
+- Alex Volkov (board member)
+- Myles Braithwaite  (board member)
+- Gordon Chillcott
+- Scott Sullivan (board member)
+- Bill Thanis
+- Stewart Russell (board member)
+- Hector Carvagill
+- David Collier Brown
+- Amos Weatherill
+- Mike Kallies
+
+*** Present
+
+*** Absent
+
+** Items
+
+*** Next board meeting
+
+ - Meeting is no longer at someone's house, hence is a bit more inherently open to public
+ - Maybe we should be sending invitations to the "regular" list?
+ - Possibly we could use the room at Ryerson on a different Tuesday, or use it for something else
+  
+*** Upcoming Meetings
+ - December :: vmFarms?  Earthquakes and NTP?
+ - January :: Giles Orr
+ - Speaker coordination
+   - should be about contacting speakers
+   - directions
+   - parking, dining, logistics
+   - someone to contact regarding help
+   - Addresses
+     - email address speaker-coordinator@gtalug.org
+     - email address speakers@gtalug.org
+     - Currently forwarding to Myles
+
+**** Ideas
+ - Idea that came up: tmux versus screen
+ - Alex to poke RPi guy
+ - SystemD
+   - KWLUG had a talk not long ago, perhaps could draw someone in
+   - Special Code of Conduct for such a talk
+     - /No explaining from the crowd/
+     - The speaker was there to explain
+   - Was a short talk at KWLUG, on how to replace cron jobs using SystemD
+ - PyLadies :: Developers in newsrooms
+ - CHIP guy on $9 computer
+   - Myles has pursued this; might look to engage with Ryerson at some other time
+ - Municipal Data
+ - Entrepreneurship panel
+   - Mike Hoye
+   - 360, Blaze
+   - Madison Kelly
+
+*** ICANN
+ - Gord provided report ???
+*** Engagement with Ryerson
+ - Apparently we have gotten rescheduled to Wednesdays...
+ - Gord needs to free up some time
+ - Myles would like to know who we contact about rooms
+*** Infrastructure
+**** Backups
+ - Survey engine uses MySQL, also GNU Social https://github.com/gtalug/infrastructure/issues/41
+ - ought to have a backup of that
+ - Alex would like to have a "deploy" user, good idea
+ - Some discussion on requirements has taken place
+
+**** MediaWiki
+  - Copy of most material pulled from web.archive.org
+**** TRAC
+  - Myles has tooling to pull stuff out of TRAC if it ever comes up again
+*** AGM Followup
+  - Chair of Board :: Has been Mike Kalles
+    - Defer vote until next month
+    - Unanimously voted
+
+** Action Items

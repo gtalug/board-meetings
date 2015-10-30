@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Agenda"
+published: false
+---
+
+* 23rd November, 2015 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Upcoming Meetings
+- Where and when this meeting happens next
+- Infrastructure
+  - Mediawiki
+  - backups of MySQL data
+- Engagement with Ryerson
+- AGM followup
+  - Chair of Board - deferred
+- Bylaws
+
+** Action Items from Last Month
+  - Gord, Scott TODO :: Congratulatory letter to SPI MP
+  - Scott TODO :: Bring disk with MediaWiki instance
+    - Stewart suggested pulling from WayBackMachine
+    - Chris drafted something that's somewhat working
+  - Gord TODO :: Talk with Ryerson, problem with schedule there that they think we meet on Wednesdays
+    - Look into accessibility information
+  - Hector TODO :: May have a contact at Ryerson that could help
+  - Motion TODO :: Deferred Chair of Board vote to November
+  - Chris TODO :: Bug bank about address
