@@ -51,7 +51,9 @@ published: false
    - Stewart and Alex should have gone much earlier, that would have seeded thoughts, ideas, willingness, maybe
    - Announce earlier
  - December :: Embracing Singularity, ask Mike Fletcher if he might do it...
+   - Backup strategy :: Scott on PXE in 2015, Chris on Screen + tmux
  - January :: Giles Orr - on VIM
+ - 
  - Speaker coordination
    - should be about contacting speakers
    - directions
@@ -64,7 +66,6 @@ published: false
 
 **** Ideas
  - Idea that came up: tmux versus screen
- - Alex to poke RPi guy
  - Myles would like to solicit an Ansible talk
    - David Thornton?
  - SystemD
@@ -83,7 +84,8 @@ published: false
    - Madison Kelly
 
 *** ICANN
- - Gord provided report ???
+ - Gord provided report
+ - Please look at [[http://newatlarge.icann.org/][new ICANN at large site]] and report comments to Gord
 *** Engagement with Ryerson
  - Apparently we have gotten rescheduled to Wednesdays...
  - Gord needs to free up some time
@@ -111,4 +113,5 @@ published: false
     - Accessibility map seems insufficient
   - Hector TODO :: May have a contact at Ryerson that could help
   - Motion TODO :: Deferred Chair of Board vote to November
+  - All :: Please look at [[http://newatlarge.icann.org/][new ICANN at large site]] and report comments to Gord
 
