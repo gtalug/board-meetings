@@ -130,6 +130,7 @@ published: false
   - Gord TODO :: Still poking at Ryerson contacts
     - Accessibility map seems insufficient
   - Hector TODO :: May have a contact at Ryerson that could help
-  - Motion TODO :: Deferred Chair of Board vote to November
+  - Motion TODO :: Deferred Chair of Board vote to January
   - All :: Please look at [[http://newatlarge.icann.org/][new ICANN at large site]] and report comments to Gord
   - Chris TODO :: Ticket on Github about the wiki backup/dump
+  - Chris TODO :: Get Drew and Scott together for ID change
