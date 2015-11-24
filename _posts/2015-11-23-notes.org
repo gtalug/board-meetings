@@ -14,14 +14,17 @@ published: false
 
 ** Attendees
 
-*** Indeterminate
-
+*** Present
 
 - Christopher Browne
 - Alex Volkov (board member)
 - Myles Braithwaite  (board member)
 - Gordon Chillcott
 - Scott Sullivan (board member)
+
+*** Absent
+
+
 - Bill Thanis
 - Stewart Russell (board member)
 - Hector Carvagill
@@ -29,21 +32,26 @@ published: false
 - Amos Weatherill
 - Mike Kallies
 
-*** Present
-
-*** Absent
-
 ** Items
 
 *** Next board meeting
 
- - Meeting is no longer at someone's house, hence is a bit more inherently open to public
- - Maybe we should be sending invitations to the "regular" list?
- - Possibly we could use the room at Ryerson on a different Tuesday, or use it for something else
+  - December is usually not a time when we hold it...
+  - Normal date would be the 28th
+  - Chris is out until 29th
+  - Normally we do not hold a December board meeting
+  - Defer to January 25th
   
 *** Upcoming Meetings
- - December :: vmFarms?  Earthquakes and NTP?
- - January :: Giles Orr
+ - November :: Followup...
+   - Short topics
+   - Feedback was that people enjoyed it
+   - They liked the style
+   - Should have been more forceful on the rules, perhaps
+   - Stewart and Alex should have gone much earlier, that would have seeded thoughts, ideas, willingness, maybe
+   - Announce earlier
+ - December :: Embracing Singularity, ask Mike Fletcher if he might do it...
+ - January :: Giles Orr - on VIM
  - Speaker coordination
    - should be about contacting speakers
    - directions
@@ -57,6 +65,8 @@ published: false
 **** Ideas
  - Idea that came up: tmux versus screen
  - Alex to poke RPi guy
+ - Myles would like to solicit an Ansible talk
+   - David Thornton?
  - SystemD
    - KWLUG had a talk not long ago, perhaps could draw someone in
    - Special Code of Conduct for such a talk
