@@ -23,9 +23,13 @@ published: true
 - AGM followup
   - Chair of Board - deferred
 - Bylaws
+- Finances
+  - Need to get Drew in to bank to switch signers
+  - Should determine a second signer/authority
 
 ** Action Items from Last Month
   - Gord, Scott TODO :: Congratulatory letter to SPI MP
+    - Not sent, perhaps not timely anymore
   - Scott TODO :: Bring disk with MediaWiki instance
     - Stewart suggested pulling from WayBackMachine
     - Chris drafted something that's somewhat working

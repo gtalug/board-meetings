@@ -95,3 +95,10 @@ published: false
     - Unanimously voted
 
 ** Action Items
+
+  - Gord TODO :: Letter to new minister of Science, Innovation and several other things
+  - Gord TODO :: Still poking at Ryerson contacts
+    - Accessibility map seems insufficient
+  - Hector TODO :: May have a contact at Ryerson that could help
+  - Motion TODO :: Deferred Chair of Board vote to November
+
