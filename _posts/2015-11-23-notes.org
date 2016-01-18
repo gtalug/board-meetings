@@ -14,14 +14,17 @@ published: false
 
 ** Attendees
 
-*** Indeterminate
-
+*** Present
 
 - Christopher Browne
 - Alex Volkov (board member)
 - Myles Braithwaite  (board member)
 - Gordon Chillcott
 - Scott Sullivan (board member)
+
+*** Absent
+
+
 - Bill Thanis
 - Stewart Russell (board member)
 - Hector Carvagill
@@ -29,21 +32,28 @@ published: false
 - Amos Weatherill
 - Mike Kallies
 
-*** Present
-
-*** Absent
-
 ** Items
 
 *** Next board meeting
 
- - Meeting is no longer at someone's house, hence is a bit more inherently open to public
- - Maybe we should be sending invitations to the "regular" list?
- - Possibly we could use the room at Ryerson on a different Tuesday, or use it for something else
+  - December is usually not a time when we hold it...
+  - Normal date would be the 28th
+  - Chris is out until 29th
+  - Normally we do not hold a December board meeting
+  - Defer to January 25th
   
 *** Upcoming Meetings
- - December :: vmFarms?  Earthquakes and NTP?
- - January :: Giles Orr
+ - November :: Followup...
+   - Short topics
+   - Feedback was that people enjoyed it
+   - They liked the style
+   - Should have been more forceful on the rules, perhaps
+   - Stewart and Alex should have gone much earlier, that would have seeded thoughts, ideas, willingness, maybe
+   - Announce earlier
+ - December :: Embracing Singularity, ask Mike Fletcher if he might do it...
+   - Backup strategy :: Scott on PXE in 2015, Chris on Screen + tmux
+ - January :: Giles Orr - on VIM
+ - 
  - Speaker coordination
    - should be about contacting speakers
    - directions
@@ -56,7 +66,8 @@ published: false
 
 **** Ideas
  - Idea that came up: tmux versus screen
- - Alex to poke RPi guy
+ - Myles would like to solicit an Ansible talk
+   - David Thornton?
  - SystemD
    - KWLUG had a talk not long ago, perhaps could draw someone in
    - Special Code of Conduct for such a talk
@@ -73,25 +84,53 @@ published: false
    - Madison Kelly
 
 *** ICANN
- - Gord provided report ???
+ - Gord provided report
+ - Please look at [[http://newatlarge.icann.org/][new ICANN at large site]] and report comments to Gord
 *** Engagement with Ryerson
- - Apparently we have gotten rescheduled to Wednesdays...
- - Gord needs to free up some time
- - Myles would like to know who we contact about rooms
+ - Still under way
 *** Infrastructure
 **** Backups
  - Survey engine uses MySQL, also GNU Social https://github.com/gtalug/infrastructure/issues/41
  - ought to have a backup of that
  - Alex would like to have a "deploy" user, good idea
- - Some discussion on requirements has taken place
+ - Some discussion on requirements has taken place, but answer never arrived
+ - DCB had some good suggestions; need to do some implementation
 
 **** MediaWiki
   - Copy of most material pulled from web.archive.org
+  - Add ticket indicating that this has been pulled
+  - Scott would like to retry pulling from Mediawiki
+
 **** TRAC
   - Myles has tooling to pull stuff out of TRAC if it ever comes up again
+
+**** Mailing lists
+  - Myles would like to operate announce list for Homebrew Hosting Club
+  - Just announcements, just quarterly
+  - No discussion list
+  - Overlap with GTALUG is 100%
+  - It is more a SIG than a separate group
+
 *** AGM Followup
   - Chair of Board :: Has been Mike Kalles
-    - Defer vote until next month
-    - Unanimously voted
+  - Mike thinks he may not be around enough
+  - Defer to January
+
+*** Financial Stuff
+  - Need to get ID switched; only Drew is really known by the bank
+  - Should get Scott and Chris set up as signing officers
+  - Motion made, unanimously in favour
+
+*** Announcements by Mr M...
+  - Meeting announcements should be 36 hours in advance
 
 ** Action Items
+
+  - Gord TODO :: Letter to new minister of Science, Innovation and several other things
+  - Gord TODO :: Still poking at Ryerson contacts
+    - Accessibility map seems insufficient
+  - Hector TODO :: May have a contact at Ryerson that could help
+  - Motion TODO :: Deferred Chair of Board vote to January
+  - All :: Please look at [[http://newatlarge.icann.org/][new ICANN at large site]] and report comments to Gord
+  - Chris TODO :: Ticket on Github about the wiki backup/dump
+  - Chris TODO :: Get Drew and Scott together for ID change
