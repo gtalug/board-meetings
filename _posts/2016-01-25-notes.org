@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 25th January, 2016 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+*** Indeterminate
+
+- Christopher Browne
+- Alex Volkov (board member)
+- Myles Braithwaite  (board member)
+- Gordon Chillcott
+- Scott Sullivan (board member)
+- Bill Thanis
+- Stewart Russell (board member)
+- Hector Carvagill
+- David Collier Brown
+- Amos Weatherill
+- Mike Kallies
+
+*** Present
+
+*** Absent
+
+** Items
+
+*** Next board meeting
+
+ - Presumably Hacklab?
+  
+*** Upcoming Meetings
+ - February
+ - March
+ - April
+ - Speaker coordination
+   - should be about contacting speakers
+   - directions
+   - parking, dining, logistics
+   - someone to contact regarding help
+   - Addresses
+     - email address speaker-coordinator@gtalug.org
+     - email address speakers@gtalug.org
+     - Currently forwarding to Myles
+
+**** Ideas
+ - Alex to poke RPi guy
+ - SystemD
+   - KWLUG had a talk not long ago, perhaps could draw someone in
+   - Special Code of Conduct for such a talk
+     - /No explaining from the crowd/
+     - The speaker was there to explain
+   - Was a short talk at KWLUG, on how to replace cron jobs using SystemD
+ - PyLadies :: Developers in newsrooms
+ - CHIP guy on $9 computer
+   - Myles has pursued this; might look to engage with Ryerson at some other time
+ - Municipal Data
+ - Entrepreneurship panel
+   - Mike Hoye
+   - 360, Blaze
+   - Madison Kelly
+
+*** ICANN
+
+*** Engagement with Ryerson
+*** Infrastructure
+**** Backups
+ - Survey engine uses MySQL, also GNU Social https://github.com/gtalug/infrastructure/issues/41
+ - ought to have a backup of that
+ - Alex would like to have a "deploy" user, good idea
+ - Some discussion on requirements has taken place
+
+**** MediaWiki
+  - Anything to do about deployment?
+**** TRAC
+  - Myles has tooling to pull stuff out of TRAC if it ever comes up again
+*** AGM Followup
+  - Chair of Board :: Has been Mike Kalles
+    - Deferred a fair bit...
+
+** Action Items
