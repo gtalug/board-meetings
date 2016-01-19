@@ -1,10 +1,8 @@
 - name: Scott Sullivan
   elected: "2013-2015, 2011-2013, and 2015-2017"
-  email: scott@example.org
 
 - name: Stewart Russell
   elected: "2015-2017"
-  email: cbbrowne@acm.org
 
 - name: Myles Braithwaite
   elected: "2014-2016, 2010-2012, and 2008-2010"
@@ -16,7 +14,6 @@
 
 - name: Mike Kalles
   elected: "2014-2016"
-  email: mike@example.org
 
 - name: Alex V.
   elected: "2014-2016"
