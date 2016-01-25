@@ -71,6 +71,9 @@ published: false
 
 *** ICANN
 
+    Gord presented notes... see [[../uploads/20160125.pdf][Jan 2016 ICANN report]]
+
+
 *** Engagement with Ryerson
 *** Infrastructure
 **** Backups
