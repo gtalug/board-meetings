@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agenda"
-published: false
+published: true
 ---
 
 * 25th January, 2016 at 7:30pm
