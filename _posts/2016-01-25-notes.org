@@ -46,6 +46,7 @@ published: true
  - March - a couple 30 minute talks
    - SystemD by Bill
  - April - tentatively a graphics panel (Scott moderating Myles, Stewart, Trent)
+   - And need to present LITP proposals for June
  - Materials for quick talks
    - PostIt notes
    - Sharpies
@@ -91,9 +92,11 @@ published: true
  - ought to have a backup of that
  - Alex would like to have a "deploy" user, good idea
  - Some discussion on requirements has taken place
-
+ - Fewer backups taking place just now...
+ - Myles looking at using Ansible to deploy things
 **** MediaWiki
   - Anything to do about deployment?
+  - Myles may have something already
 **** TRAC
   - Myles has tooling to pull stuff out of TRAC if it ever comes up again
 *** AGM Followup
@@ -108,6 +111,13 @@ published: true
     - All this seems pretty agreeable
     - Myles plans to draft some additions to policy
 
+*** Linux in the Park
+  - Location - Dufferin Grove Park has been fine
+  - June is the preliminary thought for timing
+  - Saturday afternoon seems to work fine
+  - No long weekends to steer clear of in June
+  - Let's present the possible dates along with major regional events at the April meeting
+  - Idea to hold it twice, with a somewhere else involved
 ** Action Items
   - Chris TODO :: See if we need to file something about bylaw update, do so, if need be.
   - Myles TODO :: Draft some revisions to mailing list policy
@@ -118,3 +128,5 @@ published: true
   - Myles TODO :: book HackLab for February
   - Myles TODO :: email Bob Jonkman about Music topic
   - Scott TODO :: ask Trent about Inkscape
+  - To Do in April :: Discuss linode as we may need to migrate due to $CDN weakness
+
