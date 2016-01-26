@@ -102,7 +102,8 @@ published: true
 *** AGM Followup
   - Chair of Board :: Has been Mike Kalles
     - Deferred a fair bit...
-
+  - Moved (Scott) that Myles be nominated
+    - Passed unanimously
 *** Mailing List Rules
   - Myles wrote up some rules surrounding job postings
     - Needs to be somewhat local
