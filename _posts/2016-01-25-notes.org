@@ -23,13 +23,13 @@ published: true
 - Stewart Russell (board member)
 - Christopher Browne
 - Hector Carvagill
+- Mike Kallies
 
 *** Absent
 
 - Scott Sullivan (board member)
 - David Collier Brown
 - Amos Weatherill
-- Mike Kallies
 
 ** Items
 
