@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes"
-published: false
+published: true
 ---
 
 * 25th January, 2016 at 7:30pm
@@ -14,23 +14,22 @@ published: false
 
 ** Attendees
 
-*** Indeterminate
+*** Present
 
-- Christopher Browne
 - Alex Volkov (board member)
 - Myles Braithwaite  (board member)
 - Gordon Chillcott
-- Scott Sullivan (board member)
 - Bill Thanis
 - Stewart Russell (board member)
+
+*** Absent
+
+- Christopher Browne
+- Scott Sullivan (board member)
 - Hector Carvagill
 - David Collier Brown
 - Amos Weatherill
 - Mike Kallies
-
-*** Present
-
-*** Absent
 
 ** Items
 
