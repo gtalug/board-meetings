@@ -36,11 +36,22 @@ published: true
 *** Next board meeting
 
  - Presumably Hacklab?
+   - Liking it here...
   
 *** Upcoming Meetings
  - February
- - March
- - April
+   - Alex show and tell Pi, water sensors, OpenCV, something about orchids
+   - Intrusion detection - Mike Kallies
+   - And cast of whomever has something interesting to chat on
+ - March - a couple 30 minute talks
+   - SystemD by Bill
+ - April - tentatively a graphics panel (Scott moderating Myles, Stewart, Trent)
+ - Materials for quick talks
+   - PostIt notes
+   - Sharpies
+   - Random thingie (dice, ping pong balls)
+   - Egg timer(s) or phone timer
+   - Dice to select folk
  - Speaker coordination
    - should be about contacting speakers
    - directions
@@ -52,26 +63,26 @@ published: true
      - Currently forwarding to Myles
 
 **** Ideas
- - Alex to poke RPi guy
+ - Stewart on imaging/paperless using Linux
+   - Consider this as either a "major" topic for around November
+   - Alternatively as a backup topic
  - SystemD
-   - KWLUG had a talk not long ago, perhaps could draw someone in
-   - Special Code of Conduct for such a talk
-     - /No explaining from the crowd/
-     - The speaker was there to explain
-   - Was a short talk at KWLUG, on how to replace cron jobs using SystemD
- - PyLadies :: Developers in newsrooms
  - CHIP guy on $9 computer
    - Myles has pursued this; might look to engage with Ryerson at some other time
  - Municipal Data
- - Entrepreneurship panel
-   - Mike Hoye
-   - 360, Blaze
-   - Madison Kelly
+   - They're up to something new, and want to wait
+ - Chris should prep a "new in Postgres" talk
+ - Inkscape
+ - Open Graphics panel
+   - GiMP and Inkscape - Trent
+   - SVG file manipulation - Myles
+   - Inkscape patterns - Stewart
 
 *** ICANN
 
     Gord presented notes... see [[../uploads/20160125.pdf][Jan 2016 ICANN report]]
 
+    It is pretty incoherent just now
 
 *** Engagement with Ryerson
 *** Infrastructure
@@ -104,4 +115,6 @@ published: true
   - Myles TODO :: Reset passwords for mailing lists for GTALUG
   - Gord TODO :: Get contact emails for Ryerson folk from Scott
   - Myles TODO :: Add gord@gtalug.org address for Gord
-  
+  - Myles TODO :: book HackLab for February
+  - Myles TODO :: email Bob Jonkman about Music topic
+  - Scott TODO :: ask Trent about Inkscape

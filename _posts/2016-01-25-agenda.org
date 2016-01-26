@@ -14,8 +14,8 @@ published: true
 
 ** Agenda
 
-- Upcoming Meetings
 - Where and when this meeting happens next
+- Upcoming Meetings
 - Infrastructure
   - Mediawiki
   - backups of MySQL data
