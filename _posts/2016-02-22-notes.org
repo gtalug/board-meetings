@@ -1,0 +1,118 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 22nd February, 2016 at 7:30pm
+
+** Location
+
+ - *Hacklab*
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+*** Present
+
+- Alex Volkov (board member)
+- Myles Braithwaite  (board member)
+- Gordon Chillcott
+- Bill Thanis
+- Stewart Russell (board member)
+- Christopher Browne
+- Hector Carvagill
+- Mike Kallies
+- Scott Sullivan (board member)
+- David Collier Brown
+- Amos Weatherill
+
+*** Absent
+
+
+** Items
+
+*** Next board meeting
+
+ - Presumably Hacklab?
+   - Liking it here...
+  
+*** Upcoming Meetings
+ - March - a couple 30 minute talks
+   - SystemD by Bill
+ - April - tentatively a graphics panel (Scott moderating Myles, Stewart, Trent)
+   - And need to present LITP proposals for June
+ - Materials for quick talks
+   - PostIt notes
+   - Sharpies
+   - Random thingie (dice, ping pong balls)
+   - Egg timer(s) or phone timer
+   - Dice to select folk
+ - Speaker coordination
+   - should be about contacting speakers
+   - directions
+   - parking, dining, logistics
+   - someone to contact regarding help
+   - Addresses
+     - email address speaker-coordinator@gtalug.org
+     - email address speakers@gtalug.org
+     - Currently forwarding to Myles
+
+**** Ideas
+ - Stewart on imaging/paperless using Linux
+   - Consider this as either a "major" topic for around November
+   - Alternatively as a backup topic
+ - SystemD
+ - CHIP guy on $9 computer
+   - Myles has pursued this; might look to engage with Ryerson at some other time
+ - Municipal Data
+   - They're up to something new, and want to wait
+ - Chris should prep a "new in Postgres" talk
+ - Inkscape
+ - Open Graphics panel
+   - GiMP and Inkscape - Trent
+   - SVG file manipulation - Myles
+   - Inkscape patterns - Stewart
+
+*** ICANN
+
+    Gord presented notes... see [[../uploads/20160125.pdf][Jan 2016 ICANN report]]
+
+    It is pretty incoherent just now
+
+*** Engagement with Ryerson
+*** Infrastructure
+**** Backups
+ - Survey engine uses MySQL, also GNU Social https://github.com/gtalug/infrastructure/issues/41
+ - ought to have a backup of that
+ - Alex would like to have a "deploy" user, good idea
+ - Some discussion on requirements has taken place
+ - Fewer backups taking place just now...
+ - Myles looking at using Ansible to deploy things
+**** MediaWiki
+  - Anything to do about deployment?
+  - Myles may have something already
+**** TRAC
+  - Myles has tooling to pull stuff out of TRAC if it ever comes up again
+*** AGM Followup
+  - Chair of Board :: Has been Mike Kalles
+    - Deferred a fair bit...
+  - Moved (Scott) that Myles be nominated
+    - Passed unanimously
+*** Mailing List Rules
+  - Myles wrote up some rules surrounding job postings
+    - Needs to be somewhat local
+    - Needs to be somewhat germaine to Linux
+    - Poster should be on the list
+    - All this seems pretty agreeable
+    - Myles plans to draft some additions to policy
+
+*** Linux in the Park
+  - Location - Dufferin Grove Park has been fine
+  - June is the preliminary thought for timing
+  - Saturday afternoon seems to work fine
+  - No long weekends to steer clear of in June
+  - Let's present the possible dates along with major regional events at the April meeting
+  - Idea to hold it twice, with a somewhere else involved
+** Action Items
