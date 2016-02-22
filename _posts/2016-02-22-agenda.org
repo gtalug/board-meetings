@@ -23,7 +23,8 @@ published: true
 - AGM followup
   - Chair of Board - deferred
 - Bylaws
-- Mailing list moderator
+- Mailing list policy
+  - <https://public.etherpad-mozilla.org/p/VSZjUL6vvt>
 
 ** Action Items from Last Month
   - Chris TODO :: See if we need to file something about bylaw update, do so, if need be.
