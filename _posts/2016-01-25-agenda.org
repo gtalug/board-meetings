@@ -14,8 +14,8 @@ published: true
 
 ** Agenda
 
-- Upcoming Meetings
 - Where and when this meeting happens next
+- Upcoming Meetings
 - Infrastructure
   - Mediawiki
   - backups of MySQL data
@@ -23,6 +23,7 @@ published: true
 - AGM followup
   - Chair of Board - deferred
 - Bylaws
+- Mailing list moderator
 
 ** Action Items from Last Month
   - Gord TODO :: Letter to new minister of Science, Innovation and several other things
