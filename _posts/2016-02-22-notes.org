@@ -41,8 +41,15 @@ published: true
 *** Upcoming Meetings
  - March - a couple 30 minute talks
    - SystemD by Bill
+   - Bill on GNU Social
  - April - tentatively a graphics panel (Scott moderating Myles, Stewart, Trent)
    - And need to present LITP proposals for June
+ - May - Possibly on OSS Music
+ - Look at a TPP talk
+   - Looking for Greg, that seemed to know someone that might be worth asking
+ - PG day in late summer
+   - Chris, on what's new
+   - Myles, on JSON stuff
  - Materials for quick talks
    - PostIt notes
    - Sharpies
@@ -63,7 +70,11 @@ published: true
  - Stewart on imaging/paperless using Linux
    - Consider this as either a "major" topic for around November
    - Alternatively as a backup topic
+   - Some projects on paperless archival on GitHub
+ - CryptoCat guy
+   - Glenn Greenwold used this for Snowdon communications
  - SystemD
+ - Got note from Trevor Warren on training opportunity
  - CHIP guy on $9 computer
    - Myles has pursued this; might look to engage with Ryerson at some other time
  - Municipal Data
@@ -100,7 +111,9 @@ published: true
   - Suggest looking for a "redhat" or "LSB" or "version" file in /etc
   - Yum repo likely has version number captured somewhere
   - Seems like what we'd most like to get out of this are the attachments, which might be in files, or in a MySQL table (hope not)
-
+  - Look for the SQLite database with TRAC in it
+    - Find -name "*.db"
+  - Bill to make the image available
 **** TRAC
   - Myles has tooling to pull stuff out of TRAC if it ever comes up again
 *** Mailing List Rules
@@ -125,3 +138,11 @@ published: true
   - Gord TODO :: Get contact emails for Ryerson folk from Scott
   - To Do in April :: Discuss linode as we may need to migrate due to $CDN weakness
   - Myles TODO :: Get list of regional events for next board meeting, so we can present at April meeting
+  - Myles TODO :: Send pointer on GitHub projects about paperless archival
+  - Chris TODO :: Find Linuxcon in Toronto, send out a note that it's happening, August 24th, Weston Harbour Castle
+  - Myles TODO :: Respond to Trevor that GTALUG hasn't got our own real estate
+    - Other ideas include
+      - Womens' Coding Space
+      - Bitmaker Labs
+      - Mozilla
+  - March Ops Meeting TODO :: Look at Linuxcon in August, see if there is anything GTALUG-relevant
