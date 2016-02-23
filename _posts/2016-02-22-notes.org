@@ -85,32 +85,34 @@ published: true
     - Suggest that if there are things that come up, present it to the Ops mailing list for consensus response
 
 *** Engagement with Ryerson
+  - No movement
+  - Need to ping Scott on this
+
 *** Infrastructure
 **** Backups
- - Survey engine uses MySQL, also GNU Social https://github.com/gtalug/infrastructure/issues/41
- - ought to have a backup of that
- - Alex would like to have a "deploy" user, good idea
  - Some discussion on requirements has taken place
  - Fewer backups taking place just now...
  - Myles looking at using Ansible to deploy things
 **** MediaWiki
-  - Anything to do about deployment?
-  - Myles may have something already
+  - Bill got the filesystem mounted and copied
+  - About 1GB of data
+  - Need the MySQL dump to load into a new instance???  But this seems extremely troublesome.
+  - Suggest looking for a "redhat" or "LSB" or "version" file in /etc
+  - Yum repo likely has version number captured somewhere
+  - Seems like what we'd most like to get out of this are the attachments, which might be in files, or in a MySQL table (hope not)
+
 **** TRAC
   - Myles has tooling to pull stuff out of TRAC if it ever comes up again
-*** AGM Followup
-  - Chair of Board :: Has been Mike Kalles
-    - Deferred a fair bit...
-  - Moved (Scott) that Myles be nominated
-    - Passed unanimously
 *** Mailing List Rules
-  - Myles wrote up some rules surrounding job postings
-    - Needs to be somewhat local
-    - Needs to be somewhat germaine to Linux
-    - Poster should be on the list
-    - All this seems pretty agreeable
-    - Myles plans to draft some additions to policy
-
+  - Myles put some material together
+  - Stewart added CoC comments
+  - Scott rewrote it to be more positively-spun
+  - What next?
+    - Publish the new rule set on the mailing list?
+    - Proposal
+      - Myles to discuss
+        - We simplified the language
+        - We clarified some rules surrounding job postings
 *** Linux in the Park
   - Location - Dufferin Grove Park has been fine
   - June is the preliminary thought for timing
@@ -122,3 +124,4 @@ published: true
   - Chris TODO :: See if we need to file something about bylaw update, do so, if need be.
   - Gord TODO :: Get contact emails for Ryerson folk from Scott
   - To Do in April :: Discuss linode as we may need to migrate due to $CDN weakness
+  - Myles TODO :: Get list of regional events for next board meeting, so we can present at April meeting

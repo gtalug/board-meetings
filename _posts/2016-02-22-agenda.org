@@ -33,4 +33,4 @@ published: true
   - Myles Done :: book HackLab for February
   - Myles Done :: <https://github.com/gtalug/operations/issues/5> email Bob Jonkman about Music topic
   - Scott Done :: ask Trent about Inkscape
-  - To Do in April :: Discuss linode as we may need to migrate due to $CDN weakness
+http://www.homestarrunner.com/sbemail205.html
