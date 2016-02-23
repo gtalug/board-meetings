@@ -20,20 +20,17 @@ published: true
   - Mediawiki
   - backups of MySQL data
 - Engagement with Ryerson
-- AGM followup
-  - Chair of Board - deferred
 - Bylaws
 - Mailing list policy
   - <https://public.etherpad-mozilla.org/p/VSZjUL6vvt>
 
+
 ** Action Items from Last Month
-  - Chris TODO :: See if we need to file something about bylaw update, do so, if need be.
-  - Myles TODO :: <https://github.com/gtalug/operations/issues/6> Draft some revisions to mailing list policy
-  - Myles TODO :: <https://github.com/gtalug/infrastructure/issues/46> Add Stewart as another mailing list moderator
-  - Myles TODO :: <https://github.com/gtalug/infrastructure/issues/45> Reset passwords for mailing lists for GTALUG
-  - Gord TODO :: Get contact emails for Ryerson folk from Scott
-  - Myles TODO :: <https://github.com/gtalug/infrastructure/issues/47> Add gord@gtalug.org address for Gord
-  - Myles TODO :: book HackLab for February
-  - Myles TODO :: <https://github.com/gtalug/operations/issues/5> email Bob Jonkman about Music topic
-  - Scott TODO :: ask Trent about Inkscape
+  - Myles Done :: <https://github.com/gtalug/operations/issues/6> Draft some revisions to mailing list policy
+  - Myles Done :: <https://github.com/gtalug/infrastructure/issues/46> Add Stewart as another mailing list moderator
+  - Myles Done :: <https://github.com/gtalug/infrastructure/issues/45> Reset passwords for mailing lists for GTALUG
+  - Myles Done :: <https://github.com/gtalug/infrastructure/issues/47> Add gord@gtalug.org address for Gord
+  - Myles Done :: book HackLab for February
+  - Myles Done :: <https://github.com/gtalug/operations/issues/5> email Bob Jonkman about Music topic
+  - Scott Done :: ask Trent about Inkscape
   - To Do in April :: Discuss linode as we may need to migrate due to $CDN weakness

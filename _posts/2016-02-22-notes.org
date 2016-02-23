@@ -7,10 +7,10 @@ published: true
 * 22nd February, 2016 at 7:30pm
 
 ** Location
-
- - *Hacklab*
+  - Hacklab
   - 1266 Queen St W, Toronto, ON M6K 1L3
   - <https://goo.gl/maps/OKcij>
+
 
 ** Attendees
 
@@ -22,21 +22,21 @@ published: true
 - Bill Thanis
 - Stewart Russell (board member)
 - Christopher Browne
+
+*** Absent
+
 - Hector Carvagill
 - Mike Kallies
 - Scott Sullivan (board member)
 - David Collier Brown
 - Amos Weatherill
 
-*** Absent
-
-
 ** Items
 
 *** Next board meeting
 
- - Presumably Hacklab?
-   - Liking it here...
+ - Hacklab seems to be pretty busy, having an event on March 28th
+ - Next month - March 28th, at Starbucks Davisville
   
 *** Upcoming Meetings
  - March - a couple 30 minute talks
@@ -77,9 +77,12 @@ published: true
 
 *** ICANN
 
-    Gord presented notes... see [[../uploads/20160125.pdf][Jan 2016 ICANN report]]
+  - Gord presented notes...
 
-    It is pretty incoherent just now
+  - More to say in a couple weeks
+
+  - Gord would like someone (chair?) to comment on the next time there is a motion approving new organizations
+    - Suggest that if there are things that come up, present it to the Ops mailing list for consensus response
 
 *** Engagement with Ryerson
 *** Infrastructure
@@ -116,3 +119,6 @@ published: true
   - Let's present the possible dates along with major regional events at the April meeting
   - Idea to hold it twice, with a somewhere else involved
 ** Action Items
+  - Chris TODO :: See if we need to file something about bylaw update, do so, if need be.
+  - Gord TODO :: Get contact emails for Ryerson folk from Scott
+  - To Do in April :: Discuss linode as we may need to migrate due to $CDN weakness
