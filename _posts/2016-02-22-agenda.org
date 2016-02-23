@@ -33,4 +33,3 @@ published: true
   - Myles Done :: book HackLab for February
   - Myles Done :: <https://github.com/gtalug/operations/issues/5> email Bob Jonkman about Music topic
   - Scott Done :: ask Trent about Inkscape
-http://www.homestarrunner.com/sbemail205.html
