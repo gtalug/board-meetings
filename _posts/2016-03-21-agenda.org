@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 21st March, 2016 at 7:30pm
+
+** Location
+
+  - Starbucks
+    - Davisville and Yonge
+    
+** Agenda
+
+- Where and when this meeting happens next
+- Upcoming Meetings
+- Infrastructure
+  - Mediawiki
+  - backups of MySQL data
+- Engagement with Ryerson
+- Bylaws
+
+** Action Items from Last Month
+  - Chris TODO :: See if we need to file something about bylaw update, do so, if need be.
+  - Gord TODO :: Get contact emails for Ryerson folk from Scott
+  - To Do in April :: Discuss linode as we may need to migrate due to $CDN weakness
+  - Myles TODO :: Get list of regional events for next board meeting, so we can present at April meeting
+  - Myles TODO :: Send pointer on GitHub projects about paperless archival
+  - Chris Done :: Find Linuxcon in Toronto, send out a note that it's happening, August 24th, Weston Harbour Castle
+  - Myles TODO :: Respond to Trevor that GTALUG hasn't got our own real estate
+    - Other ideas include
+      - Womens' Coding Space
+      - Bitmaker Labs
+      - Mozilla
+  - March Ops Meeting TODO :: Look at Linuxcon in August, see if there is anything GTALUG-relevant
