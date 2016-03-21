@@ -20,6 +20,7 @@ published: true
   - backups of MySQL data
 - Engagement with Ryerson
 - Bylaws
+- Report on FCC, request for direction
 
 ** Action Items from Last Month
   - Chris TODO :: See if we need to file something about bylaw update, do so, if need be.
