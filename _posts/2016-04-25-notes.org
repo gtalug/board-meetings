@@ -1,0 +1,79 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 25th April, 2016 at 7:30pm
+
+** Location
+  - Hacklab
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+
+** Attendees
+
+*** TBD
+
+- Myles Braithwaite  (board member)
+- Stewart Russell (board member)
+- Mike Kallies
+- Scott Sullivan (board member)
+- David Collier Brown
+- Alex Volkov (board member)
+- Gordon Chillcott
+- Bill Thanis
+- Christopher Browne
+- Hector Carvagill
+- Amos Weatherill
+
+*** Present
+
+
+*** Absent
+
+
+** Discussion
+
+** CAG
+
+** Email Etiquette
+
+
+** Upcoming Meetings
+
+*** May
+
+Myles: Got a lead for a talk, GNU Status by Bob Jonkman. 
+
+
+*** June
+
+*** Future / Slush List
+
+Myles: OpenData, Keith @ City of Toronto.
+Scott: TPP, we've been given people to contact.
+DaveCB: Linux TCP/IP, by himself.
+
+
+*** Last Meeting Review
+
+
+*** Infrastucture
+
+*** Linux in the Park
+
+Myles: Has list of upcoming toronto events.
+Myles: Will poll at the meeting for best date to hold it.
+Scott: Will bring 10x10 gazbo.
+Myles: Rain Day?
+
+
+*** Video (Of Talks)
+
+
+
+*** Video (Tutorials)
+
+** Action Items
