@@ -1,0 +1,116 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 21st March, 2016 at 7:30pm
+
+** Location
+  - Hacklab
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+
+** Attendees
+
+*** TBD
+
+*** Present
+
+- Myles Braithwaite  (board member)
+- Stewart Russell (board member)
+- Mike Kallies
+- Scott Sullivan (board member)
+- David Collier Brown
+
+*** Absent
+
+- Alex Volkov (board member)
+- Gordon Chillcott
+- Bill Thanis
+- Christopher Browne
+- Hector Carvagill
+- Amos Weatherill
+
+** Discussion
+
+- agenda missing
+- board.gtalug.org is very spiffy
+
+** CAG
+
+Scott: CAG, last update 2014 on website, Mike not running meetings. Still relevant?
+DaveCB: Discussing the issue of EU and US spectrum management organizations 
+being talked into encrypting software for raido control
+Myles: Move from in person meeting to more CAG mailinglist chatter.
+
+
+** Email Etiquette
+
+ - Many competing views
+ - Geniune concerns about how this effects assitive tech users (screen readers)
+ - Who can we consult on assistive tech?
+   Scott: Myles can contact Sarah Em at Hacklab, she has a good working knowledge.
+
+
+** Upcoming Meetings
+
+*** April
+  - Scott is to crowal (corral?) Myles, Stewart and Trent for planning meeting.
+
+*** May
+
+Myles: Got a lead for a talk, GNU Status by Bob Jonkman. 
+
+
+*** Future / Slush List
+
+Myles: OpenData, Keith @ City of Toronto.
+Scott: TPP, we've been given people to contact.
+DaveCB: Linux TCP/IP, by himself.
+
+
+*** Last Meeting Review
+
+Myles: We should identify and invalidate food courts in advance.
+
+
+*** Infrastucture
+
+Myles: Backups are now working (was silently broken).
+Myles: Backups are now 'one-click'.
+
+
+*** Linux in the Park
+
+Myles: Has list of upcoming toronto events.
+Myles: Will poll at the meeting for best date to hold it.
+Scott: Will bring 10x10 gazbo.
+Myles: Rain Day?
+
+
+*** Video (Of Talks)
+
+Scott: https://www.crowdsupply.com/numato-lab/opsis - I now own this hardware.
+DaveCB:
+```
+ 
++---------------------+
+| +--+ +-------------+|
+| |  | |             ||
+| +--+ |             ||
+| ~~   |             ||
+| ~~~~ |             ||
+| ~~~~ +-------------+|
++---------------------+
+
+```
+Stewart: Perl Mongers is doing this regularly.
+
+
+*** Video (Tutorials)
+
+Myles: Bob, status.net
+Myles: @hacklab as a place to do it.
+

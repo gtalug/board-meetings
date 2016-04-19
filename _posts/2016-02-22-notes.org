@@ -7,10 +7,10 @@ published: true
 * 22nd February, 2016 at 7:30pm
 
 ** Location
-
- - *Hacklab*
+  - Hacklab
   - 1266 Queen St W, Toronto, ON M6K 1L3
   - <https://goo.gl/maps/OKcij>
+
 
 ** Attendees
 
@@ -22,27 +22,34 @@ published: true
 - Bill Thanis
 - Stewart Russell (board member)
 - Christopher Browne
+
+*** Absent
+
 - Hector Carvagill
 - Mike Kallies
 - Scott Sullivan (board member)
 - David Collier Brown
 - Amos Weatherill
 
-*** Absent
-
-
 ** Items
 
 *** Next board meeting
 
- - Presumably Hacklab?
-   - Liking it here...
+ - Hacklab seems to be pretty busy, having an event on March 28th
+ - Next month - March 28th, at Starbucks Davisville
   
 *** Upcoming Meetings
  - March - a couple 30 minute talks
    - SystemD by Bill
+   - Bill on GNU Social
  - April - tentatively a graphics panel (Scott moderating Myles, Stewart, Trent)
    - And need to present LITP proposals for June
+ - May - Possibly on OSS Music
+ - Look at a TPP talk
+   - Looking for Greg, that seemed to know someone that might be worth asking
+ - PG day in late summer
+   - Chris, on what's new
+   - Myles, on JSON stuff
  - Materials for quick talks
    - PostIt notes
    - Sharpies
@@ -63,7 +70,11 @@ published: true
  - Stewart on imaging/paperless using Linux
    - Consider this as either a "major" topic for around November
    - Alternatively as a backup topic
+   - Some projects on paperless archival on GitHub
+ - CryptoCat guy
+   - Glenn Greenwold used this for Snowdon communications
  - SystemD
+ - Got note from Trevor Warren on training opportunity
  - CHIP guy on $9 computer
    - Myles has pursued this; might look to engage with Ryerson at some other time
  - Municipal Data
@@ -77,11 +88,17 @@ published: true
 
 *** ICANN
 
-    Gord presented notes... see [[../uploads/20160125.pdf][Jan 2016 ICANN report]]
+  - Gord presented notes...
 
-    It is pretty incoherent just now
+  - More to say in a couple weeks
+
+  - Gord would like someone (chair?) to comment on the next time there is a motion approving new organizations
+    - Suggest that if there are things that come up, present it to the Ops mailing list for consensus response
 
 *** Engagement with Ryerson
+  - No movement
+  - Need to ping Scott on this
+
 *** Infrastructure
 **** Backups
  - Survey engine uses MySQL, also GNU Social <https://github.com/gtalug/infrastructure/issues/41>
@@ -91,23 +108,27 @@ published: true
  - Fewer backups taking place just now...
  - Myles looking at using Ansible to deploy things
 **** MediaWiki
-  - Anything to do about deployment?
-  - Myles may have something already
+  - Bill got the filesystem mounted and copied
+  - About 1GB of data
+  - Need the MySQL dump to load into a new instance???  But this seems extremely troublesome.
+  - Suggest looking for a "redhat" or "LSB" or "version" file in /etc
+  - Yum repo likely has version number captured somewhere
+  - Seems like what we'd most like to get out of this are the attachments, which might be in files, or in a MySQL table (hope not)
+  - Look for the SQLite database with TRAC in it
+    - Find -name "*.db"
+  - Bill to make the image available
 **** TRAC
   - Myles has tooling to pull stuff out of TRAC if it ever comes up again
-*** AGM Followup
-  - Chair of Board :: Has been Mike Kalles
-    - Deferred a fair bit...
-  - Moved (Scott) that Myles be nominated
-    - Passed unanimously
 *** Mailing List Rules
-  - Myles wrote up some rules surrounding job postings
-    - Needs to be somewhat local
-    - Needs to be somewhat germaine to Linux
-    - Poster should be on the list
-    - All this seems pretty agreeable
-    - Myles plans to draft some additions to policy
-
+  - Myles put some material together
+  - Stewart added CoC comments
+  - Scott rewrote it to be more positively-spun
+  - What next?
+    - Publish the new rule set on the mailing list?
+    - Proposal
+      - Myles to discuss
+        - We simplified the language
+        - We clarified some rules surrounding job postings
 *** Linux in the Park
   - Location - Dufferin Grove Park has been fine
   - June is the preliminary thought for timing
@@ -116,3 +137,15 @@ published: true
   - Let's present the possible dates along with major regional events at the April meeting
   - Idea to hold it twice, with a somewhere else involved
 ** Action Items
+  - Chris TODO :: See if we need to file something about bylaw update, do so, if need be.
+  - Gord TODO :: Get contact emails for Ryerson folk from Scott
+  - To Do in April :: Discuss linode as we may need to migrate due to $CDN weakness
+  - Myles TODO :: Get list of regional events for next board meeting, so we can present at April meeting
+  - Myles TODO :: Send pointer on GitHub projects about paperless archival
+  - Chris TODO :: Find Linuxcon in Toronto, send out a note that it's happening, August 24th, Weston Harbour Castle
+  - Myles TODO :: Respond to Trevor that GTALUG hasn't got our own real estate
+    - Other ideas include
+      - Womens' Coding Space
+      - Bitmaker Labs
+      - Mozilla
+  - March Ops Meeting TODO :: Look at Linuxcon in August, see if there is anything GTALUG-relevant
