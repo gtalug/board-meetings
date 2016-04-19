@@ -84,7 +84,7 @@ published: true
 *** Engagement with Ryerson
 *** Infrastructure
 **** Backups
- - Survey engine uses MySQL, also GNU Social https://github.com/gtalug/infrastructure/issues/41
+ - Survey engine uses MySQL, also GNU Social <https://github.com/gtalug/infrastructure/issues/41>
  - ought to have a backup of that
  - Alex would like to have a "deploy" user, good idea
  - Some discussion on requirements has taken place
