@@ -8,9 +8,9 @@ published: true
 
 ** Location
 
-  - Starbucks
-    - Davisville and Yonge
-    
+  - HackLab.TO
+    - 1266 Queen St. West Suite #6
+
 ** Agenda
 
 - Where and when this meeting happens next
