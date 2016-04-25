@@ -70,10 +70,5 @@ Scott: Will bring 10x10 gazbo.
 Myles: Rain Day?
 
 
-*** Video (Of Talks)
-
-
-
-*** Video (Tutorials)
-
 ** Action Items
+  - Myles TODO :: Get list of regional events for next board meeting, so we can present at April meeting
