@@ -18,9 +18,10 @@ published: true
   - Hosting provider
   - Mediawiki
   - backups of MySQL data
+  - Mailing list - Yahoo
 - Engagement with Ryerson
-- Bylaws
 - Report on FCC, request for direction
+  - Routers
 
 ** Action Items from Last Month
   - Gord TODO :: Get contact emails for Ryerson folk from Scott
