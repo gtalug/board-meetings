@@ -8,14 +8,14 @@ published: true
 
 ** Location
 
-  - Starbucks
-    - Davisville and Yonge
+  - Hacklab
     
 ** Agenda
 
 - Where and when this meeting happens next
 - Upcoming Meetings
 - Infrastructure
+  - Hosting provider
   - Mediawiki
   - backups of MySQL data
 - Engagement with Ryerson

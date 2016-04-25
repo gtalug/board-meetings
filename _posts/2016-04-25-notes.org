@@ -16,20 +16,20 @@ published: true
 
 *** TBD
 
-- Myles Braithwaite  (board member)
-- Stewart Russell (board member)
-- Mike Kallies
-- Scott Sullivan (board member)
 - David Collier Brown
-- Alex Volkov (board member)
-- Gordon Chillcott
+- Stewart Russell (board member)
 - Bill Thanis
-- Christopher Browne
 - Hector Carvagill
 - Amos Weatherill
 
 *** Present
 
+- Scott Sullivan (board member)
+- Alex Volkov (board member)
+- Christopher Browne
+- Myles Braithwaite  (board member)
+- Mike Kallies
+- Gordon Chillcott
 
 *** Absent
 
