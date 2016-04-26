@@ -34,18 +34,37 @@ published: true
 *** Absent
 
 
-** Discussion
-
-** CAG
+** Next Board meeting
+  - May 30th
+  - At Hacklab
+  - Seems undesirable to reserve lots of meetings in advance, as the appointments tend to get deleted
 
 ** Email Etiquette
 
 
 ** Upcoming Meetings
 
+*** April
+  - Apparently the session went well, particularly between Myles and Trent
+  - Panel seemed to go well
+  - Had a clear idea of who was speaking, and drew them together in advance to make sure there were some questions planned
+  - It's evident that having some questions come in early is helpful too
+  - Too many panelists is not ideal; 3 was nice, 4 is a maximum
+  - Are there other panels worth percolating?
+    - Virtualization
+    - Best distribution
+      - As a guided talk, this would be interesting...
+      - How do you download, install, configure, upgrade, replace, report bugs, install foreign software, round it out to a dozen items
+    - Editors other than vi and Emacs    
+    - Databases?
+    - Tiny distros?
+    - Needs to be both broad and slim enough...
+    - Automation: Puppet, Chef, Ansible, CFengine, Salt
+    - Devops
+
 *** May
 
-Myles: Got a lead for a talk, GNU Status by Bob Jonkman. 
+  Myles: Got a lead for a talk, GNU Status by Bob Jonkman. 
 
 
 *** June
