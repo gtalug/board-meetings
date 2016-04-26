@@ -76,6 +76,26 @@ DaveCB: Linux TCP/IP, by himself.
 Alvin Starr: OpenStack
 
 *** Infrastucture
+**** Hosting Provider
+ - Linode is American, which makes it sensitive to US/CDN exchange rates
+ - Not many Canadian vendors
+ - Digital Ocean has a Toronto centre, but a low end VM that may be suitable
+ - Cloud@Cost is highly undesirable
+ - VMFarms, who sponsor PyCon Canada
+   - Managed hosting, not VM
+ - Mike K commends DreamHosts as a decent-ish managed hosting solution
+ - Tentatively plan to defer the matter to next year, maybe $CDN will strengthen...
+
+**** Mediawiki
+ - Archive is now in GitHub; some pages are missing
+ - Scott will see if he can spin up the disk image
+
+**** MySQL Backups
+ - Happening
+ - Tested, working fine
+
+**** Mailing Lists - Yahoo
+ - Encountering some issues with subscribers at Yahoo and similar addresses
 
 *** Linux in the Park
 
