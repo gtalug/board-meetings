@@ -96,6 +96,19 @@ Alvin Starr: OpenStack
 
 **** Mailing Lists - Yahoo
  - Encountering some issues with subscribers at Yahoo and similar addresses
+   - DMARC issue
+   - Lost 40 subscribers two weeks ago, as mailman decided to drop them all
+   - Myles added them back
+ - The Great Unsubscribing Event of 2016
+ - Fix is to add a couple things to Mailman configuration, as commended by Yahoo...
+ - Would like someone on various modern free email services
+   - AOL - Alex
+   - Hotmail/Outlook - Myles
+   - So we can monitor things
+
+*** Ryerson Engagement
+ - Email addresses now with Gord
+ - Engagement can proceed
 
 *** Linux in the Park
 
