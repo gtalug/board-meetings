@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 30th May 2016 at 7:30pm
+
+** Location
+
+  - Hacklab
+    - 1266 Queen St W, Toronto, ON M6K 1L3
+    - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Where and when this meeting happens next
+- Upcoming Meetings
+- Infrastructure
+  - Hosting provider
+  - Mediawiki
+- Engagement with Ryerson
+- Report on FCC, request for direction
+  - Routers
+- Linux in the Park
+
+** Action Items from Last Month
+
+  - Myles TODO :: Get list of regional events for next board meeting, so we can present at April meeting
+  - Myles TODO :: Check with Bob Jonkman about GNU Status for June
