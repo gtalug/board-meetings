@@ -39,9 +39,6 @@ published: true
   - At Hacklab
   - Seems undesirable to reserve lots of meetings in advance, as the appointments tend to get deleted
 
-** Email Etiquette
-
-
 ** Upcoming Meetings
 
 *** April
@@ -63,21 +60,20 @@ published: true
     - Devops
 
 *** May
-
-  Myles: Got a lead for a talk, GNU Status by Bob Jonkman. 
-
+  - May 10th
+  - General Q&A
+  - Ask people about the Distribution concept
 
 *** June
+
+  Myles: Got a lead for a talk, GNU Status by Bob Jonkman. 
 
 *** Future / Slush List
 
 Myles: OpenData, Keith @ City of Toronto.
 Scott: TPP, we've been given people to contact.
 DaveCB: Linux TCP/IP, by himself.
-
-
-*** Last Meeting Review
-
+Alvin Starr: OpenStack
 
 *** Infrastucture
 
@@ -91,3 +87,4 @@ Myles: Rain Day?
 
 ** Action Items
   - Myles TODO :: Get list of regional events for next board meeting, so we can present at April meeting
+  - Myles TODO :: Check with Bob Jonkman about GNU Status for June
