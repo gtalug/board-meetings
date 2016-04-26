@@ -109,6 +109,8 @@ Alvin Starr: OpenStack
 *** Ryerson Engagement
  - Email addresses now with Gord
  - Engagement can proceed
+ - Myles is meeting with them on PyCon Canada stuff, so may have some insights
+
 
 *** Linux in the Park
 
