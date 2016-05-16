@@ -1,0 +1,177 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 30th May, 2016 at 7:30pm
+
+** Location
+  - Hacklab
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+
+** Attendees
+
+*** TBD
+
+- Myles Braithwaite  (board member)
+- Stewart Russell (board member)
+- Mike Kallies
+- Scott Sullivan (board member)
+- David Collier Brown
+- Alex Volkov (board member)
+- Gordon Chillcott
+- Bill Thanis
+- Christopher Browne
+- Hector Carvagill
+- Amos Weatherill
+
+*** Present
+
+
+*** Absent
+
+
+** Discussion
+
+** CAG
+
+** Email Etiquette
+
+** Upcoming Meetings
+
+*** May
+
+Myles: Got a lead for a talk, GNU Status by Bob Jonkman. 
+
+
+*** June
+
+*** Future / Slush List
+
+Myles: OpenData, Keith @ City of Toronto.
+Scott: TPP, we've been given people to contact.
+DaveCB: Linux TCP/IP, by himself.
+
+
+*** Last Meeting Review
+
+
+*** Infrastucture
+
+*** Linux in the Park
+
+Myles: Has list of upcoming toronto events.
+Myles: Will poll at the meeting for best date to hold it.
+Scott: Will bring 10x10 gazbo.
+Myles: Rain Day?
+
+
+*** Video (Of Talks)
+
+
+
+*** Video (Tutorials)
+
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 30th May, 2016 at 7:30pm
+
+** Location
+  - Hacklab
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+
+** Attendees
+
+*** TBD
+
+- David Collier Brown
+- Stewart Russell (board member)
+- Bill Thanis
+- Hector Carvagill
+- Amos Weatherill
+- Scott Sullivan (board member)
+- Alex Volkov (board member)
+- Christopher Browne
+- Myles Braithwaite  (board member)
+- Mike Kallies
+- Gordon Chillcott
+
+*** Present
+
+*** Absent
+
+** Next Board meeting
+
+  - June 27th?
+  - At Hacklab
+  - Seems undesirable to reserve lots of meetings in advance, as the appointments tend to get deleted
+  - Note that we should probably consider having a board meeting @ LITP, or skip that month...
+
+** Upcoming Meetings
+
+*** June
+
+  Myles: Got a lead for a talk, GNU Status by Bob Jonkman. 
+
+*** Future / Slush List
+
+  - Myles: OpenData, Keith @ City of Toronto.
+  - Scott: TPP, we've been given people to contact.
+  - DaveCB: Linux TCP/IP, by himself.
+  - Alvin Starr: OpenStack
+
+*** Infrastucture
+**** Hosting Provider
+ - Linode is American, which makes it sensitive to US/CDN exchange rates
+ - Not many Canadian vendors
+ - Digital Ocean has a Toronto centre, but a low end VM that may be suitable
+ - Cloud@Cost is highly undesirable
+ - VMFarms, who sponsor PyCon Canada
+   - Managed hosting, not VM
+ - Mike K commends DreamHosts as a decent-ish managed hosting solution
+ - Tentatively plan to defer the matter to next year, maybe $CDN will strengthen...
+
+**** Mediawiki
+ - Archive is now in GitHub; some pages are missing
+ - Scott will see if he can spin up the disk image
+
+**** MySQL Backups
+ - Happening
+ - Tested, working fine
+
+**** Mailing Lists - Yahoo
+ - Encountering some issues with subscribers at Yahoo and similar addresses
+   - DMARC issue
+   - Lost 40 subscribers two weeks ago, as mailman decided to drop them all
+   - Myles added them back
+ - The Great Unsubscribing Event of 2016
+ - Fix is to add a couple things to Mailman configuration, as commended by Yahoo...
+ - Would like someone on various modern free email services
+   - AOL - Alex
+   - Hotmail/Outlook - Myles
+   - So we can monitor things
+
+*** Ryerson Engagement
+ - Email addresses now with Gord
+ - Engagement can proceed
+ - Myles is meeting with them on PyCon Canada stuff, so may have some insights
+
+
+*** Linux in the Park
+
+  - Myles: Has list of upcoming toronto events.
+  - Myles: Will poll at the meeting for best date to hold it.
+  - Scott: Will bring 10x10 gazbo.
+  - Myles: Rain Day?
+
+
+** Action Items
