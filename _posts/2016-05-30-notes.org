@@ -11,30 +11,33 @@ published: true
   - 1266 Queen St W, Toronto, ON M6K 1L3
   - <https://goo.gl/maps/OKcij>
 
-
 ** Attendees
 
 *** TBD
 
-- Myles Braithwaite  (board member)
-- Stewart Russell (board member)
-- Mike Kallies
-- Scott Sullivan (board member)
-- David Collier Brown
-- Alex Volkov (board member)
-- Gordon Chillcott
-- Bill Thanis
-- Christopher Browne
-- Hector Carvagill
-- Amos Weatherill
 
 *** Present
 
+- Christopher Browne
+- Myles Braithwaite  (board member)
+- Scott Sullivan (board member)
+- Gordon Chillcott
 
 *** Absent
 
 
-** Discussion
+- Stewart Russell (board member)
+- Mike Kallies
+- Alex Volkov (board member)
+- David Collier Brown
+- Bill Thanis
+- Hector Carvagill
+- Amos Weatherill
+
+*** June Board Meeting
+  - Hacklab
+  - June 27th
+  - 7:30pm
 
 ** CAG
 
@@ -42,12 +45,8 @@ published: true
 
 ** Upcoming Meetings
 
-*** May
-
-Myles: Got a lead for a talk, GNU Status by Bob Jonkman. 
-
-
 *** June
+  - BitCoin talk - Nerd Money with Warren McPherson
 
 *** Future / Slush List
 
@@ -81,33 +80,6 @@ title: "Notes"
 published: true
 ---
 
-* 30th May, 2016 at 7:30pm
-
-** Location
-  - Hacklab
-  - 1266 Queen St W, Toronto, ON M6K 1L3
-  - <https://goo.gl/maps/OKcij>
-
-
-** Attendees
-
-*** TBD
-
-- David Collier Brown
-- Stewart Russell (board member)
-- Bill Thanis
-- Hector Carvagill
-- Amos Weatherill
-- Scott Sullivan (board member)
-- Alex Volkov (board member)
-- Christopher Browne
-- Myles Braithwaite  (board member)
-- Mike Kallies
-- Gordon Chillcott
-
-*** Present
-
-*** Absent
 
 ** Next Board meeting
 
@@ -143,6 +115,10 @@ published: true
 **** Mediawiki
  - Archive is now in GitHub; some pages are missing
  - Scott will see if he can spin up the disk image
+**** Wiki - Has been resurrected on a VM!!!!!  
+ - Includes the Executive wiki, too!!!  
+ - Need to do a mass wget...
+
 
 **** MySQL Backups
  - Happening
@@ -175,3 +151,4 @@ published: true
 
 
 ** Action Items
+ - Chris :: TODO :: wget all the things...
