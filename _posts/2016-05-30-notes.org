@@ -39,23 +39,29 @@ published: true
   - June 27th
   - 7:30pm
 
-** CAG
+*** ICANN
+  - Gord planning to present an interim report on things that concern him
+  - Gord voted on ALAC position, for Alan Greenburg
+  - Gord presented a report
 
-** Email Etiquette
 
 ** Upcoming Meetings
 
 *** June
   - BitCoin talk - Nerd Money with Warren McPherson
 
+*** July
+  - ???
+
 *** Future / Slush List
 
-Myles: OpenData, Keith @ City of Toronto.
-Scott: TPP, we've been given people to contact.
-DaveCB: Linux TCP/IP, by himself.
-
-
-*** Last Meeting Review
+  - DaveCB: Linux TCP/IP, by himself.
+  - Quebec data protection laws that apparently permit blocking web sites they deem are "not right"
+  - Docker?
+  - PostgreSQL
+    - Chris on new stuff
+    - Myles on NoSQL
+  - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
 
 
 *** Infrastucture
