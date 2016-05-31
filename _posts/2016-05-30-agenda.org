@@ -20,8 +20,6 @@ published: true
   - Hosting provider
   - Mediawiki
 - Engagement with Ryerson
-- Report on FCC, request for direction
-  - Routers
 - Linux in the Park
 
 ** Action Items from Last Month
