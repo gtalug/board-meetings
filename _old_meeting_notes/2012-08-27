@@ -1,0 +1,90 @@
+= Bored Meeting 2012-08-27 =
+
+== Attendees ==
+
+Chris Browne, David Collier Brown, Drew Sullivan, Colin MacGregor, Seneca Cunningham, William Park, Jeff Pikul, Bill Thanis, Myles Braithwaithe
+
+== Agenda ==
+ * Upcoming Meetings
+ * POG
+ * Things to announce
+ * Systems Stuff
+ * Maily Listy Stuff
+
+== Upcoming Meetings ==
+
+ * August: Neil Watson, cfengine
+ * September: David Tilbrook, bin on /bin
+   * On /bin, root use, misuse, unneedfulness
+ * October: AGM + Zurich - Dynamic Protocol Stacks in Linux Kernel
+ * November: Possibly Myles on HTML5?  Possibly cynicism...
+
+=== Slush List ===
+
+ * Myles would like to do a talk on HTML-based apps
+ * Raspberry Pi?
+   * Pursue Chris Tyler @ Seneca College
+   * How do they handle infrastructure for Fedora builds?
+ * Router panel
+   * Buffer bloat could fit in
+   * NTP could fit in...
+   * Buffer Bloat - suggested talk by DCB, confirm or deny in January
+     * Found a timing issue - research version of the OpenWRT variation is working, but not speaking NAT
+   * RADIUS
+     * Bill knows this a fair bit
+   * Free DNS hosting seems to be dying
+     * Freedns.afraid.org
+ * Byron Sonne?
+   * Some interest, he's still figuring out what he's up to
+ * Talk on in-memory databases, and such...
+ * Desirable talk categories
+   * Hardware
+   * Languages
+   * Databasey
+ * Jim Van Maggel - Asterisk guy
+   * Wanted to put together an Asterisk installfest
+ * Some interesting ethical questions
+   * Video codecs about to go to public domain due to patent expiry
+   * Rooting
+   * Piracy and such
+
+== Systems Stuff ==
+ * DNS moved
+ * Users to go
+ * Next, databases
+ * After that, Wiki
+ * Maybe [https://github.com/CyberShadow/DFeed DFeed?]
+ * Unlikely much will happen until October
+
+== POG ==
+ * Sending letters to MPs that responded to David
+ * Some signatures to be tracked down
+ * One politician has PM launching process to run for leadership of a certain party
+   * Charmed at people sending flowers to European Parliament
+
+== ICANN ==
+ * Some pushback happening; some people from Kitchener pushing back
+ * October meeting in Toronto, meeting #45
+   * Everyone invited, it's free
+   * Please indicate you are representing GTALUG
+
+== Things To Announce ==
+ * AGM in October
+   * Gord suggests that in August we explain things, and say, we have 2 positions open, encourage nominations
+   * Want to suggest that some people run
+ * Soliciting memberships
+
+== Maily Listy Stuff ==
+ * The policy apparently worked
+ * Need to be prepared to ban people when needful
+
+== Meeting Space ==
+ * Got mean comment from janitorial staff...
+ * UU has "official sanction"; we should point to official folk and see about official sanction
+   * Alan Rosenthal, Dan Astoorian
+ * Rates: [http://osm.utoronto.ca/osm/rmrate.html Room Rates]
+ * University & St Andrews Station
+
+== Membership ==
+ * Change to policy...  Need to switch from "calendar year-ish" to actually capturing when they join, and change to duration of a year, then that's more apropos
+ * Need to table issues for another meeting

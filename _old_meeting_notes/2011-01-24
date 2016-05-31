@@ -1,0 +1,110 @@
+= Bored Meeting 2011-01-24 =
+
+== Attendees == 
+
+Drew Sullivan, Bill Thanis, Jeff Pikul, Gord Chilcott, Mike Kalles, Myles Braithwaithe, Chris Browne, Colin McGregor
+
+== Agenda ==
+
+ * Happy New Year
+ * PAC
+ * ICANN
+ * Upcoming Meetings
+ * Projector
+ * Conference possibilities
+ * Meeting location: Something Else  
+ * Things to announce
+
+== Regular Business: Upcoming Meetings ==
+
+ * Discussion of January (SugarCRM) - it was agreed that this had very good discussion; a number of people tended to like it.
+ * February - Scott doing Plan 9 
+ * March - Sasha Chua - on mobile org-mode
+ * April - Not at present...
+ * June-August likely to have Dynamic Languages' speakers
+ * Meeting cross-pollenation
+   * KWLUG
+     * Myles wants to head there to do a talk
+     * Wants a board member along
+   * Gord visiting Ottawa + OCLUG
+ * To look for Jim Mercer for war stories talk, or IPv6???
+
+== Political Advocacy Committee ==
+ * Discussion of Usage Based Billing
+ * Will be sending communication to membership to ask what people have encountered, expectations of effects.
+ * TekSavvy has started up lawsuits
+ * Imagined to be a money-grab by Bell and Rogers, but difficult to evidence this
+ * Should see what's up in Western Canada too
+ * Changing things after the fact is mighty difficult; to try to react early enough is pretty vital.
+   * Retain permission to run local wifi
+   * Commercial uses that haven't anything to do with Netflix
+   * Housing developments are running their own little ISPs
+ * How difficult is it to remove requirement to use CO from law?
+ * How are independents working (e.g. - TeraGo)?
+ * Part of the problem is that Right Of Ways is a public monopoly, and in principle, Bell, who holds this, shouldn't be allowed to participate in retail of attached layers.
+
+ * World Wide IPv6 Day
+   * Toronto Freenet has some addresses
+   * Consumer grade hardware supporting IPv6 is sparse
+   * Recent routers pretty much all support IPv6
+   * Trouble is whether OSes support it, or require extra configuration
+
+=== ICANN ===
+ * North American ICANN meeting March 13-18, San Francisco
+  * There will be a NorAm showcase for which they're asking for a GTALUG 1 pager on what wonders we do.
+   * Creep aggregation?  :-)
+ * Working group with as one concern communication between ICANN and outward arms
+  * Adopted wiki package called Confluence
+  * For teleconferences, they have adopted Adobe Connects
+  * They want to provide more ability to have communications between ICANN and folks like us
+  * Plan, for now, is the idea of a Confluence page for each ALS, intended as a conduit between ICANN and the ALS.  Thus, there would be a GTALUG Confluence page.
+    * Concern expressed: Anyone from anywhere can essentially comment on anything for any ALS.  No real way to limit the "GTALUG Confluence page" to GTALUG.
+    * Not exactly so; Gord and Myles are likely to be the gatekeepers to allow GTALUG folk access to the Confluence page.
+    * '''Vote:'''  Be it resolved that the board asks our ICANN liaisons to, as a part of their ICANN liaison involvements, pursue use of an ICANN "ALS" portal ("Confluence") to solicit GTALUG feedback on ICANN business.
+      * Motion: Jeff, Second: Mike.  Vote: 4 in favour; none opposed.
+  * Adobe Connect is the vehicle for teleconferencing
+    * Talking about offering an Adobe Connect room to run ICANN-related discussions at GTALUG.
+    * Do we see GTALUG making use of this?
+      * If it was a common part of Linux distributions, akin to common, ubiquitous protocols, that might be interesting, as with
+        * SMTP/Email
+        * IRC
+        * Gabber
+      * The board cannot support proprietary protocols, as this violates our charter and our community's preferences.
+  * ICANN needs people, possibly with a demographic bias contrary to GTALUG's demographic biases.
+    * We can't likely help fix their demographic biases.
+
+== PyGTA ==
+
+Soon (next 2 months) needs a new location.
+
+  * Libraries rent space
+  * Imperial Tavern could be a bootstrap, with back-room.
+  * FreeGeek Toronto
+
+== Projector ==
+
+  * Cheapest seemed around $550
+  * High end around $850
+  * Drew has a laptop that could be paired with it...
+  * Need a bit of "contract drafting foo"
+    * Oral agreement...
+    * $120 every six months
+    * Expectation of availability at meeting every month
+    * The projector should remain in the Province of Ontario
+  * Perceived as good deal all around...
+    * GTALUG gets to keep most of the money saved up, for use in future years.
+    * This includes delivery to meetings; try to get that elsewhere at any price...
+
+== Conferences ==
+
+Should discuss next month.
+
+== Things to Announce ==
+
+ * Colin has been updating things on near-front-page
+ * Drew suggests a Perl conference upcoming - not YAPC
+ * Congratulations to members Maureen & Drew at the arrival of bouncing boy Duncan.
+
+== Outreach ==
+
+ * Want Dan For Mayor to have Linux in it at some point...

@@ -1,0 +1,42 @@
+= Executive Meeting - 2009-03-23 =
+
+{{{
+#!mediawiki
+== Regular Business ==
+
+* Delegation of gtalug.org
+** Chris has this in progress; transfer request is happening
+* New GTALUG server status
+** Upgrade to new version of Mediawiki apparently works
+** Miles to update the GTALUG template for the new version
+** Next tale: To Migrate to MailMan as mailing list manager
+** Would really like to have the front page be ''much'' more dynamic, removing the ancient history from it
+** Discuss what ought to be done about improving richness of web pages
+** Need to reorganize the front page
+
+=== TLUG Meeting Matters ===
+
+* Speakers for the next few months?
+** Should solicit Marcel Gagne
+** Not clear what's up past March
+** David Collier Brown looking for contacts on Mozilla project as possible speakers; note Mark Sherman, Exec Director
+* Projector
+** See if presenter needs one
+** Chris bringing projector
+
+== New Business ==
+
+* Gord volunteered to be liaison re OLF
+** Neat idea: doing a "Linux 101" talk - need speaker for this
+
+* Drew recommends...  Bob Niven has a content management system supporting payment via PayPal.  We should arrange to have a copy of this system installed so that we may automate receipt of funds.
+** Requires setting up vendor account with PayPal and connecting this to the bank account
+** Targeting end of summer
+** Followup:  Need to consider what we wish to do with this.
+*** Buttons, shirts, ???
+* IT360 notes
+** Mention EMC passes to IT360
+* Gord got email from Andy Jennings (RHAT) - interested in representing TLUG @ RHAT
+** Project @ U(T) implementing a supercomputer
+** Apparently a contracted-thru thing via IBM/Google
+}}}

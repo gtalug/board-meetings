@@ -1,0 +1,61 @@
+= 2010-06-28 Meeting =
+
+== ICANN Update ==
+
+Myles' entire email (involving much effort) was accepted.  And XXX has been approved of sorts.  There are a number of further qualification steps needed by ICM; they need to go through some of the qualification process again.
+
+Gord expressed frustrations to Evan, that we were wondering if we should be continuing efforts.  He offered to take letter on frustrations to ALAC.
+
+Three top level IDN ccTLDs were approved...  
+
+  * Taiwan
+  * Hong Kong
+  * China
+
+DNSSEC deployed; signing of root July 15th.
+
+Some time near 2012 is when IPv4 runs out of addresses.
+
+WHOIS has gotten controversial again...  Several studies on WHOIS data.
+  * According to studies, WHOIS is between 25-29% accurate; about 75% ''wrong''
+  * Controversy: ICANN prone to study more...
+
+A panel on DNS poisoning...  Apparently rather interesting...
+   * Whitt/Diffie
+   * Dan Kaminsky
+   * Paul Makapetris
+   * Others...
+
+Hobbling towards new gTLDs...  The manual, "The Application Guide", is now in 4th draft.  If there is enough comment, then they will do a fifth draft.  No predictable date for launch.
+
+== Upcoming Meeting Planning ==
+
+  * Myles is still thinking about his July talk :-)
+  * In fall, there are two on board to be potentially re-elected
+     * Myles
+     * David Patrick (who shouldn't be running)
+  * Chris sent note to Toronto LISP folk about the "smackdown"
+
+== OLGF ==
+
+  * Richard approached Seneca, asking her about possible talks
+  * Not pursuing further for now...
+  * We don't imagine we actually want a booth...
+  * If we have not been contacted by next meeting, we are not "boothing."
+
+== PAC ==
+
+  * Had a meeting
+  * There were cookies
+  * They will not eat cake
+  * Want to encourage having expression for "ordinary members" as opposed to just corporate representation
+  * Beyond GPL...  Possibly preferring Open Source Definition
+  * Desire for conciliatory approach
+  * Wanting to offer legislative advice
+  * Government code should belong to the government...
+  * Concerned about C-32, EU software warranty issues
+  * Interesting area: 3D printers and such, on horizon.  Rather odd.
+
+  * Be it resolved that Gord go to Ottawa to make friends with the government.  (On no money...)
+    * Gord, Mike, Seneca, David pro
+    * Myles con

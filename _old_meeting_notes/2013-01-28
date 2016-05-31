@@ -1,0 +1,93 @@
+= Bored Meeting 2013-01-28 =
+
+== Attendees ==
+
+Chris Browne, 
+David Collier Brown, 
+Scott Sullivan, 
+Bill Thanis, 
+Ivan Avery Frey, 
+Drew Sullivan, 
+Colin Caprusu,
+Seneca Cunningham,
+
+=== NonAttendees ===
+
+Myles Braithwaithe,
+Gordon Chillcott,
+Mike Kalles
+
+
+== Agenda ==
+ * Upcoming Meetings
+ * POG
+ * Things to announce
+ * Systems Stuff
+ * New Board Business
+
+== Upcoming Meetings ==
+
+ * January - Byron Freed
+ * Feb - Louie - The Use of Unmodified Linux in a Network Switch
+ * Weird manuscript analysis talk - William Porquet.  Marchish
+ * April - IPv6 transition - Paul Reuters
+
+=== Slush List ===
+
+ * Myles would like to do a talk on HTML-based apps
+ * Raspberry Pi?
+   * Pursue Chris Tyler @ Seneca College
+   * How do they handle infrastructure for Fedora builds?
+ * Router panel
+   * Buffer bloat could fit in
+   * NTP could fit in...
+   * Buffer Bloat - suggested talk by DCB, confirm or deny in January
+     * Found a timing issue - research version of the OpenWRT variation is working, but not speaking NAT
+   * RADIUS
+     * Bill knows this a fair bit
+   * Free DNS hosting seems to be dying
+     * Freedns.afraid.org
+ * Talk on in-memory databases, and such...
+ * Desirable talk categories
+   * Hardware
+   * Languages
+   * Databasey
+ * Jim Van Maggel - Asterisk guy
+   * Wanted to put together an Asterisk installfest
+ * Some interesting ethical questions
+   * Video codecs about to go to public domain due to patent expiry
+   * Rooting
+   * Piracy and such
+ * Open source groupware equivalence
+ * U(T) has "CitizenLab", doing things about cryptography
+   * Justifies drawing U(T) folk in
+
+== Systems Stuff ==
+ * Big Blue Button
+  * Got it working somewhere - VM's
+  * Needs some nonGTALUG servers
+ * mailing list work
+   * mailman now exists, running
+   * board list to come first
+   * the big lists later...
+ * anyone getting mail from wiki?  possibly fixed
+  * to debug with Drew
+ * web site moving to new server, shouldn't be too visible
+
+== POG ==
+ * Judge has deferred TekSavvy case again
+ * Proposal for u(o) friend of court brief
+ * argument out there that if studio isn't planning to pursue court case this is improper use
+ * civil suit, so based in Ontario
+ * some GTALUG mention - http://www.slaw.ca/2013/01/16/copyright-infringement-trolls-an-appreciation-of-the-situation/
+
+== ICANN ==
+ * looking at site on web usability
+ * seems crummy now; need to click in pretty deep, and already know where you're going, in order to find anything on NARALO
+
+== Meeting Space ==
+ * Mozilla office?
+   * Scott putting foot in door
+
+== New Biz Items ==
+

@@ -1,0 +1,104 @@
+= Bored Meeting 2011-11-28 =
+
+== Attendees ==
+
+Drew Sullivan, Chris Browne, Dave Collier Brown, Scott Sullivan, Bill Thanis, Myles Braithwaith, Gord Chillcott, Seneca Cunningham
+
+== Agenda ==
+ * Upcoming Meetings
+ * PAC
+ * ICANN
+ * Conference possibilities
+ * Things to announce
+ * CIPS stuff
+ * Systems Stuff
+
+== Upcoming Meetings ==
+ * Nov: 3d Printing
+   * Note that we had excellent attendance at this; about 30 people
+ * Dec: ePUB
+ * Jan: Jim Mercer - What's wrong with Linux
+ * Feb: Red Hat guy on virtualization/cloud computing
+ * April: Scott Elcomb
+ * Need for internet connectivity
+   * Do we have anyone that may assist with access to U(T) Internet?
+   * Alternatively, someone that can consistently (perhaps on request) provide access (e.g. - mobile phone data tethering?)
+   * Response at board meeting is that this might be disruptive in some cases
+   * Concern that we're getting overly focused on technical presentation aspects at meetings
+   * Should update and have a "Presenter Welcome Package" that indicates that on-site Internet isn't typically available and such
+     * Myles will update this
+
+== ICANN ==
+ * Increase in activity in a rational sort of way
+   * New GTLD program launches Jan 12, 2012 - newgtlds.icann.org
+   * Relationship between ICANN and ITU is dissolving
+     * ICANN got tired of some of the ITU folk they were dealing iwth
+     * Tech community relationships becomes more ad hoc
+   * New workgroups coming on stream that should be tracked
+     * At Large Improvements Task Force
+       * Looking for people outside to see emerging products for teleconferencing
+     * Framework of Interpretation
+       * Several flaps about country codes and who controls their delegation
+     * Geographic Region Review
+     * WHOIS review
+     * Single Character IDNs
+       * Standard at present is 2 characters
+     * Application Guide...
+        * The internationalized and new GTLD program will result in more registries and registrars across all international regions
+     * Some questions as to where free speech resides in this...  Not clear...
+
+== PAC ==
+ * Returning chair coordinating with interim chair about synchronizing activities
+ * There's a time change regarding UTC
+ * TZ DB
+ * While Chair away
+   * Locks are for pirates submitted to Globe & Mail, they dropped a note  indicating 
+   * OK so now do what I do about it went to PM, Minister, and Committee members; one response from PMO
+   * Next is to contact Michael Geist for advice
+ * DRM is breaking down...
+   * Some would-be customers are scanning and sharing books because they're ticked off
+ * How does one get accredited as a library?
+   * Requires being government agency, usually...
+   * International library, commonly done on cruise ships
+
+== Conference Stuff ==
+ * Upcoming ICANN meeting, October 2012, in Toronto
+   * NORALO, not RALO
+   * Likely to be coming up again in April
+ * Last UU, Evan wondered if UU should be made part of ISOC
+   * Should there be some ISOC relationship?  No one was terribly interested the last time it came up...
+
+== CIPS Stuff ==
+ * Need to put a link to New GTLDs on the GTALUG web site
+ * While at FSOSS, Drew met with FreeGeek folk
+   * Very interested in a cooperative venture to recreate NewTLUG
+   * Agreement in principle
+   * They don't know where to go after constructing machines in terms of educating users of those machines
+   * Can we "can" some teaching material?
+     * Need generic How to Use Linux Stuff
+     * Put together syllabus
+       * OpenOffice?
+       * More?
+   * Plan to pull FreeGeek folk in to discuss what should be in syllabus
+     * Colin, David, Mike
+   * Agreement on this...
+   * Need to regard NewTLUG as a renewable resource
+     * Mustn't have it become a "more sophisticated group"
+     * They want more?  They should move onwards...
+
+== Systems Stuff ==
+
+ * Mailing list is borking on multipart MIME
+ * No email coming from TRAC
+ * Should review mailing list disclaimer
+ * Mike would like to add in some commentary on coping with Base64 / MIME and such
+ * Suggestion: Try subscribing to the -test list, as this exists, and is more appropriate for use
+ * Mike proposes to redo the material
+   * What about job posting?
+   * What about PAC material?
+   * What about local politics?
+   * Need to morph this...
+   * Myles suggests borrowing from the WordPress guidelines [http://codex.wordpress.org/Codex:Guidelines]
+   * Chris suggests linking to Emily PostNews [http://www.faqs.org/faqs/usenet/emily-postnews/part1/]
+   * Symbolics email guidelines [http://www.ai.sri.com/~delacaze/alu-site/alu/humor/symbolics-mail.html]
+   * Mailing list footer should have a pointer to this

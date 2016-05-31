@@ -1,0 +1,83 @@
+= Board Meeting 2013-06-24 =
+
+== Attendees ==
+
+Chris Browne, 
+Gordon Chillcott,
+Scott Sullivan,  
+Mike Kallies,
+William Park,
+Seneca Cunningham, 
+Ivan Avery Frey, 
+David Collier Brown, 
+Bill Thanis,
+Colin !McGregor,
+Drew Sullivan, 
+
+== Away ==
+
+Myles Braithwaithe,
+Colin Caprusu,
+
+== Upcoming Meetings ==
+
+ * Retrospective: June on Router topics
+ * July - Myles on recent !JavaScript frameworks
+ * August - Madison with clustering Q+A
+ * September - Beaglebone, Giles + buddy
+
+== Systems Stuff ==
+ * Big Blue Button.  
+   * Next trick: need to upgrade/reconfigure to support mobile devices
+ * Rack cleanup -> new 1U unit and migrate everything onto it
+   * No movement yet, coming soon
+   * See May 2013 exec meeting for some notes on mailing list software
+
+== Inventory of Social Networking Stuff ==
+ * Tabling for next month
+ * Material at [http://gtalug.org/wiki/Social_Network_Groups]
+ * Myles will be forwarding some of the templating he does
+
+== POG ==
+ * Inquiry came in from board on outsourcing
+ * Recent discussions on PRISM/Snowdon
+ * To do: research Euro Free Trade agreement, !TransPacific agreement
+ * Looking to book space at [http://socialinnovation.ca/ Center for Social Innovation]
+ * SLAW looking for help on encryption best practice
+   * Best initial thoughts are to
+     * Have meetings in house so that encryption is not necessary
+     * Tell receptionist to be careful so as to not leak information
+     * Email, if necessary, should use PGP.  Mind you, the protocol for doing so is likely challenging to teach...
+
+=== ISOC ===
+ * Why seems baffling
+ * Bunch of discussion that didn't entirely illuminate this :-)
+
+=== ICANN ===
+ * Flame war ongoing
+ * Domain hijacking problem involving !GoDaddy
+ * Bill & Gord planning to use BBB (Big Blue Button) for POG
+ * Would like to invite Trinidadian counterpart to participate via BBB
+
+== Meeting Space/Plans ==
+
+ * Bigger room?
+   * Need to continue pursuit; Scott has been busy, and Ryerson folk not super-responsive
+   * Trying to keep status quo for now
+ * Projector - still needs to be brought for now...
+   * Adding HDMI converter is desirable
+     * Likely wise for GTALUG to buy such if cheap
+     * $200 would not be "cheap" :-)
+ * Want to collect statistics on attendance
+   * Sure wish we could have had 10 years worth of attendee counts...
+   * Plan: Assign someone to do a count at dinner
+   * Mike Kalles plans to be responsible to have someone assigned
+
+=== "Soup" Planning ===
+
+ * There have been some "site visits" to alternatives
+ * Have been aiming at a better answer for August
+
+=== Publicity ===
+ * Torontoist?
+ * On campus publicity?

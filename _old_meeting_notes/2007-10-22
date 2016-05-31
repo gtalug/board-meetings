@@ -1,0 +1,113 @@
+= Executive Meeting - Oct 22, 2007 =
+
+{{{
+#!mediawiki
+
+== Old Business ==
+
+* Plonk money has been put off a bit; arrange it here...
+* See [[Executive:2007-09-24]]
+* Ongoing discussions of [[BoothEngineering]]
+
+== New Business ==
+
+=== Aftermath of General Meeting/Election ===
+
+* Ensure new board members are members of GTALUG
+** Already verified - all three joined during the "fall membership drive"
+* Get addresses to submit to CRA and Ontario Govt
+** Only needed for Gordon
+* Appointments of officers
+* Chris would like to propose that we have a "Membership Secretary" to split apart responsibility for tracking members.
+** Numbers of members are small enough that tracking this "via spreadsheet" is not unreasonable to do
+** Having someone '''else''' track members means that there's an extra check/balance on control of incoming funds, which would be a good thing
+* Submit public thanks to those that are "offgoing" the Board and Executive
+** William Park, not running for new term
+** Robert Brockway, stepping down as Talk Coordinator
+
+* Moved for Drew Sullivan to be President for the next year
+* Moved for Chris Browne to be Treasurer for the next year
+* Moved for Colin McGregor to be Secretary for the next year
+* Moved for Bill Thanis to be Membership Coordinator
+
+=== Ontario LinuxFest ===
+
+* Much on [[OntarioLinuxFest]] was arranged [[Executive:2007-09-24|Last Month]]
+* Discuss aftermath
+
+
+==== CLUE Ontario User Group Summit ====
+
+Chris Browne attended this...
+
+* OCLUG reported very similar organizational arrangements to GTALUG; both have moderately active boards, are "somewhat cash rich"
+* It was observed that Canada is frequently treated by vendors (notably the Novells and Red Hats of the world) as a minor foreign region, so that trying to solicit advocacy at that level tends to be futile.
+* CLUE suggested having joint membership arrangements, where people could pay to join both LUG and CLUE.  Evan wishes to visit GTALUG for the November executive meeting to propose something on this.
+* Apparently Chris suggested that some of the "cash riches" might be used to help sponsor a periodic 'summit' of interested members of Ontario LUG representatives to try to coordinate ideas
+* It was recommended that a new organization NOT be created, as that would require organizational effort be done when there is a paucity of willing volunteers for existing involvements
+* Michael Richardson observed: I would prefer that corporate members joined CLUE, and were referred to their local LUGs as well.  I would like to see CLUE coordinating advocacy, but the local LUGs actually doing it.
+* It was observed that many of the observed uses of LUGs aren't necessarily effective uses of them.  For instance, you can probably get your FOO-related questions answered better on a mailing list devoted to the developers and users of FOO.
+* In contrast, LUGs are in a unique position to be able to get advocacy information about government activities to and from their members.  MPs and MPPs and aldercritters are all tied specifically to geographical regions; enabling members to intelligently lobby their goverment representatives is something that nobody else can do.
+
+==== To Do ====
+* Call in Evan for next steps; Gordon to do this
+* Assessing whether there is needful web assistance (Drupal)
+* To determine how to try to to a New Year InterLUG event
+** Need to assess quantities of people
+** If < 30 people, could happen at LinuxCaffe
+** Issues:
+*** How to consolidate sharable resources (DNS, web, calendars, content creators, corporate contacts, government contacts, software resources)
+*** What does CLUE do?  What should it be doing?
+*** How do we perform Linux advocacy?  What is it?
+*** How should we be approaching the general public?
+*** Can we aggregate resources to do better, buy media time
+*** Neato billboard ideas - $3500/month?
+*** We have some access to media resources (directors, filming folk)
+** Preliminary meeting on IRC
+** Drew to make sure that Linux people are in at the January meeting of the Tenants of PDP (Park Downsview Park)
+
+=== LUG Wiki ===
+
+* Ongoing upgrade "ping"
+* Last month, a Fedora "Core 5" box was going into place to eventually host a new version of MediaWiki.
+
+=== Talks Coordination ===
+
+* Amos was proposed for this last month; should make sure he is being supported suitably so that the "pipeline of talks" keeps up
+
+=== Publisher User Group Programs ===
+
+Someone should:
+* Register for these programs
+* Set up a wiki page publicizing the benefits
+
+==== ORA User Group Program ====
+
+O'Reilly has a [http://ug.oreilly.com/ User Group & Professional Association Program] whereby they offer:
+* review copies of O'Reilly products
+* donations of books and other promo items
+* UG member discount on all O'Reilly books and conferences
+* bi-weekly newsletter
+* O'Reilly speakers
+
+==== APRESS User Group Program ====
+
+APRESS offers a [http://www.apress.com/community/usergroup user group program] too.
+
+* Discounts—a special 25% discount off the retail price of Apress titles
+* Free books for review purposes (Want some suggestions for writing reviews?)
+* Advanced PDFs or review copies of books before their official release
+* Promotional items like cool Apress T-shirts
+* Authors that are able to speak at your events
+* Downloadable Apress logos for your user group website or printed materials
+* Note that [[Chris_F.A._Johnson]] is published by APRESS - [[Meetings:2005-08]] was on topics from his book
+
+==== Other Publishers ====
+
+Similar offerings come from:
+* [http://www.peachpit.com/user_groups/index.aspx?rl=1 PeachPit Press]
+* Possibly SAMS
+
+
+[[Category:Executive Meetings]]
+}

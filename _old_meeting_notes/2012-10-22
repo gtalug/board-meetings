@@ -1,0 +1,171 @@
+= Bored Meeting 2012-10-22 =
+
+== Attendees ==
+
+Chris Browne, David Collier Brown, Scott Sullivan, Bill Thanis, Ivan Avery Frey,
+Myles Braithwaithe, Gordon Chillcott, Mike Kalles, Drew Sullivan, Colin Caprusu
+
+== Agenda ==
+ * Upcoming Meetings
+ * POG
+ * Things to announce
+ * Systems Stuff
+ * New Board Business
+
+== Upcoming Meetings ==
+
+ * November: Scrum 101
+ * December TBD...  Musing about Database Panel
+   * Chris will pursue the panel
+ * Feb - Router talk?
+   * Mike K to wikify the items in the "Slush List" for the router talk
+
+=== Slush List ===
+
+ * Myles would like to do a talk on HTML-based apps
+ * Raspberry Pi?= Bored Meeting 2012-10-22 =
+
+== Attendees ==
+
+Chris Browne, David Collier Brown, Scott Sullivan, Bill Thanis, Ivan Avery Frey,
+Myles Braithwaithe, Gordon Chillcott, Mike Kalles, Drew Sullivan, Colin 
+
+== Agenda ==
+ * Upcoming Meetings
+ * POG
+ * Things to announce
+ * Systems Stuff
+ * New Board Business
+
+== Upcoming Meetings ==
+
+ * November: Scrum 101
+ * December TBD...  Musing about Database Panel
+   * Chris will pursue the panel
+ * Feb - Router talk?
+   * Mike K to wikify the items in the "Slush List" for the router talk
+
+=== Slush List ===
+
+ * Myles would like to do a talk on HTML-based apps
+ * Raspberry Pi?
+   * Pursue Chris Tyler @ Seneca College
+   * How do they handle infrastructure for Fedora builds?
+ * Router panel
+   * Buffer bloat could fit in
+   * NTP could fit in...
+   * Buffer Bloat - suggested talk by DCB, confirm or deny in January
+     * Found a timing issue - research version of the OpenWRT variation is working, but not speaking NAT
+   * RADIUS
+     * Bill knows this a fair bit
+   * Free DNS hosting seems to be dying
+     * Freedns.afraid.org
+ * Byron Sonne?
+   * Some interest, he's still figuring out what he's up to
+ * Talk on in-memory databases, and such...
+ * Desirable talk categories
+   * Hardware
+   * Languages
+   * Databasey
+ * Jim Van Maggel - Asterisk guy
+   * Wanted to put together an Asterisk installfest
+ * Some interesting ethical questions
+   * Video codecs about to go to public domain due to patent expiry
+   * Rooting
+   * Piracy and such
+ * Open source groupware equivalence
+ * U(T) has "CitizenLab", doing things about cryptography
+   * Justifies drawing U(T) folk in
+
+== Systems Stuff ==
+ * Drew has been on vacation, so not much has happened
+ * Want an address and mailing list as a target for ICANN business
+   * Mail has been going specifically to Myles, and should be going to a centralized place for GTALUG
+   * Gord to send details to Drew about this
+ * Interlink is going strong after some concern
+ * Board list needs to be updated to include Ivan and Colin
+   * Ivan email Drew with your address
+   * Bill email Drew with Colin's address
+
+== POG ==
+ * ICANN material will be coming in under POG
+
+== ICANN ==
+ * Gord following up on the ICANN #45 happenings
+ * Apparently some publicized opposition to .patagonia being commercialized by http://patagonia.com, as it is also a region http://en.wikipedia.org/wiki/Patagonia
+ * Donut.com submitted 300-ish applications for new gTLDs
+ * Some reports to be written
+
+== Board Items ==
+
+Resolutions to fill 4 executive posts, all four unanimously passed:
+ * Board Chair : Scott Sullivan
+ * Secretary : Chris Browne
+ * Treasurer : Chris Browne
+ * President : Drew Sullivan
+
+== Meeting Space ==
+ * MARS???
+   * Gord to set up presentation to help justify that we're a good candidate to use their space
+ * Colin has some contacts amongst students at U(T), may be able to help
+ * Some discussion of McVeigh's
+   * Pursue Chris Tyler @ Seneca College
+   * How do they handle infrastructure for Fedora builds?
+ * Router panel
+   * Buffer bloat could fit in
+   * NTP could fit in...
+   * Buffer Bloat - suggested talk by DCB, confirm or deny in January
+     * Found a timing issue - research version of the OpenWRT variation is working, but not speaking NAT
+   * RADIUS
+     * Bill knows this a fair bit
+   * Free DNS hosting seems to be dying
+     * Freedns.afraid.org
+ * Byron Sonne?
+   * Some interest, he's still figuring out what he's up to
+ * Talk on in-memory databases, and such...
+ * Desirable talk categories
+   * Hardware
+   * Languages
+   * Databasey
+ * Jim Van Maggel - Asterisk guy
+   * Wanted to put together an Asterisk installfest
+ * Some interesting ethical questions
+   * Video codecs about to go to public domain due to patent expiry
+   * Rooting
+   * Piracy and such
+ * Open source groupware equivalence
+ * U(T) has "CitizenLab", doing things about cryptography
+   * Justifies drawing U(T) folk in
+
+== Systems Stuff ==
+ * Drew has been on vacation, so not much has happened
+ * Want an address and mailing list as a target for ICANN business
+   * Mail has been going specifically to Myles, and should be going to a centralized place for GTALUG
+   * Gord to send details to Drew about this
+ * Interlink is going strong after some concern
+ * Board list needs to be updated to include Ivan and Colin
+   * Ivan email Drew with your address
+   * Bill email Drew with Colin's address
+
+== POG ==
+ * ICANN material will be coming in under POG
+
+== ICANN ==
+ * Gord following up on the ICANN #45 happenings
+ * Apparently some publicized opposition to .patagonia being commercialized by http://patagonia.com, as it is also a region http://en.wikipedia.org/wiki/Patagonia
+ * Donut.com submitted 300-ish applications for new gTLDs
+ * Some reports to be written
+
+== Board Items ==
+
+Resolutions to fill 4 executive posts, all four unanimously passed:
+ * Board Chair : Scott Sullivan
+ * Secretary : Chris Browne
+ * Treasurer : Chris Browne
+ * President : Drew Sullivan
+
+== Meeting Space ==
+ * MARS???
+   * Gord to set up presentation to help justify that we're a good candidate to use their space
+ * Colin has some contacts amongst students at U(T), may be able to help
+ * Some discussion of McVeigh's

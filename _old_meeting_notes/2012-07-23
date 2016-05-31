@@ -1,0 +1,84 @@
+= Bored Meeting 2012-07-23 =
+
+== Attendees ==
+
+Chris Browne, David Collier Brown, Scott Sullivan, Drew Sullivan, Colin MacGregor, Seneca Cunningham, William Park, Mike Kallies, Myles Braithwaithe
+
+== Agenda ==
+ * Upcoming Meetings
+ * POG
+ * Things to announce
+ * Systems Stuff
+
+== Upcoming Meetings ==
+
+ * July: Ian Darwin, quite well attended
+ * August: Neil Watson, cfengine
+ * September: David Tilbrook, bin on /bin
+   * On /bin, root use, misuse, unneedfulness
+ * October: AGM + Zurich - Dynamic Protocol Stacks in Linux Kernel
+ * Lisp User Group looking for space...
+
+=== Slush List ===
+
+ * Myles would like to do a talk on HTML-based apps
+ * Raspberry Pi?
+   * Pursue Chris Tyler @ Seneca College
+   * How do they handle infrastructure for Fedora builds?
+ * Router panel
+   * Buffer bloat could fit in
+   * NTP could fit in...
+   * Buffer Bloat - suggested talk by DCB, confirm or deny in January
+     * Found a timing issue - research version of the OpenWRT variation is working, but not speaking NAT
+ * Byron Sonne?
+   * Some interest, he's still figuring out what he's up to
+ * Talk on in-memory databases, and such...
+ * Desirable talk categories
+   * Hardware
+   * Languages
+   * Databasey
+
+== Systems Stuff ==
+
+ * DNS moved
+ * Users to go
+ * Next, databases
+ * After that, Wiki
+ * Maybe [https://github.com/CyberShadow/DFeed DFeed?]
+
+== POG ==
+ * Letter to translate to Polish regarding opposition to ACTA
+ * We'd like them to forward information regarding some of the Pacific goings-on
+ * Some countries making the material pretty public, but not generally ours...
+ * Another thing...  Questions on GTALUG mailing list, trying to Blog on this...
+   * Stubs of 6-7 articles
+     * Data Privacy and Canada/US border
+     * Trans Pacific Partnership
+     * ACTA and Canada
+     * C11 Android and reverse engineering
+     * Our Recent Copyright Decisions & Supreme Court of Canada
+   * Need a pipeline so that there are regular entries
+ * Wondering about Supreme Court decision about Fair Dealing versus Fair Use
+ * POG should send out an announcement that they're opening up the blog, but not announce regularly on the TLUG lists.  Having a link to the POG Blog in the monthly GTALUG announcements would be fine.
+   * Be It Resolved...    Passed, without objection.
+
+== ICANN ==
+ * October meeting in Toronto, meeting #45
+   * Everyone invited, it's free
+   * Please indicate you are representing GTALUG
+ * First time in North America in a while, want a "general assembly"
+   * Want to help a bit with the "soiree"
+ * Exciting items
+   * New CEO
+   * Asked to look at online translation tools, somewhat troublesome...
+   * A LOT of proposed new TLDs
+   * Sessions are all required to be open
+
+== Things To Announce ==
+ * AGM in October
+   * Gord suggests that in August we explain things, and say, we have 2 positions open, encourage nominations
+   * Want to suggest that some people run
+ * Soliciting memberships
+
+== To Do ==
+ * Update web site to indicate membership more properly

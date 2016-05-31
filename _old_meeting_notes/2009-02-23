@@ -1,0 +1,43 @@
+= Executive Meeting - 2009-02-23 =
+
+{{{
+#!mediawiki
+== Regular Business ==
+
+* Delegation of gtalug.org
+** Chris still needs to do this
+* New GTALUG server status
+** Myles sent ssh key to Drew
+** Should we consider migrating from MediaWiki to Drupal?
+*** Calendaring
+*** Discussion lists
+** Scott volunteering to see about FUSE-based copy of data into newer MediaWiki
+
+=== TLUG Meeting Matters ===
+
+* Speakers for the next few months?
+** Switched to Richard W
+** Should solicit Marcel Gagne
+** Not clear what's up past March
+* Projector
+** See if presenter needs one
+
+== New Business ==
+
+* Gord volunteered to be liaison re OLF
+* Myles' to install a Ticket Tracker on the new TLUG server
+* Will sell some buttons to David Patrick
+* Colin has been uploading pictures of past speakers
+* IT360 notes
+** Apparently there mayn't be any free tradeshow passes
+** Will ask Colin to enquire as to availability of free passes for GTALUG members
+* Gord commented on Government RFI
+** Chris brought this up on list
+** Gord chatted with Dave Patrick about response
+** Evan prepped a response
+** There was evidently a serious RFC process to generate the RFI
+** Microsoft did a presentation after the nicey-nicey thing between RHAT and MSFT (on VM interoperability) that was fairly obsequious towards "open source"
+** MSFT has recently acknowledged having a contributor to SAMBA
+* Gord has more time; will be working quite a bit with Richard on Ontario LinuxFest
+
+}}}

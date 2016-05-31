@@ -1,0 +1,108 @@
+= Bored Meeting 2013-02-25 =
+
+== Attendees ==
+
+Chris Browne, 
+Scott Sullivan, 
+Bill Thanis, 
+Ivan Avery Frey, 
+Drew Sullivan, 
+Colin Caprusu,
+Seneca Cunningham, 
+Gordon Chillcott
+
+=== Away ===
+
+David Collier Brown, 
+Myles Braithwaithe,
+Mike Kalles 
+
+== Agenda ==
+ * Upcoming Meetings
+ * POG
+ * Things to announce
+ * Systems Stuff
+ * New Board Business
+
+== Upcoming Meetings ==
+
+ * Feb - Louie - The Use of Unmodified Linux in a Network Switch
+ * March - Jan Wieck on connecting Linux (or BSD) to microcontrollers
+ * April - William Porquet - decoding docs
+ * May - IPv6?
+
+=== Slush List ===
+
+ * Dust off any speakers of 10 years ago
+ * Myles would like to do a talk on HTML-based apps
+ * Raspberry Pi?
+   * Pursue Chris Tyler @ Seneca College
+   * How do they handle infrastructure for Fedora builds?
+ * Router panel
+   * Buffer bloat could fit in
+   * NTP could fit in...
+   * Buffer Bloat - suggested talk by DCB, confirm or deny in January
+     * Found a timing issue - research version of the OpenWRT variation is working, but not speaking NAT
+   * RADIUS
+     * Bill knows this a fair bit
+   * Free DNS hosting seems to be dying
+     * Freedns.afraid.org
+ * Talk on in-memory databases, and such...
+ * Desirable talk categories
+   * Hardware
+   * Languages
+   * Databasey
+ * Jim Van Maggel - Asterisk guy
+   * Wanted to put together an Asterisk installfest
+ * Some interesting ethical questions
+   * Video codecs about to go to public domain due to patent expiry
+   * Rooting
+   * Piracy and such
+ * Open source groupware equivalence
+ * U(T) has "CitizenLab", doing things about cryptography
+   * Justifies drawing U(T) folk in
+
+== Systems Stuff ==
+ * Little movement
+ * Big Blue Button
+  * Got it working somewhere - VM's
+  * Needs some nonGTALUG servers
+ * mailing list work
+   * mailman now exists, running
+   * board list to come first
+   * the big lists later...
+ * anyone getting mail from wiki?  possibly fixed
+  * to debug with Drew
+ * web site moving to new server, shouldn't be too visible
+
+== POG ==
+ * meeting last week
+ * NARALO
+   * whois getting organized
+   * web seminar the other week
+   * Gord on at large group on whois
+ * ITU tried complete Internet takeover
+   * russian proposal
+   * arab opposition
+   * plenary session sweet, but no consensus later
+   * 1hr in, asked for straw vote on talking about internet, tried to treat assent as passing a further motion
+   * wanna monitor everything
+   * spam as excuse for deep packet inspection
+   * Tunisian proposal to make telecom a basic human right, everyone disagreed
+   * credibility low
+   * non signors of treaty tend to be the funders of ITU
+ * Bill C30 dead but chiefs of police want something
+ * ICANN meeting today
+   * gord and bill stuck with some dox
+   * trying loopholes around Adobe Connect
+   * troublesome running Connect on Linux
+   * next ICANN is in Beijing
+   * 
+
+== Meeting Space ==
+
+ * if no other location by Feb 29, then McVeigh 
+ * Mozilla office?
+   * Scott putting foot in door
+
+

@@ -1,0 +1,31 @@
+= Executive Meeting - 2008-04-28 =
+{{{
+#!mediawiki
+== Old Business ==
+
+* Web server/wiki upgrade
+** Wrote a wine-fuelled script in /etc/cron.hourly to restart MySQL + httpd
+* Pan user group meeting
+** To regard that as a [[CLUE]] matter
+
+=== IT360 Show Followup ===
+
+* What went well
+** We now have a booth
+** Our presence looked good
+* What went less well
+** Attendance was very light
+** IT360 folk forgot to provide us projection equipment even though we had filled out the form
+** Three memberships sold
+* David Patrick is now the Director of [[CLUE]]
+
+== New Business ==
+
+* Start thinking about LITP 2008
+** Probably sits as a David Patrick thing...
+* Future shows
+** [[OntarioLinuxFest]] October 25th
+
+
+[[Category:Executive Meetings]]
+}}}

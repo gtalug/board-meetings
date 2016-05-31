@@ -1,0 +1,122 @@
+= Board Meeting 2013-10-28 =
+
+== Attendees ==
+
+
+Myles Braithwaithe,
+Chris Browne,
+Scott Sullivan,  
+William Park,
+Ivan Avery Frey, 
+David Collier Brown, 
+Bill Thanis,
+Drew Sullivan,
+Amos Weatherill
+
+== Away ==
+
+Colin !McGregor,
+Gordon Chillcott,
+Mike Kallies,
+Jeff Pikul,
+Colin Caprusu,
+Seneca Cunningham, 
+
+== Board Changes ==
+
+ * Farewell, and thanks, to Seneca
+ * Welcome to the returning Chris + Scott
+ * Welcome back, William Park
+ * Note that Ivan + Colin are the other two board members
+
+== Proxy ==
+
+ * Proxy statement needs to be reasonably direct
+ * And it seems it is...
+ * Myles is filling in for Colin Capruscu this year
+
+== Location ==
+
+ * Executive meeting now taking place at Scott Sullivan's place
+ * Deferring official address changes (Bank, Corporate docs) until/unless there is actually need
+ * Boxes will get moved to Scott's place
+ * We should trash trashable things; most of the box contents should be pretty irrelevant
+
+== Upcoming Meetings ==
+
+ * November - Rob Gelson on 3D CAD for use in 3D printer stack
+ * December - solicit from members, "What's exciting you about Linux these days?"
+ * January - Madison Kelly, Clustering Redux
+ * Some time: Achmed (coworker of Bill Thanis) on animation tools
+
+== Marketing/PR ==
+
+ * Highly desirable to have a slate of 3 talks for the next quarter that may be used for publicity
+ * Want to publish talks on video
+   * Streaming live from location
+   * YouTube "GTALUG" channel
+   * Note legality issue: need signoff from speakers for this to work
+
+== Meeting Space/Plans ==
+
+ * Bigger room
+   * No new changes
+   * No feedback from Ryerson (notably Peter @ Student Union)
+   * Peter invited to meetings (both Exec & the public meeting)
+ * Projector - still needs to be brought for now...
+   * HDMI adaptor in place
+ * Collecting statistics on attendance
+   * Should add a wiki page with a table for this
+
+== Executive Election ==
+ * Secretary/Treasurer: Chris Browne
+ * Chairman of Board: Scott Sullivan
+ * President: Scott Sullivan
+ * PR Committee Chair: Myles Braithwaithe
+
+== Bylaw Changes ==
+ * There is a change to Not-for-profit legislation
+ * 3 years to get our bylaws fixed
+ * Bylaws available in electronic form here: https://github.com/gtalug/bylaws
+ * There is an oddity in the revisions of November 2001 where board terms were defined to be 2 years, whereas a lot of things are considered to involve 1 year terms in the bylaws
+ * Bill Thanis looking at revising bylaws
+ * Worth contacting Evan L as he's involved with the same revisions for ISOC Canada
+
+== Inventory of Social Networking Stuff ==
+ * Myles suggest having a PR officer and a committee organized similarly to POG, though likely with only a couple meetings per year
+ * To pursue after AGM and new board
+
+== CAG ==
+ * Not much lately
+ * ISOC as leverage for LSUC/Bar Society
+ * IETF pushed draft of info RFC to parent body
+ * RFC on avoiding problems with filtering
+ * Open Data
+   * Suggested opening data to Rob Ford and Karen Stintz
+   * The strategy is to sell the "line" that open data leads to saving money on IT
+
+== Systems Stuff ==
+
+ * Big Blue Button.  Still running
+ * Rack cleanup
+   * No real movement
+ * Mailing list issues
+   * Note there has been some griping surrounding the state of things; apparently DCB email does not make it to the public list.
+   * Some noise about Majordomo1 being extremely obsolescent, some commendation of version 2...
+   * Scott pursuing this
+ * All up to Scott...
+ * There was a bit of a server outage; fuse failure
+   * Not too visible...
+
+== "Soup" Planning ==
+
+ * Myles constructed a list of nearby options; found here: https://gist.github.com/myles/6685789
+ * People haven't all moved over to Spring Roll Go
+ * Some still at Panera
+ * Others doing... Other things...
+ * Be it resolved...
+   * No more "official soup"
+   * Official removal of "reins" over where people are suggested to go
+   * Stop spinning
+   * URL to place reasonable to eat, e.g. - like Myles' list
+   * If people want to coordinate to go somewhere, it's happy to send a note to GTALUG saying, "I wanna go to X; anyone else that wants to come can..."

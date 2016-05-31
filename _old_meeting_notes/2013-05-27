@@ -1,0 +1,104 @@
+= Bored Meeting 2013-04-21 =
+
+== Attendees ==
+
+Chris Browne, 
+Scott Sullivan,  
+Ivan Avery Frey, 
+Drew Sullivan, 
+David Collier Brown, 
+Myles Braithwaithe,
+Bill Thanis,
+Colin McGregor,
+William Park,
+
+=== Away ===
+
+Mike Kalles, 
+Colin Caprusu,
+Seneca Cunningham, 
+Gordon Chillcott
+
+== Agenda ==
+ * Upcoming Meetings
+ * POG
+   * ISOC
+   * ICANN
+ * Meeting Space
+ * Systems Stuff
+ * Recruitment
+
+== Upcoming Meetings ==
+
+ * June - Router Mania
+   * NTP - Drew
+   * Radius - Bill
+   * DCB - bufferbloat
+   * Dynamic DNS - Chris
+ * July - Myles on recent JavaScript frameworks
+ * August - Beaglebone is suggested
+
+ * Chris to meter out some of the "slush pile" material with a view to soliciting ideas
+    * Did the X11 one
+ * Myles talked with RHAT
+    * Nobody at RedHat here doing Wayland
+    * Redhat Toronto tends to be working on something rather like VMWare Cluster
+ * Giles Orr and Daniel Armstrong on ins/outs of Beaglebone Black
+ * Ivan looking at retail happenings
+   * Companies are offering clouds - data stored out there somewhere
+   * OwnCloud
+   * git-annex
+   * Myles to explore this
+ * DCB suggests that he mayn't do software defined networking soon, but perhaps software diagnostics in the fall
+
+== Systems Stuff ==
+ * Big Blue Button seems to be working now, testing it out today
+ * Rack cleanup -> new 1U unit and migrate everything onto it
+ * Mediawiki upgrade is a big deal; the tough part will be dealing with the theme
+ * Mailing list issue
+   * Starting with moving list to a much much later Majordomo
+   * Wanna first install latest-ish Majordomo, and have that be the "muster point" for further action...
+   * Mailman not very good at handling management of potentially spammy material, so seems like it's not an option.
+   * Need to specify requirements in some detail
+   * Note some software known to be used by projects with lot of spam attacks
+     * [http://www.animalgenome.org/SmartList/ Smartlist] - used by Debian
+     * [http://www.sympa.org/ Sympa]
+     * [http://www.mj2.org/ mj2 - Majordomo2] - used by OpenBSD
+
+=== Inventory of Social Networking Stuff ===
+ * Material at [http://gtalug.org/wiki/Social_Network_Groups]
+ * Somewhat updated
+ * Myles will be forwarding some of the templating he does
+
+== POG ==
+  * Last meeting was Colin + Mike Kalles
+  * Kicking around draft letter to MP regarding TransPacific Partnership
+    * Asking what's happening with it
+  * Not much more
+
+=== ISOC ===
+  * No news
+  * GTALUG uninterested in being a chapter for now
+
+=== ICANN ===
+  * Another online conferencing system to propose called Lucid that is apparently to be tested
+  * Something of a battle about having requirements first (what Gord wants) versus others wanting to present solutions first
+
+== Meeting Space ==
+ * Projector access issue
+   * Need to bring the projector for the time being
+ * Have sent request to arrange a classroom; Scott to follow up on that
+ * Administrivia
+    * Make sure people don't bring food/drink, should mention this 
+ * GSU letter?
+ * Panera Bread reaction
+   * Quieter
+   * Some dislike of food and price
+   * Still there for 2 more meetings
+   * Better answer for August
+
+== Publicity ==
+ * Consider doing more publicity
+   * Scott has more time for now, in that talks are in good shape for a few months
+ * Ryerson publicity should begin to be...
+ * Torontoist might be plausible, if firmly presented in technical fashion

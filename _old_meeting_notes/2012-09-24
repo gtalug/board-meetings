@@ -1,0 +1,94 @@
+= Bored Meeting 2012-09-24 =
+
+== Attendees ==
+
+Chris Browne, David Collier Brown, Gordon Chillcott, Mike Kalles, Scott Sullivan, Bill Thanis, Myles Braithwaithe, Seneca Cunningham
+
+== Agenda ==
+ * Upcoming Meetings
+ * POG
+ * Things to announce
+ * Systems Stuff
+
+== Upcoming Meetings ==
+
+ * September: David Tilbrook, bin on /bin
+   * On /bin, root use, misuse, unneedfulness
+ * October: AGM + Zurich - Dynamic Protocol Stacks in Linux Kernel
+ * November: Scrum 101
+ * December TBD...  Musing about Database Panel
+
+=== Slush List ===
+
+ * Myles would like to do a talk on HTML-based apps
+ * Raspberry Pi?
+   * Pursue Chris Tyler @ Seneca College
+   * How do they handle infrastructure for Fedora builds?
+ * Router panel
+   * Buffer bloat could fit in
+   * NTP could fit in...
+   * Buffer Bloat - suggested talk by DCB, confirm or deny in January
+     * Found a timing issue - research version of the OpenWRT variation is working, but not speaking NAT
+   * RADIUS
+     * Bill knows this a fair bit
+   * Free DNS hosting seems to be dying
+     * Freedns.afraid.org
+ * Byron Sonne?
+   * Some interest, he's still figuring out what he's up to
+ * Talk on in-memory databases, and such...
+ * Desirable talk categories
+   * Hardware
+   * Languages
+   * Databasey
+ * Jim Van Maggel - Asterisk guy
+   * Wanted to put together an Asterisk installfest
+ * Some interesting ethical questions
+   * Video codecs about to go to public domain due to patent expiry
+   * Rooting
+   * Piracy and such
+ * Open source groupware equivalence
+ * U(T) has "CitizenLab", doing things about cryptography
+   * Justifies drawing U(T) folk in
+
+== Systems Stuff ==
+ * Users ?
+ * Next, databases?
+ * After that, Wiki
+ * Maybe [https://github.com/CyberShadow/DFeed DFeed?]
+ * Unlikely much will happen until October
+
+== POG ==
+ * WCIT is more an ICANN-y thing
+ * Transpacific partnership has been looked at 
+ * Jeff got letter to send to EU regarding thank-you for ACTA-related decisions
+
+== ICANN ==
+ * October meeting in Toronto, meeting #45
+   * Everyone invited, it's free
+   * Please indicate you are representing GTALUG
+ * Monday Oct 14th is somewhat dedicated to NARALO and outreach, GTALUG is somewhat involved in greeting
+ * World Congress on Information Technology
+   * Engine of ITU
+   * Thoughts of extending cross-border tariffs to the Internet
+   * Thoughts of censorship en masse
+   * Last meeting of WCIT was 25-ish years ago
+   * Major proponents: India, Russia, China
+ * Some progress on DNSSEC, IPv6
+ * Some hilarity in contractual compliance on GTLDs
+
+== Things To Announce ==
+ * AGM in October
+ * Soliciting memberships
+
+== Meeting Space ==
+ * The "Linux Club" at U(T) might very well be GTALUG
+ * Be it resolved that:
+   * We wish to book a room at U(T)
+   * Bill Thanis is authorized to do so for the coming October meeting
+   * We are prepared to pay, preferably at the 50-ish people in the room level, but if larger proves necessary, so be it.
+   * Authorized spending of $150
+   * All 4 in favor...
+
+== Membership ==
+ * Change to policy...   If needful...
+ * Need to table issues for another meeting

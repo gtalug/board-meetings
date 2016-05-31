@@ -1,0 +1,64 @@
+= Executive Meeting - 2009-04-27 =
+
+{{{
+#!mediawiki
+== Regular Business ==
+
+* Delegation of gtalug.org
+** Chris has it redelegated; we still need another nameserver!
+** To Do: Drew to set up dns.gtalug.org, and give Chris an IP address for it...
+* New GTALUG server status
+** Upgrade to new version of Mediawiki apparently works
+** Miles to update the GTALUG template for the new version; need to update the template first
+** Apparently the MySQL DB is getting regularly corrupted; it is speculated that dumping the DB and loading it onto "gold" machine is likely to resolve this...
+** Next tale: To Migrate to MailMan as mailing list manager...  Should think about this once the wiki's dealt with.
+*** Need to have an archiving answer
+*** Need automating of managing addresses
+** Would really like to have the front page be ''much'' more dynamic, removing the ancient history from it
+*** Discuss what ought to be done about improving richness of web pages
+*** Need to reorganize the front page
+* Drew recommends...  Bob Niven has a content management system supporting payment via PayPal.  We should arrange to have a copy of this system installed so that we may automate receipt of funds.
+** Requires setting up vendor account with PayPal and connecting this to the bank account
+** Targeting end of summer
+** Followup:  Need to consider what we wish to do with this.
+*** Buttons, shirts, ???
+** Defer further on CMS to June
+
+=== TLUG Meeting Matters ===
+
+* Speakers for the next few months?
+** Should solicit Marcel Gagne; Gord has emailed him about LinuxFest & about meeting...
+** Not clear what's up past April
+** David Collier Brown looking for contacts on Mozilla project as possible speakers; note Mark Sherman, Exec Director...  Has sent email, but did not get any response.<BR> Colin to follow up on tis.
+* Projector
+** See if presenter needs one
+** Chris bringing projector
+
+== Old Business ==
+
+* Gord volunteered to be liaison re OLF
+** Neat idea: doing a "Linux 101" talk - need speaker for this, perhaps Marcel, Evan...
+** Gord got around to contacting "101" speakers
+* IT360 notes
+
+== New Business ==
+
+* Evan's talk: Should we try to join ICANN?
+** Gord and Myles to have a chat with Evan to figure the scope of this
+* NewTLUG
+** Speaker bailed for this month
+** Paul no longer at IBM, affecting availability of IBM meeting place
+** NewTLUG @ Seneca seldom gets a fraction of the attendance of the IBM location
+** Suggestion: Should suggest North York Centre as an alternative location
+** Herb was wishing our meeting wasn't Monday
+** Hopefully Colin can have a chat with him....
+* Linux and Education
+** Drew wishes for this to come in under auspices of GTALUG
+** Moved: To accept "Linux and Education" - an informal group trying to improve the state of introductory Linux education in GTA.
+** They sometimes need a "legitimate address" for this
+** Committee:
+*** Maureen Thornton
+*** Colin McGregor
+*** Jon Alexander
+** Gord moved, David seconded, vote was unanimous
+}}}

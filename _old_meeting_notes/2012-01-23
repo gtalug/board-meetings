@@ -1,0 +1,82 @@
+= Bored Meeting 2012-01-23 =
+
+== Attendees ==
+
+Chris Browne, Dave Collier Brown, Myles Braithwaith, Gord Chillcott, Scott Sullivan, Bill Thanis
+
+== Agenda ==
+ * Upcoming Meetings
+ * PAC
+ * ICANN
+ * Things to announce
+ * CIPS stuff
+ * Systems Stuff
+
+== Upcoming Meetings ==
+
+ * Jan: Jim Mercer - What's wrong with Linux
+   * Nicely attended!
+ * Feb: Red Hat guy on virtualization/cloud computing
+ * March???
+ * April: Scott Elcomb, AtomicOS
+ * Would likes...
+   * Linux kernel
+   * Ubuntu Long Term happenings
+   * X - Xorg, XFree86, Wayland, ...
+   * Plan 9-ish stuff
+     * Go
+     * Ports of Plan 9 material, which often has limitations in the tools that are troublesome compared to mostly unlimited GNU tools
+   * Compilers
+ * Buffer Bloat - suggested talk by DCB, confirm or deny in January
+   * Found a timing issue - research version of the OpenWRT variation is working, but not speaking NAT
+ * Bill Thanis suggests an Asterisk talk
+   * Suggest generic-ish talk
+   * Really cool idea: bring a wireless router and an Asterisk server, with a view to having people use SIP on their favorite devices to send messages around...
+   * Propose something more extended at FreeGeek
+ * Colin @ PlanetGeek
+   * Putting systems together for teaching teen girls programming
+
+== Systems Stuff ==
+ * Anticipating MailMan in Summer 2012
+ * Eventual wiki answer is to head towards one of the static systems
+   * Docuwiki - PHP + flat files suggested by Myles
+   * Hatta - Mercurial-oriented
+   * Ikiwiki - Perl + Git
+   * Maturity levels seem to not be quite there yet...
+
+== PAC ==
+ * Seems to be some widening interest from general membership
+ * Perhaps would like a name change in order to draw membership in and *NOT* cause great confusion
+ * POG - Political Outreach Group 
+   * Officially Voted, all board votes in favour...
+   * Not to be confused with PUGs
+
+== ICANN ==
+ * There is a group looking at teleconferencing and telecom options
+   * ALAC will be a "guinea pig" on this stuff
+   * There is a technology review team, Gord has been trying to get some involvement; no talk since mentioning interest
+   * Are they wanting to build their own service, or to buy one?
+   * Adobe Connect an unhappy answer as it doesn't function in Africa
+   * Serious challenges trying to set up their own infrastructure
+   * Buying service has a lot of analogous problems; Google's nice, but not acceptable in China
+ * Registry agreement stuff ongoing
+
+== Things Needing Funds ==
+
+ * NewTLUG?
+   * Need a list of topics we think should be in a "Linux course"
+     * Web browsers
+     * LibreOffice
+     * File manipulation
+     * Filesystems   
+   * Perspectives
+     * Linux for new user
+     * Linux for Microsoft user
+     * Linux for Mac user
+     * Linux certification
+     * Need to consider users and administrators radically differently
+   * Need list of ''audiences'' to determine relevance of topics
+
+== Things to Announce ==
+ * Explain POG name change
+ * The need to draw people into the educational initiative

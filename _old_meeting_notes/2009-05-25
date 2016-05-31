@@ -1,0 +1,72 @@
+= Executive Meeting - 2009-05-25 =
+
+{{{
+#!mediawiki
+== Regular Business ==
+
+* Delegation of gtalug.org
+** Chris has it redelegated; we still need another nameserver!
+** To Do: Drew has set up dns.gtalug.org, and ns.gtalug.org
+** It's done now!  (2009-05-26)
+* New GTALUG server status
+** Upgrade to new version of Mediawiki apparently works
+** Miles to update the GTALUG template for the new version; need to update the template first
+** Apparently the MySQL DB is getting regularly corrupted; it is speculated that dumping the DB and loading it onto "gold" machine is likely to resolve this...
+** Next tale: To Migrate to MailMan as mailing list manager...  Should think about this once the wiki's dealt with.
+*** Need to have an archiving answer
+*** Need automating of managing addresses
+** Would really like to have the front page be ''much'' more dynamic, removing the ancient history from it
+*** Discuss what ought to be done about improving richness of web pages
+*** Need to reorganize the front page
+* Drew recommends...  Bob Niven has a content management system supporting payment via PayPal.  We should arrange to have a copy of this system installed so that we may automate receipt of funds.
+** Requires setting up vendor account with PayPal and connecting this to the bank account
+** Targeting end of summer
+** Followup:  Need to consider what we wish to do with this.
+*** Buttons, shirts, ???
+** Defer further on CMS to June
+
+=== TLUG Meeting Matters ===
+
+* Speakers for the next few months?
+** GIMP this month
+** Announcement needs to start going out on 05-26
+** Not clear what's up past May, but it appears that we have talks for a few months to come, so this seems under control
+* Projector
+** Chris bringing projector
+
+== Old Business ==
+
+* Gord volunteered to be liaison re OLF
+** Neat idea: doing a "Linux 101" talk - need speaker for this, perhaps Marcel, Evan...
+** Gord got around to contacting "101" speakers
+** Richard seems difficult to contact...
+
+== New Business ==
+
+* ICANN Membership
+** Got the membership information - to fill in
+** If Gord doesn't see any objections, he'll send out what he has by end of month
+** ISOC would be neat too, but no rush...
+** Plan for a presentation to GTALUG at the October meeting.
+* NewTLUG
+** More on status???
+** Nothing this month, but hopefully next month
+* Linux and Education
+** Meeting last week @ LinuxCaffe
+** Plans to put on a course
+* Heckling issue
+** Definition?
+** Enforcers?
+** Board discussion tends to agree that this isn't a huge problem, and further, that the activity seen is not very frequently actually of a "heckling" nature.
+** The good speakers tend to be able to cope well, and the kibbitzing has been recognized as even being valuable by some speakers
+** It is considered to be up to speakers to choose their favoured rules of engagement.
+** We need to make sure speakers are aware that:
+*** Meetings are interactive
+*** They can pick their rules
+** We should have a web page declaring the rules of engagement, with phrasing such as... <BR> GTALUG membership are not interested in marketing presentations, and reserve the right to interact with speakers. 
+** Regrettably, we have some that get overenthusiastic about hearing themselves talk.  They need to be smacked :-)
+* Wiki Spammers
+** Needs the wiki upgrade
+* Need a review of the GTALUG Board list
+** There are a bit too many people on the list
+}}}

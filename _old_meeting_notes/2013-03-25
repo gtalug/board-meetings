@@ -1,0 +1,91 @@
+= Bored Meeting 2013-03-25 =
+
+== Attendees ==
+
+Chris Browne, 
+Scott Sullivan,  
+Ivan Avery Frey, 
+Drew Sullivan, 
+Colin Caprusu,
+Seneca Cunningham, 
+Gordon Chillcott
+David Collier Brown, 
+Mike Kalles 
+
+=== Away ===
+Myles Braithwaithe,
+Bill Thanis
+
+== Agenda ==
+ * Upcoming Meetings
+ * POG
+ * Things to announce
+ * Systems Stuff
+ * New Board Business
+
+== Upcoming Meetings ==
+
+ * March - Jan Wieck on connecting Linux (or BSD) to microcontrollers
+ * April - William Porquet, with Lisp guy - decoding docs
+ * May - IPv6? - Check with Myles?
+ * Shifted material to [http://gtalug.org/wiki/Talk_Slush_Pile]
+
+== Systems Stuff ==
+ * Power stability improved by removing UPS
+ * Mike Kalles is running Nagios against the servers so notices outages
+ * Big Blue Button
+  * Got it working somewhere - VM's
+  * Needs some nonGTALUG servers
+  * VM on scott's server, partly done
+ * mailing list work
+   * mailman now exists, running
+   * board list to come first
+   * the big lists later...
+   * Try to connect to SMTP via port 25
+
+== POG ==
+
+ * Gaining some credibility via SLAW articles
+   * Not much comment made, but credibility grown all the same
+ * DCB and Colin exploring ISOC @ UU
+   * SOme merit to UU/ISOC being used in somewhat similar manner to our POG
+ * IETF has interest in techie bits
+ * ISOC does public policy, in pretty bland/soft ways, thus far
+ * Expect aims & ends in ISOC Canada that are similar to POG
+ * Next POG April 15th, same day as ISOC/MARS meeting
+
+=== ISOC ===
+
+Evan is keen on making ISOC Canada into something
+ * Joy and happiness in joining ISOC as individuals
+ * Organizational memberships are more costly, quite likely not worth much to us just now
+ * Some people that were not aware that they might have been interested have evidently become members of ISOC
+
+=== ICANN ===
+
+ * Meeting in Bejing in two weeks
+ * Regional meetings
+ * Visit icann.org, look for Bejing schedule
+ * ITU had attempts to control Internet and mobile stuff; both proved troublesome
+
+
+== Meeting Space ==
+
+ * To Do: Send a note to GSU in thanks of good service over many many years
+
+
+=== Ryerson ===
+
+(1) - Using one of the classrooms: All classes are equipped with
+presentation technology. The Dept is not in charge of the classrooms
+therefore the booking needs to be done prior to each event. The Dept can
+do this for GTALUG. The room may change from one meeting to the other
+pending the schedule and availability of the room.
+
+(2) - Using one of the Computer Science Labs: All labs are equipped with
+smart boards and white boards. The Dept is in charge of the labs and
+once the meeting location is decided upon it remains the same for at
+least 4 months (semester). The labs, however, can seat 36 people. Extra
+chairs maybe provided to accommodate more attendees.
+
+#2 was considered preferred, for now.  A site visit is planned in the coming week to make sure there is nothing terrifyingly wrong about that choice; DCB collected a list of logistical issues to watch for.

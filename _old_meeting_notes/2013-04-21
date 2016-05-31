@@ -1,0 +1,104 @@
+= Bored Meeting 2013-04-21 =
+
+== Attendees ==
+
+Chris Browne, 
+Scott Sullivan,  
+Ivan Avery Frey, 
+Drew Sullivan, 
+Gordon Chillcott
+David Collier Brown, 
+Mike Kalles, 
+Myles Braithwaithe,
+Bill Thanis,
+Colin McGregor
+
+=== Away ===
+Colin Caprusu,
+Seneca Cunningham, 
+
+== Agenda ==
+ * Upcoming Meetings
+ * POG
+   * ISOC
+   * ICANN
+ * Meeting Space
+ * Systems Stuff
+ * Recruitment
+
+== Upcoming Meetings ==
+
+ * Latest one: April - William Porquet, with Lisp guy - decoding docs
+ * May - DNSSEC
+ * June - Router Mania
+   * NTP - Drew
+   * Radius - Bill
+   * DCB - bufferbloat
+   * Dynamic DNS - Chris
+
+ * July - Myles on recent JavaScript frameworks
+ * Shifted material to [http://gtalug.org/wiki/Talk_Slush_Pile]
+ * Solicit on list X, Wayland
+ * Solicit things on slush wish list very gradually
+
+== Systems Stuff ==
+ * Big Blue Button
+  * Got it working somewhere - VM's
+  * Needs some nonGTALUG servers
+  * VM on scott's server, partly done
+  * IP addresses are now in place
+ * mailing list work
+  * Conclusion from managing other lists using Mailman is that it doesn't cope with spam nearly well enough
+  * DMail was mentioned as possible alternative; see [http://netwinsite.com/download.htm]
+  * Seems to Chris that there are several problems here, and that they don't necessarily imply a single tool
+    * Managing list of subscribers, and sending all approved messages to them
+    * Gatekeeper that determines which messages that come in should be approved to go to the list of subscribers
+    * [http://gtalug.org/wiki/Mailing_list_Managers List of mailing list managers]
+
+=== Inventory of Social Networking Stuff ===
+
+In view of the change of location, we need to know what are all of the places where we publicize ourselves, such as Facebook, Google+, Twitter, and more.
+
+Exec folk, please consult [http://gtalug.org/wiki/Social_Network_Groups Social Network Groups wiki page], and:
+  * See if the list is complete; add entries as needful
+  * Indicate where you have expertise (even if limited)
+
+It would likely be worth adding to the inventory additional places where GTALUG is mentioned, particularly where it has date/location information that will have a habit of getting out of date.
+
+== POG ==
+ * Tightening up, seeking to follow successful ventures
+ * cat herding hasn't been terribly successful
+ * shift to professional skill development
+
+=== ISOC ===
+
+ * ISOC Canada exists now
+ * No intent to have an organizational membership as that's rather expensive
+ * Need to wait until the interim executive is replaced by an operational one
+
+=== ICANN ===
+
+ * ICANN in Bejing just finished
+ * Registry agreement draft left people seeming happy
+ * Amendment saying board could amend anything was changed into an amending formula
+ * Lotta WHOIS policy issues on privacy and such 
+ * New GTLD space introduces new man-in-the-middle attacks
+ * Not much interesting with NARELO
+ * New CEO is pretty sales-oriented
+ * New ICANN offices with fair bit of autonomic power in diverse locations
+
+== Meeting Space ==
+
+ * To Do: Send a note to GSU in thanks of good service over many many years
+ * Soup quietude
+ * Room preferences
+   * If we need to switch rooms, need to contact school shortly to do logistical arrangements
+   * Projector in room seems good
+   * Some dissatisfaction with the room
+   * For June, for sure get full classroom
+   * For May, time may be too short to upgrade room
+ * Administrivia
+   * Make sure people don't bring food/drink, should mention this
+ * QR code sign?
+ * Desire to improve on Salad King which was notably not quiet enough
+   * Chris sent note to list

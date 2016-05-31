@@ -1,0 +1,62 @@
+= Executive Meeting 2009-11-23 =
+
+  * Moving the Executive notes off the main wiki and onto a [http://gtalug.org/executive/wiki/Meetings/2009-11-23 sub-wiki].
+  * Advisory Membership Mailing List.
+  * GTALUG Facebook Page
+  * December Meeting Prep
+    * Five speakers @ 20 minutes
+    * Myles to draw slides from speakers real soon now
+  * New Speaker Finder
+    * Myles is soliciting speakers
+    * Richard suggested drawing speakers from KWLUG
+    * Myles proposing panel approach as something to try...
+      * Scripting languages fightoff
+      * Text editors duke-it-out
+    * Ideas:
+      * Inkscape, Scribus, GIMP
+      * ERP Review - Gord/Amos
+      * OpenOffice.org
+      * Qpid
+  * Bureaucrat Mode
+    * Special mode in GTALUG wiki, given to Myles
+    * Myles can "bureaucrat" others, if needed
+  * OLGF
+    * Scott will be passing feedback/comments on to Richard...
+    * Passing material to Gord & Maureen on Friday
+  * ICANN
+    * Horse beaten...  Gord ranted...  Next meeting mid-December...
+    * An item is the "outreach", of which GTALUG seems to be a victim.  There seems to be little idea of what to do with organizations that get drawn in.
+  * FUDCON
+    * On December 5th
+    * Colin & Scott don't see a lot to do...
+    * More announcing to be done...
+    * Low key involvement
+  * Marketing Initiatives
+    * Might be worth considering business cards
+    * Doing better than the crappy cards that Chris got
+    * T-shirts
+    * Buttons
+    * Stickers
+  * Putting Executive In Its Place
+    * Trac at gtalug.org/executive
+    * Has a ticket tracker
+    * No SCM integration at present
+  * New Mailing List
+    * Advisor Membership Class
+    * Need a mailing list for Myles/Gord/Seneca for Paid Members
+    * This mailing list would be useful for providing Gord/Myles a way for members to vote on ICANN-related stuff
+    * Wait until Mailman comes along...  Table for January...
+  * Web Site Update
+    * Myles has started working on new web site
+    * Lotta publicity off of DCB paper
+    * Can't currently do wiki-ish stuff
+    * New structure
+      * Wiki
+      * Meeting List
+      * Blog
+      * Events
+      * Planet GTALUG
+    * Plan: Hack-a-day to get software better
+    * Bylaws online now
+    * Django
+    * Software at [http://github.com/ GitHub] - [http://github.com/myles/gtalug /myles/gtalug]

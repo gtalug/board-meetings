@@ -1,0 +1,71 @@
+= Time and Place =
+
+{{{
+#!mediawiki
+
+May 2nd 2005 at [[LinuxCafe]].
+
+LinuxCafe was at the time not open to the public, but its doors were opened to the group for this meeting.
+
+= Attendance =
+
+[[Bill Thanis]], [[Gordon Chillcott]], [[Christopher Browne]], [[Seneca Cunningham]], [[Amos_H._Weatherill]], [[Burhan Hanoflu]], [[David J Patrick]], [[Pavel Zaitsev]], [[Joe Kubik]], [[Sy Ali]], [[Scott Elcomb]], [[Leah Cunningham]], [[Colin McGregor]], [[Don Rambasan]], [[William Park]].
+                                                                                
+Anyone else who didn't sign in can add ther names.
+
+= Old Business =
+
+1) Cheque For Colin, for the LinuxWorld Power expense. (He paid for it by creditcard).
+
+2) Talked about the list of post secondary institutions to contact about getting cooperation to run an installfest on their premise.
+                                                                                
+Carved up the list to different people to pursue individually.
+                                                                                
+3) Spoke about the merits and demerits about the idea of pursuing deals with learn annex to help in their organization, specifically to teach open office.
+                                                                                
+Result was that this isn't our core compentancy, but will still pursue a relation if at all possible.
+                                                                                
+4) Spoke about 'The Message of TLUG'
+                                                                                
+Outcome was a list of items that TLUG needs. See below.
+
+= GTALUG Wish List =
+                                                                                
+See [[Wish list]]
+
+= New Business =
+                                                                                
+1) Resurrect Linux in The Park.
+
+Colin was to look at what costs were for permit and what other legal restrictions.
+                                                                                
+2) Name Change for TLUG mailing list to GTALUG.
+                                                                                
+General discussion on the merits and demerits of such a name change. The result was considered it was desirable.
+                                                                                
+Bill brought up that the present system is not easily amendable to a name change (TLUG is hardcoded everywhere in the configuration)
+                                                                                
+3) The next meeting will be at [[LinuxCafe]], the first Tuesday in June (June 7th 2005) at 7:30 pm: [[Executive meetings:2005-06]].
+
+== other notes ==
+
+* Membership rules -- fees and renewal issues
+* An accountant/secretarial type role may be necessary to have access to more delicate information be maintainable but not openly available.  For example, a private contact database of the movers and shakers the group has contact with should be available somewhere, but not openly on this wiki.
+** [[MediaWiki]] 1.5 will have users/groups and privacy functionality which might have been good enough, except security concerns exist.  To address them, a second wiki in another directory which has security managed via a apache method would probably work well.
+*** Annoyingly, it might be difficult to seamlessly copy user information into wiki2.  New logins will probably need to be made.
+* When we have maybes or otherwise need to vote on a meetingplace, the wiki might be a good place to list candidates -- to include maps and other reference information which may not be as applicable to a mailing list.
+* A list of the stuff we'd like to have for the group will end up on the wiki.
+** Printing T-shirts brought up the idea that we don't really have an archive of GTALUG art.  Some effort will be made to resolve that.
+* The stuff we as individuals have access to would be nice to list in some fashion, except it's a bit of a controvercial concept.  In the end, what will probably happen is there will be open calls on the mailing list to request stuff, and people will reply privately.  The idea that people could be bugged by random people because they have something like a laminator is a bit stressful.
+* Open accounting to track usergroup expenses and help justify donation requests and otherwise outline spending history etc.
+* The incorporation mission statement is something that ought to go here.  Our defining our [[mission statement]] is something quite fundamental to us as a community.  We're not entirely open source gung-ho, we're still linux-centric.
+* A meeting roadmap will need to be hammered out, so people can plan further ahead for certain meetings based on their content.
+** The real problem is that meetings aren't set in stone, and things happen which can derail a presentation.. thus making a lot of long-term planners unhappy about a change.
+* The interlug calender was brought up.  It seems quite appropriate for this group to evolve into a centralizing force for the immediate region, with a focus on connecting people to a more local usergroup.  Having a huge map of the GTA and even southern ontario and being able to really organize what meetings are where and when would go far to help an enthusiast choose where to go and when and what content they would find at a meeting.
+** It's a really big topic with far-reaching implications which will have to be thought through very seriously before anything is done.  It all begins with good organization within the group and strong bonds within the various open source usergroups within the area.  Think of it this way.. what needs to happen is a binding of all the cultural centers.. a broader organization of things.
+* An attendance database was discussed.. the idea of an executive database was brought up, further showing how a solution outside of this wiki would be best for various kinds of information.  It's not that hard to have a contact database engine of some kind set up nicely which could handle this sort of thing.  It was generally agreed that such a database would have to be quite private, and only accessible to a certain few execs.
+* A physical mailing list (snail-mail) was discussed.  This is especially important and impactful for corporate relations.  Being able to shoot out holiday greetings, birthday cards and various other notes would go a long way to improving our relations with members of the corporate world.
+** Simply being able to thank a person for helping us organize an event, volunteering space or resources by way of a card is something that needs to be organized and built upon.
+
+[[Category:Executive Meetings]]
+}}}

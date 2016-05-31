@@ -1,0 +1,66 @@
+= Bored Meeting 2012-06-25 =
+
+== Attendees ==
+
+Chris Browne, David Collier Brown, Scott Sullivan, Drew Sullivan, Colin MacGregor, Seneca Cunningham
+
+== Agenda ==
+ * Upcoming Meetings
+ * POG
+ * Things to announce
+ * Systems Stuff
+
+== Upcoming Meetings ==
+
+ * July: Ian Darwin
+   * Android Cookbook
+   * Complete toolchain ''is'' available on Linux...
+ * David Tilbrook
+   * On /bin, root use, misuse, unneedfulness
+ * Red Hat guy to Retry - Anthony Green, on virtualization
+   * Contacted, no response of yet...
+ * Myles would like to do a talk on HTML-based apps
+ * Raspberry Pi?
+   * Pursue Chris Tyler @ Seneca College
+   * How do they handle infrastructure for Fedora builds?
+ * Router panel
+   * Buffer bloat could fit in
+   * NTP could fit in...
+   * Buffer Bloat - suggested talk by DCB, confirm or deny in January
+     * Found a timing issue - research version of the OpenWRT variation is working, but not speaking NAT
+ * Perhaps more frequent *intentional* Q&A, or point people to UU?
+ * Configuration tools
+   * Chris re-poked Neil Watson...
+   * CFEngine
+   * Puppet
+   * Spacewalk
+ * To bug Drew about email notification upon there being changes when Wiki pages are changed
+ * Byron Sonne?
+   * Some interest, he's still figuring out what he's up to
+ * Talk on in-memory databases, and such...
+
+== Systems Stuff ==
+ * Anticipating MailMan in Summer 2012
+ * DNS recently cleaned up
+ * New server is up and running, not switched to yet.  But is being backed up...
+ * POG up, including Mailman
+ * No further movement...
+ * Looking at D-Mail
+   * Written in D
+   * NNTP gateway
+
+== POG ==
+ * Domain is working - pog.gtalug.org
+ * Woman Who Changed Her Brain
+ * Analysis of political thinking, "The Righteous Mind", Johnathan Haidt
+   * Moral Foundations Theory, as discussed http://en.wikipedia.org/wiki/Jonathan_Haidt, analytical foundations for morality
+     * Care/harm
+     * Liberty/oppression
+     * Fairness/cheating
+     * Loyalty/betrayal
+     * Authority/subversion and
+     * Sanctity/degradation
+   * Variations in preferences for these foundations tend to be strongly associated with differing political positions
+   * Analytical tool to allow NOT ticking off "small C" conservatives
+   * Some evidence-based scientific analysis of political positions
+ * Analysis of digital locks

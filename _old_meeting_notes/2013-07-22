@@ -1,0 +1,98 @@
+= Board Meeting 2013-07-22 =
+
+== Attendees ==
+
+Myles Braithwaithe,
+Chris Browne,
+Gordon Chillcott,
+Scott Sullivan,  
+Mike Kallies,
+William Park,
+Ivan Avery Frey, 
+David Collier Brown, 
+Bill Thanis,
+Colin !McGregor,
+Drew Sullivan, 
+Jeff Pikul,
+3 young raccoons
+
+== Away ==
+Colin Caprusu,
+Seneca Cunningham, 
+
+== "Soup" Planning ==
+
+ * Spring Roll Go - http://www.springrolls.ca/
+ * Fran's - http://www.fransrestaurant.com/location/Victoria.php
+
+ * Conclusion was to go with Spring Roll; seems like a significant upgrade from Panera.
+ * Announcement should be careful to mention that there's a location in The Atrium, and that's not the right one
+
+== Upcoming Meetings ==
+
+ * Retrospective: July's meeting with Myles on recent !JavaScript frameworks
+ * August - Bill on KVM (Madison with clustering Q+A will be moved later in the year)
+ * September - Beaglebone, Giles + buddy
+ * October - AGM +
+
+== Systems Stuff ==
+
+ * Big Blue Button.  
+ * Rack cleanup
+   * No real movement yet
+   * Plan to do something Tomorrow
+     * More particularly, set up new machines, with some new VMs, with latestest versions of software
+ * Drew doing some research on mailing list possibilities
+
+== Inventory of Social Networking Stuff ==
+
+ * Material at [http://gtalug.org/wiki/Social_Network_Groups]
+ * Myles will be forwarding some of the templating he does
+ * To drop: ICANN, as the tooling for updating it is rather painful.  Having a link to GTALUG is good.  Trying to regularly update something, not so much.
+ * Myles prepping a PHP script that allows pointing dynamically at the very latest meeting's data, with an automatic change to next meeting during the latest meeting.
+
+== POG ==
+ * Letter to MP on TransPacific partnership
+ * Chat on software to help generate form letters for this
+ * Meeting @ CSI as planned
+ * Mike will be in Germany most of the fall; likely need to meet elsewhere then
+ * Suggested thing for POG to discuss:
+   * What to worry about when crossing border
+
+=== ICANN ===
+ * Gord to post on new WHOIS that isn't called WHOIS
+ * 5 year strategic plan - invitation to comment, includes the sort of philosophical question, "So what is the public good?"
+ * Next June: ALS summit in London, England
+
+
+== Meeting Space/Plans ==
+
+ * Bigger room
+   * Group planning to meet with school staff to look at change perhaps for September
+ * Projector - still needs to be brought for now...
+   * Tested an HDMI adaptor @ $20 known suitable for Raspberry Pi
+   * Planning to get one soon, general approval provided for this
+ * Want to collect statistics on attendance
+   * Latest month: 24
+   * Note that this day was after the flood that closed down power and a fair chunk of the city
+
+=== Publicity ===
+
+ * Torontoist?
+   * Myles ToDo
+ * On campus publicity?
+
+== Picnic Plans ==
+
+ * Locations
+   * Several parks discussed
+   * Cherry Beach was interesting, but presently transport problems
+   * Seriously consider: 
+     * High Park
+     * Dufferin Grove
+     * Trinity-Bellwood
+ * Dates
+   * Suggesting August 10th
+ 
+== Upcoming AGM/Election ==
+ * Returning officer: Colin

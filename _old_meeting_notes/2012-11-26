@@ -1,0 +1,105 @@
+= Bored Meeting 2012-11-26 =
+
+== Attendees ==
+
+Chris Browne, David Collier Brown, Scott Sullivan, Bill Thanis, Ivan Avery Frey, 
+Myles Braithwaithe, not
+Gordon Chillcott, 
+Mike Kalles, not
+Drew Sullivan, 
+Colin Caprusu not
+
+== Agenda ==
+ * Upcoming Meetings
+ * POG
+ * Things to announce
+ * Systems Stuff
+ * New Board Business
+
+== Upcoming Meetings ==
+
+ * December Database Panel
+   * Chris Browne
+   * Ivan
+   * Myles
+   * Ozan Ygit (sdbm)
+
+ * January - TBD
+ * Feb - Router talk?
+   * Mike K to wikify the items in the "Slush List" for the router talk
+
+=== Slush List ===
+
+ * Myles would like to do a talk on HTML-based apps
+ * Raspberry Pi?
+   * Pursue Chris Tyler @ Seneca College
+   * How do they handle infrastructure for Fedora builds?
+ * Router panel
+   * Buffer bloat could fit in
+   * NTP could fit in...
+   * Buffer Bloat - suggested talk by DCB, confirm or deny in January
+     * Found a timing issue - research version of the OpenWRT variation is working, but not speaking NAT
+   * RADIUS
+     * Bill knows this a fair bit
+   * Free DNS hosting seems to be dying
+     * Freedns.afraid.org
+ * Byron Sonne?
+   * Some interest, he's still figuring out what he's up to
+ * Talk on in-memory databases, and such...
+ * Desirable talk categories
+   * Hardware
+   * Languages
+   * Databasey
+ * Jim Van Maggel - Asterisk guy
+   * Wanted to put together an Asterisk installfest
+ * Some interesting ethical questions
+   * Video codecs about to go to public domain due to patent expiry
+   * Rooting
+   * Piracy and such
+ * Open source groupware equivalence
+ * U(T) has "CitizenLab", doing things about cryptography
+   * Justifies drawing U(T) folk in
+
+== Systems Stuff ==
+ * Big Blue Button
+  * ICANN 
+  * Board?
+  * Needs some nonGTALUG servers
+ * mailing list work
+ * anyone getting mail from wiki?  seems not...
+  * to debug with Drew
+
+== POG ==
+ * ICANN material will be coming in under POG
+ * Hoping to meet with TPS on resurrection of Bill  C30 by association of Police Chiefs, on police access to ISP accounts
+
+== ICANN ==
+ * Lots of objections to newtld
+ * Try to find material at icann.org, community.icann.org... 7 clicks to get to application for NARALO
+   * Too much useless material
+   * Test for it..
+ * Bill wonders how to get in comment
+
+== Meeting Space ==
+ * Mozilla office?
+   * Scott putting foot in door
+
+== New Biz Items ==
+
+=== Centrify ===
+ * Contact from Centrify enquired about possible sponsorship
+ * http://www.centrify.com/
+
+ * Pretty straightforward about goals:
+
+    We are trying to increase our visibility and raise our profile in Canada.  We are in the IAM space and leverage AD to manage and audit U/L, OSX, iOS, and Android identities. 
+
+   * Point of product is to use Microsoft Active Directory to manage "everything."  In effect, use it to manage access to all sorts of services
+     * SSH
+     * Samba
+     * Oracle, DB2, Informix
+     * Logging accesses
+     * Apache, Tomcat
+     * WebLogic, WebSphere, JBoss
+ * Some notes in from Chris Browne, Renata Rocha suggesting this isn't necessarily interesting to GTALUG 
+

@@ -1,0 +1,78 @@
+= Executive Meeting - 2007-09-24 =
+
+{{{
+#!mediawiki
+== Old Business ==
+* See [[Executive:2007-08-27]]
+* Plonk funds - shift to October...
+
+* Software Freedom Day: Aftermath (empty of sound or fury...)
+
+== Ongoing Business ==
+
+=== Ontario LinuxFest ===
+
+* Who's responsible???
+* [[OntarioLinuxFest]]
+* We clearly won't be putting up the hi-tech [[BoothEngineering|booth]]; should update plans with the PVC plumbing information for future work
+* What ''do'' we need for OLF?
+** Tables - Drew to bring this - 8x3
+** Drapery - Drew has this
+** Posters?  Gord to get an easel + bristol-board
+** Buttons - Drew to bring remainders of buttons, box of paperwork
+** Handouts?
+*** Chris found biz card stock at $6/250 that can be run thru laserprinter and will build something
+
+* CLUE wants GTALUG to participate in the "Bearpit Session" (on advocacy)
+
+=== IT360 ===
+
+* Will be happening in 2007
+* More happening...
+
+=== Wiki ===
+* MediaWiki upgrade plans?
+** Last month, Drew was hoping "soon now."
+** Not much visible; Drew has been setting up a Fedora Core 5 system (needful for PHP v5) and a MySQL cluster
+* Gradual plan to document board activities, publicizing once documenting it has become a "good habit"
+** We're up to 2 months of documentation in a row; once we hit six months, it's fair to declare "openness." 
+* We've got a copy of bylaws + constitution online - need to verify that it's legit before putting it on the wiki (and probably locking it down!)
+** Thanks to Bill for providing the electronic copy
+** After examination, the copy is clearly very out of date
+** Chris has borrowed the Official Copy; will upload PDFs of the relevant material
+*** [[Image:GTALUG Bylaw.pdf|GTALUG Bylaws - first edition]]
+* FYI, Chris updated [[Membership]] and created [[Formal GTALUG membership]] on the wiki
+
+=== October: Elections ===
+
+* Returning officer: Bill Thanis
+* Nominations
+** People in / away
+** Need to publicize requirements (e.g. - Canadian resident who has not declared bankruptcy)
+** Bill will be handling a submission process for would-be nominees (action item - Bill Thanis)
+*** This should address the matter of handling having nominees that may be unable to be physically at the October AGM.
+** Members who joined at IT360 - still to be treated as members at election time
+* Should open issue as to when the executive meeting should be held
+* David Patrick should send Board a list of possible Board candidates
+* Bill should send Herb Richter an email enquiring of his interest in Board / Executive
+
+=== Financial Report Runthru ===
+
+* Chris has drafty statements
+* Will send on to Bill Thanis
+
+=== Membership Cards ===
+Chris was to bring the box of membership cards - forgot them.  Oops.
+
+Chris will drop the box off @ Drew's.
+
+=== Talk Coordinator ===
+* Robert Brockway has asked to step down
+* Drew Sullivan needs to send him a note to thank him for his assistance
+* [[Amos_H._Weatherill]] proposed as candidate
+* Make new list: tlug-talk, with Amos as main poster, place to coordinate talk contacts
+* Amos should contact Robert to see if there's a "pipeline" left...
+
+
+[[Category:Executive Meetings]]
+}}}
