@@ -41,9 +41,9 @@ published: true
 
 *** ICANN
   - Gord planning to present an interim report on things that concern him
-  - Gord voted on ALAC position, for Alan Greenburg
+  - Gord voted on ALAC position, for Alan Greenberg
   - Gord presented a report
-
+  - There will be another report once some thoughts congeal
 
 ** Upcoming Meetings
 
@@ -83,6 +83,7 @@ Myles: Rain Day?
 *** Ryerson Engagement
  - Heard back from a Professor that is on sabbatical
  - New contact, Professor Harley, still to be talked with
+ - 
 
 *** Linux in the Park
 
