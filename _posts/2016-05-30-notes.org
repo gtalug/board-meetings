@@ -62,10 +62,7 @@ published: true
     - Chris on new stuff
     - Myles on NoSQL
   - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
-
-
-*** Infrastucture
-
+  
 *** Linux in the Park
 
 Myles: Has list of upcoming toronto events.
@@ -74,79 +71,18 @@ Scott: Will bring 10x10 gazbo.
 Myles: Rain Day?
 
 
-*** Video (Of Talks)
-
-
-
-*** Video (Tutorials)
-
----
-layout: post
-title: "Notes"
-published: true
----
-
-
-** Next Board meeting
-
-  - June 27th?
-  - At Hacklab
-  - Seems undesirable to reserve lots of meetings in advance, as the appointments tend to get deleted
-  - Note that we should probably consider having a board meeting @ LITP, or skip that month...
-
-** Upcoming Meetings
-
-*** June
-
-  Myles: Got a lead for a talk, GNU Status by Bob Jonkman. 
-
-*** Future / Slush List
-
-  - Myles: OpenData, Keith @ City of Toronto.
-  - Scott: TPP, we've been given people to contact.
-  - DaveCB: Linux TCP/IP, by himself.
-  - Alvin Starr: OpenStack
-
 *** Infrastucture
 **** Hosting Provider
- - Linode is American, which makes it sensitive to US/CDN exchange rates
- - Not many Canadian vendors
- - Digital Ocean has a Toronto centre, but a low end VM that may be suitable
- - Cloud@Cost is highly undesirable
- - VMFarms, who sponsor PyCon Canada
-   - Managed hosting, not VM
- - Mike K commends DreamHosts as a decent-ish managed hosting solution
  - Tentatively plan to defer the matter to next year, maybe $CDN will strengthen...
 
 **** Mediawiki
- - Archive is now in GitHub; some pages are missing
- - Scott will see if he can spin up the disk image
-**** Wiki - Has been resurrected on a VM!!!!!  
+ - Has been resurrected on a VM!!!!!  
  - Includes the Executive wiki, too!!!  
  - Need to do a mass wget...
 
-
-**** MySQL Backups
- - Happening
- - Tested, working fine
-
-**** Mailing Lists - Yahoo
- - Encountering some issues with subscribers at Yahoo and similar addresses
-   - DMARC issue
-   - Lost 40 subscribers two weeks ago, as mailman decided to drop them all
-   - Myles added them back
- - The Great Unsubscribing Event of 2016
- - Fix is to add a couple things to Mailman configuration, as commended by Yahoo...
- - Would like someone on various modern free email services
-   - AOL - Alex
-   - Hotmail/Outlook - Myles
-   - So we can monitor things
-
 *** Ryerson Engagement
- - Email addresses now with Gord
- - Engagement can proceed
- - Myles is meeting with them on PyCon Canada stuff, so may have some insights
-
+ - Heard back from a Professor that is on sabbatical
+ - New contact, Professor Harley, still to be talked with
 
 *** Linux in the Park
 
@@ -157,4 +93,10 @@ published: true
 
 
 ** Action Items
- - Chris :: TODO :: wget all the things...
+ - Chris :: TODO - wget all the things...
+ - Myles :: TODO - see about rewriting what Chris wgetted into a web site
+ - Chris :: TODO - See who's from Toronto that's coming to LinuxConf
+ - Myles :: TODO - Zoneminder
+ - Myles :: TODO - Bob on GNU Social
+ - Gord :: TODO - to talk with Prof. Harley
+ - 
