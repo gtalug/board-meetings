@@ -14,12 +14,6 @@ published: false
 ** Attendees
 
 *** TBD
-- Stewart Russell (board member)
-- Mike Kallies
-- David Collier Brown
-- Bill Thanis
-- Hector Carvagill
-- Amos Weatherill
 
 *** Present
 
@@ -28,8 +22,15 @@ published: false
 - Myles Braithwaite  (board member)
 - Scott Sullivan (board member)
 - Gordon Chillcott
+- Stewart Russell (board member)
+- Mike Kallies
+- Colin MacGregor
 
 *** Absent
+- David Collier Brown
+- Bill Thanis
+- Hector Carvagill
+- Amos Weatherill
 
 *** July Board Meeting
   - Hacklab
