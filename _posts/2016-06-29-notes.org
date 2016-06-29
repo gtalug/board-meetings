@@ -14,13 +14,8 @@ published: false
 ** Attendees
 
 *** TBD
-- Christopher Browne
-- Myles Braithwaite  (board member)
-- Scott Sullivan (board member)
-- Gordon Chillcott
 - Stewart Russell (board member)
 - Mike Kallies
-- Alex Volkov (board member)
 - David Collier Brown
 - Bill Thanis
 - Hector Carvagill
@@ -28,6 +23,11 @@ published: false
 
 *** Present
 
+- Christopher Browne
+- Alex Volkov (board member)
+- Myles Braithwaite  (board member)
+- Scott Sullivan (board member)
+- Gordon Chillcott
 
 *** Absent
 
