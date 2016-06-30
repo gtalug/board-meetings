@@ -20,6 +20,7 @@ published: false
   - Mediawiki
 - Engagement with Ryerson
 - Linux in the Park
+- ICANN
 
 ** Action Items from Last Month
 
@@ -28,4 +29,3 @@ published: false
  - Chris :: SORTA - See who's from Toronto that's coming to LinuxConf
  - Myles :: TODO - Zoneminder
  - Myles :: TODO - Bob on GNU Social
- - Gord :: TODO - to talk with Prof. Harley
