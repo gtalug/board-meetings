@@ -14,26 +14,27 @@ published: false
 ** Attendees
 
 *** TBD
+
+*** Present
+
 - Christopher Browne
+- Alex Volkov (board member)
 - Myles Braithwaite  (board member)
 - Scott Sullivan (board member)
 - Gordon Chillcott
 - Stewart Russell (board member)
 - Mike Kallies
-- Alex Volkov (board member)
+- Colin MacGregor
+
+*** Absent
 - David Collier Brown
 - Bill Thanis
 - Hector Carvagill
 - Amos Weatherill
 
-*** Present
-
-
-*** Absent
-
 *** July Board Meeting
   - Hacklab
-  - July 25th (needs verification!)
+  - July 25th
   - 7:30pm
 
 *** ICANN
@@ -41,29 +42,40 @@ published: false
 ** Upcoming Meetings
 
 *** July
-  - ???
+  - Round table
+*** August
+  - Ansible with Alex and Myles
+
+*** September
+  - Databases with Chris and Myles
 
 *** Future / Slush List
 
   - DaveCB: Linux TCP/IP, by himself.
-  - Quebec data protection laws that apparently permit blocking web sites they deem are "not right"
   - Docker?
-  - PostgreSQL
-    - Chris on new stuff
-    - Myles on NoSQL
   - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
+  - Scott Elcomb on... Something...
+  - IPv6 - Set of small topics
+    - ARIN on IPv4 has apparently been loud and awful due to controversial policy
   
-*** Linux in the Park
-  - Confirmed as July 23rd
-  - [[https://wiki.gtalug.org/event:linux_in_the_park_2016][Wiki page]] ongoing
-
 *** Infrastucture
 **** Mediawiki
  - Wget done
  - Transformed into pages about old meetings, hurray!!!
+ - Scott would like some material online
+ - Chris suggests having it all as files to look like is good enough
 
 *** Ryerson Engagement
  - Heard back from a Professor that is on sabbatical
  - New contact, Professor Harley, still to be talked with
+ - Myles hears that there could be contacts at the Rogers school of communications
+
+*** Linux in the Park
+ - Confirmed as July 23rd
+ - [[https://wiki.gtalug.org/event:linux_in_the_park_2016][Wiki page]] ongoing
+ - Ongoing things
+ - Same Saturday for the last three years...
 
 ** Action Items
+ - Gord :: TODO - to talk with Prof. Harley
+ - Scott :: TODO - book July 25th @ Hacklab

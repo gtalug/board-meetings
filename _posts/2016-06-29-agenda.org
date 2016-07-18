@@ -4,30 +4,28 @@ title: "Agenda"
 published: false
 ---
 
-* 29th May 2016 at 7:30pm
+* 29th June 2016 at 7:30pm
 
 ** Location
 
   - Hacklab
     - 1266 Queen St W, Toronto, ON M6K 1L3
     - <https://goo.gl/maps/OKcij>
-
+      
 ** Agenda
 
 - Where and when this meeting happens next
 - Upcoming Meetings
 - Infrastructure
-  - Hosting provider
   - Mediawiki
 - Engagement with Ryerson
 - Linux in the Park
+- ICANN
 
 ** Action Items from Last Month
 
-** Action Items
  - Chris :: DONE - wget all the things...
  - Myles :: DONE - see about rewriting what Chris wgetted into a web site
  - Chris :: SORTA - See who's from Toronto that's coming to LinuxConf
  - Myles :: TODO - Zoneminder
  - Myles :: TODO - Bob on GNU Social
- - Gord :: TODO - to talk with Prof. Harley
