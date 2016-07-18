@@ -25,3 +25,5 @@ published: false
 ** Action Items from Last Month
 
 ** Action Items
+ - Gord :: TODO - to talk with Prof. Harley
+ - Scott :: TODO - book July 25th @ Hacklab
