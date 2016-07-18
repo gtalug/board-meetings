@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Agenda"
+published: false
+---
+
+* 25th July 2016 at 7:30pm
+
+** Location
+
+  - Hacklab
+    - 1266 Queen St W, Toronto, ON M6K 1L3
+    - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Where and when this meeting happens next
+- Upcoming Meetings
+- Infrastructure
+  - Hosting provider
+  - Mediawiki
+- Engagement with Ryerson
+- Linux in the Park
+
+** Action Items from Last Month
+
+** Action Items
