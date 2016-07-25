@@ -16,15 +16,13 @@ published: true
 
 - Where and when this meeting happens next
 - Upcoming Meetings
-- Mailing List Moderator
 - Infrastructure
   - Hosting provider
-  - Mediawiki
 - Engagement with Ryerson
 - Linux in the Park
+- ICANN
+  - Gord wanted guidance on accepting a NARALO applicant
 
 ** Action Items from Last Month
-
-** Action Items
  - Gord :: TODO - to talk with Prof. Harley
  - Scott :: TODO - book July 25th @ Hacklab
