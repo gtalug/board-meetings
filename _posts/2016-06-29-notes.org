@@ -43,11 +43,15 @@ published: false
 
 *** July
   - Round table
+
 *** August
-  - Ansible with Alex and Myles
+  - Scott Elcomb
 
 *** September
   - Databases with Chris and Myles
+
+*** October
+  - Ansible with Alex and Myles
 
 *** Future / Slush List
 
