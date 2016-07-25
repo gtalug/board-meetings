@@ -40,6 +40,18 @@ published: false
 
 ** Upcoming Meetings
 
+*** August
+  - [[https://github.com/gtalug/operations/issues/12][GitHub Issue]]
+  - Scott Elcomb on On Disruption & Killer Apps
+
+*** September
+  - [[https://github.com/gtalug/operations/issues/13][GitHub Issue]]
+  - Chris and Myles on Postgres
+
+*** October
+  - [[https://github.com/gtalug/operations/issues/14][GitHub Issue]]
+  - Alex and Myles on Ansible
+
 *** Future / Slush List
 
   - DaveCB: Linux TCP/IP, by himself.
@@ -50,12 +62,14 @@ published: false
     - Myles on NoSQL
   - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
   
-*** Linux in the Park
+** Linux in the Park
   - Confirmed as July 23rd
   - [[https://wiki.gtalug.org/event:linux_in_the_park_2016][Wiki page]] ongoing
 
-*** Infrastucture
+** Infrastucture
 
-*** Ryerson Engagement
+** Ryerson Engagement
 
+** ICANN
+ - Gord issued 20160725.pdf
 ** Action Items

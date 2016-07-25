@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agenda"
-published: false
+published: true
 ---
 
 * 25th July 2016 at 7:30pm
@@ -18,12 +18,11 @@ published: false
 - Upcoming Meetings
 - Infrastructure
   - Hosting provider
-  - Mediawiki
 - Engagement with Ryerson
 - Linux in the Park
+- ICANN
+  - Gord wanted guidance on accepting a NARALO applicant
 
 ** Action Items from Last Month
-
-** Action Items
  - Gord :: TODO - to talk with Prof. Harley
  - Scott :: TODO - book July 25th @ Hacklab
