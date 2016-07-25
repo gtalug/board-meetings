@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 25th July, 2016 at 7:30pm
+
+** Location
+  - Hacklab
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+*** TBD
+- Christopher Browne
+- Myles Braithwaite  (board member)
+- Scott Sullivan (board member)
+- Gordon Chillcott
+- Stewart Russell (board member)
+- Mike Kallies
+- Alex Volkov (board member)
+- David Collier Brown
+- Bill Thanis
+- Hector Carvagill
+- Amos Weatherill
+
+*** Present
+
+
+*** Absent
+
+*** August Board Meeting
+  - Hacklab
+  - August ?? (needs verification!)
+  - 7:30pm
+
+*** ICANN
+
+** Upcoming Meetings
+
+*** Future / Slush List
+
+  - DaveCB: Linux TCP/IP, by himself.
+  - Quebec data protection laws that apparently permit blocking web sites they deem are "not right"
+  - Docker?
+  - PostgreSQL
+    - Chris on new stuff
+    - Myles on NoSQL
+  - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
+  
+*** Linux in the Park
+  - Confirmed as July 23rd
+  - [[https://wiki.gtalug.org/event:linux_in_the_park_2016][Wiki page]] ongoing
+
+*** Infrastucture
+
+*** Ryerson Engagement
+
+** Action Items
