@@ -40,6 +40,18 @@ published: false
 
 ** Upcoming Meetings
 
+*** August
+  - [[https://github.com/gtalug/operations/issues/12][GitHub Issue]]
+  - Scott Elcomb on On Disruption & Killer Apps
+
+*** September
+  - [[https://github.com/gtalug/operations/issues/13][GitHub Issue]]
+  - Chris and Myles on Postgres
+
+*** October
+  - [[https://github.com/gtalug/operations/issues/14][GitHub Issue]]
+  - Alex and Myles on Ansible
+
 *** Future / Slush List
 
   - DaveCB: Linux TCP/IP, by himself.
