@@ -62,12 +62,14 @@ published: false
     - Myles on NoSQL
   - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
   
-*** Linux in the Park
+** Linux in the Park
   - Confirmed as July 23rd
   - [[https://wiki.gtalug.org/event:linux_in_the_park_2016][Wiki page]] ongoing
 
-*** Infrastucture
+** Infrastucture
 
-*** Ryerson Engagement
+** Ryerson Engagement
 
+** ICANN
+ - Gord issued 20160725.pdf
 ** Action Items
