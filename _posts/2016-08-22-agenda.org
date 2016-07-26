@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 22nd August 2016 at 7:30pm
+
+** Location
+
+  - Hacklab
+    - 1266 Queen St W, Toronto, ON M6K 1L3
+    - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Where and when this meeting happens next
+- Upcoming Meetings
+- Infrastructure
+- Engagement with Ryerson
+
+** Action Items from Last Month
+ - Gord :: TODO - further enquiries about accessibility at Ryerson
+ - Myles :: TODO - talk to Sen about accessibility at Ryerson
+
