@@ -108,8 +108,27 @@ published: false
   - IT Maintenance staff have offered help notably with projector
     - Key to next room's projector
     - Got relevant email addresses
+  - Lecture hall possibilities
+  - Verified that we have the room scheduled for /every/ Tuesday
+  - Accessibility is being mostly handled by students that are actively concerned
+  - We can approach head of facilities (William) on just about anything
+  - Eric was interested in coming to some of our meetings
+  - A next step is to contact someone in student government
 
 ** ICANN
  - Gord issued 20160725.pdf
+ - ALS has some new applicants
+   - Question of whether they're "real"
+ - General Assembly, which is "mythical"
+   - Glenn thinks there will be a GA at some point
+   - There have been several applications for GAs, none accepted yet
+   - Zika virus deferred some
+   - Board has passed decision off to At Large
+   - At Large made no decision at Helsinki
+   - Need to set schedule very soon
+   - Tues/Wed have some meetings where a decision needs to be made
+   - Glenn proposes to do some joint meetings with ARIN that would save money and effort
 
 ** Action Items
+ - Gord :: TODO - further enquiries about accessibility at Ryerson
+ - Myles :: TODO - talk to Sen about accessibility at Ryerson
