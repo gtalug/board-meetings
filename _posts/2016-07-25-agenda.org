@@ -16,10 +16,10 @@ published: true
 
 - Where and when this meeting happens next
 - Upcoming Meetings
-- Infrastructure
-  - Hosting provider
-- Engagement with Ryerson
 - Linux in the Park
+- Mailing list moderator
+- Infrastructure
+- Engagement with Ryerson
 - ICANN
   - Gord wanted guidance on accepting a NARALO applicant
 
