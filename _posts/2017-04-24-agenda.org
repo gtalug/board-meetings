@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agenda"
-published: true
+published: false
 ---
 
 * 24th April, 2017 at 7:30pm
@@ -12,6 +12,7 @@ published: true
 
 - Infrastructure
   - Hosting provider - Need to think about vendor migration if desired
+  - Look back to notes from April 2016 for previous discussion
 - Linux in the Park
 
 ** Action Items from Last Month

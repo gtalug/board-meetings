@@ -83,7 +83,6 @@ Myles: Rain Day?
 *** Ryerson Engagement
  - Heard back from a Professor that is on sabbatical
  - New contact, Professor Harley, still to be talked with
- - 
 
 *** Linux in the Park
 
@@ -92,6 +91,14 @@ Myles: Rain Day?
   - Scott: Will bring 10x10 gazbo.
   - Myles: Rain Day?
 
+  - July
+    - Not 2nd, Long weekend
+    - Not 9th, maker festival
+    - Not 30th, Caribana
+    - Plausibly 16th, 23rd
+  - August
+    - Not 6th, Civic Holiday, Taste of Danforth, often a BBQ at Bill Thanis
+    - Plausibly 13th, 20th
 
 ** Action Items
  - Chris :: TODO - wget all the things...
@@ -100,4 +107,3 @@ Myles: Rain Day?
  - Myles :: TODO - Zoneminder
  - Myles :: TODO - Bob on GNU Social
  - Gord :: TODO - to talk with Prof. Harley
- - 

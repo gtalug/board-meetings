@@ -4,7 +4,7 @@ title: "Agenda"
 published: true
 ---
 
-* 25th July 2016 at 7:30pm
+* 22nd August 2016 at 7:30pm
 
 ** Location
 
@@ -16,13 +16,10 @@ published: true
 
 - Where and when this meeting happens next
 - Upcoming Meetings
-- Linux in the Park
-- Mailing list moderator
 - Infrastructure
 - Engagement with Ryerson
-- ICANN
-  - Gord wanted guidance on accepting a NARALO applicant
 
 ** Action Items from Last Month
- - Gord :: TODO - to talk with Prof. Harley
- - Scott :: TODO - book July 25th @ Hacklab
+ - Gord :: TODO - further enquiries about accessibility at Ryerson
+ - Myles :: TODO - talk to Sen about accessibility at Ryerson
+

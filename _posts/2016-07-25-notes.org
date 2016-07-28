@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes"
-published: false
+published: true
 ---
 
 * 25th July, 2016 at 7:30pm
@@ -14,26 +14,27 @@ published: false
 ** Attendees
 
 *** TBD
+
+*** Present
+
 - Christopher Browne
 - Myles Braithwaite  (board member)
 - Scott Sullivan (board member)
 - Gordon Chillcott
 - Stewart Russell (board member)
-- Mike Kallies
 - Alex Volkov (board member)
-- David Collier Brown
 - Bill Thanis
-- Hector Carvagill
+- William Park
 - Amos Weatherill
-
-*** Present
-
+- Mike Kallies
 
 *** Absent
+- David Collier Brown
+- Hector Carvagill
 
 *** August Board Meeting
   - Hacklab
-  - August 22
+  - August 22nd
   - 7:30pm
 
 *** ICANN
@@ -52,24 +53,82 @@ published: false
   - [[https://github.com/gtalug/operations/issues/14][GitHub Issue]]
   - Alex and Myles on Ansible
 
+*** November
+  - Bill Thanis on Ceph
+
+*** December
+  - Q&A with a guided topic
+
 *** Future / Slush List
 
-  - DaveCB: Linux TCP/IP, by himself.
-  - Quebec data protection laws that apparently permit blocking web sites they deem are "not right"
   - Docker?
-  - PostgreSQL
-    - Chris on new stuff
-    - Myles on NoSQL
   - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
-  
+  - LibreOntario
+  - Container software, Orchestration
+  - File Synchronization for users
+    - e.g. - not GFS
+    - Unison, OpenCloud, git-annex, syncthing
+
 ** Linux in the Park
-  - Confirmed as July 23rd
-  - [[https://wiki.gtalug.org/event:linux_in_the_park_2016][Wiki page]] ongoing
+  - It happened...
+  - About 10-12 people
+  - Some fresh faces
+  - Some regulars were busy
+  - Decent attendance, all in all
+  - Wished we had an extra gallon of ice water, or, instead, several pounds of ice!!!
+  - Chris and Scott now have BBQs perfect for future years
+  - Drinks were delivered on behalf of Colin; this was a good thing, and Colin was thanked!
+  - We note that it has been the same weekend in July for several years now
 
 ** Infrastucture
+*** Mailing List Moderator
+  - Someone was invited to help moderate, and declined
+  - Nice to have someone to invite to help moderate that isn't on Board/Exec
+*** Mailing List
+  - Let's upgrade to newer version of Mailman
+  - Do something better about password sharing
+  - Nice to have new functionality
+    - Archive searchability improves
+    - New interface for moderation
+    - Authentication has been substantially revised with ACL support
+      - Keep eyes out for something that supports login across several subsystems
+  - Some issues of compatibility with sundry places
+    - Yahoo needed DMARC address matching
+    - Base64 encoding thing is pretty interesting
+      - Some mailers (Outlook/Yahoo) like storing contents as Base64
+      - Sam, on Yahoo, with Blackberry, was remapping to Base64
+  - Should Ops and General use similar configuration?
+    - Probably ought to be...
 
 ** Ryerson Engagement
+  - Meeting took place last Friday
+  - Quite productive
+  - Noted the hardware issue
+  - Professor Eric, a Linux user, will be visiting an upcoming meeting
+  - IT Maintenance staff have offered help notably with projector
+    - Key to next room's projector
+    - Got relevant email addresses
+  - Lecture hall possibilities
+  - Verified that we have the room scheduled for /every/ Tuesday
+  - Accessibility is being mostly handled by students that are actively concerned
+  - We can approach head of facilities (William) on just about anything
+  - Eric was interested in coming to some of our meetings
+  - A next step is to contact someone in student government
 
 ** ICANN
  - Gord issued 20160725.pdf
+ - ALS has some new applicants
+   - Question of whether they're "real"
+ - General Assembly, which is "mythical"
+   - Glenn thinks there will be a GA at some point
+   - There have been several applications for GAs, none accepted yet
+   - Zika virus deferred some
+   - Board has passed decision off to At Large
+   - At Large made no decision at Helsinki
+   - Need to set schedule very soon
+   - Tues/Wed have some meetings where a decision needs to be made
+   - Glenn proposes to do some joint meetings with ARIN that would save money and effort
+
 ** Action Items
+ - Gord :: TODO - further enquiries about accessibility at Ryerson
+ - Myles :: TODO - talk to Sen about accessibility at Ryerson
