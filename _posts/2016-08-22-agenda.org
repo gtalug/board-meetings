@@ -18,6 +18,10 @@ published: true
 - Upcoming Meetings
 - Infrastructure
 - Engagement with Ryerson
+- AGM preparations
+  - Who's on
+  - Who's off
+  - Electoral Officer
 
 ** Action Items from Last Month
  - Gord :: TODO - further enquiries about accessibility at Ryerson

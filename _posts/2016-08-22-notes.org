@@ -53,11 +53,7 @@ published: false
 *** Future / Slush List
 
   - DaveCB: Linux TCP/IP, by himself.
-  - Quebec data protection laws that apparently permit blocking web sites they deem are "not right"
   - Docker?
-  - PostgreSQL
-    - Chris on new stuff
-    - Myles on NoSQL
   - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
   
 ** Infrastucture
