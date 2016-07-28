@@ -33,7 +33,7 @@ published: false
 
 *** August Board Meeting
   - Hacklab
-  - August ?? (needs verification!)
+  - August 22
   - 7:30pm
 
 *** ICANN
