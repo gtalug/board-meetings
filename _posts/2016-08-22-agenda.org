@@ -25,5 +25,4 @@ published: true
 
 ** Action Items from Last Month
  - Gord :: TODO - further enquiries about accessibility at Ryerson
- - Myles :: TODO - talk to Sen about accessibility at Ryerson
 
