@@ -17,6 +17,7 @@ published: true
 - Where and when this meeting happens next
 - Upcoming Meetings
 - Infrastructure
+  - Need new HDMI converter?
 - Engagement with Ryerson
 - AGM preparations
   - Who's on
