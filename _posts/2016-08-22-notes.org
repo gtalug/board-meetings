@@ -61,4 +61,14 @@ published: false
 ** Ryerson Engagement
 
 ** ICANN
+ - Report from Gord - see full details if desired...
+   - IANA issues on transition of stewardship of IANA function
+   - Technology taskforce on Adobe Connect
+     - Rocket Chat, kialo as alternatives
+   - WHOIS
+   - ICANN 57
+   - New At Large application
+     - Accepted "Association of Internet Users"
+   - New initiatives
+     - On operating principles, rules of procedure
 ** Action Items
