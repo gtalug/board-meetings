@@ -33,15 +33,11 @@ published: false
 - Amos Weatherill
 
 *** September Board Meeting
-  - Hacklab
-  - September 26th, tentatively?
+  - Hacklab is available
+  - September 26th, tentatively
   - 7:30pm
 
 ** Upcoming Meetings
-
-*** August
-  - [[https://github.com/gtalug/operations/issues/12][GitHub Issue]]
-  - Scott Elcomb on On Disruption & Killer Apps
 
 *** September
   - [[https://github.com/gtalug/operations/issues/13][GitHub Issue]]
@@ -50,16 +46,40 @@ published: false
 *** October
   - [[https://github.com/gtalug/operations/issues/14][GitHub Issue]]
   - Alex and Myles on Ansible
+  - Plus AGM
+
+*** November
+  - Bill Thanis on Ceph
+
+*** December
+  - Round table Q&A
+
+*** January
+  - Lightning talks?
+  - Intend shorter talks
+
+*** Metadiscussion
+  - Need to change...
+  - Intend shorter talks
+  - Try to end at 8:30, pretty near
 
 *** Future / Slush List
 
   - DaveCB: Linux TCP/IP, by himself.
   - Docker?
   - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
-  
+       
 ** Infrastucture
+  - Problem with HDMI cable
+  - Not 100% clear what the failure case
+  - Has not been successfully used in 8 months
+  - Myles knows of a suitable adaptor
+    - To revisit next month
+      - Need to know product
+      - Need expected price
 
 ** Ryerson Engagement
+ - Gord will try getting in touch with student body about things
 *** Accessibility
  - Myles and Gord have been looking into details
  - Elevators and ramps are available
@@ -80,5 +100,19 @@ published: false
      - Accepted "Association of Internet Users"
    - New initiatives
      - On operating principles, rules of procedure
+
+** AGM
+ - Myles and Alex and Mike have their terms up
+ - Need to set expectations
+   - People need to do some bits of work
+   - Must not have an undischarged bankruptcy
+ - Alex set up an email alias as a target for "elections returning officer"
+   - Announce that we start accepting candidates at the address
+ - Let us ask Bill if he is willing to be the returning officer...
+
 ** Action Items
  - TODO - Myles :: Commit accessibility notes to web site
+ - TODO - Gord :: Chat with Ryerson student organization
+ - TODO - Scott :: Reserve meeting room for Hacklab
+ - TODO - Myles :: Send link to the HDMI+stuff adaptor
+ - TODO - Chris :: Prepare membership renewal materials
