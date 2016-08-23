@@ -14,22 +14,23 @@ published: false
 ** Attendees
 
 *** TBD
+
+*** Present
 - Christopher Browne
 - Myles Braithwaite  (board member)
 - Scott Sullivan (board member)
 - Gordon Chillcott
-- Stewart Russell (board member)
 - Mike Kallies
 - Alex Volkov (board member)
+- William Park
+
+*** Absent
+
+- Stewart Russell (board member)
 - David Collier Brown
 - Bill Thanis
 - Hector Carvagill
 - Amos Weatherill
-
-*** Present
-
-
-*** Absent
 
 *** September Board Meeting
   - Hacklab
@@ -59,7 +60,15 @@ published: false
 ** Infrastucture
 
 ** Ryerson Engagement
-
+*** Accessibility
+ - Myles and Gord have been looking into details
+ - Elevators and ramps are available
+ - PyCon will be at the Rogers Communications building, which has fairly good accessibility
+ - Auditorium in the Library building is very nice, though directions will be inherently a bit confusing
+ - Poking a bit at post-meeting bar accessibility
+   - Imperial Pub isn't
+   - Not many good options, alas
+ - Added wording for meeting accessibility that will go into the web site soon   
 ** ICANN
  - Report from Gord - see full details if desired...
    - IANA issues on transition of stewardship of IANA function
@@ -72,3 +81,4 @@ published: false
    - New initiatives
      - On operating principles, rules of procedure
 ** Action Items
+ - TODO - Myles :: Commit accessibility notes to web site
