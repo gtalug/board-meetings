@@ -80,6 +80,12 @@ published: false
 *** Accessibility
  - Any new issues?
 ** ICANN
+ - Gord presented a report; see Downloads directory nearby for ~20160926.pdf~
+ - IANA issues :: little activity
+ - Technology Taskforce :: Adobe Connect issues ongoing
+ - WHOIS Registration Data Base :: little activity
+ - ICANN 57 and North American Region General Assembly :: little activity
+
 ** AGM
  - Myles and Alex and Mike have their terms up
  - Need to set expectations
