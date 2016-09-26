@@ -1,0 +1,92 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 26th September, 2016 at 7:30pm
+
+** Location
+  - Hacklab
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+    
+** Attendees
+
+*** TBD
+- Christopher Browne
+- Myles Braithwaite  (board member)
+- Scott Sullivan (board member)
+- Gordon Chillcott
+- Mike Kallies
+- Alex Volkov (board member)
+- William Park
+- Stewart Russell (board member)
+- David Collier Brown
+- Bill Thanis
+- Hector Carvagill
+- Amos Weatherill
+
+*** Present
+
+*** Absent
+
+*** October Board Meeting
+  - Hacklab is available?
+  - October 24th, tentatively
+  - 7:30pm
+
+** Upcoming Meetings
+
+*** September - now past
+  - [[https://github.com/gtalug/operations/issues/13][GitHub Issue]]
+  - Chris and Myles on Postgres
+
+*** October
+  - [[https://github.com/gtalug/operations/issues/14][GitHub Issue]]
+  - Alex and Myles on Ansible
+  - Plus AGM
+
+*** November
+  - Bill Thanis on Ceph
+
+*** December
+  - Round table Q&A
+
+*** January
+  - Lightning talks?
+  - Intend shorter talks
+
+*** Metadiscussion
+  - Need to change...
+  - Intend shorter talks
+  - Try to end at 8:30, pretty near
+
+*** Future / Slush List
+
+  - DaveCB: Linux TCP/IP, by himself.
+  - Docker?
+  - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
+       
+** Infrastucture
+  - HDMI cable
+  - Myles knows of a suitable adaptor
+    - To revisit next month
+      - Need to know product
+      - Need expected price
+
+** Ryerson Engagement
+ - Gord will try getting in touch with student body about things
+*** Accessibility
+ - Any new issues?
+** ICANN
+** AGM
+ - Myles and Alex and Mike have their terms up
+ - Need to set expectations
+   - People need to do some bits of work
+   - Must not have an undischarged bankruptcy
+ - Alex set up an email alias as a target for "elections returning officer"
+   - Announce that we start accepting candidates at the address
+ - Let us ask Bill if he is willing to be the returning officer...
+
+** Action Items

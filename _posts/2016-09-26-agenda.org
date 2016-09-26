@@ -20,10 +20,15 @@ published: true
 - Infrastructure
   - Need new HDMI converter?
 - Engagement with Ryerson
+  - Anything more on accessibility?
 - AGM preparations
   - Who's on
   - Who's off
   - Electoral Officer
 
 ** Action Items from Last Month
- - Gord :: TODO - further enquiries about accessibility at Ryerson
+ - TODO - Myles :: Commit accessibility notes to web site
+ - TODO - Gord :: Chat with Ryerson student organization
+ - TODO - Scott :: Reserve meeting room for Hacklab
+ - TODO - Myles :: Send link to the HDMI+stuff adaptor
+ - DONE - Chris :: Prepare membership renewal materials
