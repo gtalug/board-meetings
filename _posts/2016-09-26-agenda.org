@@ -25,6 +25,7 @@ published: true
   - Who's on
   - Who's off
   - Electoral Officer
+- ICANN
 
 ** Action Items from Last Month
  - TODO - Myles :: Commit accessibility notes to web site
