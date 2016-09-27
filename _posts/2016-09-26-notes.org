@@ -24,13 +24,15 @@ published: false
 - Gordon Chillcott
 - Mike Kallies
 - Alex Volkov (board member)
+- Stewart Russell (board member)
+
 *** Absent
 
 - William Park
-- Stewart Russell (board member)
 - David Collier Brown
 - Hector Carvagill
 - Amos Weatherill
+
 *** October Board Meeting
   - Hacklab is available?
   - October 24th, tentatively
