@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 24th October 2016 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen Street West, Toronto, Ontario M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Where and when this meeting happens next
+- AGM Recape
+  - Thanks to Alex, Mike, and Myles.
+  - Welcome new board members.
+- Upcoming Meetings
+- Infrastructure
+  - Need new HDMI converter?
+- Engagement with Ryerson
+  - Anything more on accessibility?
+- ICANN
+
+** Action Items from Last Month
+
+- TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017
+- TODO :: Gord to contact Marcel
+- TODO :: Stewart to consider Q2 2017, Documents
+- TODO :: Scott should bring HDMI converter cable
+- TODO :: Gord to contact student council to see about common interests
+- TODO - Myles :: Accessibility continues... Realized that he wasn't happy with wordings, has forwarded material to a friend to improve wording
+- TODO :: Bill to email board on duties of electoral officer
+- TODO :: Myles to contact December speaker to see if he'd like to swap with Bill for November
