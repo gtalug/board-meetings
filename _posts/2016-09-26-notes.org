@@ -44,27 +44,33 @@ published: false
   - [[https://github.com/gtalug/operations/issues/13][GitHub Issue]]
   - Chris and Myles on Postgres
 
-*** October
+*** Q4 2016
+
+**** October
   - [[https://github.com/gtalug/operations/issues/14][GitHub Issue]]
   - Alex and Myles on Ansible
   - Plus AGM
 
-*** November
+**** November
   - Bill Thanis on Ceph
 
-*** December
+**** December
   - Michael Fridman on Docker
 
-*** January
+*** Q1 2017
+
+**** January
   - Lightning talks?
   - Intend shorter talks
 
-*** February
+**** February
   - VPNs?  LibreSwan?
 
-*** March
+**** March
 
-*** April
+*** Q2 2017
+
+**** April
   - Stewart on Document Management
 
 *** Metadiscussion
