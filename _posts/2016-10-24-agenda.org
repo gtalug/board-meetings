@@ -15,7 +15,7 @@ published: true
 ** Agenda
 
 - Where and when this meeting happens next
-- AGM Recape
+- AGM Recap
   - Thanks to Alex, Mike, and Myles.
   - Welcome new board members.
 - Upcoming Meetings
@@ -27,7 +27,8 @@ published: true
 
 ** Action Items from Last Month
 
-- TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017
+- DONE :: Chris to ask Hugh about LibreSWAN or similar for early 2017
+  - Hugh is in the throes of renovations, so distracted for now.  Will ask again later.
 - TODO :: Gord to contact Marcel
 - TODO :: Stewart to consider Q2 2017, Documents
 - TODO :: Scott should bring HDMI converter cable
