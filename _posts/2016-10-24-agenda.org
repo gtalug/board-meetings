@@ -34,5 +34,5 @@ published: true
 - TODO :: Scott should bring HDMI converter cable
 - TODO :: Gord to contact student council to see about common interests
 - TODO - Myles :: Accessibility continues... Realized that he wasn't happy with wordings, has forwarded material to a friend to improve wording
-- TODO :: Bill to email board on duties of electoral officer
+- DONE :: Bill to email board on duties of electoral officer
 - TODO :: Myles to contact December speaker to see if he'd like to swap with Bill for November

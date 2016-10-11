@@ -1,0 +1,117 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 24th October, 2016 at 7:30pm
+
+** Location
+  - Hacklab
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+    
+** Attendees
+
+*** TBD
+
+- Bill Thanis
+- Christopher Browne
+- Myles Braithwaite  (board member)
+- Scott Sullivan (board member)
+- Gordon Chillcott
+- Mike Kallies
+- Alex Volkov (board member)
+- Stewart Russell (board member)
+- William Park
+- David Collier Brown
+- Hector Carvagill
+- Amos Weatherill
+
+*** Present
+
+*** Absent
+
+*** November Board Meeting
+  - Hacklab is available?
+  - November 28th, tentatively
+  - 7:30pm
+
+** Upcoming Meetings
+
+*** Q4 2016
+**** November
+  - Bill Thanis on Ceph
+
+**** December
+  - Michael Fridman on Docker
+
+*** Q1 2017
+**** January
+  - Lightning talks?
+  - Intend shorter talks
+
+**** February
+  - VPNs?  LibreSwan?
+
+**** March
+
+*** Q2 2017
+
+**** April
+  - Stewart on Document Management
+
+*** Metadiscussion
+  - Need to change...
+  - Intend shorter talks
+  - Try to end at 8:30, pretty near
+
+*** Future / Slush List
+
+  - DaveCB: Linux TCP/IP, by himself.
+  - Docker?
+  - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
+       
+** Infrastucture
+  - HDMI cable
+  - Myles knows of a suitable adaptor
+    - To revisit next month
+      - Need to know product
+      - Need expected price
+** Ryerson Engagement
+ - Gord will try getting in touch with student body about things
+ - There may now be a student council
+*** Accessibility
+ - Any new issues?
+ - Myles was assuming last month that he had material suitable, but then concluded it needed examination by someone that has subject knowledge, so is still working onwards...
+** ICANN
+ - Gord presented a report; see Downloads directory nearby for ~20160926.pdf~
+ - IANA issues :: little activity
+ - Technology Taskforce :: Adobe Connect issues ongoing
+ - WHOIS Registration Data Base :: little activity
+ - ICANN 57 and North American Region General Assembly :: little activity
+
+** AGM
+ - Myles and Alex and Mike have their terms up
+ - Need to set expectations
+   - People need to do some bits of work
+   - Must not have an undischarged bankruptcy
+ - Alex set up an email alias as a target for "elections returning officer"
+   - Announce that we start accepting candidates at the address
+ - Let us ask Bill if he is willing to be the returning officer...
+   - Alas, no, he's most likely away
+   - Myles to call for candidates
+ - Can use elections@gtalug.org
+   - Forward to new person
+** Is GTALUG mailing list a newbie friendly environment
+ - Someone told tale of woes using StackExchange for user support
+   - Increasing issues there of onboarding new users
+ - Same person asked if our mailing list is friendly to newbies
+   - Expect to see "shotgun" of scattered dodgy responses that may not be answers
+   - Scott suggests that the needful thing is to find someone (a person, not a platform) prepared to reflect on an answer
+
+** ICANN
+ - Gord seemed to want to indicate fear thru end of week
+
+** Action Items
+  - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
