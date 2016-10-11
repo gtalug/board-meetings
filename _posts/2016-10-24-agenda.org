@@ -18,6 +18,10 @@ published: true
 - AGM Recap
   - Thanks to Alex, Mike, and Myles.
   - Welcome new board members.
+  - Elect officers
+    - Prez
+    - Secretary
+    - Treasurer
 - Upcoming Meetings
 - Infrastructure
   - Need new HDMI converter?

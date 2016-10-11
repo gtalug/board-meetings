@@ -79,11 +79,8 @@ published: true
       - Need to know product
       - Need expected price
 ** Ryerson Engagement
- - Gord will try getting in touch with student body about things
- - There may now be a student council
 *** Accessibility
- - Any new issues?
- - Myles was assuming last month that he had material suitable, but then concluded it needed examination by someone that has subject knowledge, so is still working onwards...
+ - Myles was assuming the other month that he had material suitable, but then concluded it needed examination by someone that has subject knowledge, so is still working onwards...
 ** ICANN
  - Gord presented a report; see Downloads directory nearby for ~20160926.pdf~
  - IANA issues :: little activity
@@ -91,27 +88,7 @@ published: true
  - WHOIS Registration Data Base :: little activity
  - ICANN 57 and North American Region General Assembly :: little activity
 
-** AGM
- - Myles and Alex and Mike have their terms up
- - Need to set expectations
-   - People need to do some bits of work
-   - Must not have an undischarged bankruptcy
- - Alex set up an email alias as a target for "elections returning officer"
-   - Announce that we start accepting candidates at the address
- - Let us ask Bill if he is willing to be the returning officer...
-   - Alas, no, he's most likely away
-   - Myles to call for candidates
- - Can use elections@gtalug.org
-   - Forward to new person
-** Is GTALUG mailing list a newbie friendly environment
- - Someone told tale of woes using StackExchange for user support
-   - Increasing issues there of onboarding new users
- - Same person asked if our mailing list is friendly to newbies
-   - Expect to see "shotgun" of scattered dodgy responses that may not be answers
-   - Scott suggests that the needful thing is to find someone (a person, not a platform) prepared to reflect on an answer
-
+** AGM Followup
 ** ICANN
- - Gord seemed to want to indicate fear thru end of week
-
 ** Action Items
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
