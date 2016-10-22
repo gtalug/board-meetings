@@ -22,6 +22,11 @@ published: true
     - Prez
     - Secretary
     - Treasurer
+- Finance
+  - Be it resolved...
+  - Signing officer change
+    - Adding Scott Sullivan, in role as President, perhaps?
+    - Removing Drew Sullivan
 - Upcoming Meetings
 - Infrastructure
   - Need new HDMI converter?
