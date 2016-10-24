@@ -65,6 +65,7 @@ published: true
   - Need to change...
   - Intend shorter talks
   - Try to end at 8:30, pretty near
+  - Tough to do when there are two speakers!
 
 *** Future / Slush List
 
@@ -82,12 +83,13 @@ published: true
 *** Accessibility
  - Myles was assuming the other month that he had material suitable, but then concluded it needed examination by someone that has subject knowledge, so is still working onwards...
 ** ICANN
- - Gord presented a report; see Downloads directory nearby for ~20160926.pdf~
- - IANA issues :: little activity
- - Technology Taskforce :: Adobe Connect issues ongoing
+ - Gord presented a report; see Downloads directory nearby for ~20161024.pdf~
+ - IANA Transition :: Transition took place on Sept 30
+   - IANA renamed working groups
+ - Technology Taskforce :: No news
  - WHOIS Registration Data Base :: little activity
- - ICANN 57 and North American Region General Assembly :: little activity
-
+ - ICANN 57 and North American Region General Assembly :: in Hyderabad; Gord will attend remotely
+      
 ** AGM Followup
 ** ICANN
 ** Action Items
