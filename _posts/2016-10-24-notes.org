@@ -91,6 +91,17 @@ published: true
  - ICANN 57 and North American Region General Assembly :: in Hyderabad; Gord will attend remotely
       
 ** AGM Followup
-** ICANN
+*** Recap
+*** Thanks to outgoings
+*** Elect officers
+**** President
+**** Secretary
+**** Treasurer
+** Finance
+  - Met with CIBC to revise signing officers on Oct 21
+  - Need to have a motion for this, empowering a Letter of Direction indicating
+    - Removing Drew Sullivan as a former-signer
+    - Adding Scott Sullivan, and we should indicate the role in which he is to have signing authority
+
 ** Action Items
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
