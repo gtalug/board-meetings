@@ -38,27 +38,21 @@ published: true
   - 7:30pm
 
 ** Upcoming Meetings
-
 *** Q4 2016
 **** November
   - DCB on something
     - apparently he has volunteered
-
 **** December
   - Michael Fridman on Docker
-    
 *** Q1 2017
 **** January
   - Roundtable
-
 **** February
   - Lightning talks
-
 **** March
   - Hopefully someone recruited from FSOSS conference
 
 *** Q2 2017
-
 **** April
   - Stewart on Document Management
 
@@ -106,7 +100,7 @@ published: true
    - IANA renamed working groups
  - Technology Taskforce :: No news
  - WHOIS Registration Data Base :: little activity
- - ICANN 57 and North American Region General Assembly :: in Hyderabad; Gord will attend remotely
+ - ICANN 57 and North American Region General Assembly :: in Hyderabad, next week; Gord will attend remotely
       
 ** AGM Followup
 *** Recap
@@ -141,3 +135,5 @@ published: true
   - TODO :: Myles to verify that DCB is good for November meeting
   - TODO :: Scott to get adapters for video
   - TODO :: Myles to update templates based on latest accessibility information
+  - TODO :: Gord to do a quick description of ICANN matters
+  - TODO :: Myles to remove DNS for CAG
