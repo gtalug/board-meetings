@@ -92,10 +92,13 @@ published: true
 ** Ryerson Engagement
 *** Accessibility
  - Myles was assuming the other month that he had material suitable, but then concluded it needed examination by someone that has subject knowledge, so is still working onwards...
+ - Myles has gotten some somewhat better material
+   - Accessible entrances at Gould to point to elevator
+   - Also an entrance at Church, down the hall from elevator
 *** Gordon's efforts
- - He found the CS student executive
+ - He found the CS student executive at Student Union
  - To contact them
- - Scott, Gordon, Stewart to try to have a chat with them
+ - Scott, Gordon, Stewart to try to have a chat with them, face to face
  - Some chance of them arriving at GTALUG meeting
 ** ICANN
  - Gord presented a report; see Downloads directory nearby for ~20161024.pdf~
@@ -137,3 +140,4 @@ published: true
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
   - TODO :: Myles to verify that DCB is good for November meeting
   - TODO :: Scott to get adapters for video
+  - TODO :: Myles to update templates based on latest accessibility information
