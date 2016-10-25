@@ -49,13 +49,13 @@ published: true
     
 *** Q1 2017
 **** January
-  - Lightning talks?
-  - Intend shorter talks
+  - Roundtable
 
 **** February
-  - VPNs?  LibreSwan?
+  - Lightning talks
 
 **** March
+  - Hopefully someone recruited from FSOSS conference
 
 *** Q2 2017
 
@@ -75,14 +75,28 @@ published: true
   - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
        
 ** Infrastucture
+  - Myles wish to relinquish his reins on infrastructure
+    - Wants to relinquish in February
+    - Wants to relinquish server tech stuff
+      - Root email gets read
+      - Server paid for
+      - Admin of mailing list (bouncebacks, etc)
+      - Most of this is documented
+      - Block some time for the next couple meetings to discuss
   - HDMI cable
-  - Myles knows of a suitable adaptor
-    - To revisit next month
-      - Need to know product
-      - Need expected price
+    - Special version apparently isn't sold anymore
+    - It apparently was problematic due to breaking easily
+    - Probably we should just get a plain old HDMI/VGA cable
+    - Scott will do this, and get both HDMI and DisplayPort
+
 ** Ryerson Engagement
 *** Accessibility
  - Myles was assuming the other month that he had material suitable, but then concluded it needed examination by someone that has subject knowledge, so is still working onwards...
+*** Gordon's efforts
+ - He found the CS student executive
+ - To contact them
+ - Scott, Gordon, Stewart to try to have a chat with them
+ - Some chance of them arriving at GTALUG meeting
 ** ICANN
  - Gord presented a report; see Downloads directory nearby for ~20161024.pdf~
  - IANA Transition :: Transition took place on Sept 30
@@ -93,17 +107,33 @@ published: true
       
 ** AGM Followup
 *** Recap
+  - We had election
 *** Thanks to outgoings
+  - Notice has gone out thanking outgoing and incoming board members
 *** Elect officers
 **** President
+  - Outgoing is Scott Sullivan
+  - Incoming is Scott Sullivan
+  - Unanimous assent
 **** Secretary
+  - Outgoing is Chris Browne
+  - Incoming is Chris Browne
+  - Unanimous assent
 **** Treasurer
+  - Outgoing is Chris Browne
+  - Incoming is Chris Browne
+  - Unanimous assent
 ** Finance
   - Met with CIBC to revise signing officers on Oct 21
   - Need to have a motion for this, empowering a Letter of Direction indicating
     - Removing Drew Sullivan as a former-signer
-    - Adding Scott Sullivan, and we should indicate the role in which he is to have signing authority
+    - Adding Scott Sullivan, and we should indicate the role in which he is to have signing authority, namely as President
+
+  - BIRT that...
+    - Drew Sullivan be removed as signing officer
+    - Scott Sullivan be added
 
 ** Action Items
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
   - TODO :: Myles to verify that DCB is good for November meeting
+  - TODO :: Scott to get adapters for video
