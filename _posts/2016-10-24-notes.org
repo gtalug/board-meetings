@@ -90,8 +90,8 @@ published: true
    - Accessible entrances at Gould to point to elevator
    - Also an entrance at Church, down the hall from elevator
 *** Gordon's efforts
- - He found the CS student executive at Student Union
- - To contact them
+ - He found the [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
+ - To contact them 
  - Scott, Gordon, Stewart to try to have a chat with them, face to face
  - Some chance of them arriving at GTALUG meeting
 ** ICANN
@@ -132,7 +132,7 @@ published: true
 
 ** Action Items
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
-  - TODO :: Myles to verify that DCB is good for November meeting
+  - DONE :: Myles to verify that DCB is good for November meeting
   - TODO :: Scott to get adapters for video
   - TODO :: Myles to update templates based on latest accessibility information
   - TODO :: Gord to do a quick description of ICANN matters
