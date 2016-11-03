@@ -1,0 +1,83 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 28th November, 2016 at 7:30pm
+
+** Location
+  - Hacklab
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+    
+** Attendees
+*** TBD
+- Bill Thanis
+- Christopher Browne
+- Myles Braithwaite  (board member)
+- Scott Sullivan (board member)
+- Gordon Chillcott
+- Mike Kallies
+- Alex Volkov (board member)
+- Stewart Russell (board member)
+- William Park
+- David Collier Brown
+- Hector Carvagill
+- Amos Weatherill
+*** Present
+*** Absent
+*** December Board Meeting
+  - Usually not observed; the usual date would be December 26th
+
+** Upcoming Meetings
+*** Q4 2016
+**** November
+  - Aftermath on DCB on Go
+**** December
+  - Michael Fridman on Docker
+*** Q1 2017
+**** January
+  - Roundtable
+**** February
+  - Lightning talks
+**** March
+  - Hopefully someone recruited from FSOSS conference
+
+*** Q2 2017
+**** April
+  - Stewart on Document Management
+
+*** Metadiscussion
+  - Need to change...
+  - Intend shorter talks
+  - Try to end at 8:30, pretty near
+  - Tough to do when there are two speakers!
+
+*** Future / Slush List
+  - DaveCB: Linux TCP/IP, by himself.
+  - Docker?
+  - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
+  - Hugh on LibreSwan or whatever...
+       
+** Infrastucture
+  - Myles wishes to relinquish his reins on "undeclared bits" of infrastructure
+    - Wants to relinquish in February
+    - Wants to relinquish server tech stuff
+      - Root email gets read
+      - Server paid for
+      - Admin of mailing list (bouncebacks, etc)
+      - Most of this is documented
+      - Block some time for the next couple meetings to discuss
+
+*** Gordon's efforts
+ - He found the [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
+ - To contact them 
+ - Scott, Gordon, Stewart to try to have a chat with them, face to face
+ - Some chance of them arriving at GTALUG meeting
+
+** ICANN
+      
+
+** Action Items
+  - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished

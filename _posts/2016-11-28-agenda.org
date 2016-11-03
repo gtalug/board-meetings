@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 28th November 2016 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen Street West, Toronto, Ontario M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Where and when this meeting happens next
+- Upcoming Meetings
+- Infrastructure
+  - HDMI connector is in?
+  - Getting server tech responsibilities redistributed
+    - Start with a list of items?
+- ICANN
+
+** Action Items from Last Month
