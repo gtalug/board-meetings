@@ -137,3 +137,4 @@ published: true
   - TODO :: Myles to update templates based on latest accessibility information
   - TODO :: Gord to do a quick description of ICANN matters
   - TODO :: Myles to remove DNS for CAG
+  - TODO :: Chris to draft letter for bank signing changes
