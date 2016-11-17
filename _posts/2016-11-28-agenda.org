@@ -17,7 +17,7 @@ published: true
 - Where and when this meeting happens next
 - Upcoming Meetings
 - How other people can help GTALUG
-  - Getting more GTALUG members involed in operations
+  - Getting more GTALUG members involved in operations
 - Infrastructure
   - HDMI connector is in?
   - Getting server tech responsibilities redistributed
