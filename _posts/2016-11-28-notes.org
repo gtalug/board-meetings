@@ -36,6 +36,7 @@ published: true
 *** Q4 2016
 **** November
   - Aftermath on DCB on Go
+    - We need more in the way of speaker description
 **** December
   - MySQL Query Optimization for InnoDB
 *** Q1 2017
@@ -44,7 +45,7 @@ published: true
 **** February
   - Lightning talks
 **** March
-  - Hopefully someone recruited from FSOSS conference
+  - Hopefully someone recruited from FSOSS conference, or Marcel, maybehaps
 
 *** Q2 2017
 **** April
@@ -57,10 +58,13 @@ published: true
   - Tough to do when there are two speakers!
 
 *** Future / Slush List
-  - DaveCB: Linux TCP/IP, by himself.
   - Docker?
-  - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
   - Hugh on LibreSwan or whatever...
+  - IPv6 in your own network
+  - Application areas
+    - Ala Graphics panel, Vim, Coin
+  - FSOSS possibilities
+    - Apparently not much to work from, lukewarm speakers
        
 ** Infrastucture
 *** HDMI Adaptor is complete
@@ -94,12 +98,25 @@ published: true
       - Most of this is documented
       - Block some time for the next couple meetings to discuss
 
-*** Gordon's efforts
- - He found the [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
- - To contact them 
- - Scott, Gordon, Stewart to try to have a chat with them, face to face
- - Some chance of them arriving at GTALUG meeting
+** Tasks to have done
+ - Video project - contact Alex
+ - Logo redesign - contact Stewart
+ - General system administration - Greg
+ - ICANN - Gord
+ - Updating Content - Scott
+ - Web site design refresh - Myles
+ - Mailman 3 deployment - Alex
+ - Are we the shape we wanna be? - Stewart
+ - General PR - Myles
+ - Nearby user groups in Southern Ontario - hi@gtalug.org
 
+** Ryerson Issues
+ - Apparently not on the schedule
+   - Need to clarify this
+ - Plan to contact [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
+** Banking
+ - To get signing authority set up
+ - Ask about lowering bank fees
 ** ICANN
  - See upload of 2016-11-28
  - Huge Hyderabad meeting
@@ -109,3 +126,6 @@ published: true
 
 ** Action Items
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
+  - TODO :: Chris - Fresh cards supply
+  - TODO :: Scott - announce the various engagement notes
+  - TODO :: Myles - Contact Marcel about late Q1 talk
