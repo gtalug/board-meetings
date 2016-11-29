@@ -22,6 +22,7 @@ published: true
   - HDMI connector is in?
   - Getting server tech responsibilities redistributed
     - Start with a list of items?
+- Ryerson Engagement
 - ICANN
 
 ** Action Items from Last Month

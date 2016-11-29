@@ -29,13 +29,15 @@ published: true
 *** Absent
 *** December Board Meeting
   - Usually not observed; the usual date would be December 26th
+*** January Board Meeting
+  - January 23rd at HackLab
 
 ** Upcoming Meetings
 *** Q4 2016
 **** November
   - Aftermath on DCB on Go
 **** December
-  - Michael Fridman on Docker
+  - MySQL Query Optimization for InnoDB
 *** Q1 2017
 **** January
   - Roundtable
@@ -61,6 +63,10 @@ published: true
   - Hugh on LibreSwan or whatever...
        
 ** Infrastucture
+*** HDMI Adaptor is complete
+  - Tested at last meeting
+  - Paid for
+*** Miscellaneous Infrastructure
   - Myles wishes to relinquish his reins on "undeclared bits" of infrastructure
     - Wants to relinquish in February
     - Wants to relinquish server tech stuff
