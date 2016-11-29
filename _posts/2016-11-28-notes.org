@@ -14,18 +14,18 @@ published: true
 ** Attendees
 *** TBD
 - Bill Thanis
-- Christopher Browne
-- Myles Braithwaite  (board member)
-- Scott Sullivan (board member)
-- Gordon Chillcott
 - Mike Kallies
-- Alex Volkov (board member)
-- Stewart Russell (board member)
 - William Park
 - David Collier Brown
 - Hector Carvagill
 - Amos Weatherill
 *** Present
+- Christopher Browne (board member)
+- Myles Braithwaite (board member)
+- Scott Sullivan (board member)
+- Alex Volkov (board member)
+- Gordon Chillcott
+- Stewart Russell (board member)
 *** Absent
 *** December Board Meeting
   - Usually not observed; the usual date would be December 26th
