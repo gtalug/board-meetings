@@ -85,9 +85,11 @@ published: true
         - DocuWiki for meeting collaboration
           - Primarily used for restaurant lists!
         - GNUSocial is deactivated as it wasn't being used
-        - LetsEncrypt - certificate validation
-      - Root email gets read
-      - Server paid for
+        - LetsEncrypt - certificate validation - used to have HTTPS
+        - Root email gets read
+        - Server paid for annually
+        - Someone should monitor LogWatch
+          - Perhaps split some services off?
       - Admin of mailing list (bouncebacks, etc)
       - Most of this is documented
       - Block some time for the next couple meetings to discuss
@@ -100,7 +102,10 @@ published: true
 
 ** ICANN
  - See upload of 2016-11-28
+ - Huge Hyderabad meeting
  - ICANN transition is complete
  - Some people tried to torpedo consensus, went to press with misrepresentations of things that happened
+ - Request last month from ALS to get official address
+
 ** Action Items
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
