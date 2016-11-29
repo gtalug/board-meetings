@@ -126,6 +126,5 @@ published: true
 
 ** Action Items
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
-  - TODO :: Chris - Fresh cards supply
   - TODO :: Scott - announce the various engagement notes
   - TODO :: Myles - Contact Marcel about late Q1 talk
