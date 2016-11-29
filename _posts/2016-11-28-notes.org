@@ -70,6 +70,22 @@ published: true
   - Myles wishes to relinquish his reins on "undeclared bits" of infrastructure
     - Wants to relinquish in February
     - Wants to relinquish server tech stuff
+      - Mail server
+        - bunch of forwarding
+      - Mailman setup
+        - Mailing list admin
+      - Basic web site upkeep
+        - ensure PHP apps are on latest versions
+      - Ensure backups are running
+      - Miscellaneous
+        - Notifier process has gotten a bit tooooooo notifying
+        - Script that sends emails for meetings
+          - reads a template and sends it out
+        - PiWiki to show popular web pages
+        - DocuWiki for meeting collaboration
+          - Primarily used for restaurant lists!
+        - GNUSocial is deactivated as it wasn't being used
+        - LetsEncrypt - certificate validation
       - Root email gets read
       - Server paid for
       - Admin of mailing list (bouncebacks, etc)
