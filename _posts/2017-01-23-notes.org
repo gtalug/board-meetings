@@ -4,7 +4,7 @@ title: "Notes"
 published: true
 ---
 
-* 28th November, 2016 at 7:30pm
+* 23rd January, 2016 at 7:30pm
 
 ** Location
   - Hacklab
@@ -13,32 +13,24 @@ published: true
     
 ** Attendees
 *** TBD
-*** Present
 - Christopher Browne (board member)
 - Myles Braithwaite (board member)
 - Scott Sullivan (board member)
 - Alex Volkov (board member)
 - Gordon Chillcott
 - Stewart Russell (board member)
-*** Absent
 - Bill Thanis
 - Mike Kallies
 - William Park
 - David Collier Brown
 - Hector Carvagill
 - Amos Weatherill
-*** December Board Meeting
-  - Usually not observed; the usual date would be December 26th
-*** January Board Meeting
-  - January 23rd at HackLab
+*** Present
+*** Absent
+*** February Board Meeting
+  - February 27th at HackLab, assuming availability?
 
 ** Upcoming Meetings
-*** Q4 2016
-**** November
-  - Aftermath on DCB on Go
-    - We need more in the way of speaker description
-**** December
-  - MySQL Query Optimization for InnoDB
 *** Q1 2017
 **** January
   - Roundtable
@@ -50,12 +42,8 @@ published: true
 *** Q2 2017
 **** April
   - Stewart on Document Management
-
-*** Metadiscussion
-  - Need to change...
-  - Intend shorter talks
-  - Try to end at 8:30, pretty near
-  - Tough to do when there are two speakers!
+**** May
+**** June
 
 *** Future / Slush List
   - Docker?
@@ -63,13 +51,8 @@ published: true
   - IPv6 in your own network
   - Application areas
     - Ala Graphics panel, Vim, Coin
-  - FSOSS possibilities
-    - Apparently not much to work from, lukewarm speakers
        
 ** Infrastucture
-*** HDMI Adaptor is complete
-  - Tested at last meeting
-  - Paid for
 *** Miscellaneous Infrastructure
   - Myles wishes to relinquish his reins on "undeclared bits" of infrastructure
     - Wants to relinquish in February
@@ -116,14 +99,7 @@ published: true
  - Plan to contact [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
 ** Banking
  - To get signing authority set up
- - Ask about lowering bank fees
 ** ICANN
- - See upload of 2016-11-28
- - Huge Hyderabad meeting
- - ICANN transition is complete
- - Some people tried to torpedo consensus, went to press with misrepresentations of things that happened
- - Request last month from ALS to get official address
-
 ** Action Items
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
   - TODO :: Scott - announce the various engagement notes

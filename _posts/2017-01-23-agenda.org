@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 23th January 2017 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen Street West, Toronto, Ontario M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Where and when this meeting happens next
+- How other people can help GTALUG
+  - Getting more GTALUG members involved in operations
+- Infrastructure
+  - Getting server tech responsibilities redistributed
+    - Start with a list of items?
+- Ryerson Engagement
+- Upcoming Meetings
+- ICANN
+
+** Action Items from Last Month
+  - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
+  - TODO :: Scott - announce the various engagement notes
+  - TODO :: Myles - Contact Marcel about late Q1 talk
