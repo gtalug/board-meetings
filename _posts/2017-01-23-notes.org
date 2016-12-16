@@ -1,0 +1,106 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 23rd January, 2016 at 7:30pm
+
+** Location
+  - Hacklab
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+    
+** Attendees
+*** TBD
+- Christopher Browne (board member)
+- Myles Braithwaite (board member)
+- Scott Sullivan (board member)
+- Alex Volkov (board member)
+- Gordon Chillcott
+- Stewart Russell (board member)
+- Bill Thanis
+- Mike Kallies
+- William Park
+- David Collier Brown
+- Hector Carvagill
+- Amos Weatherill
+*** Present
+*** Absent
+*** February Board Meeting
+  - February 27th at HackLab, assuming availability?
+
+** Upcoming Meetings
+*** Q1 2017
+**** January
+  - Roundtable
+**** February
+  - Lightning talks
+**** March
+  - Hopefully someone recruited from FSOSS conference, or Marcel, maybehaps
+
+*** Q2 2017
+**** April
+  - Stewart on Document Management
+**** May
+**** June
+
+*** Future / Slush List
+  - Docker?
+  - Hugh on LibreSwan or whatever...
+  - IPv6 in your own network
+  - Application areas
+    - Ala Graphics panel, Vim, Coin
+       
+** Infrastucture
+*** Miscellaneous Infrastructure
+  - Myles wishes to relinquish his reins on "undeclared bits" of infrastructure
+    - Wants to relinquish in February
+    - Wants to relinquish server tech stuff
+      - Mail server
+        - bunch of forwarding
+      - Mailman setup
+        - Mailing list admin
+      - Basic web site upkeep
+        - ensure PHP apps are on latest versions
+      - Ensure backups are running
+      - Miscellaneous
+        - Notifier process has gotten a bit tooooooo notifying
+        - Script that sends emails for meetings
+          - reads a template and sends it out
+        - PiWiki to show popular web pages
+        - DocuWiki for meeting collaboration
+          - Primarily used for restaurant lists!
+        - GNUSocial is deactivated as it wasn't being used
+        - LetsEncrypt - certificate validation - used to have HTTPS
+        - Root email gets read
+        - Server paid for annually
+        - Someone should monitor LogWatch
+          - Perhaps split some services off?
+      - Admin of mailing list (bouncebacks, etc)
+      - Most of this is documented
+      - Block some time for the next couple meetings to discuss
+
+** Tasks to have done
+ - Video project - contact Alex
+ - Logo redesign - contact Stewart
+ - General system administration - Greg
+ - ICANN - Gord
+ - Updating Content - Scott
+ - Web site design refresh - Myles
+ - Mailman 3 deployment - Alex
+ - Are we the shape we wanna be? - Stewart
+ - General PR - Myles
+ - Nearby user groups in Southern Ontario - hi@gtalug.org
+
+** Ryerson Issues
+ - Apparently not on the schedule
+   - Need to clarify this
+ - Plan to contact [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
+** Banking
+ - To get signing authority set up
+** ICANN
+** Action Items
+  - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
+  - TODO :: Scott - announce the various engagement notes
+  - TODO :: Myles - Contact Marcel about late Q1 talk

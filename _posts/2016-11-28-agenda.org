@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 28th November 2016 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen Street West, Toronto, Ontario M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Where and when this meeting happens next
+- How other people can help GTALUG
+  - Getting more GTALUG members involved in operations
+- Infrastructure
+  - HDMI connector is in?
+  - Getting server tech responsibilities redistributed
+    - Start with a list of items?
+- Ryerson Engagement
+- Upcoming Meetings
+- ICANN
+
+** Action Items from Last Month
