@@ -16,8 +16,12 @@
   fingerprint: 45A5 ED20 B8E8 06FD 8CF8  ED1E 6A4C E837 5A2F E7BF
 
 - name: Christopher Browne
-  elected: "2016-2018"
+  elected: "2016-2018, 2013-2015, 2011-2013, 2009-2011, 2007-2009, 2005-2007"
   github: cbbrowne
+  homepage: http://linuxdatabases.info
+  twitter: cbbrowne
+  email: cbbrowne@acm.org
+
 
 - name: Alex V.
   elected: "2016-2018" and "2014-2016"
