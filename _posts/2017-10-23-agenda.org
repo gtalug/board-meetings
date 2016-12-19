@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+*  23rd October 2017 at 7:30pm
+** Location
+** Agenda
+- Where and when this meeting happens next
+- Infrastructure
+- AGM Recap
+  - Welcome new board members.
+  - Elect officers
+    - Prez
+    - Secretary
+    - Treasurer
+  - Make sure members.yaml is updated
+- ICANN
