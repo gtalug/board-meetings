@@ -100,6 +100,13 @@ published: false
 ** Banking
  - To get signing authority set up
 ** ICANN
+  - Gord presented a [[../uploads/20170123.jpg][Monthly ICANN Report]]
+  - ARIN Meeting apps
+    - CrowdCompass
+    - Taskforce would also like to test EXO, MeetEcho, Mikago, RocketChat, Slack
+  - New slate of candidates for new Board Member
+  - NARALO General assembly in April
+  - Reviewing a policy statement drafting program
 ** Action Items
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
   - TODO :: Scott - announce the various engagement notes
