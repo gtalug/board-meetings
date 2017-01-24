@@ -13,19 +13,19 @@ published: false
     
 ** Attendees
 *** TBD
-- Christopher Browne (board member)
-- Myles Braithwaite (board member)
-- Scott Sullivan (board member)
-- Alex Volkov (board member)
-- Gordon Chillcott
 - Stewart Russell (board member)
-- Bill Thanis
 - Mike Kallies
 - William Park
 - David Collier Brown
 - Hector Carvagill
 - Amos Weatherill
 *** Present
+- Christopher Browne (board member)
+- Myles Braithwaite (board member)
+- Scott Sullivan (board member)
+- Alex Volkov (board member)
+- Gordon Chillcott
+- Bill Thanis
 *** Absent
 *** February Board Meeting
   - February 27th at HackLab, assuming availability?
