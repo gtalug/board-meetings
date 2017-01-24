@@ -28,14 +28,14 @@ published: false
 - Bill Thanis
 *** Absent
 *** February Board Meeting
-  - February 27th at HackLab, assuming availability?
+  - February 27th at HackLab, assuming availability
+  - Agreed!
 
 ** Upcoming Meetings
 *** Q1 2017
-**** January
-  - Roundtable
 **** February
-  - Lightning talks
+  - Evan, hopefully...
+  - It's Feb 14th, so hopefully that does not present a problem
 **** March
   - Hopefully someone recruited from FSOSS conference, or Marcel, maybehaps
 
@@ -111,3 +111,6 @@ published: false
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
   - TODO :: Scott - announce the various engagement notes
   - TODO :: Myles - Contact Marcel about late Q1 talk
+    - Marcel lives outside Toronto, so better to avoid wintertime in favour of spring
+  - TODO :: Schedule 
+  - TODO :: Scott - remind Evan that our next meeting is Feb 14th

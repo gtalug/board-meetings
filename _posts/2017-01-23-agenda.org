@@ -23,6 +23,7 @@ published: true
 - Ryerson Engagement
 - Upcoming Meetings
 - ICANN
+- Flock conference
 
 ** Action Items from Last Month
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
