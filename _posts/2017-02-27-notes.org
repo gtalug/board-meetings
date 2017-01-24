@@ -4,7 +4,7 @@ title: "Notes"
 published: false
 ---
 
-* 23rd January, 2017 at 7:30pm
+* 27th February, 2017 at 7:30pm
 
 ** Location
   - Hacklab
@@ -13,31 +13,30 @@ published: false
     
 ** Attendees
 *** TBD
-*** Present
+- Stewart Russell (board member)
+- Mike Kallies
+- William Park
+- David Collier Brown
+- Hector Carvagill
+- Amos Weatherill
 - Christopher Browne (board member)
 - Myles Braithwaite (board member)
 - Scott Sullivan (board member)
 - Alex Volkov (board member)
 - Gordon Chillcott
 - Bill Thanis
-- Stewart Russell (board member)
+*** Present
 *** Absent
-- Mike Kallies
-- William Park
-- David Collier Brown
-- Hector Carvagill
-- Amos Weatherill
-*** February Board Meeting
-  - February 27th at HackLab, assuming availability
-  - Agreed!
+*** March Board Meeting
+  - March 27th at HackLab, assuming availability?
 
 ** Upcoming Meetings
 *** Q1 2017
 **** February
   - Evan, hopefully...
-  - It's Feb 14th, so hopefully that does not present a problem
 **** March
   - Lightning talks
+    - Suggested: LetsEncrypt?
 
 *** Q2 2017
 **** April
@@ -58,37 +57,33 @@ published: false
   - Overlap should take place May/June
   - Closing down linode in July...
 *** Miscellaneous Infrastructure
-  - Myles wishes to relinquish his reins on "undeclared bits" of infrastructure
-    - Wants to relinquish in February
-    - Wants to relinquish server tech stuff
-      - Mail server
-        - bunch of forwarding
-        - Alex has been doing some coverage of this
-        - Look for aliases file in backups
-      - Mailman setup
-        - Mailing list admin 
-      - Basic web site upkeep
-        - ensure PHP apps are on latest versions
-      - Ensure backups are running
-      - Miscellaneous
-        - Notifier process has gotten a bit tooooooo notifying
-        - Script that sends emails for meetings
-          - reads a template and sends it out
-        - PiWiki to show popular web pages
-        - DocuWiki for meeting collaboration
-          - Primarily used for restaurant lists!
-        - GNUSocial is deactivated as it wasn't being used
-        - LetsEncrypt - certificate validation - used to have HTTPS
-          - Needed to do a re-engage process every 3 months
-          - But now it is automatically handled
-          - Myles will be talking with Greg/Alex about handling this
-        - Root email gets read
-        - Server paid for annually
-        - Someone should monitor LogWatch
-          - Perhaps split some services off?
-      - Admin of mailing list (bouncebacks, etc)
-      - Most of this is documented
-      - Block some time for the next couple meetings to discuss
+ - Mail server
+   - bunch of forwarding
+   - Alex has been doing some coverage of this
+   - Look for aliases file
+ - Mailman setup
+   - Mailing list admin 
+ - Basic web site upkeep
+   - ensure PHP apps are on latest versions
+ - Ensure backups are running
+ - Miscellaneous
+   - Notifier process has gotten a bit tooooooo notifying
+   - Script that sends emails for meetings
+     - reads a template and sends it out
+   - PiWiki to show popular web pages
+   - DocuWiki for meeting collaboration
+     - Primarily used for restaurant lists!
+   - GNUSocial is deactivated as it wasn't being used
+   - LetsEncrypt - certificate validation - used to have HTTPS
+     - Needed to do a re-engage process every 3 months
+     - But now it is automatically handled
+     - Myles will be talking with Greg/Alex about handling this
+   - Root email gets read
+   - Server paid for annually
+   - Someone should monitor LogWatch
+     - Perhaps split some services off?
+   - Admin of mailing list (bouncebacks, etc)
+   - Most of this is documented, backed up
 
 ** Tasks to have done
  - Video project - contact Alex

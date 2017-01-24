@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 22nd October 2018 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen Street West, Toronto, Ontario M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Flock engagement
+  - Need to engage with Chris Tyler @ Seneca/York about involvement with Fedora "Flock" conference proposal
+
+** Action Items from Last Month

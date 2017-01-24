@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 27th February 2017 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen Street West, Toronto, Ontario M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Where and when this meeting happens next
+- How other people can help GTALUG
+  - Getting more GTALUG members involved in operations
+- Infrastructure
+  - More on redistributing server tech responsibilities
+    - Start with a list of items?
+- Ryerson Engagement
+- Upcoming Meetings
+- ICANN
+
+** Action Items from Last Month
+  - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
+  - TODO :: Scott - announce the various engagement notes
+  - TODO :: Myles - Contact Marcel about late Q1 talk
+    - Marcel lives outside Toronto, so better to avoid wintertime in favour of spring
+  - TODO :: Schedule 
+  - TODO :: Scott - remind Evan that our next meeting is Feb 14th
+  - TODO :: Myles - Announce at Feb meeting Lightning talks in March, and try to encourage "fun" talks 
+  - TODO :: Stewart - prepping started for April - Document Management
+  - TODO :: At next meeting, socialize the items to encourage people to help with
+  - TODO :: Myles - to see if Ryerson Student Union would be of interest
+  - TODO :: Lightning talk on LetsEncrypt
+  - TODO :: Chris to add calender "tickle" to ensure we pester people at the apropos time, namely to "tickle" Chris Tyler in October 2018
+  - TODO :: Myles to look at pricing and usage of Meetup.com
+  - TODO :: Myles - Investigate doing an enhanced form for speakers that helps describe things
+    - Telling them about useful resources
+    - Reference to Code of Conduct
+    - How to contact us, how we should contact them
+    - Recording requirements/signoff
+    - Encourage them to send a nice blurb
