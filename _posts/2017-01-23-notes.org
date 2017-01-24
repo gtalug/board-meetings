@@ -37,14 +37,13 @@ published: false
   - Evan, hopefully...
   - It's Feb 14th, so hopefully that does not present a problem
 **** March
-  - Hopefully someone recruited from FSOSS conference, or Marcel, maybehaps
+  - Lightning talks
 
 *** Q2 2017
 **** April
   - Stewart on Document Management
 **** May
-**** June
-
+**** June     
 *** Future / Slush List
   - Docker?
   - Hugh on LibreSwan or whatever...
@@ -114,3 +113,5 @@ published: false
     - Marcel lives outside Toronto, so better to avoid wintertime in favour of spring
   - TODO :: Schedule 
   - TODO :: Scott - remind Evan that our next meeting is Feb 14th
+  - TODO :: Myles - Announce at Feb meeting Lightning talks in March, and try to encourage "fun" talks 
+  - TODO :: Stewart - prepping started for April - Document Management
