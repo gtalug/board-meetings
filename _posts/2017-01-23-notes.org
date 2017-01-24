@@ -106,8 +106,7 @@ published: false
  - Apparently not on the schedule
    - Need to clarify this
  - Plan to contact [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
-** Banking
- - To get signing authority set up
+ - Gord planning an email for our staff contact and an agenda
 ** ICANN
   - Gord presented a [[../uploads/20170123.jpg][Monthly ICANN Report]]
   - ARIN Meeting apps
@@ -116,6 +115,17 @@ published: false
   - New slate of candidates for new Board Member
   - NARALO General assembly in April
   - Reviewing a policy statement drafting program
+
+** Flock conference
+  - Contacted somewhat repeatedly to help with Flock bid in Toronto or southern Ontario
+  - KWLUG bumped the thought to us
+  - It was last in Toronto it was FUDCON in 2006
+  - Hugh and Scott both contacted Chris Tyler at York/Seneca, who has budget to spend on it
+  - Chris Tyler recommends waiting until 2019
+    - York is a giant construction area
+    - Transit mess for now
+  - Ryerson also was contacted somewhat
+
 ** Action Items
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
   - TODO :: Scott - announce the various engagement notes
@@ -127,3 +137,4 @@ published: false
   - TODO :: Stewart - prepping started for April - Document Management
   - TODO :: At next meeting, socialize the items to encourage people to help with
   - TODO :: Myles - to see if Ryerson Student Union would be of interest
+  - TODO :: Lightning talk on LetsEncrypt
