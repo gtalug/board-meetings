@@ -140,3 +140,9 @@ published: false
   - TODO :: Lightning talk on LetsEncrypt
   - TODO :: Chris to add calender "tickle" to ensure we pester people at the apropos time, namely to "tickle" Chris Tyler in October 2018
   - TODO :: Myles to look at pricing and usage of Meetup.com
+  - TODO :: Myles - Investigate doing an enhanced form for speakers that helps describe things
+    - Telling them about useful resources
+    - Reference to Code of Conduct
+    - How to contact us, how we should contact them
+    - Recording requirements/signoff
+    - Encourage them to send a nice blurb
