@@ -20,13 +20,13 @@ published: false
 - Hector Carvagill
 - Amos Weatherill
 - Christopher Browne (board member)
-- Myles Braithwaite (board member)
 - Scott Sullivan (board member)
 - Alex Volkov (board member)
 - Gordon Chillcott
 - Bill Thanis
 *** Present
 *** Absent
+- Myles Braithwaite (board member)
 *** March Board Meeting
   - March 27th at HackLab, assuming availability?
 
