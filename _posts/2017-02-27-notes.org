@@ -135,3 +135,4 @@ published: false
     - Video (Alex)
     - Upgrading Mailman (Alex)
   - NARALO ALS blurb (Stewart)
+  - Gord: Send a congratulatory letter from GTALUG Board to NARALO
