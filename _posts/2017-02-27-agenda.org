@@ -19,7 +19,7 @@ published: true
   - Getting more GTALUG members involved in operations
 - Infrastructure
   - More on redistributing server tech responsibilities
-    - Start with a list of items?
+    - More list of items?
 - Ryerson Engagement
 - Upcoming Meetings
 - ICANN
