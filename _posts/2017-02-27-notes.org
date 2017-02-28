@@ -115,22 +115,18 @@ published: false
  - Gord planning an email for our staff contact and an agenda
 ** ICANN
   - Gord presented a [[../uploads/20170123.jpg][Monthly ICANN Report]]
-  - ARIN Meeting apps
-    - CrowdCompass
-    - Taskforce would also like to test EXO, MeetEcho, Mikago, RocketChat, Slack
-  - New slate of candidates for new Board Member
-  - NARALO General assembly in April
-  - Reviewing a policy statement drafting program
+  - The person we voted for as NARALO chair won the election
 
 ** Flock conference
-  - Contacted somewhat repeatedly to help with Flock bid in Toronto or southern Ontario
-  - KWLUG bumped the thought to us
-  - It was last in Toronto it was FUDCON in 2006
-  - Hugh and Scott both contacted Chris Tyler at York/Seneca, who has budget to spend on it
-  - Chris Tyler recommends waiting until 2019
-    - York is a giant construction area
-    - Transit mess for now
-  - Ryerson also was contacted somewhat
+  - There were thoughts of pulling it in for 2017, but still no...
+  - Relevant parties haven't got bandwidth
+** Media Creation
+  - Scott going to NARALO summit in New Orleans in April
+  - Want a booklet about attending ALSes
+  - Need a page about GTALUG
+    - Blurb of who's GTALUG
+    - Scott can get samples of other ALS's material
+    - Stewart being delegated to generate the blurb
 
 ** Action Items
   - Contact DCB to see if OpenStack would be good for May or June
@@ -138,3 +134,4 @@ published: false
   - Perhaps people should bring up their respective responsible tasks
     - Video (Alex)
     - Upgrading Mailman (Alex)
+  - NARALO ALS blurb (Stewart)

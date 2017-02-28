@@ -23,6 +23,7 @@ published: true
     - More list of items?
 - Ryerson Engagement
 - ICANN
+  - The person we voted for is in...
   - Announcements from Gord
 - Need to delegate Media Creation job
   - Booklet for NARALO summit
