@@ -15,15 +15,17 @@ published: true
 ** Agenda
 
 - Where and when this meeting happens next
+- Upcoming Meetings
 - How other people can help GTALUG
   - Getting more GTALUG members involved in operations
 - Infrastructure
   - More on redistributing server tech responsibilities
     - More list of items?
 - Ryerson Engagement
-- Upcoming Meetings
 - ICANN
   - Announcements from Gord
+- Need to delegate Media Creation job
+  - Booklet for NARALO summit
 
 ** Action Items from Last Month
   - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished

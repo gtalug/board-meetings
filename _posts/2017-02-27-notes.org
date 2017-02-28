@@ -10,52 +10,63 @@ published: false
   - Hacklab
   - 1266 Queen St W, Toronto, ON M6K 1L3
   - <https://goo.gl/maps/OKcij>
+  - Next meeting would be March 27th
     
 ** Attendees
 *** TBD
+*** Present
 - Stewart Russell (board member)
+- Christopher Browne (board member)
+- Scott Sullivan (board member)
+- Alex Volkov (board member)
+- Gordon Chillcott
+- Bill Thanis
+*** Absent
 - Mike Kallies
 - William Park
 - David Collier Brown
 - Hector Carvagill
 - Amos Weatherill
-- Christopher Browne (board member)
 - Myles Braithwaite (board member)
-- Scott Sullivan (board member)
-- Alex Volkov (board member)
-- Gordon Chillcott
-- Bill Thanis
-*** Present
-*** Absent
 *** March Board Meeting
   - March 27th at HackLab, assuming availability?
 
 ** Upcoming Meetings
 *** Q1 2017
 **** February
-  - Evan, hopefully...
+  - Evan, indeed...
+  - First 20 minutes of video were good, then camera went out of commission...
 **** March
   - Lightning talks
-    - Suggested: LetsEncrypt?
+    - Suggested: LetsEncrypt? which might be Myles
+    - 
 
 *** Q2 2017
 **** April
   - Stewart on Document Management
 **** May
-**** June     
+  - DCB on OpenStack
+**** June
+  - Perhaps Marcel on June?
 *** Future / Slush List
   - Docker?
   - Hugh on LibreSwan or whatever...
   - IPv6 in your own network
   - Application areas
     - Ala Graphics panel, Vim, Coin
-       
+  - 3D Printing
+    - Alex has some thoughts...
+
+** Getting Members Involved
+  - Gord thinks he needs to talk with people one on one       
 ** Infrastucture
 *** Linode migration
   - Somewhat good idea to shift to Digital Ocean, it being local and cheaper
   - Decision point: April
   - Overlap should take place May/June
   - Closing down linode in July...
+  - Linode has a cheaper node which we might be able to find suitable
+    - Alex noted this at February meeting
 *** Miscellaneous Infrastructure
  - Mail server
    - bunch of forwarding
@@ -122,22 +133,8 @@ published: false
   - Ryerson also was contacted somewhat
 
 ** Action Items
-  - TODO :: Chris to ask Hugh about LibreSWAN or similar for early 2017, once his renovation distractions have diminished
-  - TODO :: Scott - announce the various engagement notes
-  - TODO :: Myles - Contact Marcel about late Q1 talk
-    - Marcel lives outside Toronto, so better to avoid wintertime in favour of spring
-  - TODO :: Schedule 
-  - TODO :: Scott - remind Evan that our next meeting is Feb 14th
-  - TODO :: Myles - Announce at Feb meeting Lightning talks in March, and try to encourage "fun" talks 
-  - TODO :: Stewart - prepping started for April - Document Management
-  - TODO :: At next meeting, socialize the items to encourage people to help with
-  - TODO :: Myles - to see if Ryerson Student Union would be of interest
-  - TODO :: Lightning talk on LetsEncrypt
-  - TODO :: Chris to add calender "tickle" to ensure we pester people at the apropos time, namely to "tickle" Chris Tyler in October 2018
-  - TODO :: Myles to look at pricing and usage of Meetup.com
-  - TODO :: Myles - Investigate doing an enhanced form for speakers that helps describe things
-    - Telling them about useful resources
-    - Reference to Code of Conduct
-    - How to contact us, how we should contact them
-    - Recording requirements/signoff
-    - Encourage them to send a nice blurb
+  - Contact DCB to see if OpenStack would be good for May or June
+  - Contact Marcel about possibility of May or June
+  - Perhaps people should bring up their respective responsible tasks
+    - Video (Alex)
+    - Upgrading Mailman (Alex)
