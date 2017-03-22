@@ -1,0 +1,107 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 27th March, 2017 at 7:30pm
+
+** Location
+  - Hacklab
+  - 1266 Queen St W, Toronto, ON M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+  - Next meeting would be April 24th
+    
+** Attendees
+*** TBD
+- Stewart Russell (board member)
+- Christopher Browne (board member)
+- Scott Sullivan (board member)
+- Alex Volkov (board member)
+- Gordon Chillcott
+- Bill Thanis
+- Mike Kallies
+- William Park
+- David Collier Brown
+- Hector Carvagill
+- Amos Weatherill
+- Myles Braithwaite (board member)
+*** Present
+*** Absent
+*** April Board Meeting
+  - March 24th at HackLab, assuming availability?
+
+** Upcoming Meetings
+
+*** Q2 2017
+**** April
+  - Stewart on Document Management
+**** May
+  - DCB on OpenStack
+**** June
+  - Perhaps Marcel on June?
+*** Future / Slush List
+  - Docker?
+  - Hugh on LibreSwan or whatever...
+  - IPv6 in your own network
+  - Application areas
+    - Ala Graphics panel, Vim, Coin
+  - 3D Printing
+    - Alex has some thoughts...
+
+** Infrastucture
+*** Linode migration
+  - Somewhat good idea to shift to Digital Ocean, it being local and cheaper
+  - Decision point: April
+  - Overlap should take place May/June
+  - Closing down linode in July...
+  - Linode has a cheaper node which we might be able to find suitable
+    - Alex noted this at February meeting
+*** Miscellaneous Infrastructure
+ - Mail server
+   - bunch of forwarding
+   - Alex has been doing some coverage of this
+   - Look for aliases file
+ - Mailman setup
+   - Mailing list admin 
+ - Basic web site upkeep
+   - ensure PHP apps are on latest versions
+ - Ensure backups are running
+ - Miscellaneous
+   - Notifier process has gotten a bit tooooooo notifying
+   - Script that sends emails for meetings
+     - reads a template and sends it out
+   - PiWiki to show popular web pages
+   - DocuWiki for meeting collaboration
+     - Primarily used for restaurant lists!
+   - GNUSocial is deactivated as it wasn't being used
+   - LetsEncrypt - certificate validation - used to have HTTPS
+     - Needed to do a re-engage process every 3 months
+     - But now it is automatically handled
+     - Myles will be talking with Greg/Alex about handling this
+   - Root email gets read
+   - Server paid for annually
+   - Someone should monitor LogWatch
+     - Perhaps split some services off?
+   - Admin of mailing list (bouncebacks, etc)
+   - Most of this is documented, backed up
+
+** Tasks to have done
+ - Video project - contact Alex
+ - Logo redesign - contact Stewart
+ - General system administration - Greg
+ - ICANN - Gord
+ - Updating Content - Scott
+ - Web site design refresh - Myles
+ - Mailman 3 deployment - Alex
+ - Are we the shape we wanna be? - Stewart
+ - General PR - Myles
+ - Nearby user groups in Southern Ontario - hi@gtalug.org
+
+** Ryerson Issues
+ - Plan to contact [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
+ - Gord planning an email for our staff contact and an agenda
+** ICANN
+
+
+** Action Items

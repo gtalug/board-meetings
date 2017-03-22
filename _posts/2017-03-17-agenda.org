@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 27th March 2017 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen Street West, Toronto, Ontario M6K 1L3
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda
+
+- Where and when this meeting happens next
+- Upcoming Meetings
+- How other people can help GTALUG
+  - Getting more GTALUG members involved in operations
+- Infrastructure
+  - More on redistributing server tech responsibilities
+  - More list of items?
+- Ryerson Engagement
+- ICANN
+  - The person we voted for is in...
+  - Announcements from Gord
+
+** Action Items from Last Month
+  - Contact DCB to see if OpenStack would be good for May or June
+  - Contact Marcel about possibility of May or June
+  - Perhaps people should bring up their respective responsible tasks
+    - Video (Alex)
+    - Upgrading Mailman (Alex)
+  - NARALO ALS blurb (Stewart)
+  - Gord: Send a congratulatory letter from GTALUG Board to NARALO
