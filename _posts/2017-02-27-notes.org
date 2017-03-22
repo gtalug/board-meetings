@@ -103,13 +103,6 @@ published: false
  - Plan to contact [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
  - Gord planning an email for our staff contact and an agenda
 ** ICANN
-  - Gord presented a [[../uploads/20170123.jpg][Monthly ICANN Report]]
-  - ARIN Meeting apps
-    - CrowdCompass
-    - Taskforce would also like to test EXO, MeetEcho, Mikago, RocketChat, Slack
-  - New slate of candidates for new Board Member
-  - NARALO General assembly in April
-  - Reviewing a policy statement drafting program
 
 ** Flock conference
   - Contacted somewhat repeatedly to help with Flock bid in Toronto or southern Ontario
