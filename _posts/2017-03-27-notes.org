@@ -10,14 +10,10 @@ published: false
   - Hacklab
   - 1266 Queen St W, Toronto, ON M6K 1L3
   - <https://goo.gl/maps/OKcij>
-  - Next meeting would be April 24th
+  - Next meeting April 24th
 
 ** Attendees
 *** TBD
-- Stewart Russell (board member)
-- Christopher Browne (board member)
-- Scott Sullivan (board member)
-- Alex Volkov (board member)
 - Gordon Chillcott
 - Bill Thanis
 - Mike Kallies
@@ -25,8 +21,12 @@ published: false
 - David Collier Brown
 - Hector Carvagill
 - Amos Weatherill
-- Myles Braithwaite (board member)
 *** Present
+- Stewart Russell (board member)
+- Christopher Browne (board member)
+- Scott Sullivan (board member)
+- Myles Braithwaite (board member)
+- Alex Volkov (board member)
 *** Absent
 *** April Board Meeting
   - March 24th at HackLab, assuming availability?
@@ -89,4 +89,27 @@ published: false
  - DNSSEC key rollover coming soon
  - Consultant looking into At Large organization, apparently confusingly
 
+** Mailing list issues
+  Wording (from code of conduct) that would be very good to add to the
+  messaging...
+
+  "We assume good intentions and do our best to act in an empathetic
+  fashion." and "we seek to teach people how to improve themselves
+  rather than to quickly exclude them for their misunderstandings or
+  mistakes."
+
+  - Musing on what to do about this...
+    - Agreement is to moderate him for three months
+    - Should let R know which message led to the concern
+    - With some revised wording
+    - Response to G...
+      - We have considered the matter
+      - We appreciate your comments
+      - We have decided to hold his messages for moderation for a period of time
+  
+  - Future policy
+    - If moderation gets applied, then please be sure to forward email to the Board
+
 ** Action Items
+  - TODO - Myles to do moderation change
+  - TODO - In June, turn off moderation
