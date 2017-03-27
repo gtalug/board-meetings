@@ -24,8 +24,6 @@ published: true
   - More list of items?
 - Ryerson Engagement
 - ICANN
-  - The person we voted for is in...
-  - Announcements from Gord
 
 ** Action Items from Last Month
   - Contact DCB to see if OpenStack would be good for May or June

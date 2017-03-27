@@ -85,6 +85,8 @@ published: false
  - Plan to contact [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
  - Gord planning an email for our staff contact and an agenda
 ** ICANN
-
+ - ICANN 57 in Copenhagen
+ - DNSSEC key rollover coming soon
+ - Consultant looking into At Large organization, apparently confusingly
 
 ** Action Items
