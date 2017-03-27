@@ -30,25 +30,8 @@ published: false
 *** Absent
 *** April Board Meeting
   - March 24th at HackLab, assuming availability?
-
 ** Upcoming Meetings
-
-*** Q2 2017
-**** April
-  - Stewart on Document Management
-**** May
-  - DCB on OpenStack
-**** June
-  - Perhaps Marcel on June?
-*** Future / Slush List
-  - Docker?
-  - Hugh on LibreSwan or whatever...
-  - IPv6 in your own network
-  - Application areas
-    - Ala Graphics panel, Vim, Coin
-  - 3D Printing
-    - Alex has some thoughts...
-
+  - See <https://wiki.gtalug.org/operations:meeting:start>
 ** Infrastucture
 *** Linode migration
   - Somewhat good idea to shift to Digital Ocean, it being local and cheaper
