@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes"
-published: false
+published: true
 ---
 
 * 27th February, 2017 at 7:30pm
@@ -11,7 +11,7 @@ published: false
   - 1266 Queen St W, Toronto, ON M6K 1L3
   - <https://goo.gl/maps/OKcij>
   - Next meeting would be March 27th
-    
+
 ** Attendees
 *** TBD
 *** Present
@@ -39,7 +39,7 @@ published: false
 **** March
   - Lightning talks
     - Suggested: LetsEncrypt? which might be Myles
-    - 
+    -
 
 *** Q2 2017
 **** April
@@ -58,7 +58,7 @@ published: false
     - Alex has some thoughts...
 
 ** Getting Members Involved
-  - Gord thinks he needs to talk with people one on one       
+  - Gord thinks he needs to talk with people one on one
 ** Infrastucture
 *** Linode migration
   - Somewhat good idea to shift to Digital Ocean, it being local and cheaper
@@ -73,7 +73,7 @@ published: false
    - Alex has been doing some coverage of this
    - Look for aliases file
  - Mailman setup
-   - Mailing list admin 
+   - Mailing list admin
  - Basic web site upkeep
    - ensure PHP apps are on latest versions
  - Ensure backups are running

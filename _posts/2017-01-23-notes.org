@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes"
-published: false
+published: true
 ---
 
 * 23rd January, 2017 at 7:30pm
@@ -10,7 +10,7 @@ published: false
   - Hacklab
   - 1266 Queen St W, Toronto, ON M6K 1L3
   - <https://goo.gl/maps/OKcij>
-    
+
 ** Attendees
 *** TBD
 *** Present
@@ -43,14 +43,14 @@ published: false
 **** April
   - Stewart on Document Management
 **** May
-**** June     
+**** June
 *** Future / Slush List
   - Docker?
   - Hugh on LibreSwan or whatever...
   - IPv6 in your own network
   - Application areas
     - Ala Graphics panel, Vim, Coin
-       
+
 ** Infrastucture
 *** Linode migration
   - Somewhat good idea to shift to Digital Ocean, it being local and cheaper
@@ -66,7 +66,7 @@ published: false
         - Alex has been doing some coverage of this
         - Look for aliases file in backups
       - Mailman setup
-        - Mailing list admin 
+        - Mailing list admin
       - Basic web site upkeep
         - ensure PHP apps are on latest versions
       - Ensure backups are running
@@ -131,9 +131,9 @@ published: false
   - TODO :: Scott - announce the various engagement notes
   - TODO :: Myles - Contact Marcel about late Q1 talk
     - Marcel lives outside Toronto, so better to avoid wintertime in favour of spring
-  - TODO :: Schedule 
+  - TODO :: Schedule
   - TODO :: Scott - remind Evan that our next meeting is Feb 14th
-  - TODO :: Myles - Announce at Feb meeting Lightning talks in March, and try to encourage "fun" talks 
+  - TODO :: Myles - Announce at Feb meeting Lightning talks in March, and try to encourage "fun" talks
   - TODO :: Stewart - prepping started for April - Document Management
   - TODO :: At next meeting, socialize the items to encourage people to help with
   - TODO :: Myles - to see if Ryerson Student Union would be of interest

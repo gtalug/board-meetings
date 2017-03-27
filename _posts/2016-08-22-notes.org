@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes"
-published: false
+published: true
 ---
 
 * 22nd August, 2016 at 7:30pm
@@ -68,7 +68,7 @@ published: false
   - DaveCB: Linux TCP/IP, by himself.
   - Docker?
   - Isaac Connor, ZoneMinder :: A video surveillance system running on Linux
-       
+
 ** Infrastucture
   - Problem with HDMI cable
   - Not 100% clear what the failure case
@@ -88,7 +88,7 @@ published: false
  - Poking a bit at post-meeting bar accessibility
    - Imperial Pub isn't
    - Not many good options, alas
- - Added wording for meeting accessibility that will go into the web site soon   
+ - Added wording for meeting accessibility that will go into the web site soon
 ** ICANN
  - Report from Gord - see full details if desired...
    - IANA issues on transition of stewardship of IANA function
