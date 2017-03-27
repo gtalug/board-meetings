@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agenda"
-published: true
+published: false
 ---
 
 * 22nd October 2018 at 7:30pm
