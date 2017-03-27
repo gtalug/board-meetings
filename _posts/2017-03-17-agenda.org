@@ -16,6 +16,7 @@ published: true
 
 - Where and when this meeting happens next
 - Upcoming Meetings
+- Results from Myles' Informal Survey
 - How other people can help GTALUG
   - Getting more GTALUG members involved in operations
 - Infrastructure
