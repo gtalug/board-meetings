@@ -80,7 +80,7 @@ published: false
  - Are we the shape we wanna be? - Stewart
  - General PR - Myles
  - Nearby user groups in Southern Ontario - hi@gtalug.org
-
+   
 ** Ryerson Issues
  - Plan to contact [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
  - Gord planning an email for our staff contact and an agenda
@@ -120,6 +120,13 @@ published: false
   - Mailman 3 remedies some Yahoo/Outlook issues
   - But Mailman 3 isn't integrated by any of the major distributions
 
+** Informal Study
+  - About 8-10 respondents
+  - People quite happy with talks
+  - Wouldn't want very frequent lightning talks, though they really liked them
+
 ** Action Items
   - TODO - Myles to do moderation change
   - TODO - In June, turn off moderation
+  - TODO - Myles to throw up some feedback on the list of major projects
+  - TODO - Linode Pricing due for April meeting
