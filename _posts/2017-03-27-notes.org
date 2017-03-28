@@ -110,6 +110,16 @@ published: false
   - Future policy
     - If moderation gets applied, then please be sure to forward email to the Board
 
+** Mailing list 2
+  Hugh had some comments
+
+  - March 14th, a tome on how Mailman is remapping data into Base64
+  - It's because of a Mailman/Python thing
+  - We could remedy it via removing the message footer
+  - Largely because of Yahoo and Outlook
+  - Mailman 3 remedies some Yahoo/Outlook issues
+  - But Mailman 3 isn't integrated by any of the major distributions
+
 ** Action Items
   - TODO - Myles to do moderation change
   - TODO - In June, turn off moderation
