@@ -7,12 +7,23 @@ published: false
 * 24th April, 2017 at 7:30pm
 
 ** Location
+  Hacklab
 
 ** Agenda
 
+- Upcoming Meetings
 - Infrastructure
   - Hosting provider - Need to think about vendor migration if desired
   - Look back to notes from April 2016 for previous discussion
 - Linux in the Park
+  - Planning starts...
+  - Perhaps as simple as starting up wiki page, looking at some dates to see about intersections with regional events
+- Ryerson Engagement
+- ICANN
+- Mailing List
 
 ** Action Items from Last Month
+  - TODO - Myles to do moderation change
+  - TODO - In June, turn off moderation
+  - TODO - Myles to throw up some feedback on the list of major projects
+  - TODO - Linode Pricing due for April meeting
