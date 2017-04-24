@@ -83,6 +83,11 @@ published: true
 
 ** Mailing list issues
  - Any new news on moderation policy?
+ - Some testing of waters on timings of moderation activities
+ - Nothing much more...
 
 ** Action Items
- - TODO :: Stewart to find the by-weekend events in July/August
+  - TODO :: Stewart to find the by-weekend events in July/August
+  - TODO :: In June, turn off moderation
+  - TODO :: Myles to throw up some feedback on the list of major projects
+  - TODO :: Perhaps turn off mailing list moderation at next meeting

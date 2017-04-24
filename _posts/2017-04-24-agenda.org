@@ -23,7 +23,7 @@ published: true
 - Mailing List
 
 ** Action Items from Last Month
-  - TODO - Myles to do moderation change
+  - DONE - Myles to do moderation change
   - TODO - In June, turn off moderation
   - TODO - Myles to throw up some feedback on the list of major projects
   - TODO - Linode Pricing due for April meeting
