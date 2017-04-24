@@ -85,3 +85,4 @@ published: true
  - Any new news on moderation policy?
 
 ** Action Items
+ - TODO :: Stewart to find the by-weekend events in July/August
