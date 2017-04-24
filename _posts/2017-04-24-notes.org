@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes"
-published: false
+published: true
 ---
 
 * 24th April, 2017 at 7:30pm
@@ -13,11 +13,6 @@ published: false
   - Next meeting May 29th, probably?
 ** Attendees
 *** TBD
-- Stewart Russell (board member)
-- Christopher Browne (board member)
-- Scott Sullivan (board member)
-- Myles Braithwaite (board member)
-- Alex Volkov (board member)
 - Gordon Chillcott
 - Bill Thanis
 - Mike Kallies
@@ -26,6 +21,11 @@ published: false
 - Hector Carvagill
 - Amos Weatherill
 *** Present
+- Stewart Russell (board member)
+- Christopher Browne (board member)
+- Scott Sullivan (board member)
+- Myles Braithwaite (board member)
+- Alex Volkov (board member)
 *** Absent
 *** May Board Meeting
   - May 29th at HackLab, assuming availability?

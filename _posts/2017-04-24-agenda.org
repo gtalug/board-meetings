@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agenda"
-published: false
+published: true
 ---
 
 * 24th April, 2017 at 7:30pm
