@@ -84,7 +84,20 @@ published: true
 ** Ryerson Issues
  - Plan to contact [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
  - Gord planning an email for our staff contact and an agenda
+ - Nothing new to report
+
 ** ICANN
+ - Scott has a wee report
+   - This month GTALUG participated in NARALO
+   - NARALO had a regional assembly, first in several years
+   - Not much procedurally
+   - Cleaning up bylaws and charter
+   - ARIN had some attention
+     - Streamlining transfers of IPv4 addresses
+     - ComCast, Akamai talked on IPv6 deployments
+     - Settop TV boxes on ComCast are all IPv6
+     - Some streamlining of proposal submissions
+     - Advisory counsel working on this
 
 ** Mailing list issues
  - Any new news on moderation policy?
@@ -93,6 +106,7 @@ published: true
 
 ** Action Items
   - TODO :: Stewart to find the by-weekend events in July/August in support of LITP
+  - TODO :: Chris to attach Stewart's notes to these notes
   - TODO :: In June, turn off moderation
   - TODO :: Myles to throw up some feedback on the list of major projects
   - TODO :: Perhaps turn off mailing list moderation at next meeting
