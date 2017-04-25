@@ -98,6 +98,7 @@ published: true
      - Settop TV boxes on ComCast are all IPv6
      - Some streamlining of proposal submissions
      - Advisory counsel working on this
+     - Very good to have this colocation of ARIN
 
 ** Mailing list issues
  - Any new news on moderation policy?
