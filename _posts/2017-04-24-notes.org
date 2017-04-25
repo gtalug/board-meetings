@@ -31,6 +31,7 @@ published: true
   - May 29th at HackLab, assuming availability?
 ** Upcoming Meetings
   - See <https://wiki.gtalug.org/operations:meeting:start>
+  - Added to the slushlist a bit...
 ** Infrastucture
 *** Linode migration
   - Somewhat good idea to shift to Digital Ocean, it being local and cheaper
@@ -39,6 +40,10 @@ published: true
   - Closing down linode in July...
   - Linode has a cheaper node which we might be able to find suitable
     - Alex noted this at February meeting
+    - This cheaper plan is still there...
+    - Probably need to establish a new node, and migrate services over to it...
+  - Need to start the migration June 13th
+
 *** Miscellaneous Infrastructure
  - Mailman setup
    - Mailing list admin
@@ -87,8 +92,9 @@ published: true
  - Nothing much more...
 
 ** Action Items
-  - TODO :: Stewart to find the by-weekend events in July/August
+  - TODO :: Stewart to find the by-weekend events in July/August in support of LITP
   - TODO :: In June, turn off moderation
   - TODO :: Myles to throw up some feedback on the list of major projects
   - TODO :: Perhaps turn off mailing list moderation at next meeting
   - TODO :: Scott to put May 29th meeting on Hacklab calendar
+  - TODO :: Setting up new GTALUG instance June 13th
