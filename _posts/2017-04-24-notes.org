@@ -104,6 +104,42 @@ published: true
  - Some testing of waters on timings of moderation activities
  - Nothing much more...
 
+** Linux in the Park
+
+Would typically be July 22, but will the weather be too hot?
+
+*** Saturdays 2017
+
+* June 3 - 
+* June 10 - 
+* June 17 - 
+* June 24 - 
+* July 1 - 
+* July 8 - 
+* July 15 - 
+* July 22 - 
+* July 29 - 
+* August 5 - 
+* August 12 - 
+* August 19 - 
+* August 26 - 
+
+*** Major Events 2017
+
+* June 3 - Pride
+* June 10 - Pride
+* June 17 - Pride ; Luminato ; Taste of Toronto ; NXNE
+* June 24 - Pride ; Luminato ; NXNE ; Jazz Fest
+* July 1 - CANADA DAY ; Jazz Fest ; Waterfront
+* July 8 - Salsa Festival ; Dreams EDM Fest ; Toronto Fringe ; Summerlicious ; Beaches Jazz Fest
+* July 15 - Salsa Festival ; Toronto Fringe ; Summerlicious ; Beaches Jazz Fest ; Caribbean Carnival ; Outdoor Art Expo ; Indy ; Summer Music
+* July 22 - Salsa Festival ; Summerlicious ; Beaches Jazz Fest ; Caribbean Carnival ; Summer Music
+* July 29 - Beaches Jazz Fest ; Caribbean Carnival ; Beer Fest
+* August 5 - Summer Music ; Rogers Cup
+* August 12 - Rogers Cup ; Taste of the Danforth
+* August 19 - CNE
+* August 26 - CNE
+
 ** Action Items
   - TODO :: Stewart to find the by-weekend events in July/August in support of LITP
   - TODO :: Chris to attach Stewart's notes to these notes
