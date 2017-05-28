@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 29th May, 2017 at 7:30pm
+
+** Location
+  Hacklab
+
+** Agenda
+
+- Upcoming Meetings
+- Infrastructure
+  - Hosting provider - Need to think about vendor migration if desired
+  - Look back to notes from April 2016 for previous discussion
+- Linux in the Park
+  - Planning starts...
+  - Perhaps as simple as starting up wiki page, looking at some dates to see about intersections with regional events
+- Ryerson Engagement
+- ICANN
+- Mailing List
+
+** Action Items from Last Month
+  - Done :: Stewart to find the by-weekend events in July/August in support of LITP
+  - TODO :: In June, turn off moderation
+  - TODO :: Myles to throw up some feedback on the list of major projects
+  - TODO :: Perhaps turn off mailing list moderation at next meeting
+  - TODO :: Scott to put May 29th meeting on Hacklab calendar
+  - TODO :: Setting up new GTALUG instance June 13th
