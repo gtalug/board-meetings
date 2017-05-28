@@ -143,7 +143,6 @@ Would typically be July 22, but will the weather be too hot?
 
 ** Action Items
   - TODO :: Stewart to find the by-weekend events in July/August in support of LITP
-  - TODO :: Chris to attach Stewart's notes to these notes
   - TODO :: In June, turn off moderation
   - TODO :: Myles to throw up some feedback on the list of major projects
   - TODO :: Perhaps turn off mailing list moderation at next meeting
