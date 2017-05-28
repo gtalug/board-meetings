@@ -17,7 +17,6 @@ published: true
   - Look back to notes from April 2016 for previous discussion
 - Linux in the Park
   - Planning starts...
-  - Perhaps as simple as starting up wiki page, looking at some dates to see about intersections with regional events
 - Ryerson Engagement
 - ICANN
 - Mailing List
