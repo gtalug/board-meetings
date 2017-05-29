@@ -86,6 +86,10 @@ published: true
  - Nothing new to report
 
 ** ICANN
+ - Gord issued a report
+ - Some discussion of External Reviewer's report
+ - Tech Task Force :: Some connectivity issues with Adobe Connect
+ - Policy Statement Drafting Program :: Samples generated, reported on by Gord
 
 ** Mailing list issues
 
