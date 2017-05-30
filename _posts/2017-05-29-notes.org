@@ -96,6 +96,7 @@ published: true
  - Someone was taken off moderation
  - No new acting up, is good
  - Needed to moderate someone due to getting some third party spam through someone on the list
+ - Probably should report in the fall on there having been some moderation done
 
 ** Linux in the Park
 
