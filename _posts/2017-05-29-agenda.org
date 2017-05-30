@@ -28,3 +28,4 @@ published: true
   - TODO :: Perhaps turn off mailing list moderation at next meeting
   - TODO :: Scott to put May 29th meeting on Hacklab calendar
   - TODO :: Setting up new GTALUG instance June 13th
+  - TODO :: Chris to pester Hugh about a talk

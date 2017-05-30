@@ -14,18 +14,18 @@ published: true
 ** Attendees
 *** TBD
 - Gordon Chillcott
-- Bill Thanis
 - Mike Kallies
 - William Park
 - David Collier Brown
 - Hector Carvagill
 - Amos Weatherill
 - Stewart Russell (board member)
+- Alex Volkov (board member)
+*** Present
+- Bill Thanis
 - Christopher Browne (board member)
 - Scott Sullivan (board member)
 - Myles Braithwaite (board member)
-- Alex Volkov (board member)
-*** Present
 *** Absent
 *** June Board Meeting
   - June 26th at HackLab, assuming availability?
@@ -93,8 +93,14 @@ published: true
 
 ** Mailing list issues
 
+ - Someone was taken off moderation
+ - No new acting up, is good
+ - Needed to moderate someone due to getting some third party spam through someone on the list
+
 ** Linux in the Park
 
-Would typically be July 22, but will the weather be too hot?
+  Would typically be July 22, but will the weather be too hot?
 
 ** Action Items
+  - TODO :: Scott to schedule June 26th Board meeting
+  - TODO 
