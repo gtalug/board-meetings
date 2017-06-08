@@ -4,13 +4,12 @@ title: "Notes"
 published: true
 ---
 
-* 29th May, 2017 at 7:30pm
+* 26th June, 2017 at 7:30pm
 
 ** Location
   - Hacklab
   - 1266 Queen St W, Toronto, ON M6K 1L3
   - <https://goo.gl/maps/OKcij>
-  - Next meeting May 29th, probably?
 ** Attendees
 *** TBD
 - Gordon Chillcott
@@ -21,14 +20,14 @@ published: true
 - Amos Weatherill
 - Stewart Russell (board member)
 - Alex Volkov (board member)
-*** Present
 - Bill Thanis
 - Christopher Browne (board member)
 - Scott Sullivan (board member)
 - Myles Braithwaite (board member)
+*** Present
 *** Absent
-*** June Board Meeting
-  - June 26th at HackLab, assuming availability
+*** July Board Meeting
+  - Next meeting July 24th, probably, or perhaps July 31st?
 ** Upcoming Meetings
   - See <https://wiki.gtalug.org/operations:meeting:start>
 ** Infrastucture
@@ -42,7 +41,6 @@ published: true
     - This cheaper plan is still there...
     - Probably need to establish a new node, and migrate services over to it...
   - Need to start the migration June 13th
-
 *** Miscellaneous Infrastructure
  - Mailman setup
    - Mailing list admin
@@ -86,22 +84,9 @@ published: true
  - Nothing new to report
 
 ** ICANN
- - Gord issued a report
- - Some discussion of External Reviewer's report
- - Tech Task Force :: Some connectivity issues with Adobe Connect
- - Policy Statement Drafting Program :: Samples generated, reported on by Gord
-
 ** Mailing list issues
-
- - Someone was taken off moderation
- - No new acting up, is good
- - Needed to moderate someone due to getting some third party spam through someone on the list
- - Probably should report in the fall on there having been some moderation done
-
 ** Linux in the Park
-
   Would typically be July 22, but will the weather be too hot?
 
 ** Action Items
-  - TODO :: Scott to schedule June 26th Board meeting
 

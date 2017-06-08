@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 26th June, 2017 at 7:30pm
+
+** Location
+  Hacklab
+
+** Agenda
+
+- Upcoming Meetings
+- Infrastructure
+  - Hosting provider - Need to think about vendor migration if desired
+  - Look back to notes from April 2016 for previous discussion
+- Linux in the Park
+  - Planning starts...
+- Ryerson Engagement
+- ICANN
+
+** Action Items from Last Month
+  - TODO :: Scott to schedule June 26th Board meeting
