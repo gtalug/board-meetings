@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes"
-published: false
+published: true
 ---
 
 * 27th March, 2017 at 7:30pm
@@ -80,7 +80,7 @@ published: false
  - Are we the shape we wanna be? - Stewart
  - General PR - Myles
  - Nearby user groups in Southern Ontario - hi@gtalug.org
-   
+
 ** Ryerson Issues
  - Plan to contact [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
  - Gord planning an email for our staff contact and an agenda
@@ -106,7 +106,7 @@ published: false
       - We have considered the matter
       - We appreciate your comments
       - We have decided to hold his messages for moderation for a period of time
-  
+
   - Future policy
     - If moderation gets applied, then please be sure to forward email to the Board
 
