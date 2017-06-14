@@ -1,92 +1,41 @@
 ---
 layout: post
 title: "Notes"
-published: true
+published: false
 ---
 
-* 26th June, 2017 at 7:30pm
+* 26 June 2017 at 7:30pm
 
 ** Location
-  - Hacklab
-  - 1266 Queen St W, Toronto, ON M6K 1L3
+
+- Hacklab
+  - 1266 Queen St. West Suite #6
   - <https://goo.gl/maps/OKcij>
+
 ** Attendees
-*** TBD
-- Gordon Chillcott
-- Mike Kallies
-- William Park
-- David Collier Brown
-- Hector Carvagill
-- Amos Weatherill
-- Stewart Russell (board member)
-- Alex Volkov (board member)
-- Bill Thanis
-- Christopher Browne (board member)
-- Scott Sullivan (board member)
-- Myles Braithwaite (board member)
-*** Present
-*** Absent
-*** July Board Meeting
-  - Next meeting July 24th, probably, or perhaps July 31st?
-** Upcoming Meetings
-  - See <https://wiki.gtalug.org/operations:meeting:start>
-** Infrastucture
-*** Linode migration
-  - Somewhat good idea to shift to Digital Ocean, it being local and cheaper
-  - Decision point: April
-  - Overlap should take place May/June
-  - Closing down linode in July...
-  - Linode has a cheaper node which we might be able to find suitable
-    - Alex noted this at February meeting
-    - This cheaper plan is still there...
-    - Probably need to establish a new node, and migrate services over to it...
-  - Need to start the migration June 13th
-*** Miscellaneous Infrastructure
- - Mailman setup
-   - Mailing list admin
- - Basic web site upkeep
-   - ensure PHP apps are on latest versions
- - Ensure backups are running
- - Miscellaneous
-   - Notifier process has gotten a bit tooooooo notifying
-   - Script that sends emails for meetings
-     - reads a template and sends it out
-   - PiWiki to show popular web pages
-   - DocuWiki for meeting collaboration
-     - Primarily used for restaurant lists!
-   - GNUSocial is deactivated as it wasn't being used
-   - LetsEncrypt - certificate validation - used to have HTTPS
-     - Needed to do a re-engage process every 3 months
-     - But now it is automatically handled
-     - Myles will be talking with Greg/Alex about handling this
-   - Root email gets read
-   - Server paid for annually
-   - Someone should monitor LogWatch
-     - Perhaps split some services off?
-   - Admin of mailing list (bouncebacks, etc)
-   - Most of this is documented, backed up
 
-** Tasks to have done
- - Video project - contact Alex
- - Logo redesign - contact Stewart
- - General system administration - Greg
- - ICANN - Gord
- - Updating Content - Scott
- - Web site design refresh - Myles
- - Mailman 3 deployment - Alex
- - Are we the shape we wanna be? - Stewart
- - General PR - Myles
- - Nearby user groups in Southern Ontario - hi@gtalug.org
-   
-** Ryerson Issues
- - Plan to contact [[https://cscu.scs.ryerson.ca/executive-2016-2017/][CS student executive at Student Union]]
- - Gord planning an email for our staff contact and an agenda
- - Nothing new to report
+- TBD
+  - Gordon Chillcott
+  - Mike Kallies
+  - William Park
+  - David Collier Brown
+  - Hector Carvagill
+  - Amos Weatherill
+  - Stewart Russell (board member)
+  - Alex Volkov (board member)
+  - Bill Thanis
+  - Christopher Browne (board member)
+  - Scott Sullivan (board member)
+  - Myles Braithwaite (board member)
+- Present
+- Absent
 
-** ICANN
-** Mailing list issues
-** Linux in the Park
-  Would typically be July 22, but will the weather be too hot?
+** Topics
+
+*** Upcoming Meetings
+
+*** Linux in the Park (22 July @ 2pm)
+
+*** "Heckling" at GTALUG
 
 ** Action Items
-
