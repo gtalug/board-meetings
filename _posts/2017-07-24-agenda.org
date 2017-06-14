@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agenda"
-published: true
+published: false
 ---
 
 * 26 June 2017 at 7:30pm
@@ -15,10 +15,6 @@ published: true
 ** Topics
 
 *** Upcoming Meetings
-
-*** Linux in the Park (22 July @ 2pm)
-
-*** "Heckling" at GTALUG
 
 *** Write next month's agenda.
 
