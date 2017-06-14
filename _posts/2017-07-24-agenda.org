@@ -8,7 +8,7 @@ published: false
 
 ** Location
 
-- Hacklab
+- HackLab.TO
   - 1266 Queen St. West Suite #6
   - <https://goo.gl/maps/OKcij>
 
