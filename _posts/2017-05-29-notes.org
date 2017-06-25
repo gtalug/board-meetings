@@ -28,7 +28,7 @@ published: true
 - Myles Braithwaite (board member)
 *** Absent
 *** June Board Meeting
-  - June 26th at HackLab, assuming availability?
+  - June 26th at HackLab, assuming availability
 ** Upcoming Meetings
   - See <https://wiki.gtalug.org/operations:meeting:start>
 ** Infrastucture
@@ -104,4 +104,4 @@ published: true
 
 ** Action Items
   - TODO :: Scott to schedule June 26th Board meeting
-  - TODO 
+
