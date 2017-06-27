@@ -23,11 +23,7 @@ published: false
   - Myles Braithwaite (board member)
 - Absent
   - Gordon Chillcott
-  - Mike Kallies
-  - William Park
   - David Collier Brown
-  - Hector Carvagill
-  - Amos Weatherill
   - Stewart Russell (board member)
 
 ** Topics
@@ -45,8 +41,10 @@ published: false
  - Need some help on cleanup both before and after
  - Using wiki to collect logistical planning
 
-*** "Heckling" at GTALUG
+*** Audience Interruptions at GTALUG
+ - Surfeit of audience interruptions
+ - Myles to do a "On Asking Questions" talk at next meeting
+ - Planning to have 2 people monitoring for this
 
 ** Action Items
  - LITP announcement
- 
