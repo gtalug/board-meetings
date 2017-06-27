@@ -15,6 +15,13 @@ published: false
 ** Attendees
 
 - TBD
+- Present
+  - Alex Volkov (board member)
+  - Bill Thanis
+  - Christopher Browne (board member)
+  - Scott Sullivan (board member)
+  - Myles Braithwaite (board member)
+- Absent
   - Gordon Chillcott
   - Mike Kallies
   - William Park
@@ -22,20 +29,24 @@ published: false
   - Hector Carvagill
   - Amos Weatherill
   - Stewart Russell (board member)
-  - Alex Volkov (board member)
-  - Bill Thanis
-  - Christopher Browne (board member)
-  - Scott Sullivan (board member)
-  - Myles Braithwaite (board member)
-- Present
-- Absent
 
 ** Topics
 
 *** Upcoming Meetings
 
+ - This quarter covered
+ - Some decent coverage of near future
+
 *** Linux in the Park (22 July @ 2pm)
+ - At Hacklab
+ - BBQ available
+   - Check on propane
+ - Potluck
+ - Need some help on cleanup both before and after
+ - Using wiki to collect logistical planning
 
 *** "Heckling" at GTALUG
 
 ** Action Items
+ - LITP announcement
+ 
