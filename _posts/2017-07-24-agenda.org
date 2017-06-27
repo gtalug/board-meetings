@@ -25,6 +25,3 @@ published: true
 - Action Items
 
 ** Action Items from Last Month
-
-- TODO :: Alex & Myles to work on migrated penguin.
-- TODO :: Scott to talk with Av about booking the HackLab for Linux in the Park.
