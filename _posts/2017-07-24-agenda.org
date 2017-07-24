@@ -18,9 +18,8 @@ published: true
  - Upcoming Meetings
  - Linux in the Park (22 July @ 2pm)
  - ICANN material from Gord
-
  - Going over Myles' list of tasks: <https://wiki.gtalug.org/user:myles:tasks>
-
+ - promotion of events / event management - the meetup.com question
  - Write next month's agenda.
    - Location
    - Topics
