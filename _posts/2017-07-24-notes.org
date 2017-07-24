@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 24 July 2017 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen St. West Suite #6
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+- TBD
+  - Gordon Chillcott
+  - David Collier Brown
+  - Stewart Russell (board member)
+  - Bill Thanis
+  - Scott Sullivan (board member)
+  - Myles Braithwaite (board member)
+- Present
+  - Christopher Browne (board member)
+- Absent
+  - Alex Volkov (board member)
+
+** Topics
+
+*** Upcoming Meetings
+
+*** Linux in the Park (22 July @ 2pm)
+ - Aftermath
+
+*** Audience Interruptions at GTALUG
+ - Surfeit of audience interruptions
+ - Myles to do a "On Asking Questions" talk at next meeting
+ - Planning to have 2 people monitoring for this
+
+*** ICANN
+ - Gord presented notes
+ - Atlas 2 coming soon
+ - WHOIS data undergoing active work, spurred by EU privacy legislation
+ - At large review
+ - NARALO - selecting a delegate for Abu Dabi meeting
+
+** Action Items
+ - LITP announcement

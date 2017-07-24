@@ -12,16 +12,16 @@ published: true
   - 1266 Queen St. West Suite #6
   - <https://goo.gl/maps/OKcij>
 
-** Topics
+** Agenda Topics
 
-*** Upcoming Meetings
+ - Next Ops Meeting
+ - Upcoming Meetings
+ - Linux in the Park (22 July @ 2pm)
+ - ICANN material from Gord
 
-*** Linux in the Park (22 July @ 2pm)
-
-*** Write next month's agenda.
-
-- Location
-- Topics
-- Action Items
+ - Write next month's agenda.
+   - Location
+   - Topics
+   - Action Items
 
 ** Action Items from Last Month
