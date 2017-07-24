@@ -28,6 +28,15 @@ published: false
 
 ** Topics
 
+*** Meetup.com
+
+- SR isn't in favour of doing meetup.com
+    - good for managing the meeting
+    - issues with admin spamming
+    - good for SEO but way to much interest with little attendence
+- consences is it's a good idea but not worth the money spent
+- needs to be in the relm of regular activity
+
 *** Upcoming Meetings
 
 *** Linux in the Park (22 July @ 2pm)
