@@ -19,12 +19,12 @@ published: false
   - Scott Sullivan (board member)
   - Stewart Russell (board member)
   - Gordon Chillcott
+  - Christopher Browne (board member)
 
 - Absent
   - Alex Volkov (board member)
   - Bill Thanis
   - David Collier Brown
-  - Christopher Browne (board member)
 
 ** Topics
 
