@@ -18,9 +18,10 @@ published: true
  - Upcoming Meetings
  - Linux in the Park (22 July @ 2pm)
  - ICANN material from Gord
- - meetup.com re-emerges
+ - promotion of events / event management - the meetup.com question
    - Some suggesting /it doesn't exist unless it's on meetup.com/
    - Others (KW NonProfit Sysadmin Group) think it's too expensive as they have 249 "members" but rarely more than 10 attendees
+ - Going over Myles' list of tasks: <https://wiki.gtalug.org/user:myles:tasks>
  - Write next month's agenda.
    - Location
    - Topics
