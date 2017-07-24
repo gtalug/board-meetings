@@ -18,7 +18,9 @@ published: true
  - Upcoming Meetings
  - Linux in the Park (22 July @ 2pm)
  - ICANN material from Gord
-
+ - meetup.com re-emerges
+   - Some suggesting /it doesn't exist unless it's on meetup.com/
+   - Others (KW NonProfit Sysadmin Group) think it's too expensive as they have 249 "members" but rarely more than 10 attendees
  - Write next month's agenda.
    - Location
    - Topics
