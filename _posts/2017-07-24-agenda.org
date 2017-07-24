@@ -19,6 +19,8 @@ published: true
  - Linux in the Park (22 July @ 2pm)
  - ICANN material from Gord
 
+ - Going over Myles' list of tasks: <https://wiki.gtalug.org/user:myles:tasks>
+
  - Write next month's agenda.
    - Location
    - Topics
