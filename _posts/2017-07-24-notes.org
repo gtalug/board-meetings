@@ -14,17 +14,17 @@ published: false
 
 ** Attendees
 
-- TBD
-  - Gordon Chillcott
-  - David Collier Brown
-  - Stewart Russell (board member)
-  - Bill Thanis
-  - Scott Sullivan (board member)
-  - Myles Braithwaite (board member)
 - Present
-  - Christopher Browne (board member)
+  - Myles Braithwaite (board member)
+  - Scott Sullivan (board member)
+  - Stewart Russell (board member)
+  - Gordon Chillcott
+
 - Absent
   - Alex Volkov (board member)
+  - Bill Thanis
+  - David Collier Brown
+  - Christopher Browne (board member)
 
 ** Topics
 
