@@ -31,11 +31,11 @@ published: false
 *** Meetup.com
 
 - SR isn't in favour of doing meetup.com
-    - good for managing the meeting
-    - issues with admin spamming
-    - good for SEO but way to much interest with little attendence
-- consences is it's a good idea but not worth the money spent
-- needs to be in the relm of regular activity
+  - good for managing the meeting
+  - issues with admin spamming
+  - good for SEO but way to much interest with little attendence
+- consensus is it's a neat idea but not worth the money spent
+- needs to be in the realm of regular activity
 
 *** Upcoming Meetings
  - Next quarter is planned
@@ -45,14 +45,9 @@ published: false
  - Aftermath
  - Location well liked
  - Decent turnout including some new people given cloudy weather
- - Should have publicized more heavily
- - Better BBQ was way better
+ - Should have publicized more heavily at the start of June
+ - Better BBQ hardware was way better
  - Can have a wider diversity of Tasty Beverages in private space
-*** Audience Interruptions at GTALUG
- - Surfeit of audience interruptions
- - Myles to do a "On Asking Questions" talk at next meeting
- - Planning to have 2 people monitoring for this
-
 *** ICANN
  - Gord presented notes
  - Atlas 2 coming soon
