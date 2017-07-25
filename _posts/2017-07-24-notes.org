@@ -38,10 +38,16 @@ published: false
 - needs to be in the relm of regular activity
 
 *** Upcoming Meetings
-
+ - Next quarter is planned
+ - Some meta discussions about video
+   - Would be nice for it to be more publicized
 *** Linux in the Park (22 July @ 2pm)
  - Aftermath
-
+ - Location well liked
+ - Decent turnout including some new people given cloudy weather
+ - Should have publicized more heavily
+ - Better BBQ was way better
+ - Can have a wider diversity of Tasty Beverages in private space
 *** Audience Interruptions at GTALUG
  - Surfeit of audience interruptions
  - Myles to do a "On Asking Questions" talk at next meeting
@@ -54,5 +60,30 @@ published: false
  - At large review
  - NARALO - selecting a delegate for Abu Dabi meeting
 
+*** New Graphics for Logo
+ - Should be somewhat GTA-centric
+ - Avoid things in other groups' designs
+ - A custom penguin would be nice
+ - Pixel Art is desirable
+ - Nice to have it nice as roughly circular/square, at 5cm diameter
+   - Circle or square, they're way cheaper
+ - Limited color choices
+   - Look to what Mozilla did with their logo contest
+ - Pay rate of $300 for the design
+ - Be It Resolved that we budget $300 for production of a logo
+   - 3 in favor
+   - 1 abstained with cause
+ - Had previously thrown the matter out to the broader list looking for volunteers without result
+
 ** Action Items
  - LITP announcement
+ - Arrange a cheque for Alex - Scott will introduce Chris to Alex Hess
+ - Chris to put together the membership form baggie for August meeting
+ - Scott to poke at Graphix work with Trent, aiming at end of August availability
+ - Start process of determining who's up to what vis-a-vis Myles' activity list
+   - System management
+   - Mailing list management
+   - Speaker management
+   - Web site updates
+ - Myles to switch web site to Jekyll
+ - Everyone try to install Jekyll

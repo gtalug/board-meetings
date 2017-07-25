@@ -4,7 +4,7 @@ title: "Agenda"
 published: true
 ---
 
-* 24 July 2017 at 7:30pm
+* 28 August 2017 at 7:30pm
 
 ** Location
 
@@ -15,13 +15,9 @@ published: true
 ** Agenda Topics
 
  - Upcoming Meetings
- - Linux in the Park (22 July @ 2pm)
  - ICANN material from Gord
- - Promotion of events / event management - the meetup.com question
-   - Some suggesting 
-     /it doesn't exist unless it's on meetup.com/
-   - Others (KW NonProfit Sysadmin Group) think it's too expensive as they have 249 "members" but rarely more than 10 attendees
  - Going over Myles' list of tasks: <https://wiki.gtalug.org/user:myles:tasks>
+ - Preparation for AGM
  - Write next month's agenda.
    - Location
    - Topics
