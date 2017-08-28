@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 28 August 2017 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen St. West Suite #6
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+- Present
+
+- Absent
+  - Myles Braithwaite (board member)
+  - Scott Sullivan (board member)
+  - Stewart Russell (board member)
+  - Gordon Chillcott
+  - Christopher Browne (board member)
+  - Alex Volkov (board member)
+  - Bill Thanis
+  - David Collier Brown
+
+** Topics
+
+*** Upcoming Meetings
+
+*** ICANN material from Gord
+
+*** Going over Myles' list of tasks
+
+- <https://wiki.gtalug.org/user:myles:tasks>
+
+*** Preparation for AGM
+
+*** Write next month's agenda.
+
+- Location
+- Topics
+- Action Items
