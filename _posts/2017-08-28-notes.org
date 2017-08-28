@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Notes"
-published: false
+published: true
 ---
 
-* 24 July 2017 at 7:30pm
+* 28 August 2017 at 7:30pm
 
 ** Location
 
@@ -15,6 +15,8 @@ published: false
 ** Attendees
 
 - Present
+  - Alex Volkov (board member)
+  - Bill Thanis
   - Myles Braithwaite (board member)
   - Scott Sullivan (board member)
   - Stewart Russell (board member)
@@ -22,8 +24,6 @@ published: false
   - Christopher Browne (board member)
 
 - Absent
-  - Alex Volkov (board member)
-  - Bill Thanis
   - David Collier Brown
 
 ** Topics
@@ -82,3 +82,18 @@ published: false
    - Web site updates
  - Myles to switch web site to Jekyll
  - Everyone try to install Jekyll
+*** Upcoming Meetings
+
+*** ICANN material from Gord
+
+*** Going over Myles' list of tasks
+
+- <https://wiki.gtalug.org/user:myles:tasks>
+
+*** Preparation for AGM
+
+*** Write next month's agenda.
+
+- Location
+- Topics
+- Action Items
