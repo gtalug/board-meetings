@@ -1,0 +1,84 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 24 July 2017 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen St. West Suite #6
+  - <https://goo.gl/maps/OKcij>
+
+** Attendees
+
+- Present
+  - Myles Braithwaite (board member)
+  - Scott Sullivan (board member)
+  - Stewart Russell (board member)
+  - Gordon Chillcott
+  - Christopher Browne (board member)
+
+- Absent
+  - Alex Volkov (board member)
+  - Bill Thanis
+  - David Collier Brown
+
+** Topics
+
+*** Meetup.com
+
+- SR isn't in favour of doing meetup.com
+  - good for managing the meeting
+  - issues with admin spamming
+  - good for SEO but way to much interest with little attendence
+- consensus is it's a neat idea but not worth the money spent
+- needs to be in the realm of regular activity
+
+*** Upcoming Meetings
+ - Next quarter is planned
+ - Some meta discussions about video
+   - Would be nice for it to be more publicized
+*** Linux in the Park (22 July @ 2pm)
+ - Aftermath
+ - Location well liked
+ - Decent turnout including some new people given cloudy weather
+ - Should have publicized more heavily at the start of June
+ - Better BBQ hardware was way better
+ - Can have a wider diversity of Tasty Beverages in private space
+*** ICANN
+ - Gord presented notes
+ - Atlas 2 coming soon
+ - WHOIS data undergoing active work, spurred by EU privacy legislation
+ - At large review
+ - NARALO - selecting a delegate for Abu Dabi meeting
+
+*** New Graphics for Logo
+ - Should be somewhat GTA-centric
+ - Avoid things in other groups' designs
+ - A custom penguin would be nice
+ - Pixel Art is desirable
+ - Nice to have it nice as roughly circular/square, at 5cm diameter
+   - Circle or square, they're way cheaper
+ - Limited color choices
+   - Look to what Mozilla did with their logo contest
+ - Pay rate of $300 for the design
+ - Be It Resolved that we budget $300 for production of a logo
+   - 3 in favor
+   - 1 abstained with cause
+ - Had previously thrown the matter out to the broader list looking for volunteers without result
+
+** Action Items
+ - LITP announcement
+ - Arrange a cheque for Alex - Scott will introduce Chris to Alex Hess
+ - Chris to put together the membership form baggie for August meeting
+ - Scott to poke at Graphix work with Trent, aiming at end of August availability
+ - Start process of determining who's up to what vis-a-vis Myles' activity list
+   - System management
+   - Mailing list management
+   - Speaker management
+   - Web site updates
+ - Myles to switch web site to Jekyll
+ - Everyone try to install Jekyll
