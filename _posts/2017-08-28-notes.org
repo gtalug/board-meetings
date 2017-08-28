@@ -41,19 +41,15 @@ published: true
  - Next quarter is planned
  - Some meta discussions about video
    - Would be nice for it to be more publicized
-*** Linux in the Park (22 July @ 2pm)
- - Aftermath
- - Location well liked
- - Decent turnout including some new people given cloudy weather
- - Should have publicized more heavily at the start of June
- - Better BBQ hardware was way better
- - Can have a wider diversity of Tasty Beverages in private space
+ - Recent Tor talk
+   - went pretty well; another presentation of it that was short on time went much less well
+ - Talks on video
+   - Several available now...
+   - Scott looked for a would-be vanity YouTube URL, got random # one instead
+
 *** ICANN
  - Gord presented notes
- - Atlas 2 coming soon
- - WHOIS data undergoing active work, spurred by EU privacy legislation
- - At large review
- - NARALO - selecting a delegate for Abu Dabi meeting
+ - 
 
 *** New Graphics for Logo
  - Should be somewhat GTA-centric
@@ -82,6 +78,8 @@ published: true
    - Web site updates
  - Myles to switch web site to Jekyll
  - Everyone try to install Jekyll
+Essentially an oily situation...
+http://fauxcountrynews.com/summerville-woman-using-essential-oils-becomes-impervious-to-fire/
 *** Upcoming Meetings
 
 *** ICANN material from Gord
@@ -92,8 +90,16 @@ published: true
 
 *** Preparation for AGM
 
+*** Approval of logo
+ - Discussion of feedback with Trent
+ - Pretty much as-is works well
+ - Motion to approve the expenditure
+   - Unanimous approval with one abstention
 *** Write next month's agenda.
 
 - Location
 - Topics
 - Action Items
+** TODO
+  - Scott :: Send Chris address for cheque for Trent
+    - Or Chris sends an etransfer

@@ -18,6 +18,7 @@ published: true
  - ICANN material from Gord
  - Going over Myles' list of tasks: <https://wiki.gtalug.org/user:myles:tasks>
  - Preparation for AGM
+ - Logo Approval
  - Write next month's agenda.
    - Location
    - Topics
