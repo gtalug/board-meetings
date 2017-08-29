@@ -83,7 +83,12 @@ http://fauxcountrynews.com/summerville-woman-using-essential-oils-becomes-imperv
 *** Upcoming Meetings
 
 *** ICANN material from Gord
-
+ - Atlas 3 is still up in the air, timing and location
+ - WHOIS changes bit back due to EU data protection legislation
+   - GNSO was wondering to do or not
+   - EU seem to have pressed the matter
+   - Plans are somewhat under way
+ - 
 *** Going over Myles' list of tasks
 
 - <https://wiki.gtalug.org/user:myles:tasks>
@@ -103,3 +108,4 @@ http://fauxcountrynews.com/summerville-woman-using-essential-oils-becomes-imperv
 ** TODO
   - Scott :: Send Chris address for cheque for Trent
     - Or Chris sends an etransfer
+  - Date for Ops meeting may change come November
