@@ -88,12 +88,19 @@ http://fauxcountrynews.com/summerville-woman-using-essential-oils-becomes-imperv
    - GNSO was wondering to do or not
    - EU seem to have pressed the matter
    - Plans are somewhat under way
- - 
+ - At Large review commentary seems... fraught...
+
 *** Going over Myles' list of tasks
 
 - <https://wiki.gtalug.org/user:myles:tasks>
 
 *** Preparation for AGM
+ - Three board seats open
+   - Myles, Stewart, Scott
+ - Should target several people to run
+ - Treasurer update by Chris
+ - Prez Report by Scott
+ - Returning Officer: bit of TBD, thinking about Bill and Gord
 
 *** Approval of logo
  - Discussion of feedback with Trent
@@ -109,3 +116,13 @@ http://fauxcountrynews.com/summerville-woman-using-essential-oils-becomes-imperv
   - Scott :: Send Chris address for cheque for Trent
     - Or Chris sends an etransfer
   - Date for Ops meeting may change come November
+  - Announcement about ICANN
+    - Need some help
+    - Need board candidates for 3 positions
+      - We hope that some will return their names to the hat
+      - Need some new folk
+    - Need a returning officer
+    - We have hopeful thots on RO (Bill, Gord) but availability for October is as yet unknown
+  - Myles: send Chris Nora's address about card printing
+  - Alex: Send Bill the password for mailing list moderation
+  - Myles: forward Chris the Linode account info, holding onto this until February 2018
