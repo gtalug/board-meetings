@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Agenda"
+published: false
+---
+
+* 25 September 2017 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen St. West Suite #6
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda Topics
+
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Going over Myles' list of tasks: <https://wiki.gtalug.org/user:myles:tasks>
+ - Preparation for AGM
+ - Write next month's agenda.
+   - Location
+   - Topics
+   - Action Items
+
+** Action Items from Last Month
+
+  - Scott :: Send Chris address for cheque for Trent
+    - Or Chris sends an etransfer
+    - DONE
+  - Date for Ops meeting may change come November
+  - Announcements
+    - Need some help
+    - Need board candidates for 3 positions
+      - We hope that some will return their names to the hat
+      - Need some new folk
+    - Need a returning officer
+    - We have hopeful thots on RO (Bill, Gord) but availability for October is as yet unknown
+  - Myles: send Chris Nora's address about card printing
+  - Alex: Send Bill the password for mailing list moderation
+  - Myles: forward Chris the Linode account info, holding onto this until February 2018
