@@ -11,6 +11,7 @@ published: true
 - HackLab.TO
   - 1266 Queen St. West Suite #6
   - <https://goo.gl/maps/OKcij>
+  - October 23rd
     
 ** Attendees
 
@@ -32,15 +33,11 @@ published: true
 
 *** Upcoming Meetings
  - Next quarter is planned
- - Some meta discussions about video
-   - Would be nice for it to be more publicized
- - Recent Tor talk
-   - went pretty well; another presentation of it that was short on time went much less well
- - Talks on video
-   - Several available now...
-   - Scott looked for a would-be vanity YouTube URL, got random # one instead
+ - Consciously leaving 2018 to the incoming board
 
 *** ICANN material from Gord
+ - Some attempts to clean up small items
+ - Reminder that DNSSEC signing key rolls over in October
  - Evolution...  still evolving
    - expected done for October ICANN 60
  - ATLAS III upcoming in March 2019
@@ -48,10 +45,13 @@ published: true
  - Ongoing Tech Taskforce
  - North American At Large
    - Working group for NARALO "hot topics"
+ - New WHOIS service efforts ongoing
+   - things required to change because GNSO requires it
+   - will affect registry and registrar agreements
 
 *** Going over Myles' list of tasks
-
-- <https://wiki.gtalug.org/user:myles:tasks>
+ - deferring as Myles is away
+ - <https://wiki.gtalug.org/user:myles:tasks>
 
 *** Preparation for AGM
  - Three board seats open
@@ -72,3 +72,4 @@ published: true
 - Topics
 - Action Items
 ** TODO
+
