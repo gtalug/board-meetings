@@ -11,7 +11,7 @@ published: true
 - HackLab.TO
   - 1266 Queen St. West Suite #6
   - <https://goo.gl/maps/OKcij>
-
+    
 ** Attendees
 
 - Present
@@ -78,8 +78,7 @@ published: true
    - Web site updates
  - Myles to switch web site to Jekyll
  - Everyone try to install Jekyll
-Essentially an oily situation...
-http://fauxcountrynews.com/summerville-woman-using-essential-oils-becomes-impervious-to-fire/
+
 *** Upcoming Meetings
 
 *** ICANN material from Gord
