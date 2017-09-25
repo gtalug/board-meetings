@@ -94,6 +94,12 @@ http://fauxcountrynews.com/summerville-woman-using-essential-oils-becomes-imperv
 
 - <https://wiki.gtalug.org/user:myles:tasks>
 
+- Pushing out meeting notes
+  - Inside git repo, do git pull to get latest web site
+  - Then, fab deploy, using a package called "fabric" and python-yaml
+    - This uses rsync to push data over to gtalug.org
+    - configuration is in fabfile.py, which is at top level of the board meetings
+
 *** Preparation for AGM
  - Three board seats open
    - Myles, Stewart, Scott
