@@ -1,0 +1,76 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 25 September 2017 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen St. West Suite #6
+  - <https://goo.gl/maps/OKcij>
+    
+** Attendees
+
+- TBD
+  - Alex Volkov (board member)
+  - Bill Thanis
+  - Scott Sullivan (board member)
+  - Stewart Russell (board member)
+  - Gordon Chillcott
+  - Christopher Browne (board member)
+  - David Collier Brown
+
+- Present
+
+- Absent
+  - Myles Braithwaite (board member)
+
+** Topics
+
+*** Upcoming Meetings
+ - Next quarter is planned
+ - Some meta discussions about video
+   - Would be nice for it to be more publicized
+ - Recent Tor talk
+   - went pretty well; another presentation of it that was short on time went much less well
+ - Talks on video
+   - Several available now...
+   - Scott looked for a would-be vanity YouTube URL, got random # one instead
+
+*** Upcoming Meetings
+
+*** ICANN material from Gord
+ - Evolution...  still evolving
+   - expected done for October ICANN 60
+ - ATLAS III upcoming in March 2019
+ - At Large Review complicated by US administration changes
+ - Ongoing Tech Taskforce
+ - North American At Large
+   - Working group for NARALO "hot topics"
+
+*** Going over Myles' list of tasks
+
+- <https://wiki.gtalug.org/user:myles:tasks>
+
+*** Preparation for AGM
+ - Three board seats open
+   - Myles, Stewart, Scott
+ - Should target several people to run
+ - Treasurer update by Chris
+ - Prez Report by Scott
+ - Returning Officer: bit of TBD, thinking about Bill and Gord
+
+*** Approval of logo
+ - Discussion of feedback with Trent
+ - Pretty much as-is works well
+ - Motion to approve the expenditure
+   - Unanimous approval with one abstention
+*** Write next month's agenda.
+
+- Location
+- Topics
+- Action Items
+** TODO
