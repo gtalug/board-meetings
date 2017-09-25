@@ -15,18 +15,18 @@ published: true
 ** Attendees
 
 - TBD
-  - Alex Volkov (board member)
-  - Bill Thanis
-  - Scott Sullivan (board member)
-  - Stewart Russell (board member)
-  - Gordon Chillcott
-  - Christopher Browne (board member)
   - David Collier Brown
 
 - Present
+  - Bill Thanis
+  - Scott Sullivan (board member)
+  - Gordon Chillcott
+  - Christopher Browne (board member)
 
 - Absent
   - Myles Braithwaite (board member)
+  - Alex Volkov (board member)
+  - Stewart Russell (board member)
 
 ** Topics
 
@@ -39,8 +39,6 @@ published: true
  - Talks on video
    - Several available now...
    - Scott looked for a would-be vanity YouTube URL, got random # one instead
-
-*** Upcoming Meetings
 
 *** ICANN material from Gord
  - Evolution...  still evolving
