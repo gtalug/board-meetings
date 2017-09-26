@@ -69,4 +69,5 @@ published: true
 ** TODO
  - Scott :: AGM announcement 1
  - Chris :: AGM announcement 2
-
+ - Scott :: Review task list with Myles
+ - Chris :: Send Scott financial report early
