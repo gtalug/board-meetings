@@ -61,15 +61,12 @@ published: true
  - Prez Report by Scott
  - Returning Officer: bit of TBD, thinking about Bill and Gord
 
-*** Approval of logo
- - Discussion of feedback with Trent
- - Pretty much as-is works well
- - Motion to approve the expenditure
-   - Unanimous approval with one abstention
 *** Write next month's agenda.
 
 - Location
 - Topics
 - Action Items
 ** TODO
+ - Scott :: AGM announcement 1
+ - Chris :: AGM announcement 2
 
