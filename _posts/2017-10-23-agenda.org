@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Agenda"
+published: false
+---
+
+* 23 October 2017 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen St. West Suite #6
+  - <https://goo.gl/maps/OKcij>
+
+** Agenda Topics
+
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Write next month's agenda.
+   - Location
+   - Topics
+   - Action Items
+
+** Action Items from Last Month
+
+ - Scott :: AGM announcement 1
+ - Chris :: AGM announcement 2
+ - Scott :: Review task list with Myles
+ - Chris :: Send Scott financial report early
