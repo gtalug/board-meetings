@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 23 October 2017 at 7:30pm
+
+** Location
+
+- HackLab.TO
+  - 1266 Queen St. West Suite #6
+  - <https://goo.gl/maps/OKcij>
+  - October 23rd
+    
+** Attendees
+
+- TBD
+  - David Collier Brown
+  - Bill Thanis
+  - Scott Sullivan (board member)
+  - Gordon Chillcott (board member)
+  - Christopher Browne (board member)
+  - Alex Volkov (board member)
+  - Evan Liebovich (board member)
+
+- Present
+
+- Absent
+
+** Topics
+
+*** Upcoming Meetings
+ - Consciously left 2018 to the incoming board
+
+*** ICANN material from Gord
+ - ICANN 60 AGM in Abu Dabhi Oct 28-Nov 3
+ - Evan attending in person, Gordon remote
+ - More development ongoing with WHOIS
+ - ICANN evolution ongoing at ICANN 60
+ - Tech Task force status report to present at ICANN 60
+ - NARALO - not much new
+ 
+*** Going over Myles' list of tasks
+ - deferred as Myles was away
+ - <https://wiki.gtalug.org/user:myles:tasks>
+
+
+*** Write next month's agenda.
+
+- Location
+- Topics
+- Action Items
+** TODO
