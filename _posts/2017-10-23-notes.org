@@ -12,7 +12,7 @@ published: false
   - 1266 Queen St. West Suite #6
   - <https://goo.gl/maps/OKcij>
   - October 23rd
-    
+
 ** Attendees
 
 - TBD
@@ -31,6 +31,7 @@ published: false
 ** Topics
 
 *** Upcoming Meetings
+ - Last meeting video posting on youtube
  - Consciously left 2018 to the incoming board
 
 *** ICANN material from Gord
@@ -40,7 +41,7 @@ published: false
  - ICANN evolution ongoing at ICANN 60
  - Tech Task force status report to present at ICANN 60
  - NARALO - not much new
- 
+
 *** Going over Myles' list of tasks
  - deferred as Myles was away
  - <https://wiki.gtalug.org/user:myles:tasks>
