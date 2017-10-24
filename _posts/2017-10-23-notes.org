@@ -54,13 +54,15 @@ published: false
   - October 23rd
   - Interested folk should contact Scott for directions
     
-*** Upcoming Meetings
- - Last meeting video posting on youtube
- - Consciously left 2018 to the incoming board
-
 *** Telegram
  - Evan proposes setting up a Telegram group for GTALUG
  - Myles offers a complementary Slack doing 2-way communications with the Telegram instance...
+
+
+*** Upcoming Meetings
+ - Last meeting video posting on youtube
+ - Consciously left 2018 to the incoming board
+ - Looking into seeing if some FSOSS talks could turn into GTALUG talks in view that they had things cancelled
 
 *** ICANN material from Gord
  - ICANN 60 AGM in Abu Dabhi Oct 28-Nov 3
@@ -80,6 +82,7 @@ published: false
 - Location
 - Topics
 - Action Items
+
 ** TODO
  - Evan TODO :: Set up Telegram group
  - Myles TODO :: Set up Slack syncing with GTALUG
