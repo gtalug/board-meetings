@@ -58,7 +58,6 @@ published: false
  - Evan proposes setting up a Telegram group for GTALUG
  - Myles offers a complementary Slack doing 2-way communications with the Telegram instance...
 
-
 *** Upcoming Meetings
  - Last meeting video posting on youtube
  - Consciously left 2018 to the incoming board
@@ -70,19 +69,31 @@ published: false
  - More development ongoing with WHOIS
  - ICANN evolution ongoing at ICANN 60
  - Tech Task force status report to present at ICANN 60
- - NARALO - not much new
+ - NARALO - not much new, no formal meeting
+ - Next meeting is tentatively planned to be Puerto Rico, likely March
+ - Domain industry pressing for more TLDs
+ - Consumer Choice and Competition team worried about surveys
+ - One TLD apparently in a controversy, .amazon
+   - Lots of controversy
+   - Some risk of lots of things sliding wrongly due to this
 
 *** Going over Myles' list of tasks
  - deferred as Myles was away
  - <https://wiki.gtalug.org/user:myles:tasks>
 
 
+*** Video Publishing
+ - Alex has done initial publishing
+ - Cut off Q+A, on request
+ - Should send Mike video link
+
 *** Write next month's agenda.
 
-- Location
-- Topics
-- Action Items
+ - Location
+ - Topics
+ - Action Items
 
 ** TODO
  - Evan TODO :: Set up Telegram group
  - Myles TODO :: Set up Slack syncing with GTALUG
+ - Alex TODO :: Publish Oct meeting video
