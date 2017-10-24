@@ -58,6 +58,10 @@ published: false
  - Last meeting video posting on youtube
  - Consciously left 2018 to the incoming board
 
+*** Telegram
+ - Evan proposes setting up a Telegram group for GTALUG
+ - Myles offers a complementary Slack doing 2-way communications with the Telegram instance...
+
 *** ICANN material from Gord
  - ICANN 60 AGM in Abu Dabhi Oct 28-Nov 3
  - Evan attending in person, Gordon remote
@@ -77,3 +81,5 @@ published: false
 - Topics
 - Action Items
 ** TODO
+ - Evan TODO :: Set up Telegram group
+ - Myles TODO :: Set up Slack syncing with GTALUG
