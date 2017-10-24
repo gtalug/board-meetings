@@ -25,11 +25,35 @@ published: false
   - Christopher Browne (board member)
   - Alex Volkov (board member)
   - Evan Liebovich (board member)
+  - Myles Braithwaite
 
 - Absent
 
 ** Topics
+*** Seating of New Board
+ - Myles and Stewart are to be thanked for their service
+ - New seats...
+   - Evan Liebovich
+   - Gordon Chillcott
+   - Scott Sullivan (returning)
+ - Official positions
+   - President :: Scott Sullivan
+   - Secretary/Treasurer :: Chris Browne
+   - Chair of Board :: Scott
+ - Unofficial positions
+   - Scott will be coordinating speakers for at least the next few months
+     - We should actively explore other possibilities soon
+   - Mailing list moderators
+     - Mostly checking that people are actually people
+     - Presently: Alex and Myles and Bill Thanis and Stewart Russell
+     - Should add a third: Try Evan!
 
+*** Next Ops Meeting
+  - Scott's living room
+  - 7:30pm
+  - October 23rd
+  - Interested folk should contact Scott for directions
+    
 *** Upcoming Meetings
  - Last meeting video posting on youtube
  - Consciously left 2018 to the incoming board

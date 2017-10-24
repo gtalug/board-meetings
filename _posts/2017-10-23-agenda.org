@@ -21,6 +21,7 @@ published: false
    - Location
    - Topics
    - Action Items
+ - Seating of new board
 
 ** Action Items from Last Month
 
