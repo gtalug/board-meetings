@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Agenda"
+published: false
+---
+
+* 27 November 2017 at 7:30pm
+
+** Location
+
+- Scott's Livingroom
+  - Contact him for directions
+
+** Agenda Topics
+
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Write next month's agenda.
+   - Location
+   - Topics
+   - Action Items
+ - Seating of new board
+
+** Action Items from Last Month
+ - Evan TODO :: Set up Telegram group
+ - Myles TODO :: Set up Slack syncing with GTALUG
+ - Alex TODO :: Publish Oct meeting video
