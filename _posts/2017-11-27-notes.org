@@ -45,7 +45,16 @@ published: false
  - Looking into seeing if some FSOSS talks could turn into GTALUG talks in view that they had things cancelled
 
 *** ICANN material from Gord
- - Lots of material
+ - ATLAS III - General At Large Assembly, scheduling in the air
+ - WHOIS issues - lots of active work ongoing
+ - ICANN Evolution - ongoing legal issues of jurisdiction
+ - .amazon controversy - discussion ongoing
+ - DNSSEC KSK rollover - some ISPs not prepared
+ - Tech taskforce
+   - Document Management
+   - Conferencing systems
+ - Blockchain ideas - such as decentralized DNS structure
+ - Internet Health Indicators
 
 *** Going over Myles' list of tasks
  - deferred as Myles was away
