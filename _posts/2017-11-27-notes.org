@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 27 November 2017 at 7:30pm
+
+** Location
+
+- Scott's livingroom
+
+** Attendees
+
+- TBD
+  - David Collier Brown
+  - Bill Thanis
+  - Scott Sullivan (board member)
+  - Gordon Chillcott (board member)
+  - Christopher Browne (board member)
+  - Alex Volkov (board member)
+  - Evan Liebovich (board member)
+  - Myles Braithwaite
+
+- Present
+
+- Absent
+
+** Topics
+*** Seating of New Board
+ - Unofficial positions
+   - Scott will be coordinating speakers for at least the next few months
+     - We should actively explore other possibilities soon
+   - Mailing list moderators
+     - Mostly checking that people are actually people
+     - Presently: Alex and Myles and Bill Thanis and Stewart Russell
+     - Should add a third: Try Evan!
+
+*** Next Ops Meeting
+  - The natural December date would be Dec 25th
+  - We normally defer to January, hence either Jan 22 (4th Monday) or Jan 29 (last Monday)
+  - Hacklab versus Scott's place?
+    
+*** Upcoming Meetings
+ - Looking into seeing if some FSOSS talks could turn into GTALUG talks in view that they had things cancelled
+
+*** ICANN material from Gord
+ - Lots of material
+
+*** Going over Myles' list of tasks
+ - deferred as Myles was away
+ - <https://wiki.gtalug.org/user:myles:tasks>
+
+*** Write next month's agenda.
+
+ - Location
+ - Topics
+ - Action Items
+
+** TODO

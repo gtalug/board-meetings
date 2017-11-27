@@ -20,7 +20,6 @@ published: true
    - Location
    - Topics
    - Action Items
- - Seating of new board
 
 ** Action Items from Last Month
  - Evan TODO :: Set up Telegram group
