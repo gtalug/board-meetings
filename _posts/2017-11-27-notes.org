@@ -43,6 +43,10 @@ published: false
     
 *** Upcoming Meetings
  - Looking into seeing if some FSOSS talks could turn into GTALUG talks in view that they had things cancelled
+ - DCB "Play it Again" in January
+ - Myles suggests getting Trevor who had a FSOSS talk
+ - Jamon had done a FSOSS talk
+ - Chris Tyler - How to spend a lot of money on open source software
 
 *** ICANN material from Gord
  - ATLAS III - General At Large Assembly, scheduling in the air
