@@ -50,9 +50,10 @@ published: false
  - ICANN Evolution - ongoing legal issues of jurisdiction
  - .amazon controversy - discussion ongoing
  - DNSSEC KSK rollover - some ISPs not prepared
- - Tech taskforce
+ - Staff thing
    - Document Management
-   - Conferencing systems
+ - Tech taskforce
+   - Conferencing systems and chat systems (to get away from Skype)
  - Blockchain ideas - such as decentralized DNS structure
  - Internet Health Indicators
 
