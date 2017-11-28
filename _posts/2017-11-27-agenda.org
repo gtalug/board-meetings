@@ -24,6 +24,7 @@ published: true
    - Action Items
  - Video release form
  - Updating mailing list subscribers for ops/board
+ - Ryerson Outreach
 
 ** Action Items from Last Month
  - Evan TODO :: Set up Telegram group
