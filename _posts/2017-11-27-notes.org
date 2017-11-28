@@ -45,7 +45,7 @@ published: false
  - Chris Tyler - How to spend a lot of money on open source software
 
 *** Ryerson Outreach
- - 
+ - appointment has been set with chair of CS department
 
 *** ICANN material from Gord
  - ATLAS III - General At Large Assembly, scheduling in the air
