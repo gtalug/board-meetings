@@ -13,16 +13,16 @@ published: false
 ** Attendees
 
 - TBD
-  - David Collier Brown
   - Bill Thanis
+  - Evan Liebovich (board member)
+
+- Present
+  - David Collier Brown
   - Scott Sullivan (board member)
   - Gordon Chillcott (board member)
   - Christopher Browne (board member)
   - Alex Volkov (board member)
-  - Evan Liebovich (board member)
   - Myles Braithwaite
-
-- Present
 
 - Absent
 
