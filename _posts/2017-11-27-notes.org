@@ -31,10 +31,6 @@ published: false
  - Unofficial positions
    - Scott will be coordinating speakers for at least the next few months
      - We should actively explore other possibilities soon
-   - Mailing list moderators
-     - Mostly checking that people are actually people
-     - Presently: Alex and Myles and Bill Thanis and Stewart Russell
-     - Should add a third: Try Evan!
 
 *** Next Ops Meeting
   - The natural December date would be Dec 25th
@@ -48,9 +44,13 @@ published: false
  - Jamon had done a FSOSS talk
  - Chris Tyler - How to spend a lot of money on open source software
 
+*** Ryerson Outreach
+ - 
+
 *** ICANN material from Gord
  - ATLAS III - General At Large Assembly, scheduling in the air
  - WHOIS issues - lots of active work ongoing
+   - Issues are in the revision, GDPR (EU law) and RDAP
  - ICANN Evolution - ongoing legal issues of jurisdiction
  - .amazon controversy - discussion ongoing
  - DNSSEC KSK rollover - some ISPs not prepared
