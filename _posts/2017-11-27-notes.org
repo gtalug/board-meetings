@@ -38,7 +38,7 @@ published: false
 
 *** Next Ops Meeting
   - The natural December date would be Dec 25th
-  - We normally defer to January, hence either Jan 22 (4th Monday) or Jan 29 (last Monday)
+  - We normally defer to January, hence Jan 22 (4th Monday)
   - Hacklab versus Scott's place?
     
 *** Upcoming Meetings
@@ -56,6 +56,17 @@ published: false
    - Conferencing systems and chat systems (to get away from Skype)
  - Blockchain ideas - such as decentralized DNS structure
  - Internet Health Indicators
+
+*** AV Concerns
+ - Need runners to take mikes to people with questions
+ - Apparently video is super useful to LinkedIn users, so having it releasable is pretty valuable to speakers
+ - Alex found a release form from Stanford
+   - Forwarding over links
+ - We should disclose that we're using a CC license
+ - Suggestion: have consent options
+   - No consent
+   - Full consent
+   - Consent after viewing
 
 *** Going over Myles' list of tasks
  - deferred as Myles was away

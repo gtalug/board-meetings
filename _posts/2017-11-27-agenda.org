@@ -22,6 +22,8 @@ published: true
    - Location
    - Topics
    - Action Items
+ - Video release form
+ - Updating mailing list subscribers for ops/board
 
 ** Action Items from Last Month
  - Evan TODO :: Set up Telegram group
