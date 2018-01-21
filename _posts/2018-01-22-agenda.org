@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 22 January 2018 at 7:30pm
+
+** Location
+
+- Scott's Livingroom
+  - Contact him for directions
+
+** Agenda Topics
+
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - Video release forms
+ - Ryerson Outreach
+ - ICANN material from Gord
+ - Write next month's agenda.
+   - Location
+   - Topics
+   - Action Items
+
+** Action Items from Last Month
+ - Alex :: Produce a draft consent form, DCB offers to proof read, Myles may have ideas to add too
