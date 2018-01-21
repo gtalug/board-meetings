@@ -17,6 +17,7 @@ published: true
  - Upcoming Meetings
  - Video release forms
  - Ryerson Outreach
+ - Set up transfer of GTALUG Web VM
  - ICANN material from Gord
  - Write next month's agenda.
    - Location
