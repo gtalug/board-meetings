@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 22 January 2018 at 7:30pm
+
+** Location
+
+- Scott's livingroom
+  
+** Attendees
+
+- TBD
+  - Bill Thanis
+  - Evan Liebovich (board member)
+  - David Collier Brown
+  - Scott Sullivan (board member)
+  - Gordon Chillcott (board member)
+  - Christopher Browne (board member)
+  - Alex Volkov (board member)
+  - Myles Braithwaite
+
+- Present
+
+
+- Absent
+
+** Topics
+*** Next Ops Meeting
+  - The natural February date would be Feb 26
+  - Hacklab versus Scott's place?
+    
+*** Upcoming Meetings
+*** Ryerson Outreach
+ - appointment had been set with chair of CS department
+
+*** ICANN material from Gord
+
+*** AV Concerns
+
+*** Going over Myles' list of tasks
+ - deferred as Myles was away
+ - <https://wiki.gtalug.org/user:myles:tasks>
+
+*** Write next month's agenda.
+
+ - Location
+ - Topics
+ - Action Items
+
+** TODO
+ - Alex :: Produce a draft consent form, DCB offers to proof read, Myles may have ideas to add too
