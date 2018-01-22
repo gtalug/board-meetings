@@ -37,7 +37,14 @@ published: true
  - appointment had been set with chair of CS department
 
 *** ICANN material from Gord
-
+    - Atlas III may be in MTL in 2019
+    - WHOIS revisions
+      - 6 meetings since November
+      - focus on registrant data, and "legitimate purposes" for collection/storage
+      - painful exercise, bouncing around across perceived need to collect "everything" versus jurisdiction-specific privacy legislation
+    - Ongoing ICANN evolution
+    - New test facility for DNSSEC KSK Rollover
+    - NARALO :: Some changes in meeting layout
 *** AV Concerns
 
 *** Going over Myles' list of tasks
