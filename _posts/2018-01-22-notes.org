@@ -14,16 +14,16 @@ published: true
 
 - TBD
   - Bill Thanis
-  - Evan Liebovich (board member)
   - David Collier Brown
+
+
+- Present
+  - Evan Liebovich (board member)
   - Scott Sullivan (board member)
   - Gordon Chillcott (board member)
   - Christopher Browne (board member)
   - Alex Volkov (board member)
   - Myles Braithwaite
-
-- Present
-
 
 - Absent
 
@@ -31,8 +31,13 @@ published: true
 *** Next Ops Meeting
   - The natural February date would be Feb 26
   - Hacklab versus Scott's place?
+  - Back to Hacklab!  :-)
     
 *** Upcoming Meetings
+**** February
+**** March
+**** April
+
 *** Ryerson Outreach
  - appointment had been set with chair of CS department
 
