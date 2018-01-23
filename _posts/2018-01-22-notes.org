@@ -35,12 +35,13 @@ published: true
     
 *** Upcoming Meetings
 **** February
+  - Date is Feb 13
+  - David Wolever on PostgreSQL
 **** March
+  - Date is Mar 13
+  - Q+A Session
 **** April
-
-*** Ryerson Outreach
- - appointment had been set with chair of CS department
-
+  - Date is Apr 10
 *** ICANN material from Gord
     - Atlas III may be in MTL in 2019
     - WHOIS revisions
@@ -50,8 +51,9 @@ published: true
     - Ongoing ICANN evolution
     - New test facility for DNSSEC KSK Rollover
     - NARALO :: Some changes in meeting layout
+    - ALAC has rearranged things about Policy into one WG called ICANN Evolution
 *** AV Concerns
-
+  - 
 *** Going over Myles' list of tasks
  - deferred as Myles was away
  - <https://wiki.gtalug.org/user:myles:tasks>
@@ -63,4 +65,7 @@ published: true
  - Action Items
 
 ** TODO
- - Alex :: Produce a draft consent form, DCB offers to proof read, Myles may have ideas to add too
+ - Chris :: Contact Hugh on LibreSwan
+ - Evan :: Form about talk proposals
+ - Alex :: Talk with Chris Tyler about possible talks
+ - Alex :: Spruce up GTALUG video to present on NARALO web site

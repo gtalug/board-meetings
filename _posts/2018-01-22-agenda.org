@@ -15,7 +15,6 @@ published: true
 
  - Timing/Location of next Ops meeting
  - Upcoming Meetings
- - Ryerson Outreach
  - Set up transfer of GTALUG Web VM
  - ICANN material from Gord
  - Write next month's agenda.
