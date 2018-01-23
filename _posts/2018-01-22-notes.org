@@ -52,12 +52,17 @@ published: true
     - New test facility for DNSSEC KSK Rollover
     - NARALO :: Some changes in meeting layout
     - ALAC has rearranged things about Policy into one WG called ICANN Evolution
-*** AV Concerns
-  - 
-*** Going over Myles' list of tasks
- - deferred as Myles was away
- - <https://wiki.gtalug.org/user:myles:tasks>
-
+*** Transfer Penguin Linode to GTALUG
+ - whodunnit...
+ - Shared passwords on KeyBase
+ - Chris will set up a Linode account
+*** Evan @ Creative Commons Summit
+ - Open source vs Free Software is dead as conflict
+ - Now, issues like cloud-based
+ - Slack vs MatterMost
+ - April 13-15
+*** Gord's Away a bit
+ - Enroute travailing, or travelling
 *** Write next month's agenda.
 
  - Location
@@ -69,3 +74,6 @@ published: true
  - Evan :: Form about talk proposals
  - Alex :: Talk with Chris Tyler about possible talks
  - Alex :: Spruce up GTALUG video to present on NARALO web site
+ - Chris :: Set up Linode account
+ - Myles :: Information session on password sharing via Keybase and/or Keepass
+ - Evan? :: Announce Creative Commons conference
