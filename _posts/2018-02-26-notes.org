@@ -1,0 +1,59 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 26 February 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+  
+** Attendees
+- TBD
+  - Evan Liebovich (board member)
+  - Scott Sullivan (board member)
+  - Gordon Chillcott (board member)
+  - Christopher Browne (board member)
+  - Alex Volkov (board member)
+  - Myles Braithwaite
+  - Bill Thanis
+  - David Collier Brown
+
+- Present
+
+- Absent
+
+** Topics
+*** Next Ops Meeting
+  - The natural February date would be March 26th
+  - Hacklab?
+    
+*** Upcoming Meetings
+**** March
+  - Date is Mar 13
+  - Q+A Session
+**** April
+  - Date is Apr 10
+**** May
+*** ICANN material from Gord
+ - Atlas III at Montreal AGM
+ - WHOIS/Registrant data process
+   - continues to be painful
+   - some compromises in debate on what are "legitimate purposes"
+ - DNSSEC KSK Rollover
+   - Little progress
+ - Tech Taskforce
+   - Captioning system is available
+   - Reviewing a Policy Tracking system
+ - NARALO
+   - upcoming meeting in Puerto Rico, March 14
+   - Officer elections April 4
+
+*** Transfer Penguin Linode to GTALUG
+ - Shared passwords on KeyBase
+ - Chris has set up a Linode account
+*** Write next month's agenda.
+
+** TODO

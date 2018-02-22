@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 26 February 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Agenda Topics
+
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - Set up transfer of GTALUG Web VM
+ - ICANN material from Gord
+ - Write next month's agenda.
+   - Location
+   - Topics
+   - Action Items
+
+** Action Items from Last Month
+ - Alex :: Produce a draft consent form, DCB offers to proof read, Myles may have ideas to add too
+ - Chris :: Contact Hugh on LibreSwan
+ - Evan :: Form about talk proposals
+ - Alex :: Talk with Chris Tyler about possible talks
+ - Alex :: Spruce up GTALUG video to present on NARALO web site
+ - Chris :: Set up Linode account
+ - Myles :: Information session on password sharing via Keybase and/or Keepass
+ - Evan? :: Announce Creative Commons conference
