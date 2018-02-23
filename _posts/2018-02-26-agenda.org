@@ -13,6 +13,7 @@ published: true
 ** Agenda Topics
 
  - Timing/Location of next Ops meeting
+   - Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop reciving cron messages.
  - Upcoming Meetings
  - Set up transfer of GTALUG Web VM
  - ICANN material from Gord
