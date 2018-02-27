@@ -38,6 +38,9 @@ published: false
 **** April
   - Date is Apr 10
   - Perhaps Alan on Amateur Radio?
+  - Perhaps Myles' Lunch and Learn will be a thing we could use
+  - Global Creative Commons guy... Summit is on April 13th
+
 **** May
   - Date is May 8th
 
@@ -61,3 +64,5 @@ published: false
 *** Write next month's agenda.
 
 ** TODO
+ - Myles to contact Creative Commons Guy Matt Lee, see if there is a possibility April 10th
+ - Chris and Myles to switch Linode/Web Server
