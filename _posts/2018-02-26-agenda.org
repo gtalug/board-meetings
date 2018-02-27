@@ -13,14 +13,15 @@ published: true
 ** Agenda Topics
 
  - Timing/Location of next Ops meeting
-   - Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop reciving cron messages.
  - Upcoming Meetings
  - Set up transfer of GTALUG Web VM
+   - must be done by July 31
  - ICANN material from Gord
  - Write next month's agenda.
    - Location
    - Topics
    - Action Items
+   - Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop reciving cron messages.
 
 ** Action Items from Last Month
  - Alex :: Produce a draft consent form, DCB offers to proof read, Myles may have ideas to add too

@@ -12,31 +12,35 @@ published: false
   
 ** Attendees
 - TBD
+
+- Present
   - Evan Liebovich (board member)
   - Scott Sullivan (board member)
-  - Gordon Chillcott (board member)
   - Christopher Browne (board member)
   - Alex Volkov (board member)
   - Myles Braithwaite
+
+- Absent
+  - Gordon Chillcott (board member)
   - Bill Thanis
   - David Collier Brown
 
-- Present
-
-- Absent
-
 ** Topics
 *** Next Ops Meeting
-  - The natural February date would be March 26th
+  - The natural March date would be March 26th
+  - The natural April date would be April 23th
   - Hacklab?
-    
+      
 *** Upcoming Meetings
 **** March
   - Date is Mar 13
   - Q+A Session
 **** April
   - Date is Apr 10
+  - Perhaps Alan on Amateur Radio?
 **** May
+  - Date is May 8th
+
 *** ICANN material from Gord
  - Atlas III at Montreal AGM
  - WHOIS/Registrant data process
