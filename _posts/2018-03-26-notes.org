@@ -57,6 +57,7 @@ published: false
 
 *** Transfer Penguin Linode to GTALUG
  - Shared passwords on KeyBase
+   - [[http://keybase.io][KeyBase]]
  - Chris has set up a Linode account
 *** Write next month's agenda.
 
