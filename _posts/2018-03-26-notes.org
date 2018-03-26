@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 26 March 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+  
+** Attendees
+- TBD
+  - Evan Liebovich (board member)
+  - Scott Sullivan (board member)
+  - Christopher Browne (board member)
+  - Alex Volkov (board member)
+  - Gordon Chillcott (board member)
+  - Bill Thanis
+  - David Collier Brown
+  - Myles Braithwaite
+
+- Present
+
+- Absent
+
+** Topics
+*** Next Ops Meeting
+  - The natural April date would be April 23th
+  - The natural May date would be May 28th
+  - Hacklab?
+      
+*** Upcoming Meetings
+**** April
+  - Date is Apr 10
+  - Perhaps Myles' Lunch and Learn will be a thing we could use
+  - Global Creative Commons guy... Summit is on April 13th
+
+**** May
+  - Date is May 8th
+
+*** ICANN material from Gord
+ - Atlas III - no progress
+ - WHOIS
+   - debate mostly on "legitimate purposes" for use of registrant data
+   - some temporary policies proposed to address GDPR for now
+   - some meetings deferred to allow digesting DPR review
+ - DNSSEC KSK rollover to be Oct 11, 2018
+ - Tech taskforce
+   - policy tracker to be part of "information transparency initiative"
+   - "open documentation initiative" likely leads to a document management system
+   - Adobe Connect vulnerability led to it being shut off for some of Puerto Rico meetings
+   - Zoom pilot discussed
+ - NARALO
+   - attempting "inreach" to make ALSes more relevant
+
+*** Transfer Penguin Linode to GTALUG
+ - Shared passwords on KeyBase
+ - Chris has set up a Linode account
+*** Write next month's agenda.
+
+** TODO

@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 26 March 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Agenda Topics
+
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Write next month's agenda.
+   - Location
+   - Topics
+   - Action Items
+   - Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop reciving cron messages.
+
+** Action Items from Last Month
+ - Myles to contact Creative Commons Guy Matt Lee, see if there is a possibility April 10th
+ - Chris and Myles to switch Linode/Web Server
