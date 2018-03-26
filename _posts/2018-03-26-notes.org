@@ -13,32 +13,43 @@ published: false
 ** Attendees
 - TBD
   - Evan Liebovich (board member)
+  - Bill Thanis
+  - David Collier Brown
+
+- Present
   - Scott Sullivan (board member)
   - Christopher Browne (board member)
   - Alex Volkov (board member)
   - Gordon Chillcott (board member)
-  - Bill Thanis
-  - David Collier Brown
   - Myles Braithwaite
-
-- Present
 
 - Absent
 
 ** Topics
 *** Next Ops Meeting
-  - The natural April date would be April 23th
-  - The natural May date would be May 28th
+
   - Hacklab?
+    - Alex proposes shifting the Ops meeting to regularly be the Monday after the monthly Tuesday meeting
+    - Be it resolved that the Ops meeting policy be modified such that this meeting be scheduled to fall on the Monday after the monthly Tuesday meeting, or as close as reasonably possible.  (We would likely shift it away from a Monday holiday, for instance.)
+      - Moved by Alex
+      - Seconded by Gord
+      - Unanimous agreement
+  - The natural April date would be April 16th, agreed
+  - The natural May date would be May 14th, agreed
       
 *** Upcoming Meetings
 **** April
   - Date is Apr 10
-  - Perhaps Myles' Lunch and Learn will be a thing we could use
-  - Global Creative Commons guy... Summit is on April 13th
+  - Triple Bill
+    - Myles on IndieWeb
+    - Chris on git annex
+    - Alex on Unison
 
 **** May
   - Date is May 8th
+
+**** June
+  - Date is June 12th
 
 *** ICANN material from Gord
  - Atlas III - no progress
