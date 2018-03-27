@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 16 April 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Agenda Topics
+
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Write next month's agenda.
+   - Location
+   - Topics
+   - Action Items
+   - Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop reciving cron messages.
+
+** Action Items from Last Month
+ - Myles :: Please invite some of us to Keybase
+   - Done
+ - Everyone but Myles :: Log into Keybase by next meeting
+ - Myles :: Help us figure out how to use Keybase for our interesting keys
