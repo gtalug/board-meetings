@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Notes"
-published: false
+published: true
 ---
 
 * 26 March 2018 at 7:30pm
@@ -73,3 +73,7 @@ published: false
 *** Write next month's agenda.
 
 ** TODO
+ - Myles :: Please invite some of us to Keybase
+   - Done
+ - Everyone but Myles :: Log into Keybase by next meeting
+ - Myles :: Help us figure out how to use Keybase for our interesting keys
