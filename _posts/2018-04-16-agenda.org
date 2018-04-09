@@ -17,8 +17,10 @@ published: true
  - ICANN material from Gord
  - Possible VPS for free
    - ThisHosting.Rocks
+     - Who are they???
    - RamNode or Digital Ocean VPS
-   - Free 6 month offering
+   - Free 6 month offering, with likely extension
+   - They'd expect acknowledgement of the donation on the site
  - Write next month's agenda.
    - Location
    - Topics
