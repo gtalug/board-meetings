@@ -15,6 +15,10 @@ published: true
  - Timing/Location of next Ops meeting
  - Upcoming Meetings
  - ICANN material from Gord
+ - Possible VPS for free
+   - ThisHosting.Rocks
+   - RamNode or Digital Ocean VPS
+   - Free 6 month offering
  - Write next month's agenda.
    - Location
    - Topics
