@@ -24,6 +24,7 @@ published: true
  - Write next month's agenda.
    - Location
    - Topics
+     - Confessions of a Malware Author. (Date TBD)
    - Action Items
    - Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop reciving cron messages.
 
