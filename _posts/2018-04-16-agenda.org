@@ -18,15 +18,18 @@ published: true
  - Possible VPS for free
    - ThisHosting.Rocks
      - Who are they???
-   - RamNode or Digital Ocean VPS
+   - RamNode or Digital Ocean VPS (they suggested a host, maybe we keep using Linode)
    - Free 6 month offering, with likely extension
    - They'd expect acknowledgement of the donation on the site
+ - Chris Tyler is willing to do FSOSS. What are available slots follow-up.
+ - Discuss art for intro card for all GTALUG videos - make videos look more professional
+ - Discuss intro video for gtalug.
  - Write next month's agenda.
    - Location
    - Topics
      - Confessions of a Malware Author. (Date TBD)
    - Action Items
-   - Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop reciving cron messages.
+   - Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop receiving cron messages.
 
 ** Action Items from Last Month
  - Myles :: Please invite some of us to Keybase
