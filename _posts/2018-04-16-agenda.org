@@ -25,11 +25,8 @@ published: true
  - Discuss art for intro card for all GTALUG videos - make videos look more professional
  - Discuss intro video for gtalug.
  - Write next month's agenda.
-   - Location
    - Topics
-     - Confessions of a Malware Author. (Date TBD)
-   - Action Items
-   - Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop receiving cron messages.
+     - Confessions of a Malware Author. (Date TBD)  ???
 
 ** Action Items from Last Month
  - Myles :: Please invite some of us to Keybase

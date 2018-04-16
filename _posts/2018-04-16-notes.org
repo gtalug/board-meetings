@@ -1,0 +1,77 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 16 April 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+  
+** Attendees
+- TBD
+  - Scott Sullivan (board member)
+  - Christopher Browne (board member)
+  - Alex Volkov (board member)
+  - Gordon Chillcott (board member)
+  - Myles Braithwaite
+  - Evan Liebovich (board member)
+  - Bill Thanis
+  - David Collier Brown
+
+- Present
+
+- Absent
+
+** Topics
+*** Next Ops Meeting
+
+  - Hacklab?
+    - The natural May date would be May 14th, agreed
+    - The natural June date would be June 18th
+      
+*** Upcoming Meetings
+**** May
+  - Date is May 8th
+
+**** June
+  - Date is June 12th
+
+*** ICANN material from Gord
+ - Atlas III - no progress, perhaps NARALO general assembly may occur instead
+ - WHOIS
+   - PDP working group suspended
+   - Awaiting Board guidance on GDPR
+   - Efforts probably a result of DPA review of last month
+ - DNSSEC KSK rollover to be Oct 11, 2018, no new news
+ - Tech taskforce
+   - nothing new
+ - NARALO
+   - nothing new
+ - ICANN Meetings generally
+   - Nothing using Adobe Connect anymore
+   - Conferencing via Webex
+   - Some discussion on lists of Zoom as alternative
+
+*** Transfer Penguin Linode to GTALUG
+ - Shared passwords on KeyBase
+   - [[http://keybase.io][KeyBase]]
+   - People seem set up
+   - Need some determination of where shared secrets go
+
+*** Free VPS?
+ - ThisHosting.rocks
+ - Who are they?
+ - Details
+   - Offering first 6 months free
+   - Likely extension
+   - Would expect acknowledgement
+ 
+*** Write next month's agenda
+ - Location
+
+
+** TODO
+ - Chris TODO :: Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop receiving cron messages.
