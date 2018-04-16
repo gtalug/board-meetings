@@ -27,6 +27,7 @@ published: true
  - Write next month's agenda.
    - Topics
      - Confessions of a Malware Author. (Date TBD)  ???
+ - Myles wants to do a talk on GTALUG
 
 ** Action Items from Last Month
  - Myles :: Please invite some of us to Keybase
