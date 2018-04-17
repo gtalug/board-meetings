@@ -42,11 +42,11 @@ published: true
   - Marcel Gagne is now with LPI, Evan is soliciting him to come for a talk
   - Alex is checking with Chris Tyler on FSOSS material
   - Myles and Scott suggest pulling Eric in to discuss Maker Fair matters
-  - Evan has material on cloudiness, where LPI preferred internally runnable stuff
+  - Myles and Evan on Cloudy Systems With a Chance of Open Source
   
 **** May
   - Date is May 8th
-  - Myles and Evan on Cloudy Systems With a Chance of Open Source
+  - Gary on writing malware, he was interested in presenting to us      
 
 **** June
   - Date is June 12th
