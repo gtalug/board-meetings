@@ -73,7 +73,10 @@ published: true
 
 *** Video matters
  - Need intro screen so that we have a "punchy" beginning
- - Need an "Intro to GTALUG" video
+   - Intro slide needing artwork
+     - a slide template
+     - Myles has volunteered due to past experience
+ - Need an "Intro to GTALUG" video, nice to have as a revision to the ICANN video
  - Suggested that we publish a PDF file of the release form for speakers on our web site
 
 *** Transfer Penguin Linode to GTALUG
@@ -89,6 +92,10 @@ published: true
    - Offering first 6 months free
    - Likely extension
    - Would expect acknowledgement
+ - Faintly looks like they may be sketchy
+ - Conclusion is that nobody is filled with confidence in the endeavour
+ - It would require effort to design an infrastructure safe to drop into here
+ - Thus, nope.
  
 *** Write next month's agenda
  - Location
