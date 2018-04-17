@@ -97,6 +97,9 @@ published: true
  - It would require effort to design an infrastructure safe to drop into here
  - Thus, nope.
  
+*** Myles Talk
+ - Someone was interested in hearing about how Code of Conduct emerged
+ 
 *** Write next month's agenda
  - Location
 
