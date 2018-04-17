@@ -46,6 +46,7 @@ published: true
   
 **** May
   - Date is May 8th
+  - Myles and Evan on Cloudy Systems With a Chance of Open Source
 
 **** June
   - Date is June 12th
@@ -86,3 +87,5 @@ published: true
 
 ** TODO
  - Chris TODO :: Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop receiving cron messages.
+ - Myles TODO :: Precis on May 9 meeting
+ - Evan TODO :: Precis on May 9 meeting
