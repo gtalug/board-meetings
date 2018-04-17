@@ -110,3 +110,17 @@ published: true
  - Evan TODO :: Precis on May 9 meeting
  - Alex TODO :: PDF for release form as part of speaker material
  - All but Myles TODO :: Look at files on Keybase to verify that multiple people have access to authenticationy bits 
+
+
+* 14 May 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Agenda Topics
+
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Write next month's agenda.
