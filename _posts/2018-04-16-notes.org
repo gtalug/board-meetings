@@ -43,6 +43,7 @@ published: true
   - Alex is checking with Chris Tyler on FSOSS material
   - Myles and Scott suggest pulling Eric in to discuss Maker Fair matters
   - Myles and Evan on Cloudy Systems With a Chance of Open Source
+  - Chris on recent PostgreSQL versions and such, also Myles on why migrating away from MySQL drove him bald
   
 **** May
   - Date is May 8th
@@ -50,6 +51,9 @@ published: true
 
 **** June
   - Date is June 12th
+
+**** July
+  - Date is July 10th
 
 *** ICANN material from Gord
  - Atlas III - no progress, perhaps NARALO general assembly may occur instead
