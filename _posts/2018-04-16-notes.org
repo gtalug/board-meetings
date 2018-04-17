@@ -31,8 +31,15 @@ published: true
   - Hacklab?
     - The natural May date would be May 14th, agreed
     - The natural June date would be June 18th
+    - May 13th at 7:30 via Zoom as a demo attempt that we'll try to do
+      - In meeting POC seems to function
+      - Recommend using headphones with a mike so sound doesn't suck
+    - Note that a clause of our Bylaws actually permits electronically based meetings (Section 1.5, bullet point 21)
+    - The natural June date would be June 18th
       
 *** Upcoming Meetings
+  - Scott had a lead on a speaker on a malware topic      
+  - Marcel Gagne 
 **** May
   - Date is May 8th
 
