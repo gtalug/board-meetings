@@ -71,6 +71,11 @@ published: true
    - Conferencing via Webex
    - Some discussion on lists of Zoom as alternative
 
+*** Video matters
+ - Need intro screen so that we have a "punchy" beginning
+ - Need an "Intro to GTALUG" video
+ - Suggested that we publish a PDF file of the release form for speakers on our web site
+
 *** Transfer Penguin Linode to GTALUG
  - Shared passwords on KeyBase
    - [[http://keybase.io][KeyBase]]
@@ -93,3 +98,4 @@ published: true
  - Chris TODO :: Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop receiving cron messages.
  - Myles TODO :: Precis on May 9 meeting
  - Evan TODO :: Precis on May 9 meeting
+ - Alex TODO :: PDF for release form as part of speaker material
