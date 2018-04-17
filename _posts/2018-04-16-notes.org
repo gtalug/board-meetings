@@ -38,8 +38,12 @@ published: true
     - The natural June date would be June 18th
       
 *** Upcoming Meetings
-  - Scott had a lead on a speaker on a malware topic      
-  - Marcel Gagne 
+  - Scott had a lead on a speaker (Gary) on a malware topic, he was interested in presenting to us      
+  - Marcel Gagne is now with LPI, Evan is soliciting him to come for a talk
+  - Alex is checking with Chris Tyler on FSOSS material
+  - Myles and Scott suggest pulling Eric in to discuss Maker Fair matters
+  - Evan has material on cloudiness, where LPI preferred internally runnable stuff
+  
 **** May
   - Date is May 8th
 
