@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 14 May 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Agenda Topics
+
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Begin planning of Linux In The Park
+   - Solicit a date at the next meeting
+ - Write next month's agenda.
