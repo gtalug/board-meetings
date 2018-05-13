@@ -33,8 +33,7 @@ published: true
     - May 13th at 7:30 via Zoom as a demo attempt that we'll try to do
       - In meeting POC seems to function
       - Recommend using headphones with a mike so sound doesn't suck
-    - Note that a clause of our Bylaws actually permits electronically based meetings (Section 1.5, bullet point 21)
-    - The natural June date would be June 18th
+    - The natural July date would be July 16th
       
 *** Upcoming Meetings
   - Marcel Gagne is now with LPI, Evan is soliciting him to come for a talk
@@ -46,12 +45,17 @@ published: true
 **** May
   - Date is May 8th
   - Gary on writing malware
+  - Generally positive reviews
+  - Had some more general interest topics
 
 **** June
   - Date is June 12th
 
 **** July
   - Date is July 10th
+
+**** August
+  - Date is August 14th
 
 *** ICANN material from Gord
 
@@ -61,10 +65,13 @@ published: true
 
 *** Transfer Penguin Linode to GTALUG
 
- 
+*** Notes about zoom based meeting
+ - The ID was one set up by Evan
+ - If this works, we'll want to set up our own zoon ID
  
 *** Write next month's agenda
  - Location
 
-
 ** TODO
+ - Scott TODO :: Book Hacklab for June ops meeting
+ - Chris TODO :: Do statistical summaries of recent attendance
