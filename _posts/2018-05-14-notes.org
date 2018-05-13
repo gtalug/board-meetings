@@ -1,0 +1,70 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 14 May 2018 at 7:30pm
+
+** Location
+
+- Virtual, via xoom, on May 13th, 7:30pm
+  
+** Attendees
+- TBD
+  - Bill Thanis
+  - David Collier Brown
+  - Scott Sullivan (board member)
+  - Christopher Browne (board member)
+  - Alex Volkov (board member)
+  - Gordon Chillcott (board member)
+  - Myles Braithwaite
+  - Evan Liebovich (board member)
+
+- Present
+
+- Absent
+
+** Topics
+*** Next Ops Meeting
+
+  - Hacklab?
+    - The natural June date would be June 18th
+    - May 13th at 7:30 via Zoom as a demo attempt that we'll try to do
+      - In meeting POC seems to function
+      - Recommend using headphones with a mike so sound doesn't suck
+    - Note that a clause of our Bylaws actually permits electronically based meetings (Section 1.5, bullet point 21)
+    - The natural June date would be June 18th
+      
+*** Upcoming Meetings
+  - Marcel Gagne is now with LPI, Evan is soliciting him to come for a talk
+  - Alex is checking with Chris Tyler on FSOSS material
+  - Myles and Scott suggest pulling Eric in to discuss Maker Fair matters
+  - Myles and Evan on Cloudy Systems With a Chance of Open Source
+  - Chris on recent PostgreSQL versions and such, also Myles on why migrating away from MySQL drove him bald
+  
+**** May
+  - Date is May 8th
+  - Gary on writing malware
+
+**** June
+  - Date is June 12th
+
+**** July
+  - Date is July 10th
+
+*** ICANN material from Gord
+
+*** Video matters
+ - Need intro screen so that we have a "punchy" beginning
+ - Need an "Intro to GTALUG" video, nice to have as a revision to the ICANN video
+
+*** Transfer Penguin Linode to GTALUG
+
+ 
+ 
+*** Write next month's agenda
+ - Location
+
+
+** TODO

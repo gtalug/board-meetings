@@ -18,3 +18,10 @@ published: true
  - Begin planning of Linux In The Park
    - Solicit a date at the next meeting
  - Write next month's agenda.
+
+** TODO from last month
+ - Chris TODO :: Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop receiving cron messages.
+ - Myles TODO :: Precis on May 9 meeting
+ - Evan TODO :: Precis on May 9 meeting
+ - Alex TODO :: PDF for release form as part of speaker material
+ - All but Myles TODO :: Look at files on Keybase to verify that multiple people have access to authenticationy bits 
