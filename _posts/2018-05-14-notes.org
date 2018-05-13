@@ -14,7 +14,6 @@ published: true
 - TBD
   - Bill Thanis
   - David Collier Brown
-  - Alex Volkov (board member)
 
 - Present
   - Scott Sullivan (board member)
@@ -22,6 +21,7 @@ published: true
   - Gordon Chillcott (board member)
   - Myles Braithwaite
   - Evan Liebovich (board member)
+  - Alex Volkov (board member)
 
 - Absent
 
