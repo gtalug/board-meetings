@@ -64,6 +64,19 @@ published: true
   - Date is August 14th
 
 *** ICANN material from Gord
+  - Not much going on
+  - Notable thing being the policy development on registrant data release has stopped
+    - Chair resigned/retired (Chuck Holmes)
+  - Group reviewing the things surrounding breakup of ICANN from US Federal Government
+  - Technical Issues Group, does not have meetings, just mailing list activity when things happen
+  - Candidates presentation meeting May 14/15 as North American At Large elections are coming up
+  - Evan's observation on committee on what to do with auction proceeds
+    - In a private auction, money goes to the losers, and "everyone is happy"
+    - In ICANN auction, ICANN winds up with a (pretty big) pot of money
+      - But then has painful fighting over what to do with the money
+      - ICANN apparently has a cash crunch; can they use the money?
+      - Lots of painful mess on this...
+    - Watch for Jonathan Zuch (?), in NARALO, possible electoral candidate
 
 *** Video matters
  - Need intro screen so that we have a "punchy" beginning
