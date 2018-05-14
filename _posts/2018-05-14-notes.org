@@ -37,10 +37,15 @@ published: true
       
 *** Upcoming Meetings
   - Marcel Gagne is now with LPI, Evan is soliciting him to come for a talk
-  - Alex is checking with Chris Tyler on FSOSS material
+  - Alex is checking with Chris Tyler on FSOSS material, wants to do a talk in the fall
+    - FPGAs
+    - Linux and AI hardware accelerators
+    - Something on Open Source that might be too preaching to choir
+    - Look at September or October
   - Myles and Scott suggest pulling Eric in to discuss Maker Fair matters
   - Myles and Evan on Cloudy Systems With a Chance of Open Source
   - Chris on recent PostgreSQL versions and such, also Myles on why migrating away from MySQL drove him bald
+  - Myles set a date for LPI beta exam at Hacklab, which is a good thing!
   
 **** May
   - Date is May 8th
