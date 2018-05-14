@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 18 June 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Agenda Topics
+
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Active planning of Linux In The Park
+ - Write next month's agenda.
+
+** TODO from last month
+ - Scott TODO :: Book Hacklab for June ops meeting
+ - Chris TODO :: Do statistical summaries of recent attendance
+ - Myles TODO :: Talk with Eric about Maker Fair talk
+ - Myles TODO :: Ask around at PyGTA on possible speakers
+ - Scott TODO :: Send out a solicitation for lightning talks

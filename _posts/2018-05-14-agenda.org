@@ -23,3 +23,5 @@ published: true
  - Chris done :: Write the agenda and push to GitHub so Mr. Meeseeks can send emails and Myles can stop receiving cron messages.
  - Alex done :: PDF for release form as part of speaker material
  - All but Myles done :: Look at files on Keybase to verify that multiple people have access to authenticationy bits 
+ - Scott TODO :: Prep for Linux in the Park
+ 
