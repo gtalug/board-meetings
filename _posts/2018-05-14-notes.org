@@ -55,6 +55,7 @@ published: true
 
 **** June
   - Date is June 12th
+  - Tentatively Lightning talks, with a chance of Marcel or Eric depending on what comes in from Scott/Evan/Myles
 
 **** July
   - Date is July 10th
@@ -80,3 +81,4 @@ published: true
 ** TODO
  - Scott TODO :: Book Hacklab for June ops meeting
  - Chris TODO :: Do statistical summaries of recent attendance
+ - Myles TODO :: Talk with Eric about Maker Fair talk
