@@ -82,3 +82,5 @@ published: true
  - Scott TODO :: Book Hacklab for June ops meeting
  - Chris TODO :: Do statistical summaries of recent attendance
  - Myles TODO :: Talk with Eric about Maker Fair talk
+ - Myles TODO :: Ask around at PyGTA on possible speakers
+ - Scott TODO :: Send out a solicitation for lightning talks
