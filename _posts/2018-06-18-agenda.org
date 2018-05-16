@@ -15,12 +15,17 @@ published: true
  - Timing/Location of next Ops meeting
  - Upcoming Meetings
  - ICANN material from Gord
+ - Followup on Zoom meeting in May
+   - It seemed to work
+   - Should we set up a GTALUG account?
+   - How often should we use this?
+     - A thought :: Once a quarter to make sure we keep it working?
  - Active planning of Linux In The Park
  - Write next month's agenda.
 
 ** TODO from last month
- - Scott TODO :: Book Hacklab for June ops meeting
- - Chris TODO :: Do statistical summaries of recent attendance
+ - Scott Done :: Book Hacklab for June ops meeting
+ - Chris Done :: Provide statistical summaries of recent attendance
  - Myles TODO :: Talk with Eric about Maker Fair talk
  - Myles TODO :: Ask around at PyGTA on possible speakers
- - Scott TODO :: Send out a solicitation for lightning talks
+ - Scott Done :: Send out a solicitation for lightning talks
