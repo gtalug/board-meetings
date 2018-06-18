@@ -1,0 +1,87 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 18 June 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+  
+** Attendees
+- TBD
+  - Bill Thanis
+  - David Collier Brown
+  - Scott Sullivan (board member)
+  - Christopher Browne (board member)
+  - Gordon Chillcott (board member)
+  - Myles Braithwaite
+  - Evan Liebovich (board member)
+  - Alex Volkov (board member)
+
+- Present
+
+- Absent
+
+** Topics
+*** Next Ops Meeting
+
+  - Hacklab?
+    - The natural July date would be July 16th
+    - The natural August date would be August 20th
+ - last Zoom meeting in May, when should we Zoom again?
+
+*** Upcoming Meetings
+  
+**** June
+  - Date is June 12th
+  - Lightning talks
+
+**** July
+  - Date is July 10th
+
+**** August
+  - Date is August 14th
+
+*** ICANN material from Gord
+  - Atlas III - no decision, and budget does not indicate expectation of planning...
+  - WHOIS Policy Development
+    - Temporary GDPR policy drafted by ICANN Staff
+    - Tucows developed and implemented a GDPR regimen
+    - ICANN tested this in German court
+      - Tucows RDS found largely compliant
+      - ICANN Temporary policy needs some work
+    - Session @ Panama meetings June 24th
+      - expect either to restart PDP, or terminate it
+  - KSK rollover
+    - still scheduled for Oct 11
+  - NARALO Election
+    - Ecuardo Diaz is chair
+    - Glenn McKnight is secretary
+  - ALAC
+    - Alan Greenberg stepping down as chair
+    - Marita Moll new rep from NARALO
+  - Meetings back on Adobe Connect
+    - Zoom to be considered as alternative
+  - Lots of discussions of metrics to measure activity in At Large
+
+*** Transfer Penguin Linode to GTALUG
+  - About now???
+
+*** Linux In The Park 
+  - Location
+  - Timing
+  - Needful announcements
+  - Logistics
+    - Various "bring your own" for most food
+    - Ensure there's BBQ and gas
+*** Write next month's agenda
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Active planning of Linux In The Park
+ - Write next month's agenda.
+
+** TODO
