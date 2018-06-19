@@ -15,11 +15,6 @@ published: true
  - Timing/Location of next Ops meeting
  - Upcoming Meetings
  - ICANN material from Gord
- - Followup on Zoom meeting in May
-   - It seemed to work
-   - Should we set up a GTALUG account?
-   - How often should we use this?
-     - A thought :: Once a quarter to make sure we keep it working?
  - Active planning of Linux In The Park
  - Write next month's agenda.
 

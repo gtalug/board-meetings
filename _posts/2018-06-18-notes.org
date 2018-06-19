@@ -14,14 +14,14 @@ published: true
 - TBD
   - Bill Thanis
   - David Collier Brown
+  - Myles Braithwaite
+
+- Present
   - Scott Sullivan (board member)
   - Christopher Browne (board member)
   - Gordon Chillcott (board member)
-  - Myles Braithwaite
   - Evan Liebovich (board member)
   - Alex Volkov (board member)
-
-- Present
 
 - Absent
 
@@ -31,19 +31,27 @@ published: true
   - Hacklab?
     - The natural July date would be July 16th
     - The natural August date would be August 20th
- - last Zoom meeting in May, when should we Zoom again?
+  - last Zoom meeting in May, when should we Zoom again?
+    - not just yet; later...
+    - thought about recording meeting, don't think we badly want that
 
 *** Upcoming Meetings
   
 **** June
   - Date is June 12th
   - Lightning talks
+  - are there any lightning talks we would like to make into full talks?
 
 **** July
   - Date is July 10th
+  - Don Tai confirming for Internet bots/hacking tools
 
 **** August
   - Date is August 14th
+  - Hoping Chris Tyler
+
+**** September
+  - early musings...
 
 *** ICANN material from Gord
   - Atlas III - no decision, and budget does not indicate expectation of planning...
@@ -85,3 +93,9 @@ published: true
  - Write next month's agenda.
 
 ** TODO
+ - Question at meeting :: Microsoft just bought GitHub; is this a discussion worth having in a meeting?
+   - If concerned, what are some alternatives?
+ - Chris TODO :: Switch the statistical summary to SQLite
+ - Myles TODO :: Talk with Eric about Maker Fair talk
+ - Myles TODO :: Ask around at PyGTA on possible speakers
+ - Scott Done :: Book Hacklab for July/August ops meeting
