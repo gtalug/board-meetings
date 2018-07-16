@@ -1,0 +1,93 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 16 July 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+  
+** Attendees
+- TBD
+  - Bill Thanis
+  - David Collier Brown
+  - Myles Braithwaite
+  - Scott Sullivan (board member)
+  - Christopher Browne (board member)
+  - Gordon Chillcott (board member)
+  - Evan Liebovich (board member)
+  - Alex Volkov (board member)
+
+- Present
+
+- Absent
+
+** Topics
+*** Next Ops Meeting
+
+  - Hacklab?
+    - The natural August date would be August 20th
+    - The natural September date would be September 17th
+
+*** Upcoming Meetings
+  
+**** July
+  - Date is July 10th
+  - Don Tai confirm on Internet bots/hacking tools
+
+**** August
+  - Date is August 14th
+  - Hoping Chris Tyler
+
+**** September
+  - early musings...
+
+**** October
+  - AGM
+
+*** ICANN material from Gord
+  - ATLAS III planning continues
+    - despite lack of budget/announcement
+  - WHOIS policy development
+    - Unified Access Model has been published for comment
+    - Temporary spec live til next May 25
+    - Expedited Policy Review process under way (4 mos)
+    - Concerns include:
+      - membership criteria
+      - team leadership
+      - scope
+      - decisions and meeting management concerns
+  - DNSSEC KSK rollover
+    - Concern about whether outreach has made it out
+    - Tooling available to test ISPs for compliance
+  - NARALO
+    - Vote of ALAC puts Maureen Hilyard as new chair replacing Alan Greenberg
+    - Some CROP statements, NARALO seeks clarity
+    - Perhaps cannot fund trips to groups with MOU (e.g. - ARIN)
+  - Plenary on ICANN accountability
+    - Final session; need to implement recommendations
+  - Other from ICANN 62
+    - Discussions on another GTLD round
+    - ICANN Board committed to such
+    - TLDs for non-capital cities
+      - There are a bunch of Hamiltons!
+
+*** Transfer Penguin Linode to GTALUG
+  - About now???
+
+*** Linux In The Park 
+  - Needful announcements
+  - Logistics
+    - Various "bring your own" for most food
+    - Ensure there's BBQ and gas
+
+*** Write next month's agenda
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Write next month's agenda.
+
+** TODO
