@@ -45,9 +45,10 @@ published: true
 
 **** September
   - September 11th
-  - early musings...
+  - Perhaps Eric on Maker space things
   - Scott Following up with Paul Mullins on *COIN / Blockchain
   - Hoping Chris Tyler
+  - Perhaps Mike Hoye
 
 **** October
   - AGM
