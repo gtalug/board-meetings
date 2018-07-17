@@ -66,8 +66,8 @@ published: true
       - scope
       - decisions and meeting management concerns
   - DNSSEC KSK rollover
-    - Concern about whether outreach has made it out
     - Tooling available to test ISPs for compliance
+    - Concern about whether outreach has made it out
   - NARALO
     - Vote of ALAC puts Maureen Hilyard as new chair replacing Alan Greenberg
     - Some CROP statements, NARALO seeks clarity
@@ -97,4 +97,5 @@ published: true
  - ICANN material from Gord
  - Write next month's agenda.
 
-** TODO
+ - TODO - Gord :: please publicize the DNSSEC testing tool to our membership
+ - TODO - Evan :: Check with Marcel on August meeting
