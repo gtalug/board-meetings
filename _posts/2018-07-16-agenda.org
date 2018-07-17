@@ -22,7 +22,7 @@ published: true
  - Code of Conduct for Speakers
    - Need for speakers to have CoC applied
    - Better moderation of questions
-
+    
 ** TODO from last month
  - Question at meeting :: Microsoft just bought GitHub; is this a discussion worth having in a meeting?
    - If concerned, what are some alternatives?

@@ -87,9 +87,20 @@ published: true
   - Logistics
     - Ensure there's BBQ and gas
 
-*** Code of Conduct
-  - Need for speakers to have CoC applied
+*** Meeting Conduct
   - Better moderation of questions
+  - We have been having too much interruption of speakers by the crowd talking to themselves
+
+*** Github migration to Gitlab
+  - There is already a GTALUG group on GitLab
+  - Permissions granted to Alex and Scott
+  - Ready to proceed
+  - Merits include
+    - Simpler CI pipeline for generating website
+    - Nothing to do with MSFT concerns :-)
+  - Plan to shift things over...
+    - All about Alex wanting to automate things he wants to automate
+    - Will have a .gitlab file that is self-backed-up
 
 *** Write next month's agenda
  - Timing/Location of next Ops meeting
@@ -99,3 +110,4 @@ published: true
 
  - TODO - Gord :: please publicize the DNSSEC testing tool to our membership
  - TODO - Evan :: Check with Marcel on August meeting
+ - TODO - Chris :: Set up Gitlab account, pass info to Alex
