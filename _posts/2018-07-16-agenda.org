@@ -18,6 +18,10 @@ published: true
  - Active planning of Linux In The Park
    - Check on Gas!
  - Write next month's agenda.
+ - Alex proposes Git migration from Github to Gitlab
+ - Code of Conduct for Speakers
+   - Need for speakers to have CoC applied
+   - Better moderation of questions
 
 ** TODO from last month
  - Question at meeting :: Microsoft just bought GitHub; is this a discussion worth having in a meeting?
@@ -27,5 +31,5 @@ published: true
  - Myles TODO :: Talk with Eric about Maker Fair talk
  - Myles TODO :: Ask around at PyGTA on possible speakers
  - Scott Done :: Book Hacklab for July/August ops meeting
- - Scott TODO :: Prepping new LITP wiki page (probably already done)
- - Scott TODO :: Announce LITP for July 21st
+ - Scott DONE :: Prepping new LITP wiki page (probably already done)
+ - Scott DONE :: Announce LITP for July 21st

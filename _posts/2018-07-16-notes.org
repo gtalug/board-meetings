@@ -14,14 +14,14 @@ published: true
 - TBD
   - Bill Thanis
   - David Collier Brown
+
+- Present
   - Myles Braithwaite
   - Scott Sullivan (board member)
   - Christopher Browne (board member)
   - Gordon Chillcott (board member)
   - Evan Liebovich (board member)
   - Alex Volkov (board member)
-
-- Present
 
 - Absent
 
@@ -40,10 +40,14 @@ published: true
 
 **** August
   - Date is August 14th
-  - Hoping Chris Tyler
+  - Perhaps Marcel Gagne
+  - Perhaps Q&A
 
 **** September
+  - September 11th
   - early musings...
+  - Scott Following up with Paul Mullins on *COIN / Blockchain
+  - Hoping Chris Tyler
 
 **** October
   - AGM
@@ -79,10 +83,12 @@ published: true
   - About now???
 
 *** Linux In The Park 
-  - Needful announcements
   - Logistics
-    - Various "bring your own" for most food
     - Ensure there's BBQ and gas
+
+*** Code of Conduct
+  - Need for speakers to have CoC applied
+  - Better moderation of questions
 
 *** Write next month's agenda
  - Timing/Location of next Ops meeting
