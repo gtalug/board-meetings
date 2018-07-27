@@ -15,6 +15,9 @@ published: true
  - Upcoming Meetings
  - ICANN material from Gord
  - Gitlab migration
+   - Archiving duplicate repos on Github
+ - Closing GTALUG facebook group
+ - Policy on collaborations with other people and groups on gtalug videos.
  - Write next month's agenda.
     
 ** TODO from last month
