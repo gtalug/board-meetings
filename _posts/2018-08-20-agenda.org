@@ -16,7 +16,9 @@ published: true
  - ICANN material from Gord
  - Gitlab migration
    - Archiving duplicate repos on Github
- - Closing GTALUG facebook group
+ - Should we only use Social media accounts that respect users?
+  - Should we close or redirect GTALUG facebook group due to well documented abuses of user data by facebook?
+  - Should we close or redirect GTALUG twitter page? @jack supports conspiracy theorists.
  - Policy on collaborations with other people and groups on gtalug videos.
  - Write next month's agenda.
     
