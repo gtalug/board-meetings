@@ -1,0 +1,78 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 16 July 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+  
+** Attendees
+- TBD
+  - Bill Thanis
+  - David Collier Brown
+  - Myles Braithwaite
+  - Scott Sullivan (board member)
+  - Christopher Browne (board member)
+  - Gordon Chillcott (board member)
+  - Evan Liebovich (board member)
+  - Alex Volkov (board member)
+
+- Present
+
+- Absent
+
+** Topics
+*** Next Ops Meeting
+
+  - Hacklab?
+    - The natural September date would be September 17th
+    - The natural October date would be October 15th
+
+*** Upcoming Meetings
+  
+**** August
+  - Date is August 14th
+  - Eric on Maker space things
+
+**** September
+  - September 11th
+  - Scott Following up with Paul Mullins on *COIN / Blockchain
+  - Hoping Chris Tyler
+  - Perhaps Mike Hoye
+
+**** October
+  - AGM
+
+*** ICANN material from Gord
+  - Atlas III
+    - No progress
+  - Consolidated Policy Working Group
+    - Looking for pen-holders for at-large policy statements
+    - New GTLDs, WHOIS/RDS EPDP
+    - Likely to be some more comments
+  - Discussions on next round of GTLDs
+    - Gord had some comments
+  - DNSSEC KSK Rollover deferral
+    - no change
+  - NARALO
+    - some reviews of plans from ICANN Board
+    - Some efforts to reach out to individual members (e.g. - GTALUG)
+  
+*** Transfer Penguin Linode to GTALUG
+  - Done
+  - Does Alex have access to the account yet?  Bits outstanding last month
+
+*** Github migration to Gitlab
+  - Largely done?
+
+*** Write next month's agenda
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Write next month's agenda.
+
+*** ToDo items
