@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 20 August 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Agenda Topics
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Gitlab migration
+ - Write next month's agenda.
+    
+** TODO from last month
+ - TODO - Gord :: please publicize the DNSSEC testing tool to our membership
+ - TODO - Evan :: Check with Marcel on August meeting
+ - TODO - Chris :: Set up Gitlab account, pass info to Alex

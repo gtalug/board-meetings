@@ -1,0 +1,113 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 16 July 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+  
+** Attendees
+- TBD
+  - Bill Thanis
+  - David Collier Brown
+
+- Present
+  - Myles Braithwaite
+  - Scott Sullivan (board member)
+  - Christopher Browne (board member)
+  - Gordon Chillcott (board member)
+  - Evan Liebovich (board member)
+  - Alex Volkov (board member)
+
+- Absent
+
+** Topics
+*** Next Ops Meeting
+
+  - Hacklab?
+    - The natural August date would be August 20th
+    - The natural September date would be September 17th
+
+*** Upcoming Meetings
+  
+**** July
+  - Date is July 10th
+  - Don Tai confirm on Internet bots/hacking tools
+
+**** August
+  - Date is August 14th
+  - Perhaps Marcel Gagne
+  - Perhaps Q&A
+
+**** September
+  - September 11th
+  - Perhaps Eric on Maker space things
+  - Scott Following up with Paul Mullins on *COIN / Blockchain
+  - Hoping Chris Tyler
+  - Perhaps Mike Hoye
+
+**** October
+  - AGM
+
+*** ICANN material from Gord
+  - ATLAS III planning continues
+    - despite lack of budget/announcement
+  - WHOIS policy development
+    - Unified Access Model has been published for comment
+    - Temporary spec live til next May 25
+    - Expedited Policy Review process under way (4 mos)
+    - Concerns include:
+      - membership criteria
+      - team leadership
+      - scope
+      - decisions and meeting management concerns
+  - DNSSEC KSK rollover
+    - Tooling available to test ISPs for compliance
+    - Concern about whether outreach has made it out
+  - NARALO
+    - Vote of ALAC puts Maureen Hilyard as new chair replacing Alan Greenberg
+    - Some CROP statements, NARALO seeks clarity
+    - Perhaps cannot fund trips to groups with MOU (e.g. - ARIN)
+  - Plenary on ICANN accountability
+    - Final session; need to implement recommendations
+  - Other from ICANN 62
+    - Discussions on another GTLD round
+    - ICANN Board committed to such
+    - TLDs for non-capital cities
+      - There are a bunch of Hamiltons!
+
+*** Transfer Penguin Linode to GTALUG
+  - About now???
+
+*** Linux In The Park 
+  - Logistics
+    - Ensure there's BBQ and gas
+
+*** Meeting Conduct
+  - Better moderation of questions
+  - We have been having too much interruption of speakers by the crowd talking to themselves
+
+*** Github migration to Gitlab
+  - There is already a GTALUG group on GitLab
+  - Permissions granted to Alex and Scott
+  - Ready to proceed
+  - Merits include
+    - Simpler CI pipeline for generating website
+    - Nothing to do with MSFT concerns :-)
+  - Plan to shift things over...
+    - All about Alex wanting to automate things he wants to automate
+    - Will have a .gitlab file that is self-backed-up
+
+*** Write next month's agenda
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Write next month's agenda.
+
+ - TODO - Gord :: please publicize the DNSSEC testing tool to our membership
+ - TODO - Evan :: Check with Marcel on August meeting
+ - TODO - Chris :: Set up Gitlab account, pass info to Alex
