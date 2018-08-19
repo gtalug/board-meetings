@@ -28,6 +28,9 @@ published: true
      (Slide Decks, T-Shirts, cards?)
  - Advertising
    - Physical Posters, on ryerson campus?
+ - Memorial
+   - Ivan Avery Frey observed that perhaps we might want to have some sort of memorial page for those of our number that are no longer with us.
+   - He noted that Peter Hiscocks just passed away, but there are others.
    
 ** TODO from last month
  - TODO - Gord :: please publicize the DNSSEC testing tool to our membership
