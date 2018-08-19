@@ -15,9 +15,24 @@ published: true
  - Upcoming Meetings
  - ICANN material from Gord
  - Gitlab migration
+ - Status update on github => gitlab migration.
+   - What has been moved? What's still to do?
+   - Where do I make my edits now? What happens when I do?
  - Write next month's agenda.
-    
+ - Other Group listing updates
+   - Ryerson Linux Users Group
+   - Postgress Users Group
+ - FSOSS
+   - Do we want to make a presence there?
+   - Ask if folks are interested in going as GTALUG branded speakers?
+     (Slide Decks, T-Shirts, cards?)
+ - Advertising
+   - Physical Posters, on ryerson campus?
+   
 ** TODO from last month
  - TODO - Gord :: please publicize the DNSSEC testing tool to our membership
  - TODO - Evan :: Check with Marcel on August meeting
- - TODO - Chris :: Set up Gitlab account, pass info to Alex
+ - Done - Chris :: Set up Gitlab account, pass info to Alex
+
+
+

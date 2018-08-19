@@ -68,6 +68,17 @@ published: true
 
 *** Github migration to Gitlab
   - Largely done?
+  - What is left?
+  - Where do we edit things?  How do we make sure we get it right?
+
+*** FSOSS
+  - Do we want to make a presence there?
+  - Ask if folks are interested in going as GTALUG branded speakers?
+     (Slide Decks, T-Shirts, cards?)
+
+*** Advertising
+  - Physical Posters, on ryerson campus?
+
 
 *** Write next month's agenda
  - Timing/Location of next Ops meeting
