@@ -9,20 +9,20 @@ published: true
 ** Location
 
 - Hacklab
-  
+
 ** Attendees
 - TBD
   - Bill Thanis
   - David Collier Brown
-  - Myles Braithwaite
-  - Scott Sullivan (board member)
-  - Christopher Browne (board member)
-  - Gordon Chillcott (board member)
-  - Evan Liebovich (board member)
-  - Alex Volkov (board member)
 
 - Present
-
+    - Ivan Avery
+    - Gordon Chillcott (board member)
+    - Scott Sullivan (board member)
+    - Myles Braithwaite
+    - Alex Volkov (board member)
+    - Evan Liebovich (board member)
+    - Christopher Browne (board member)
 - Absent
 
 ** Topics
@@ -33,7 +33,7 @@ published: true
     - The natural October date would be October 15th
 
 *** Upcoming Meetings
-  
+
 **** August
   - Date is August 14th
   - Eric on Maker space things
@@ -61,7 +61,7 @@ published: true
   - NARALO
     - some reviews of plans from ICANN Board
     - Some efforts to reach out to individual members (e.g. - GTALUG)
-  
+
 *** Transfer Penguin Linode to GTALUG
   - Done
   - Does Alex have access to the account yet?  Bits outstanding last month
