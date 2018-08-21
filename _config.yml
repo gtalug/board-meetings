@@ -9,9 +9,6 @@ highlighter: false
 
 exclude: ['fabfile.py', 'fabfile.pyc', 'Gemfile', 'README.md', 'vendor']
 
-gems:
-  - jekyll-archives
-
 jekyll-archives:
   enabled:
     - day
