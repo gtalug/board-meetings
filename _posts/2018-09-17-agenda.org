@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 17 September 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Agenda Topics
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - AGM Preparations
+ - ICANN material from Gord
+ - FSOSS
+ - Advertising
+ - Write next month's agenda.
+   
+** TODO from last month
+ - TODO - Gord :: please publicize the DNSSEC testing tool to our membership
+ - TODO - Evan :: Check with Marcel on August meeting, becoming September, we hope!
+ - Done - Chris :: Set up Gitlab account, pass info to Alex
+
+
+

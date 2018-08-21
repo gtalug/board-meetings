@@ -123,12 +123,23 @@ published: true
     - Google+
     - Mastodon
     - Youtube
+    - LinkedIn
+
 *** Memorials
+  - Ivan noticed this
+  - Some losses, recent and past
+    - Jan Carlson
+    - Peter Hiscocks
+    - Gerry Singleton
+    - Leah Cunningham
+  - Nice to do would be to recognize them
+    - In particular, to link to old talks
 
 *** Write next month's agenda
  - Timing/Location of next Ops meeting
  - Upcoming Meetings
  - ICANN material from Gord
+ - AGM in October
  - Write next month's agenda.
 
 *** ToDo items
@@ -139,4 +150,4 @@ published: true
   - TODO Scott :: Send out publicity for FSOSS call for speakers encouraging our involvement
   - TODO Scott :: Formalize a proposal for communications budget and materials for FSOSS
     - StickerMule
-
+  - TODO Myles :: Please forward admin info for our LinkedIn presence
