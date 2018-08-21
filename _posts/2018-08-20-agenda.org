@@ -14,7 +14,7 @@ published: true
  - Timing/Location of next Ops meeting
  - Upcoming Meetings
  - ICANN material from Gord
- - Gitlab migration
+ - Linode migration
  - Status update on github => gitlab migration.
    - What has been moved? What's still to do?
    - Where do I make my edits now? What happens when I do?
