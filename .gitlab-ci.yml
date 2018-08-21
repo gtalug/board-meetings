@@ -6,7 +6,7 @@ variables:
   GEM_HOME: ${HOME}/.gems
 
 before_script:
-  - bundle install
+  - bundle install --path=${GEM_HOME}
 
 test:
   stage: test
