@@ -3,10 +3,9 @@ image: ruby:2.4
 variables:
   JEKYLL_ENV: production
   LC_ALL: C.UTF-8
-  GEM_HOME: ${HOME}/.gems
 
 before_script:
-  - bundle install --path=${GEM_HOME}
+  - bundle install --path=${HOME}/.gems
 
 test:
   stage: test
