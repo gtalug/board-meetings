@@ -85,6 +85,13 @@ published: true
   - What is left?
   - Where do we edit things?  How do we make sure we get it right?
 
+  - Let us now treat GitHub as "legacy"
+    - Put something on Home pages of each repo to indicate that
+    - Also, mark the repositories as "archive"
+  - What runners have we got?
+    - One for web site repo
+    - Mr Meesses to generate email notices
+
 *** FSOSS
   - Do we want to make a presence there?
   - Ask if folks are interested in going as GTALUG branded speakers?
@@ -101,3 +108,6 @@ published: true
  - Write next month's agenda.
 
 *** ToDo items
+  - TODO Evan :: Marcel talk
+  - TODO Alex :: Mark github repos as "archive"
+    - Confirm that attempts to commit data get bounced/rebuffed/refused
