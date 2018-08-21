@@ -31,21 +31,29 @@ published: true
   - Hacklab?
     - The natural September date would be September 17th
     - The natural October date would be October 15th
+    - Both booked on Hacklab calendar
 
 *** Upcoming Meetings
 
 **** August
   - Date is August 14th
-  - Eric on Maker space things
+  - Eric on Maker Festivals
 
 **** September
   - September 11th
-  - Scott Following up with Paul Mullins on *COIN / Blockchain
-  - Hoping Chris Tyler
-  - Perhaps Mike Hoye
+  - Marcel Gagne being pinged
+  - Alternative: Round Table Q&A, for which we are a bit overdue
 
 **** October
   - AGM
+  - Perhaps Mike Hoye
+
+**** November
+  - Scott Following up with Paul Mullins on *COIN / Blockchain
+
+**** December
+  - Hoping Chris Tyler
+
 
 *** ICANN material from Gord
   - Atlas III
@@ -79,7 +87,7 @@ published: true
 *** Advertising
   - Physical Posters, on ryerson campus?
 
-
+*** Social Media Presence
 *** Write next month's agenda
  - Timing/Location of next Ops meeting
  - Upcoming Meetings
