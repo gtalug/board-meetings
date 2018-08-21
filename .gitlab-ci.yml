@@ -5,16 +5,11 @@ variables:
   LC_ALL: C.UTF-8
   GEM_HOME: ${HOME}/.gems
 
-
+before_script:
+  - bundle install
 
 test:
   stage: test
-  variables:
-    JEKYLL_ENV: production
-    LC_ALL: C.UTF-8
-    GEM_HOME: ${HOME}/.gems
-  before_script:
-    - bundle install
   script:
     - bundle exec jekyll build -d test
   artifacts:
@@ -27,10 +22,6 @@ test:
 
 pages:
   stage: deploy
-  variables:
-    JEKYLL_ENV: production
-    LC_ALL: C.UTF-8
-    GEM_HOME: ${HOME}/.gems
   script:
     - bundle exec jekyll build
     - /usr/bin/sudo -u deploy rsync --archive /src/www/org_gtalug_board/html/
