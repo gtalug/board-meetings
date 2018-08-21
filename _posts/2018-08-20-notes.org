@@ -54,6 +54,12 @@ published: true
 **** December
   - Hoping Chris Tyler
 
+**** Generic Topics
+  - Want a talk on Laptop support
+    - Lennart would be a fine candidate to try to draw on
+  - Linux Distros, where are things today?
+  - Why Linux is Like Pizza, by Evan...
+  - Chris on PostgreSQL
 
 *** ICANN material from Gord
   - Atlas III
