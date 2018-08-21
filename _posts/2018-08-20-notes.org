@@ -91,6 +91,17 @@ published: true
   - What runners have we got?
     - One for web site repo
     - Mr Meesses to generate email notices
+*** Other User Group Updates
+**** Ryerson LUG
+  - A LUG has emerged
+  - They have asked Evan to speak, which is a fine idea
+  - Scott would like to see if there is a coherent conversation to be had
+  - Scott would like to do coherent updates to our list of Other Groups
+  - If we can offer help, that would be nice
+
+**** Toronto PostgreSQL Users Group
+  - Also, need to add this
+  - Dave is looking for 2 month cadence on meetings
 
 *** FSOSS
   - Do we want to make a presence there?
@@ -99,8 +110,21 @@ published: true
 
 *** Advertising
   - Physical Posters, on ryerson campus?
+  - We are an official organization as far as Ryerson is concerned
+  - Check with Ryerson LUG to see if their channels are of use
+  - See if there is anything we may do to help
 
 *** Social Media Presence
+  - Some thoughts to perhaps drop Facebook?
+  - Some user are reticent to press in, are not quick to get involved
+  - It is scary to post questions to some
+  - Present platforms
+    - Facebook
+    - Google+
+    - Mastodon
+    - Youtube
+*** Memorials
+
 *** Write next month's agenda
  - Timing/Location of next Ops meeting
  - Upcoming Meetings
@@ -112,3 +136,7 @@ published: true
   - TODO Alex :: Mark github repos as "archive"
     - Confirm that attempts to commit data get bounced/rebuffed/refused
   - TODO Scott :: Set up gitlab runner for board web site
+  - TODO Scott :: Send out publicity for FSOSS call for speakers encouraging our involvement
+  - TODO Scott :: Formalize a proposal for communications budget and materials for FSOSS
+    - StickerMule
+
