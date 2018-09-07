@@ -17,6 +17,7 @@ published: true
  - ICANN material from Gord
  - FSOSS
  - Advertising
+ - Should we enable comments on youtube?
  - Write next month's agenda.
    
 ** TODO from last month
