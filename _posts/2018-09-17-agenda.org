@@ -30,9 +30,11 @@ published: true
  - Write next month's agenda.
    
 ** TODO from last month
- - TODO - Gord :: please publicize the DNSSEC testing tool to our membership
- - TODO - Evan :: Check with Marcel on August meeting, becoming September, we hope!
- - Done - Chris :: Set up Gitlab account, pass info to Alex
-
-
-
+  - TODO Evan :: Marcel talk
+  - TODO Alex :: Mark github repos as "archive"
+    - Confirm that attempts to commit data get bounced/rebuffed/refused
+  - TODO Scott :: Set up gitlab runner for board web site
+  - TODO Scott :: Send out publicity for FSOSS call for speakers encouraging our involvement
+  - TODO Scott :: Formalize a proposal for communications budget and materials for FSOSS
+    - StickerMule
+  - TODO Myles :: Please forward admin info for our LinkedIn presence

@@ -1,0 +1,102 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 17 September 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Attendees
+- TBD
+    - Bill Thanis
+    - David Collier Brown
+    - Ivan Avery
+    - Gordon Chillcott (board member)
+    - Scott Sullivan (board member)
+    - Myles Braithwaite
+    - Alex Volkov (board member)
+    - Evan Liebovich (board member)
+    - Christopher Browne (board member)
+
+- Present
+- Absent
+
+** Topics
+*** Next Ops Meeting
+
+  - Hacklab?
+    - The natural October date would be October 15th
+    - The natural November date would be November 19th
+
+*** Upcoming Meetings
+
+**** September - aftermath
+  - September 11th
+  - Marcel Gagne being pinged
+
+**** October
+  - AGM
+  - Perhaps Mike Hoye
+  - Alternative: Round Table Q&A, for which we are a bit overdue
+
+**** November
+  - Scott Following up with Paul Mullins on *COIN / Blockchain
+
+**** December
+  - Hoping Chris Tyler
+
+**** Generic Topics
+  - Want a talk on Laptop support
+    - Lennart would be a fine candidate to try to draw on
+  - Linux Distros, where are things today?
+  - Why Linux is Like Pizza, by Evan...
+  - Chris on PostgreSQL
+
+*** ICANN material from Gord
+
+  - Atlas III
+    - No progress
+  - Consolidated Policy Working Group
+    - New GTLDs, WHOIS/RDS EPDP
+    - Accreditation for access to "non-public" registration data
+    - Likely to be some more comments
+    - Copies of docs sent to Scott, Bill, Greg
+  - WHOIS NG - EPDP
+    - Deadlines coming soon
+  - DNSSEC KSK Rollover deferral
+    - no change
+  - NARALO
+    - no news
+
+*** AGM Preparations
+
+*** FSOSS
+  - Do we want to make a presence there?
+  - Ask if folks are interested in going as GTALUG branded speakers?
+     (Slide Decks, T-Shirts, cards?)
+
+*** Advertising
+  - Physical Posters, on ryerson campus?
+  - We are an official organization as far as Ryerson is concerned
+  - Check with Ryerson LUG to see if their channels are of use
+  - See if there is anything we may do to help
+
+*** Social Media Presence
+*** YouTube  thumbnail template
+
+*** DNSSEC
+ - enabled for gtalug.info
+ - should we enable for gtalug.org?
+ - management considerations
+*** Write next month's agenda
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - AGM in October
+ - Write next month's agenda.
+
+*** ToDo items
