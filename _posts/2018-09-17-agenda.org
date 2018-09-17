@@ -25,7 +25,7 @@ published: true
         * Be uploaded in image formats such as .JPG, .GIF, .BMP, or .PNG. 
         * Remain under the 2MB limit. 
         * Try to use a 16:9 aspect ratio as it's the most used in YouTube players and previews.
-
+ - DNSSEC - should we enable it for gtalug.org?
 
  - Write next month's agenda.
    
