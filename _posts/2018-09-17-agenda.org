@@ -20,11 +20,6 @@ published: true
  - Replacing Facebook brand account with facebook community page.
  - Should we enable comments on youtube?
  - Youtube thumbnail template -- our logo and space for typing
-        * Your custom thumbnail image should be as large as possible, as the image will also be used as the preview image in the embedded player. We recommend your custom thumbnails:
-        * Have a resolution of 1280x720 (with minimum width of 640 pixels).
-        * Be uploaded in image formats such as .JPG, .GIF, .BMP, or .PNG. 
-        * Remain under the 2MB limit. 
-        * Try to use a 16:9 aspect ratio as it's the most used in YouTube players and previews.
  - DNSSEC - should we enable it for gtalug.org?
 
  - Write next month's agenda.

@@ -12,17 +12,16 @@ published: true
 
 ** Attendees
 - TBD
-    - Bill Thanis
     - David Collier Brown
-    - Ivan Avery
+
+- Present
+    - Bill Thanis
     - Gordon Chillcott (board member)
     - Scott Sullivan (board member)
     - Myles Braithwaite
     - Alex Volkov (board member)
     - Evan Liebovich (board member)
     - Christopher Browne (board member)
-
-- Present
 - Absent
 
 ** Topics
@@ -47,7 +46,8 @@ published: true
   - Scott Following up with Paul Mullins on *COIN / Blockchain
 
 **** December
-  - Hoping Chris Tyler
+  - Aren Dijay
+  - Topic is Virtual Data Optimizer, new in RedHat/CentOS 7.5
 
 **** Generic Topics
   - Want a talk on Laptop support
@@ -73,6 +73,15 @@ published: true
     - no news
 
 *** AGM Preparations
+**** Those Ending Terms
+ - Alex Volkov
+ - Chris Browne
+ - Bill will be the Returning Officer, as we gratefully thank him for doing many times
+
+**** Reports
+ - Financial Report (Chris)
+ - President's Report (Scott)
+ - Other reports (Systems, ICANN) to do in later months
 
 *** FSOSS
   - Do we want to make a presence there?
@@ -86,7 +95,20 @@ published: true
   - See if there is anything we may do to help
 
 *** Social Media Presence
-*** YouTube  thumbnail template
+  - Facebook
+    - Alex proposing that we change from Brand account to Community page
+    - It begs for money, and has relatively little feed
+    - Nobody from FB looks at the links to YouTube videos
+  - YouTube
+    - Should we turn on comments?
+    - No.  Myles has seen Python related things become cesspools
+
+*** YouTube thumbnail template
+  - Your custom thumbnail image should be as large as possible, as the image will also be used as the preview image in the embedded player. We recommend your custom thumbnails:
+  - Have a resolution of 1280x720 (with minimum width of 640 pixels).
+  - Be uploaded in image formats such as .JPG, .GIF, .BMP, or .PNG. 
+  - Remain under the 2MB limit. 
+  - Try to use a 16:9 aspect ratio as it's the most used in YouTube players and previews.
 
 *** DNSSEC
  - enabled for gtalug.info
@@ -100,3 +122,18 @@ published: true
  - Write next month's agenda.
 
 *** ToDo items
+  - TODO Scott :: Set up gitlab runner for board web site
+  - TODO Scott :: Send out publicity for FSOSS call for speakers encouraging our involvement
+  - TODO Scott :: Formalize a proposal for communications budget and materials for FSOSS
+    - Local vendor found
+    - Going to look through back history of speakers, point them to FSOSS
+    - Speakers accepted will receive T-shirts
+  - TODO Scott :: Get a quote on 30 T-shirts for FSOSS
+  - TODO Myles :: Thumbnail for YouTube for Alex
+  - TODO All? :: See how gtalug.info has DNSSEC, see how that works, so maybe later we add similar to gtalug.org
+  - TODO Evan :: Walk Scott through Adwords
+
+**** AGM TODO items
+  - TODO Scott :: Publish that the election will take place
+  - TODO Scott :: Encourage there to be nominees
+  - TODO Scott :: Schedule Systems and ICANN reports later in the year

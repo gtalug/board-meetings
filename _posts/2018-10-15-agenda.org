@@ -1,0 +1,39 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 15 October 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Agenda Topics
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - AGM Aftermath
+ - ICANN material from Gord
+ - FSOSS
+ - Advertising
+ - How did comments on youtube work out?
+ - DNSSEC - should we enable it for gtalug.org?
+ - Write next month's agenda.
+   
+** TODO from last month
+  - TODO Scott :: Set up gitlab runner for board web site
+  - TODO Scott :: Send out publicity for FSOSS call for speakers encouraging our involvement
+  - TODO Scott :: Formalize a proposal for communications budget and materials for FSOSS
+    - Local vendor found
+    - Going to look through back history of speakers, point them to FSOSS
+    - Speakers accepted will receive T-shirts
+  - TODO Scott :: Get a quote on 30 T-shirts for FSOSS
+  - TODO Myles :: Thumbnail for YouTube for Alex
+  - TODO All? :: See how gtalug.info has DNSSEC, see how that works, so maybe later we add similar to gtalug.org
+  - TODO Evan :: Walk Scott through Adwords
+
+**** AGM TODO items
+  - TODO Scott :: Publish that the election will take place
+  - TODO Scott :: Encourage there to be nominees
+  - TODO Scott :: Schedule Systems and ICANN reports later in the year
