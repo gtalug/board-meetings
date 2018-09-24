@@ -23,6 +23,7 @@ published: true
    
 ** TODO from last month
   - TODO Scott :: Set up gitlab runner for board web site
+    - To get ruby 2.5 we need to upgrade the system to Stretch (Debian 9.x)
   - TODO Scott :: Send out publicity for FSOSS call for speakers encouraging our involvement
   - TODO Scott :: Formalize a proposal for communications budget and materials for FSOSS
     - Local vendor found
