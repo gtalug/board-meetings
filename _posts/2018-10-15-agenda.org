@@ -32,6 +32,7 @@ published: true
   - TODO Scott :: Get a quote on 30 T-shirts for FSOSS
   - TODO Myles :: Thumbnail for YouTube for Alex
   - TODO All? :: See how gtalug.info has DNSSEC, see how that works, so maybe later we add similar to gtalug.org
+  - TODO All :: Update gtalug logo (upload new one) on gtalug wiki.
   - TODO Evan :: Walk Scott through Adwords
 
 **** AGM TODO items
