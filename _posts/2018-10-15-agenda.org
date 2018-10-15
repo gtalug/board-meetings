@@ -34,8 +34,3 @@ published: true
   - TODO All? :: See how gtalug.info has DNSSEC, see how that works, so maybe later we add similar to gtalug.org
   - TODO All :: Update gtalug logo (upload new one) on gtalug wiki.
   - TODO Evan :: Walk Scott through Adwords
-
-**** AGM TODO items
-  - TODO Scott :: Publish that the election will take place
-  - TODO Scott :: Encourage there to be nominees
-  - TODO Scott :: Schedule Systems and ICANN reports later in the year

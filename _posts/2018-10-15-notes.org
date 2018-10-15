@@ -1,0 +1,116 @@
+---
+layout: post
+title: "Notes"
+published: true
+---
+
+* 15 October 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Attendees
+- TBD
+    - David Collier Brown
+
+- Present
+    - Bill Thanis
+    - Gordon Chillcott (board member)
+    - Scott Sullivan (board member)
+    - Myles Braithwaite
+    - Alex Volkov (board member)
+    - Evan Liebovich (board member)
+    - Christopher Browne (board member)
+- Absent
+
+** Topics
+*** Next Ops Meeting
+
+  - Hacklab?
+    - The natural November date would be November 19th
+    - The natural December date would be December 17th
+      - Note also that in past, December date has normally conflicted
+        with Christmas, hence has almost always gotten cancelled
+
+*** Upcoming Meetings
+
+**** November
+  - Scott Following up with Paul Mullins on *COIN / Blockchain
+
+**** December
+  - Aren Dijay
+  - Topic is Virtual Data Optimizer, new in RedHat/CentOS 7.5
+
+**** January
+**** Generic Topics
+  - Want a talk on Laptop support
+    - Lennart would be a fine candidate to try to draw on
+  - Linux Distros, where are things today?
+  - Why Linux is Like Pizza, by Evan...
+  - Chris on PostgreSQL
+
+*** ICANN material from Gord
+  - Atlas III
+    - Planning committee formed, started
+    - Budget constraints, so smaller than often in past
+    - Only 50 at-large structures invited, smaller meetings
+  - Consolidated Policy Working Group
+    - Copies of docs sent to Scott, Bill, Greg
+    - Note drafted for WG presenting opinions, concerns
+  - WHOIS NG - EPDP
+    - In forum separate from CPWG, proceeding
+    - Presentation at ICANN Barcelona end of October
+    - SOme plans to call in external legal counsel as with IANA transition
+  - DNSSEC KSK Rollover
+    - upcoming soon if not already
+  - gTLDs - next round
+    - large comment document submitted
+  - NARALO
+    - Lot of ATLAS III discussion
+    - ALS asked to list org expertise types
+      - result was list of skills of ALS reps
+      - what they want is something covering memberships of groups
+      - GDPR possibly complicates collecting this data...
+*** AGM Aftermath
+**** Those Ending Terms
+ - Alex Volkov, renewed
+ - Chris Browne, renewed
+ - Bill will be the Returning Officer, as we gratefully thank him for doing many times
+
+**** Reports
+ - Other reports (Systems, ICANN) to do in later months
+
+*** FSOSS
+  - Advertising efforts ongoing...
+
+*** Advertising
+  - Physical Posters, on ryerson campus?
+  - We are an official organization as far as Ryerson is concerned
+  - Check with Ryerson LUG to see if their channels are of use
+  - See if there is anything we may do to help
+
+*** Social Media Presence
+  - YouTube
+    - Should we turn on comments?
+    - No.  Myles has seen Python related things become cesspools
+    - Trying it...  How did it turn out?
+
+*** YouTube thumbnail template
+  - Your custom thumbnail image should be as large as possible, as the image will also be used as the preview image in the embedded player. We recommend your custom thumbnails:
+  - Have a resolution of 1280x720 (with minimum width of 640 pixels).
+  - Be uploaded in image formats such as .JPG, .GIF, .BMP, or .PNG. 
+  - Remain under the 2MB limit. 
+  - Try to use a 16:9 aspect ratio as it's the most used in YouTube players and previews.
+
+*** DNSSEC
+ - enabled for gtalug.info
+ - should we enable for gtalug.org?
+ - management considerations
+*** Write next month's agenda
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Write next month's agenda.
+
+*** ToDo items
