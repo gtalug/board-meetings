@@ -36,13 +36,15 @@ published: true
 *** Upcoming Meetings
 
 **** November
-  - Scott Following up with Paul Mullins on *COIN / Blockchain
+  - Paul Mullins on *COIN / Blockchain
 
 **** December
   - Aren Dijay
   - Topic is Virtual Data Optimizer, new in RedHat/CentOS 7.5
 
 **** January
+  - Lightning talks with a "what up with various distributions" flair?
+
 **** Generic Topics
   - Want a talk on Laptop support
     - Lennart would be a fine candidate to try to draw on
@@ -114,3 +116,9 @@ published: true
  - Write next month's agenda.
 
 *** ToDo items
+  - TODO Alex :: Upgrade penguin to next Debian version so we can have Ruby 2.5 and such
+  - TODO Scott :: Send out publicity for FSOSS call for speakers encouraging our involvement
+    - Evan has a contact for this, Catherine Leung
+  - TODO Myles :: Thumbnail for YouTube for Alex
+  - TODO Scott :: What to do about Google Adwords
+  - TODO Alex :: Drop G+ reference on GTALUG front page

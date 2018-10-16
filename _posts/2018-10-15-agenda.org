@@ -19,6 +19,7 @@ published: true
  - Advertising
  - How did comments on youtube work out?
  - DNSSEC - should we enable it for gtalug.org?
+ - No need for G+ account anymore, T-6 months
  - Write next month's agenda.
    
 ** TODO from last month
@@ -32,5 +33,5 @@ published: true
   - TODO Scott :: Get a quote on 30 T-shirts for FSOSS
   - TODO Myles :: Thumbnail for YouTube for Alex
   - TODO All? :: See how gtalug.info has DNSSEC, see how that works, so maybe later we add similar to gtalug.org
-  - TODO All :: Update gtalug logo (upload new one) on gtalug wiki.
-  - TODO Evan :: Walk Scott through Adwords
+  - Done Myles :: Update gtalug logo (upload new one) on gtalug wiki.
+  - Done Evan :: Walk Scott through Adwords
