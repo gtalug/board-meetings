@@ -21,6 +21,7 @@ published: true
  - DNSSEC - should we enable it for gtalug.org?
  - No need for G+ account anymore, T-6 months
  - Write next month's agenda.
+ - Out of cycle meeting on Wednesday
    
 ** TODO from last month
   - TODO Scott :: Set up gitlab runner for board web site
