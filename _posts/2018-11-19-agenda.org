@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 19 November 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Agenda Topics
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material
+ - FSOSS followup
+ - Social media
+   - Any more youtube comments?
+ - Write next month's agenda.
+
+** TODO from last month
+  - TODO Alex :: Upgrade penguin to next Debian version so we can have Ruby 2.5 and such
+  - TODO Scott :: Send out publicity for FSOSS call for speakers encouraging our involvement
+    - Evan has a contact for this, Catherine Leung
+  - TODO Alex :: Thumbnail for YouTube for Alex
+  - TODO Scott :: What to do about Google Adwords
+  - TODO Alex :: Drop G+ reference on GTALUG front page
+  - TODO Gord :: Prep an ICANN presentation some time, not necessarily before 2019
+  - TODO Alex :: presentation on systems and/or video deployment
+  - TODO Chris :: Turn on DNSSEC for gtalug.org

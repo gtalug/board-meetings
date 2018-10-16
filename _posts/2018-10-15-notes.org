@@ -71,7 +71,7 @@ published: true
     - Presentation at ICANN Barcelona end of October
     - SOme plans to call in external legal counsel as with IANA transition
   - DNSSEC KSK Rollover
-    - upcoming soon if not already
+    - already done
   - gTLDs - next round
     - large comment document submitted
   - NARALO
@@ -92,18 +92,20 @@ published: true
 
 *** FSOSS
   - Advertising efforts ongoing...
-
+  - They're not super good at feedback to speakers, not very quick
 *** Advertising
-  - Physical Posters, on ryerson campus?
-  - We are an official organization as far as Ryerson is concerned
-  - Check with Ryerson LUG to see if their channels are of use
-  - See if there is anything we may do to help
+  - Ongoing work with Ryerson LUG, publicizing in both directions
+  - Mutual attendance is welcome
+  - Community meetups lists have gotten very positive feedback
 
 *** Social Media Presence
+  - Google+ is dying in six months
   - YouTube
     - Should we turn on comments?
     - No.  Myles has seen Python related things become cesspools
     - Trying it...  How did it turn out?
+      - No comments until during this very meeting
+      - Stewart Russell made a comment during the meeting, liked the bitcoin bashing :-)
 
 *** YouTube thumbnail template
   - Your custom thumbnail image should be as large as possible, as the image will also be used as the preview image in the embedded player. We recommend your custom thumbnails:
@@ -116,6 +118,10 @@ published: true
  - enabled for gtalug.info
  - should we enable for gtalug.org?
  - management considerations
+
+*** Bash Talk - out of cycle
+ - Held at Hacklab
+ - October 17th
 *** Write next month's agenda
  - Timing/Location of next Ops meeting
  - Upcoming Meetings
@@ -126,8 +132,9 @@ published: true
   - TODO Alex :: Upgrade penguin to next Debian version so we can have Ruby 2.5 and such
   - TODO Scott :: Send out publicity for FSOSS call for speakers encouraging our involvement
     - Evan has a contact for this, Catherine Leung
-  - TODO Myles :: Thumbnail for YouTube for Alex
+  - TODO Alex :: Thumbnail for YouTube for Alex
   - TODO Scott :: What to do about Google Adwords
   - TODO Alex :: Drop G+ reference on GTALUG front page
   - TODO Gord :: Prep an ICANN presentation some time, not necessarily before 2019
   - TODO Alex :: presentation on systems and/or video deployment
+  - TODO Chris :: Turn on DNSSEC for gtalug.org
