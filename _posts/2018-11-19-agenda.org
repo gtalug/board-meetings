@@ -17,6 +17,7 @@ published: true
  - FSOSS followup
  - Social media
    - Any more youtube comments?
+ - Verify site on youtube (needs dns registration) https://www.youtube.com/advanced_settings
  - Write next month's agenda.
 
 ** TODO from last month
