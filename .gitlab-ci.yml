@@ -23,7 +23,7 @@ pages:
   stage: deploy
   script:
     - bundle exec jekyll build
-    - /usr/bin/sudo -u deploy rsync --archive /src/www/org_gtalug_board/html/
+    - /usr/bin/sudo -u deploy rsync --archive /srv/www/org_gtalug_board/html/
   only:
     - master
   tags:
