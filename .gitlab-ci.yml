@@ -16,7 +16,7 @@ run tests:
   tags:
     - penguin
 
-pages:
+deploy to website:
   stage: deploy
   variables:
     JEKYLL_ENV: production
