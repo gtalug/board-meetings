@@ -25,7 +25,7 @@ deploy to website:
     - bundle install --path=${HOME}/.gems
   script:
     - bundle exec jekyll build
-    - /usr/bin/sudo -u deploy rsync --archive /srv/www/org_gtalug_board/html/
+    - /usr/bin/sudo -u deploy rsync --archive _site/ /srv/www/org_gtalug_board/html/
   only:
     - master
   tags:
