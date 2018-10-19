@@ -1,28 +1,37 @@
 stages:
-    - test
-    - deploy
+  - requirements
+  - test
+  - deploy
 
-variables:
-  JEKYLL_ENV: production
-  LC_ALL: C.UTF-8
+install requirements:
+  stage: requirements
+  variables:
+    JEKYLL_ENV: production
+    LC_ALL: C.UTF-8
+  script:
+    - bundle install --path=${HOME}/.gems
+  only:
+    - master
+  tags:
+    - penguin
 
-before_script:
-  - bundle install --path=${HOME}/.gems
-
-test:
+run tests:
   stage: test
+  variables:
+    JEKYLL_ENV: production
+    LC_ALL: C.UTF-8
   script:
     - bundle exec jekyll build -d test
-  artifacts:
-    paths:
-      - test
-  except:
+  only:
     - master
   tags:
     - penguin
 
 pages:
   stage: deploy
+  variables:
+    JEKYLL_ENV: production
+    LC_ALL: C.UTF-8
   script:
     - bundle exec jekyll build
     - /usr/bin/sudo -u deploy rsync --archive /srv/www/org_gtalug_board/html/
