@@ -17,7 +17,8 @@ published: true
  - FSOSS followup
  - Social media
    - Any more youtube comments?
-   - Talk thumbnail examples.
+   - Should we remove old community announcements and publish announcements in the future?
+   - Talk thumbnails
         - Are they better than just a random image?
         - Which style should we use? (logo, no logo, outline thickness, how to summarize the topic, shoudl we include speaker name?)
  - Verify site on youtube (needs dns registration) https://www.youtube.com/advanced_settings
