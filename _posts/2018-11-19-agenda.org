@@ -22,14 +22,15 @@ published: true
       - We should keep them, but we never discussed if we should do something like that again in the future
     - Talk thumbnails
       - Are they better than just a random image?
-      - Which style should we use? (logo, no logo, outline thickness, how to summarize the topic, shoudl we include speaker name?)
+      - Which style should we use? (logo, no logo, outline thickness, how to summarize the topic, shoudl we include speaker name?).
     - Should we dicuss the format that we are using to post videos (separate talk and Q&A sections?).
-      - Should we formalize & document the formats we're posting videos, so the speakers know in advance what to expect
-      - lightning talk and short videos (under 30 minutes) are posted as one video, when posting on the website we post the whole playlist for that meeting
+      - Should we formalize & document the formats we're posting videos, so the speakers know in advance what to expect.
+      - lightning talk and short videos (under 30 minutes) are posted as one video, when posting on the website we post the whole playlist for that meeting.
       - How we should handle this on other social media (mastodon, twitter)? Post entire playlist, or one post per video?
       - For lightning talks, should we post all videos at once, or as we get releases or a video per day?
 
  - Verify site on youtube (needs dns registration) https://www.youtube.com/advanced_settings
+ - Invite more women speakers.
  - Write next month's agenda.
 
 ** TODO from last month
