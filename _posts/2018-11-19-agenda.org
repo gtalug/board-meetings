@@ -31,6 +31,7 @@ published: true
 
  - Verify site on youtube (needs dns registration) https://www.youtube.com/advanced_settings
  - Invite more women speakers.
+ - Discuss getting new people from meetup, cost is [6 months for US$14.99 / month ($119.18 CAD)]
  - Write next month's agenda.
 
 ** TODO from last month
