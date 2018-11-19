@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 17 December 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Agenda Topics
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material
+ - FSOSS followup
+ - Social media
+ - Write next month's agenda.
+
+** TODO from last month
