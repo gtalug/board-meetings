@@ -14,8 +14,21 @@ published: true
  - Timing/Location of next Ops meeting
  - Upcoming Meetings
  - ICANN material
- - FSOSS followup
  - Social media
+ - Voting on Meetup.com purchase
  - Write next month's agenda.
 
 ** TODO from last month
+  - TODO Alex :: Upgrade penguin to next Debian version so we can have Ruby 2.5 and such
+    - automatic deployment under way
+    - still an ~apt-get~ upgrade to complete
+  - TODO Scott :: What to do about Google Adwords
+  - TODO Gord :: Prep an ICANN presentation some time, not necessarily before 2019
+  - TODO Alex :: presentation on systems and/or video deployment
+  - TODO Myles :: Send out a push request for people interested in
+                  talking about their favorite distribution in January
+  - TODO Myles :: Solicit talk on Penetration Testing from presenter from FSOSS
+  - TODO Myles :: Alternatively, speaker from DefCon416
+  - TODO Scott :: Announce that we're thinking of a T-shirt run, express interest on counts
+  - TODO Alex :: YouTube verification - Need to set up a DNS thing for this, ask Chris and Myles for help as needed
+  - TODO Alex :: Push format questions to next month

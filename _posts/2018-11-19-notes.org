@@ -93,6 +93,8 @@ published: false
     - Several designs
   - Format of videos
   - YouTube site verification
+  - We have an Instagram account
+  - We have a moaparty which pushes things to Twitter and Mastedon and Instagram
 
 *** Write next month's agenda
  - Timing/Location of next Ops meeting
@@ -112,3 +114,5 @@ published: false
   - TODO Myles :: Solicit talk on Penetration Testing from presenter from FSOSS
   - TODO Myles :: Alternatively, speaker from DefCon416
   - TODO Scott :: Announce that we're thinking of a T-shirt run, express interest on counts
+  - TODO Alex :: YouTube verification - Need to set up a DNS thing for this, ask Chris and Myles for help as needed
+  - TODO Alex :: Push format questions to next month
