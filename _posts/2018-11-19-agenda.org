@@ -33,14 +33,16 @@ published: true
  - Invite more women speakers.
  - Discuss getting new people from meetup, cost is [6 months for US$14.99 / month ($119.18 CAD)]
  - Write next month's agenda.
-
 ** TODO from last month
   - TODO Alex :: Upgrade penguin to next Debian version so we can have Ruby 2.5 and such
-  - TODO Scott :: Send out publicity for FSOSS call for speakers encouraging our involvement
+    - automatic deployment under way
+    - still an ~apt-get~ upgrade to complete
+  - DONE Scott :: Send out publicity for FSOSS call for speakers encouraging our involvement
     - Evan has a contact for this, Catherine Leung
-  - TODO Alex :: Thumbnail for YouTube for Alex
+  - DONE Alex :: Thumbnail for YouTube for Alex
   - TODO Scott :: What to do about Google Adwords
-  - TODO Alex :: Drop G+ reference on GTALUG front page
+  - DONE Alex :: Drop G+ reference on GTALUG front page
   - TODO Gord :: Prep an ICANN presentation some time, not necessarily before 2019
   - TODO Alex :: presentation on systems and/or video deployment
-  - TODO Chris :: Turn on DNSSEC for gtalug.org
+  - DONE Chris :: Turn on DNSSEC for gtalug.org
+

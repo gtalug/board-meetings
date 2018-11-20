@@ -12,25 +12,23 @@ published: false
 
 ** Attendees
 - TBD
-    - Bill Thanis
-    - Gordon Chillcott (board member)
+
+- Present
     - Scott Sullivan (board member)
     - Myles Braithwaite
     - Alex Volkov (board member)
-    - Evan Liebovich (board member)
     - Christopher Browne (board member)
-    - David Collier Brown
-
-- Present
 - Absent
-
+    - Bill Thanis
+    - Gordon Chillcott (board member)
+    - Evan Liebovich (board member)
+    - David Collier Brown
+  
 ** Topics
 *** Next Ops Meeting
 
   - Hacklab?
     - The natural December date would be December 17th
-      - Note also that in past, December date has normally conflicted
-        with Christmas, hence has almost always gotten cancelled
     - Natural January date is January 14th
 
 *** Upcoming Meetings
@@ -50,7 +48,8 @@ published: false
   - Perhaps good timing for Gord to have a few words about ICANN?
 
 **** February
-
+  - Chris Tyler on TBD
+    
 **** Generic Topics
   - Want a talk on Laptop support
     - Lennart would be a fine candidate to try to draw on
@@ -81,11 +80,17 @@ published: false
   - NARALO
     - Alternatives to Adobe Connect being considered, such as ZOOM.
 *** FSOSS
+  - It happened
+  - Myles was at a talk on becoming a Pen Tester, might be an interesting talk
 *** Social Media Presence
   - More on YouTube Comments
+    - Doing well thus far, leave it alone
   - Community announcements
+    - Merit to leaving the announcements off
   - MakerFest videos
+    - Planning to leave them
   - Talk Thumbnails
+    - Several designs
   - Format of videos
   - YouTube site verification
 
@@ -96,3 +101,14 @@ published: false
  - Write next month's agenda.
 
 *** ToDo items
+  - TODO Alex :: Upgrade penguin to next Debian version so we can have Ruby 2.5 and such
+    - automatic deployment under way
+    - still an ~apt-get~ upgrade to complete
+  - TODO Scott :: What to do about Google Adwords
+  - TODO Gord :: Prep an ICANN presentation some time, not necessarily before 2019
+  - TODO Alex :: presentation on systems and/or video deployment
+  - TODO Myles :: Send out a push request for people interested in
+                  talking about their favorite distribution in January
+  - TODO Myles :: Solicit talk on Penetration Testing from presenter from FSOSS
+  - TODO Myles :: Alternatively, speaker from DefCon416
+  - TODO Scott :: Announce that we're thinking of a T-shirt run, express interest on counts
