@@ -1,0 +1,92 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 17 December 2018 at 7:30pm
+
+** Location
+
+- Hacklab
+
+** Attendees
+- TBD
+
+    - Scott Sullivan (board member)
+    - Myles Braithwaite
+    - Alex Volkov (board member)
+    - Christopher Browne (board member)
+    - Bill Thanis
+    - Gordon Chillcott (board member)
+    - Evan Liebovich (board member)
+    - David Collier Brown
+- Absent
+- Present
+  
+** Topics
+*** Next Ops Meeting
+
+  - Hacklab?
+    - Natural January date is January 14th
+    - Natural February date is February 18th
+
+*** Upcoming Meetings
+
+**** December
+  - Aren Dijay
+  - Topic is Virtual Data Optimizer, new in RedHat/CentOS 7.5
+
+**** January
+  - Lightning talks with a "what up with various distributions" flair?
+  - Evan has thoughts on some things
+  - Alex on Systems and/or Video
+    - Mostly using Blender (merge it all) and Audacity (clean sound)
+  - Perhaps good timing for Gord to have a few words about ICANN?
+
+**** February
+  - Chris Tyler on TBD
+    
+**** Generic Topics
+  - Want a talk on Laptop support
+    - Lennart would be a fine candidate to try to draw on
+  - History of LPI?  (Evan)
+    - future of OSS jobs
+    - how do things keep going for 20 years
+  - Database Panel - state of OSS databases
+    - Peter on MySQL, MariaDB
+    - Chris on PG
+
+*** ICANN material from Gord
+  - Atlas III
+    - More discussion going on
+  - Consolidated Policy Working Group
+    - Still streamlining procedures, looking for penholders
+    - Avid discussion of WHOIS, next round of gTLDs
+  - WHOIS NG - EPDP
+    - Nearing deadline, lots unresolved
+      - To distinguish between legal and natural persons?
+      - shall ICANN be Data Controller, responsible for liability
+      - backup/escrow
+      - compliance monitoring
+  - gTLDs - next round
+    - At Large response led to additional questions, leading to requests for comment
+    - Last Resort issue for where there is competition for a string, options including
+      - auctions
+      - random assignment
+      - RFP
+    - More discussion coming
+    - ongoing discussion on geographic names such as .AMAZON
+  - NARALO
+    - progress reports
+    - more next time
+*** Social Media Presence
+  - More on YouTube Comments
+    - Doing well thus far, leave it alone
+*** Write next month's agenda
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Write next month's agenda.
+
+*** ToDo items
