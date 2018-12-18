@@ -85,6 +85,11 @@ published: false
   - NARALO
     - progress reports
     - more next time
+  - New At Large Chair
+    - As is typical, new person wants to move and shake a bit
+    - Curious that At Large is somewhat moribund
+    - Only 60 ALSes to be invited, or perhaps 65
+    - Dream of reaching into ALSes to grab people to do things
 *** Social Media Presence
   - More on YouTube Comments
     - Doing well thus far, leave it alone
@@ -97,3 +102,4 @@ published: false
 *** ToDo items
   - Alex :: Pester Hugh about hardware war stories
   - Scott :: Pester Lennart about laptop war stories
+  - Gord :: Ask how people think about Q and A sessions, take temperature
