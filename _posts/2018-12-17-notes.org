@@ -12,31 +12,30 @@ published: false
 
 ** Attendees
 - TBD
-
+    - Bill Thanis
+    - David Collier Brown
+- Present
     - Scott Sullivan (board member)
     - Myles Braithwaite
     - Alex Volkov (board member)
     - Christopher Browne (board member)
-    - Bill Thanis
     - Gordon Chillcott (board member)
     - Evan Liebovich (board member)
-    - David Collier Brown
 - Absent
-- Present
   
 ** Topics
 *** Next Ops Meeting
 
-  - Hacklab?
-    - Natural January date is January 14th
-    - Natural February date is February 18th
+  - Hacklab possibly unavailable
+    - Natural January date is January 14th, do it on Zoom
+    - Fallback to January 21st, at Davisville Starbucks, if Zoom does not work
+    - Natural February date is February 18th, which is Family Day and Louis Riel Day, so perhaps not...
 
 *** Upcoming Meetings
 
 **** December
   - Aren Dijay
   - Topic is Virtual Data Optimizer, new in RedHat/CentOS 7.5
-
 **** January
   - Lightning talks with a "what up with various distributions" flair?
   - Evan has thoughts on some things
@@ -46,13 +45,19 @@ published: false
 
 **** February
   - Chris Tyler on TBD
+    - Confirmed, topic to arrive
+
+**** March
+  - Python theme evening?
+    - Myles may have a candidate for some Pythonesque material, TBD come January
+    - Plenty of time
+
+**** April
+  - See if Lennart and/or Hugh could have hardware war stories
     
 **** Generic Topics
   - Want a talk on Laptop support
     - Lennart would be a fine candidate to try to draw on
-  - History of LPI?  (Evan)
-    - future of OSS jobs
-    - how do things keep going for 20 years
   - Database Panel - state of OSS databases
     - Peter on MySQL, MariaDB
     - Chris on PG
@@ -90,3 +95,5 @@ published: false
  - Write next month's agenda.
 
 *** ToDo items
+  - Alex :: Pester Hugh about hardware war stories
+  - Scott :: Pester Lennart about laptop war stories
