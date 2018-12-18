@@ -97,7 +97,11 @@ published: false
 *** Meetup.com
  - Proposed that we use meetup.com to engage interested folk
  - Proposer is Alex...
-   - Be it resolved that we budget for 6 months for $60
+   - Be it resolved that we budget for 6 months for $60 USD
+   - Vote:  4 in favor, 1 opposed
+   - Alex will pay for it initially, will get reimbursed
+     - Forward invoice to board
+     - Myles looking to have things prepared to use it for the next meeting
 *** Write next month's agenda
  - Timing/Location of next Ops meeting
  - Upcoming Meetings
