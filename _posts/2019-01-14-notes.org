@@ -1,0 +1,86 @@
+---
+layout: post
+title: "Notes"
+published: false
+---
+
+* 14 January 2019 at 7:30pm
+
+** Location
+
+- Zoom
+
+** Attendees
+- TBD
+    - Scott Sullivan (board member)
+    - Myles Braithwaite
+    - Alex Volkov (board member)
+    - Christopher Browne (board member)
+    - Gordon Chillcott (board member)
+    - Evan Liebovich (board member)
+    - Bill Thanis
+    - David Collier Brown
+- Present
+- Absent
+  
+** Topics
+*** Next Ops Meeting
+
+  - Hacklab possibly unavailable
+    - Natural February date is February 18th, which is Family Day and Louis Riel Day, so perhaps not...
+    - We'd like to do an in-person meeting...
+
+*** Upcoming Meetings
+
+**** February
+  - Chris Tyler on TBD
+    - Confirmed, topic to arrive
+
+**** March
+  - Python theme evening?
+    - Myles may have a candidate for some Pythonesque material, TBD come January
+    - Plenty of time
+
+**** April
+  - See if Lennart and/or Hugh could have hardware war stories
+    
+**** Generic Topics
+  - Want a talk on Laptop support
+    - Lennart would be a fine candidate to try to draw on
+  - Database Panel - state of OSS databases
+    - Peter on MySQL, MariaDB
+    - Chris on PG
+
+*** ICANN material from Gord
+  - Atlas III
+    - Now have dates for ICANN 66, Nov 2-7
+    - ATLAS III will be "assembly of future leaders of at large"
+    - Inviting 60 At Large members plus regular At Large leadership
+    - Some process for setting program and selecting the 60
+  - Consolidated Policy Working Group
+    - WHOIS Policy Development getting near deadline
+    - Face to face meeting to try to resolve issues
+    - GTLD next round
+      - At Large comments submitted, more questions expected
+      - Proposal received on schedule/process for the round
+        - Priority on "community" TLD applications, then geographic, then others
+    - Geographic name TLDs
+      - Ongoing discussions
+      - Issues on what kinds of geographical features should be protected
+      - Non-capital cities is one
+      - Deep and detailed discussion
+  - NARALO
+    - Progress reports on various areas
+    - Kobe ICANN will concentrate on policy issues
+  - Technology Task force
+    - Looking at Zoom for smaller meetings, perhaps webcasting
+    - Adobe Connect still interesting as it offers transcription, captioning, multi-channel audio
+*** Meetup.com
+ - Followup needful; we approved $60 USD for budget to Alex
+*** Write next month's agenda
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material from Gord
+ - Write next month's agenda.
+
+*** ToDo items

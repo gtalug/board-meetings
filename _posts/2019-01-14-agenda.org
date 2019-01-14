@@ -4,11 +4,11 @@ title: "Agenda"
 published: true
 ---
 
-* 17 December 2018 at 7:30pm
+* 14 January 2018 at 7:30pm
 
 ** Location
 
-- Hacklab
+- Zoom
 
 ** Agenda Topics
  - Timing/Location of next Ops meeting
@@ -20,3 +20,6 @@ published: true
  - Write next month's agenda.
 
 ** TODO from last month
+  - Alex :: Pester Hugh about hardware war stories
+  - Scott :: Pester Lennart about laptop war stories
+  - Gord :: Ask how people think about Q and A sessions, take temperature
