@@ -86,6 +86,11 @@ published: false
   
 *** Meetup.com
  - Followup needful; we approved $60 USD for budget to Alex
+
+*** LPI Focus Group
+ - Evan doing some psychographic research
+ - Probably involves asking some people to a separate table at beer
+
 *** Write next month's agenda
  - Timing/Location of next Ops meeting
  - Upcoming Meetings
