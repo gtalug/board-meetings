@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Agenda"
+published: true
+---
+
+* 25 January 2018 at 7:30pm
+
+** Location
+
+- Zoom
+
+** Agenda Topics
+ - Timing/Location of next Ops meeting
+ - Upcoming Meetings
+ - ICANN material
+ - Meetup.com action
+ - Write next month's agenda
+
+** TODO from last month

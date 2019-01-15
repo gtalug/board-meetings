@@ -79,6 +79,11 @@ published: false
   - Technology Task force
     - Looking at Zoom for smaller meetings, perhaps webcasting
     - Adobe Connect still interesting as it offers transcription, captioning, multi-channel audio
+*** Video Release Form
+  - Some revisions to the form
+  - Some discussion concerning inclusion of signature; decision to keep it
+  - Some griping about asking too much information
+  
 *** Meetup.com
  - Followup needful; we approved $60 USD for budget to Alex
 *** Write next month's agenda
@@ -92,3 +97,4 @@ published: false
   - Scott to hear back soon from Chris Tyler on February talk
   - Alex to continue pestering Hugh on hardware war stories
   - Alex to contact Stewart Russell to see if he has anything with his new place
+  - Alex to set up meetup.com account
