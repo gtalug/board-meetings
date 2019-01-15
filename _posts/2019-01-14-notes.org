@@ -12,23 +12,23 @@ published: false
 
 ** Attendees
 - TBD
+- Present
     - Scott Sullivan (board member)
-    - Myles Braithwaite
     - Alex Volkov (board member)
     - Christopher Browne (board member)
     - Gordon Chillcott (board member)
     - Evan Liebovich (board member)
     - Bill Thanis
-    - David Collier Brown
-- Present
 - Absent
+    - David Collier Brown
+    - Myles Braithwaite
   
 ** Topics
 *** Next Ops Meeting
-
-  - Hacklab possibly unavailable
+  - Hacklab continues to be unavailable
+  - Let's Zoom for now...
     - Natural February date is February 18th, which is Family Day and Louis Riel Day, so perhaps not...
-    - We'd like to do an in-person meeting...
+    - Following meeting is Feb 25th, let's propose to Zoom on Feb 25th
 
 *** Upcoming Meetings
 
@@ -43,7 +43,11 @@ published: false
 
 **** April
   - See if Lennart and/or Hugh could have hardware war stories
-    
+
+**** May
+  - Q&A?
+  - Stewart Russell on his new community org
+
 **** Generic Topics
   - Want a talk on Laptop support
     - Lennart would be a fine candidate to try to draw on
@@ -84,3 +88,7 @@ published: false
  - Write next month's agenda.
 
 *** ToDo items
+  - Alex to talk with Miles about March Python theme
+  - Scott to hear back soon from Chris Tyler on February talk
+  - Alex to continue pestering Hugh on hardware war stories
+  - Alex to contact Stewart Russell to see if he has anything with his new place

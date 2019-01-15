@@ -17,7 +17,8 @@ published: true
  - Social media
     - New release form -- https://docs.google.com/document/d/1JcvdNIh50e5YszYqRmGtfNJSYi_5xXx_CN0ZVU8Hoz8/edit?usp=sharing
  - Meetup.com action
- - Write next month's agenda.
+ - Write next month's agenda
+ - LPI Focus Group Proposal - Evan
 
 ** TODO from last month
   - Alex :: Pester Hugh about hardware war stories
